@@ -1,0 +1,261 @@
+{
+	"id" :  "PreschoolBasicsHomeAlphabetCluster",
+	"hasHeroTile" : false,
+	"heroImgUri" : "kindergarten8/colors.png",
+	"heroTargetUri" : "appprotocol://scene/?id=PanoramaApp.VerticalChartPage",
+	"type": "animals",
+	"tileList": [
+	{
+		"title" :  "BULL",
+		"imgUri" : "kindergarten8/animals/animation/bull_1.png",
+		"tileAudioId" : "animal_bull",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/bull_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "CAMEL",
+		"imgUri" : "kindergarten8/animals/animation/camel_1.png",
+		"tileAudioId" : "animal_camel",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/camel_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "COW",
+		"imgUri" : "kindergarten8/animals/animation/cow_1.png",
+		"tileAudioId" : "animal_cow",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/cow_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "DEER",
+		"imgUri" : "kindergarten8/animals/animation/deer_1.png",
+		"tileAudioId" : "animal_deer",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/deer_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "DONKEY",
+		"imgUri" : "kindergarten8/animals/animation/donkey_1.png",
+		"tileAudioId" : "animal_donkey",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/donkey_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "FROG",
+		"imgUri" : "kindergarten8/animals/animation/frog_1.png",
+		"tileAudioId" : "animal_frog",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/frog_2.png"
+		],
+		"animationSound": "effect_frog_ribbet",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "GIRAFFE",
+		"imgUri" : "kindergarten8/animals/animation/giraffe_1.png",
+		"tileAudioId" : "animal_giraffe",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/giraffe_2.png"
+		],
+		"animationSound": "effect_piece_flip",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "GOAT",
+		"imgUri" : "kindergarten8/animals/animation/goat_1.png",
+		"tileAudioId" : "animal_goat",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/goat_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "HORSE",
+		"imgUri" : "kindergarten8/animals/animation/horse_1.png",
+		"tileAudioId" : "animal_horse",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/horse_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "KOALA",
+		"imgUri" : "kindergarten8/animals/animation/koala_bear_1.png",
+		"tileAudioId" : "animal_koala",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/koala_bear_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "LION",
+		"imgUri" : "kindergarten8/animals/animation/lion_1.png",
+		"tileAudioId" : "animal_lion",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/lion_2.png"
+		],
+		"animationSound": "lion_roar",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "PIG",
+		"imgUri" : "kindergarten8/animals/animation/pig_1.png",
+		"tileAudioId" : "animal_pig",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/pig_2.png"
+		],
+		"animationSound": "water_splash",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "POLAR BEAR",
+		"imgUri" : "kindergarten8/animals/animation/polar_bear_1.png",
+		"tileAudioId" : "animal_polarbear",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/polar_bear_2.png"
+		],
+		"animationSound": "effect_slurp",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "RABBIT",
+		"imgUri" : "kindergarten8/animals/animation/rabbit_1.png",
+		"tileAudioId" : "animal_rabbit",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/rabbit_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "RHINO",
+		"imgUri" : "kindergarten8/animals/animation/rhino_1.png",
+		"tileAudioId" : "animal_rhino",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/rhino_2.png"
+		],
+		"animationSound": "positive_ding_2",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "SHEEP",
+		"imgUri" : "kindergarten8/animals/animation/sheep_1.png",
+		"tileAudioId" : "animal_sheep",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/sheep_2.png"
+		],
+		"animationSound": "effect_crunch",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "SNAKE",
+		"imgUri" : "kindergarten8/animals/animation/snake_1.png",
+		"tileAudioId" : "animal_snake",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/snake_2.png"
+		],
+		"animationSound": "effect_slurp",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "TORTOISE",
+		"imgUri" : "kindergarten8/animals/animation/tortoise_1.png",
+		"tileAudioId" : "animal_tortoise",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/tortoise_2.png"
+		],
+		"animationSound": "positive_ding_1",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "wildebeest",
+		"imgUri" : "kindergarten8/animals/animation/wildebeest.png",
+		"tileAudioId" : "animal_yak",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/yak_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "YAK",
+		"imgUri" : "kindergarten8/animals/animation/yak_1.png",
+		"tileAudioId" : "animal_yak",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/yak_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "ZEBRA",
+		"imgUri" : "kindergarten8/animals/animation/zebra_1.png",
+		"tileAudioId" : "animal_zebra",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/animals/animation/zebra_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	}
+]
+}

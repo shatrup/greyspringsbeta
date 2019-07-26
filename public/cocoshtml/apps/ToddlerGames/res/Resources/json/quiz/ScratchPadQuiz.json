@@ -1,0 +1,88 @@
+{
+    "id": "ScratchPadQuiz",
+    "type": "ScratchPadQuiz",
+    "bgMusic": "caption_scratchpaint",
+    "question": "caption_scratchpaint",
+    "complexity": "medium",
+    "qsBgColor": "003366",
+    "sets": [
+    {
+      "name": "set_1",
+      "objectSrc": "RealWorldScene_100",
+      "qsBgColor": "B7D033"
+    },
+    {
+      "name": "set_2",
+      "objectSrc": "RealWorldScene_101",
+      "qsBgColor": "9F866B"
+    },
+    {
+      "name": "set_3",
+      "objectSrc": "RealWorldScene_102",
+      "qsBgColor": "A9AB38"
+    },
+    {
+      "name": "set_4",
+      "objectSrc": "RealWorldScene_103",
+      "qsBgColor": "A9AB38"
+    },
+    {
+      "name": "set_5",
+      "objectSrc": "RealWorldScene_104",
+      "qsBgColor": "F7BE49"
+    },
+    {
+      "name": "set_6",
+      "objectSrc": "RealWorldScene_105",
+      "qsBgColor": "9A8953"
+    },
+    {
+      "name": "set_7",
+      "objectSrc": "RealWorldScene_106",
+      "qsBgColor": "B2C13A"
+    },
+    {
+      "name": "set_8",
+      "objectSrc": "RealWorldScene_107",
+      "qsBgColor": "59B447"
+    },
+    {
+      "name": "set_10",
+      "objectSrc": "RealWorldScene_112",
+      "qsBgColor": "BF845F"
+    },
+    {
+      "name": "set_11",
+      "objectSrc": "RealWorldScene_115",
+      "qsBgColor": "D5992A"
+    },{
+      "name": "set_12",
+      "objectSrc": "RealWorldScene_116",
+      "qsBgColor": "2B6933"
+    },{
+      "name": "set_13",
+      "objectSrc": "RealWorldScene_117",
+      "qsBgColor": "87C14E"
+    },{
+      "name": "set_14",
+      "objectSrc": "RealWorldScene_118",
+      "qsBgColor": "167CA3"
+    },{
+      "name": "set_15",
+      "objectSrc": "RealWorldScene_120",
+      "qsBgColor": "713817"
+    },{
+      "name": "set_16",
+      "objectSrc": "RealWorldScene_121",
+      "qsBgColor": "48B1C1"
+    },{
+      "name": "set_19",
+        "objectSrc": "RealWorldScene_126",
+      "qsBgColor": "3D88B4"
+    },{
+      "name": "set_20",
+        "objectSrc": "RealWorldScene_128",
+      "qsBgColor": "92B93E"
+    }
+    ] 
+}

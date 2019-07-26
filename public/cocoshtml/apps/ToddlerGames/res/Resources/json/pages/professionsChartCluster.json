@@ -1,0 +1,205 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Vegetable Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_ProfessionsChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/astronaut.png",
+						"text": "astronaut",
+						"clicktarget" : "ms-audio://data/professions/audio/astronaut.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/chef.png",
+						"text": "chef",
+						"clicktarget" : "ms-audio://data/professions/audio/chef.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/civil_engineer.png",
+						"text": "civil_engineer",
+						"clicktarget" : "ms-audio://data/professions/audio/civil_engineer.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/conductor.png",
+						"text": "conductor",
+						"clicktarget" : "ms-audio://data/professions/audio/conductor.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/cop.png",
+						"text": "cop",
+						"clicktarget" : "ms-audio://data/professions/audio/cop.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/courier_boy.png",
+						"text": "Courier Boy",
+						"clicktarget" : "ms-audio://data/professions/audio/courier_boy.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/customer_care_executive.png",
+						"text": "Customer Care Executive",
+						"clicktarget" : "ms-audio://data/professions/audio/customer_care_executive.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/detective.png",
+						"text": "Detective",
+						"clicktarget" : "ms-audio://data/professions/audio/detective.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/doctor.png",
+						"text": "doctor",
+						"clicktarget" : "ms-audio://data/professions/audio/doctor.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/electrician.png",
+						"text": "Electrician",
+						"clicktarget" : "ms-audio://data/professions/audio/electrician.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/engineer.png",
+						"text": "Engineer",
+						"clicktarget" : "ms-audio://data/professions/audio/engineer.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/farmer.png",
+						"text": "farmer",
+						"clicktarget" : "ms-audio://data/professions/audio/farmer.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/fireman.png",
+						"text": "Fireman",
+						"clicktarget" : "ms-audio://data/professions/audio/fireman.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/gardener.png",
+						"text": "Gardener",
+						"clicktarget" : "ms-audio://data/professions/audio/gardener.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/leader.png",
+						"text": "leader",
+						"clicktarget" : "ms-audio://data/professions/audio/leader.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/soldier.png",
+						"text": "soldier",
+						"clicktarget" : "ms-audio://data/professions/audio/soldier.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/karate_instructor.png",
+						"text": "Karate Instructor",
+						"clicktarget" : "ms-audio://data/professions/audio/karate_instructor.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/mechanic.png",
+						"text": "Mechanic",
+						"clicktarget" : "ms-audio://data/professions/audio/mechanic.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/tailor.png",
+						"text": "Tailor",
+						"clicktarget" : "ms-audio://data/professions/audio/tailor.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/teacher.png",
+						"text": "teacher",
+						"clicktarget" : "ms-audio://data/professions/audio/teacher.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/traffic_police.png",
+						"text": "Traffic Police",
+						"clicktarget" : "ms-audio://data/professions/audio/traffic_police.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/veterinary_doctor.png",
+						"text": "Veterinary Doctor",
+						"clicktarget" : "ms-audio://data/professions/audio/veterinary_doctor.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/professions/images/waiter.png",
+						"text": "Waiter",
+						"clicktarget" : "ms-audio://data/professions/audio/waiter.mp3"
+					}
+				}
+			]
+		}
+	]
+}

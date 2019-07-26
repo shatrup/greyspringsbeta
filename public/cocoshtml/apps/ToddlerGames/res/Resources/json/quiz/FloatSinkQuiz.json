@@ -1,0 +1,26 @@
+{
+    "id": "FloatSinkQuiz",
+    "type": "FloatSinkQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+	"isFullBleed":true,
+	"bgImg" : "common/backgrounds/background_fullbleed/sea_bed.png",    
+    "sets": [
+    {
+      "id": "object_set1",
+      "type": "floating",
+      "objectSrc": "floating_object_set1_large",
+	  "customKey1": "sinking_object_set1_large",
+	  "question": "caption_touch_the_object_that_floats",
+	  "bgMusic": "caption_touch_the_object_that_floats"
+    },
+	{
+      "id": "object_set2",
+      "type": "sinking",
+      "objectSrc": "sinking_object_set1_large",
+	  "customKey1": "floating_object_set1_large",
+	  "question": "caption_touch_the_object_that_sinks",
+	  "bgMusic": "caption_touch_the_object_that_sinks"
+    }
+  ] 
+}

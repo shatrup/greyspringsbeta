@@ -1,0 +1,44 @@
+{
+    "quizList": 
+	[
+		{
+            "id": "NumberPlayQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+			"id": "ConnectTheDots",
+			"sets": ["alphabet", "animals"],
+			"unlockConstraint": "none"
+		},
+		{
+			"id": "BeforeAfterNumberQuiz",
+			"unlockConstraint": "none"
+		},
+        {
+            "id": "BuildTheToysQuiz",
+            "unlockConstraint": "none"
+        },
+		{
+            "id": "MatchTheShadow",
+            "sets": ["number_set_2", "alphabet_set_2", "animal_set_2", "fruit_set_2", "sea_animals_set"],
+            "unlockConstraint": "none"
+        },
+		{
+            "id": "LearnToWriteV2",
+            "unlockConstraint": "none",
+            "sets": ["english", "numbers", "spanish", "hindi"]
+        },
+		{
+            "id": "AlienColorMatchQuiz",
+            "unlockConstraint": "none"
+        },
+		{
+            "id": "ShapesMatchingQuiz",
+            "unlockConstraint": "none"
+        },
+		{
+            "id": "BuildRobotQuiz",
+            "unlockConstraint": "none"
+        }
+    ]
+}

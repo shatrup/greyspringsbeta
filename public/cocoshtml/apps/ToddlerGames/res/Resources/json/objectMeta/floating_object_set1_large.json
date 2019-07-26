@@ -1,0 +1,88 @@
+{
+    "name": "floating_object_set1_large",
+    "type": "floating_object",
+    "suffix": "floating_object_set1_large_",
+    "objectList": [
+         {
+                    "objectId": "floating_object_set1_large_apple",
+                    "name": "apple",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_apple.png",
+                    "w": 83.36,
+                    "h": 81.276,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_basket_ball",
+                    "name": "ball",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_basket_ball.png",
+                    "w": 83.36,
+                    "h": 83.36,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_bottle",
+                    "name": "bottle",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_bottle.png",
+                    "w": 59.186,
+                    "h": 81.693,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_bulb",
+                    "name": "bulb",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_bulb.png",
+                    "w": 52.934,
+                    "h": 82.11,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_jar",
+                    "name": "jar",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_jar.png",
+                    "w": 80.026,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_pencil",
+                    "name": "pencil",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_pencil.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_rubber_ball",
+                    "name": "ball",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_rubber_ball.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_rubber_toy",
+                    "name": "toy",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_rubber_toy.png",
+                    "w": 79.609,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "floating_object_set1_large_slipper",
+                    "name": "slipper",
+                    "imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_large/floating_object_set1_large_slipper.png",
+                    "w": 64.187,
+                    "h": 82.526,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

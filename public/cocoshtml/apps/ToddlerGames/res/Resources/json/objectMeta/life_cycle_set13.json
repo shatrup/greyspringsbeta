@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set13",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set13_",
+    "objectList": [
+		{
+			"objectId": "life_cycle_set13_turtle_1",
+			"name": "word_eggs",
+			"imageUri": "common/life_cycle/life_cycle_set8/turtle_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_eggs"
+		},
+		{
+			"objectId": "life_cycle_set13_turtle_2",
+			"name": "word_hatchling",
+			"imageUri": "common/life_cycle/life_cycle_set8/turtle_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_hatchling"
+		},
+		{
+			"objectId": "life_cycle_set13_turtle_4",
+			"name": "word_adult",
+			"imageUri": "common/life_cycle/life_cycle_set8/turtle_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_adult"
+		},
+		{
+			"objectId": "life_cycle_set13_turtle_3",
+			"name": "word_juvenile",
+			"imageUri": "common/life_cycle/life_cycle_set8/turtle_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_juvenile"
+		}
+    ]
+}

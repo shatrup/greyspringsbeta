@@ -1,0 +1,74 @@
+{
+    "id": "CountComparisonQuiz",
+    "type": "CountComparisonQuiz",
+    "complexity": "medium",
+    "qsBgColor": "60C0CC",
+    "sets": [
+    {
+      "id": "animal",
+      "type": "animal",
+      "bgMusic": "caption_put_pieces_back",
+      "question": "caption_put_pieces_back",      
+      "objectSrc": "realworld_set_animal_set1",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+      "customKey1": "color"
+    },
+    {
+      "id": "animal_1",
+      "type": "animal",
+      "bgMusic": "caption_join_the_pieces_to_make_an_animal",
+      "question": "caption_join_the_pieces_to_make_an_animal",      
+      "objectSrc": "realworld_set_animal_set11_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood_7.png",
+      "customKey1": "color",
+	  "isFullBleed":true
+    },
+    {
+      "id": "shape_1",
+      "type": "shape",
+      "bgMusic": "caption_put_pieces_back",
+      "question": "caption_put_pieces_back",      
+      "objectSrc": "realworld_set_shape_set1",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png"
+    },
+    {
+      "id": "shape_2",
+      "type": "shape",
+      "bgMusic": "caption_put_pieces_back",
+      "question": "caption_put_pieces_back",      
+      "objectSrc": "realworld_set_shape_set2",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png"
+    },
+    {
+      "id": "alphabet",
+      "type": "shape",
+      "title":"tiletitle_JigsawAlphabet",
+      "bgMusic": "caption_put_pieces_back",
+      "question": "caption_put_pieces_back",      
+      "objectSrc": "realworld_set_alphabet_set5_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood_1_fullbleed.png",
+      "customKey2": "showObject",
+	  "isFullBleed":true
+    },
+    {
+      "id": "alphabet_2",
+      "type": "alphabet",
+      "title":"tiletitle_JigsawAlphabet",
+      "bgMusic": "caption_put_pieces_back",
+      "question": "caption_put_pieces_back",      
+      "objectSrc": "realworld_set_alphabet_set26_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_bricks_1.png",
+      "customKey2": "showObject",
+      "customKey3": "alphabet_set27_xx_large",
+	  "isFullBleed":true
+    },
+    {
+      "id": "vehicles",
+      "type": "shape",
+      "bgMusic": "caption_put_pieces_back",
+      "question": "caption_put_pieces_back",      
+      "objectSrc": "realworld_set_vehicle_set2_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood_1.png"
+    }	
+  ] 
+}

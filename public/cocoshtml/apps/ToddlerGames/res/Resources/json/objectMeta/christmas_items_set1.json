@@ -1,0 +1,349 @@
+{
+    "name": "christmas_item_set1",
+    "type": "christmas",
+    "suffix": "christmas_item_set1_",
+    "objectList": [
+        {
+            "objectId": "christmas_item_set1_object_2",
+            "name": "christmas_2",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_2.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_3",
+            "name": "christmas_3",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_3.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_4",
+            "name": "christmas_4",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_4.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_5",
+            "name": "christmas_5",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_5.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_6",
+            "name": "christmas_6",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_6.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_7",
+            "name": "christmas_7",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_7.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_8",
+            "name": "christmas_8",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_8.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_9",
+            "name": "christmas_9",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_9.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_10",
+            "name": "christmas_10",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_10.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_11",
+            "name": "christmas_11",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_11.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_12",
+            "name": "christmas_12",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_12.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_13",
+            "name": "christmas_13",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_13.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_14",
+            "name": "christmas_14",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_14.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_15",
+            "name": "christmas_15",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_15.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_16",
+            "name": "christmas_16",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_16.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_17",
+            "name": "christmas_17",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_17.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_18",
+            "name": "christmas_18",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_18.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        },
+        {
+            "objectId": "christmas_item_set1_object_20",
+            "name": "christmas_20",
+            "imageUri": "common/christmas/christmas_items_set1/christmas_item_set1_object_20.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "attributes": [
+                {
+                    "name": "connect_button_type_1",
+                    "value": "star_dots_2"
+                },
+                {
+                    "name": "connect_button_type_3",
+                    "value": "button_dots"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+	"id": "vegetableChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",
+    "panel": {
+        "clusters": [
+            {
+				"name": "vegetableChartCluster",
+                "title": "Vegetable Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/vegetableChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

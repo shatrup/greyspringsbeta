@@ -1,0 +1,227 @@
+{
+    "name": "vegetable_set2_large",
+    "type": "vegetable",
+    "suffix": "vegetable_set2_large_",
+    "objectList": [
+        {
+            "objectId": "vegetable_set2_large_artichoke",
+            "name": "vegetable_artichoke",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_artichoke.png",
+            "w": 48.766,
+            "h": 81.693,
+            "audioId": "vegetable_artichoke",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_beetroot",
+            "name": "vegetable_beetroot",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_beetroot.png",
+            "w": 49.182,
+            "h": 83.36,
+            "audioId": "vegetable_beetroot",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_broccoli",
+            "name": "vegetable_broccoli",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_broccoli.png",
+            "w": 82.943,
+            "h": 81.693,
+            "audioId": "vegetable_broccoli",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_carrot",
+            "name": "vegetable_carrot",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_carrot.png",
+            "w": 21.257,
+            "h": 82.943,
+            "audioId": "vegetable_carrot",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_corn",
+            "name": "vegetable_corn",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_corn.png",
+            "w": 33.344,
+            "h": 82.943,
+            "audioId": "vegetable_corn",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_cucumber",
+            "name": "vegetable_cucumber",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_cucumber.png",
+            "w": 82.943,
+            "h": 32.094,
+            "audioId": "vegetable_cucumber",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_eggplant",
+            "name": "vegetable_eggplant",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_eggplant.png",
+            "w": 35.845,
+            "h": 82.526,
+            "audioId": "vegetable_eggplant",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_garlic",
+            "name": "vegetable_garlic",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_garlic.png",
+            "w": 58.352,
+            "h": 82.943,
+            "audioId": "vegetable_garlic",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_ginger",
+            "name": "vegetable_ginger",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_ginger.png",
+            "w": 83.36,
+            "h": 65.438,
+            "audioId": "vegetable_ginger",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_mushroom",
+            "name": "vegetable_mushroom",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_mushroom.png",
+            "w": 78.775,
+            "h": 82.943,
+            "audioId": "vegetable_mushroom",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_okra",
+            "name": "vegetable_okra",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_okra.png",
+            "w": 81.693,
+            "h": 81.276,
+            "audioId": "vegetable_okra",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_onion",
+            "name": "vegetable_onion",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_onion.png",
+            "w": 81.693,
+            "h": 82.943,
+            "audioId": "vegetable_onion",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_peas",
+            "name": "vegetable_peas",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_peas.png",
+            "w": 83.36,
+            "h": 31.677,
+            "audioId": "vegetable_pea",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_potato",
+            "name": "vegetable_potato",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_potato.png",
+            "w": 82.943,
+            "h": 53.35,
+            "audioId": "vegetable_potato",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_pumpkin",
+            "name": "vegetable_pumpkin",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_pumpkin.png",
+            "w": 82.943,
+            "h": 67.938,
+            "audioId": "vegetable_pumpkin",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_red_chilli",
+            "name": "vegetable_chilli",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_red_chilli.png",
+            "w": 82.526,
+            "h": 53.767,
+            "audioId": "vegetable_redchili",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_sweet_potato",
+            "name": "vegetable_potato",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_sweet_potato.png",
+            "w": 82.943,
+            "h": 41.263,
+            "audioId": "vegetable_sweetpotato",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_tomato",
+            "name": "vegetable_tomato",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_tomato.png",
+            "w": 77.108,
+            "h": 82.943,
+            "audioId": "vegetable_tomato",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_turnip",
+            "name": "vegetable_turnip",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_turnip.png",
+            "w": 46.682,
+            "h": 82.943,
+            "audioId": "vegetable_germanturnip",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_wheat",
+            "name": "vegetable_wheat",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_wheat.png",
+            "w": 42.93,
+            "h": 83.36,
+            "audioId": "vegetable_wheat",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_yellowpepper",
+            "name": "vegetable_yellowpepper",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_yellowpepper.png",
+            "w": 81.276,
+            "h": 82.943,
+            "audioId": "vegetable_yellow_pepper",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vegetable_set2_large_zucchini",
+            "name": "vegetable_zucchini",
+            "imageUri": "common/vegetables/vegetable_set2/vegetable_set2_large/vegetable_set2_large_zucchini.png",
+            "w": 82.943,
+            "h": 73.357,
+            "audioId": "vegetable_zucchini",
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

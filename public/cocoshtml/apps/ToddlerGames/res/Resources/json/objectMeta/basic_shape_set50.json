@@ -1,0 +1,71 @@
+{
+    "name": "basic_shape_set50",
+    "type": "shape",
+    "suffix": "basic_shape_set50_",
+    "objectList": [
+        {
+            "objectId": "basic_shape_set50_shape_circle",
+            "name": "shape_set6_medium_circle",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_circle",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_circle"
+        },
+        {
+            "objectId": "basic_shape_set50_shape_hexagon",
+            "name": "shape_set6_medium_hexagon",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_hexagon",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_hexagon"
+        },
+        {
+            "objectId": "basic_shape_set50_shape_oval",
+            "name": "shape_set6_medium_oval",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_oval",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_oval"
+        },
+        {
+            "objectId": "basic_shape_set50_shape_pentagon",
+            "name": "shape_set6_medium_pentagon",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_pentagon",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_pentagon"
+        },
+        {
+            "objectId": "basic_shape_set50_shape_rectangle",
+            "name": "shape_set6_medium_rectangle",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_rectangle",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_rectangle"
+        },
+        {
+            "objectId": "basic_shape_set50_shape_square",
+            "name": "shape_set6_medium_square",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_square",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_square"
+        },
+        {
+            "objectId": "basic_shape_set50_shape_star",
+            "name": "shape_set6_medium_star",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_star",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_star"
+        },
+        {
+            "objectId": "basic_shape_set50_shape_triangle",
+            "name": "shape_set6_medium_triangle",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_ball_large_outer&boxId=quizchrome_set1_ball_large&imgId=shape_set6_medium_triangle",
+            "w": 5,
+            "h": 5,
+            "audioId": "shape_triangle"
+        }
+    ]
+}

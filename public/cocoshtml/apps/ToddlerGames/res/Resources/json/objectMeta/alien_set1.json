@@ -1,0 +1,52 @@
+{
+	"name": "alien_set1",
+    "type": "alien",
+    "suffix": "alien_set1_",
+    "objectList": [
+		{
+			"objectId": "alien_set1_blue",
+			"imageUri": "common/scenes/scene172/alien_blue_1.png",
+			"name": "alien_blue",
+			"color": "blue",
+			"colorcode": "00b0ff",
+			"w": 85.861,
+			"h": 69.606
+		},  
+		{
+			"objectId": "alien_set1_green",
+			"imageUri": "common/scenes/scene172/alien_green_1.png",
+			"name": "alien_green",
+			"color": "green",
+			"colorcode": "cbdb2a",
+			"w": 80.442,
+			"h": 69.606
+		},
+		{
+			"objectId": "alien_set1_pink",
+			"imageUri": "common/scenes/scene172/alien_pink_1.png",
+			"name": "alien_pink",
+			"color": "pink",
+			"colorcode": "ff4081",
+			"w": 86.278,
+			"h": 77.525
+		}, 
+		{
+			"objectId": "alien_set1_red",
+			"imageUri": "common/scenes/scene172/alien_red_1.png",
+			"name": "alien_red",
+			"color": "red",
+			"colorcode": "f43017",
+			"w": 89.612,
+			"h": 69.606
+		},
+		{
+			"objectId": "alien_set1_yellow",
+			"imageUri": "common/scenes/scene172/alien_yellow_1.png",
+			"name": "alien_yellow",
+			"color": "yellow",
+			"colorcode": "fcaf17",
+			"w": 85.027,
+			"h": 84.61
+		}
+	]
+}

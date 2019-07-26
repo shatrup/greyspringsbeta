@@ -1,0 +1,682 @@
+{
+    "name": "tricky_maze",
+    "type": "tricky",
+    "suffix": "tricky_maze_",
+    "objectList": [
+        {
+            "objectId": "tricky_maze_banana_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_banana_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_bee_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_bee_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_bird_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_bird_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_bone_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_bone_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_chicken_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_chicken_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_coop_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_coop_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_dog_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_dog_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_fox_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_fox_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_grass_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_grass_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_hen_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_hen_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_hive_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_hive_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_horse_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_horse_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_john_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_john_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_jungle_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_jungle_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_ladybug_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_ladybug_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_lamb_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_lamb_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_leaf_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_leaf_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_misc_pen_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_misc_pen_0.png",
+            "w": 6.669,
+            "h": 6.669,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_monkey_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_monkey_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_nest_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_nest_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_pond_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_pond_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_stable_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_stable_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "tricky_maze_worm_0",
+            "name": "tricky_0",
+            "imageUri": "common/chrome/tricky_maze/set0/tricky_maze_worm_0.png",
+            "w": 37.929,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "tricky_maze_letter_set1_a",
+			"name": "_a",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_a.png",
+			"w": 36.678,
+			"h": 38.762,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_b",
+			"name": "_b",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_b.png",
+			"w": 29.593,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_c",
+			"name": "_c",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_c.png",
+			"w": 30.426,
+			"h": 39.179,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_d",
+			"name": "_d",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_d.png",
+			"w": 32.927,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_e",
+			"name": "_e",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_e.png",
+			"w": 25.842,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_f",
+			"name": "_f",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_f.png",
+			"w": 24.591,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_g",
+			"name": "_g",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_g.png",
+			"w": 33.344,
+			"h": 39.179,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_h",
+			"name": "_h",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_h.png",
+			"w": 31.26,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_i",
+			"name": "_i",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_i.png",
+			"w": 7.919,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_j",
+			"name": "_j",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_j.png",
+			"w": 24.174,
+			"h": 38.346,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_k",
+			"name": "_k",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_k.png",
+			"w": 28.342,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_l",
+			"name": "_l",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_l.png",
+			"w": 25.008,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_m",
+			"name": "_m",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_m.png",
+			"w": 42.514,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_n",
+			"name": "_n",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_n.png",
+			"w": 32.094,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_o",
+			"name": "_o",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_o.png",
+			"w": 36.262,
+			"h": 39.179,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_p",
+			"name": "_p",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_p.png",
+			"w": 29.176,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_q",
+			"name": "_q",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_q.png",
+			"w": 37.512,
+			"h": 39.179,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_r",
+			"name": "_r",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_r.png",
+			"w": 29.176,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_s",
+			"name": "_s",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_s.png",
+			"w": 29.176,
+			"h": 39.596,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_t",
+			"name": "_t",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_t.png",
+			"w": 30.426,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_u",
+			"name": "_u",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_u.png",
+			"w": 31.26,
+			"h": 38.346,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_v",
+			"name": "_v",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_v.png",
+			"w": 32.927,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_w",
+			"name": "_w",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_w.png",
+			"w": 52.1,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_x",
+			"name": "_x",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_x.png",
+			"w": 31.26,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_y",
+			"name": "_y",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_y.png",
+			"w": 30.843,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_letter_set1_z",
+			"name": "_z",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/letter_set1_z.png",
+			"w": 28.759,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_a",
+			"name": "_a",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_a.png",
+			"w": 31.677,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_b",
+			"name": "_b",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_b.png",
+			"w": 37.512,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_c",
+			"name": "_c",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_c.png",
+			"w": 15.005,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_d",
+			"name": "_d",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_d.png",
+			"w": 37.929,
+			"h": 33.761,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_e",
+			"name": "_e",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_e.png",
+			"w": 37.929,
+			"h": 28.342,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_f",
+			"name": "_f",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_f.png",
+			"w": 37.929,
+			"h": 29.593,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_g",
+			"name": "_g",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_g.png",
+			"w": 28.342,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_h",
+			"name": "_h",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_h.png",
+			"w": 35.428,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_i",
+			"name": "_i",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_i.png",
+			"w": 17.922,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_j",
+			"name": "_j",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_j.png",
+			"w": 37.929,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_k",
+			"name": "_k",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_k.png",
+			"w": 27.509,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_l",
+			"name": "_l",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_l.png",
+			"w": 37.929,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_m",
+			"name": "_m",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_m.png",
+			"w": 27.092,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_n",
+			"name": "_n",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_n.png",
+			"w": 37.929,
+			"h": 37.095,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_o",
+			"name": "_o",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_o.png",
+			"w": 36.678,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_p",
+			"name": "_p",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_p.png",
+			"w": 37.929,
+			"h": 31.26,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_q",
+			"name": "_q",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_q.png",
+			"w": 18.756,
+			"h": 38.346,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_r",
+			"name": "_r",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_r.png",
+			"w": 28.759,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_s",
+			"name": "_s",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_s.png",
+			"w": 34.594,
+			"h": 33.761,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_t",
+			"name": "_t",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_t.png",
+			"w": 30.426,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_u",
+			"name": "_u",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_u.png",
+			"w": 35.845,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_v",
+			"name": "_v",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_v.png",
+			"w": 37.929,
+			"h": 24.174,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_w",
+			"name": "_w",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_w.png",
+			"w": 37.929,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_x",
+			"name": "_x",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_x.png",
+			"w": 29.593,
+			"h": 37.512,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_y",
+			"name": "_y",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_y.png",
+			"w": 37.929,
+			"h": 27.092,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "tricky_maze_object_set1_z",
+			"name": "_z",
+			"imageUri": "common/chrome/tricky_maze/set1/set1_object/object_set1_z.png",
+			"w": 37.929,
+			"h": 25.008,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

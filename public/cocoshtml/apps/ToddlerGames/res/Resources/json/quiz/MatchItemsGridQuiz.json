@@ -1,0 +1,32 @@
+{
+    "id": "MatchItemsGridQuiz",
+    "type": "MatchItemsGridQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "alphabet1",
+      "type": "alphabet",
+      "title":"tiletitle_MatchItemsGridQuiz",
+      "bgMusic": "caption_drag_letter_correct_picture",
+      "question": "caption_drag_letter_correct_picture",      
+      "objectSrc": "realworld_set_alphabet_object_set2_x_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+  	  "customKey1": "alphabet_set6_large",
+      "customKey2": "alphabet",
+      "isFullBleed": true
+    },
+    {
+      "id": "alphabet2",
+      "type": "alphabet",
+      "title":"tiletitle_MatchItemsGridQuiz",
+      "bgMusic": "caption_drag_letter_correct_picture",
+      "question": "caption_drag_letter_correct_picture",      
+      "objectSrc": "realworld_set_alphabet_object_set3_x_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+      "customKey1": "alphabet_set6_large",
+      "customKey2": "alphabet",
+      "isFullBleed": true
+    }	
+  ] 
+}

@@ -1,0 +1,16 @@
+{
+    "name": "candy_set2",
+    "type": "",
+    "suffix": "candy_set2_",
+    "objectList": [
+        {
+            "objectId": "candy_set2_blue",
+            "name": "",
+            "imageUri": "common/candies/candy_set2/candy_set2_blue.png",
+            "w": 95.86,
+            "h": 55.02,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

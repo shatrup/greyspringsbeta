@@ -1,0 +1,217 @@
+{
+    "name": "number_set20_medium",
+    "type": "numbers",
+    "suffix": "number_set20_medium_",
+    "objectList": [
+        {
+            "objectId": "number_set20_medium_0",
+            "name": "0",
+			"text": "zero",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_0.png",
+            "w": 32.094,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_1",
+            "name": "1",
+			"text": "one",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_1.png",
+			"w": 22.924,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_2",
+			"name": "2",
+			"text": "two",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_2.png",
+			"w": 32.927,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_3",
+            "name": "3",
+			"text": "three",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_3.png",
+			"w": 32.51,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_4",
+            "name": "4",
+			"text": "four",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_4.png",
+			"w": 36.262,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_5",
+            "name": "5",
+			"text": "five",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_5.png",
+			"w": 32.927,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_6",
+            "name": "6",
+			"text": "six",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_6.png",
+			"w": 47.515,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_7",
+            "name": "7",
+			"text": "seven",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_7.png",
+			"w": 32.51,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+			"objectId": "number_set20_medium_8",
+            "name": "8",
+			"text": "eight",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_8.png",
+			"w": 32.927,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_9",
+            "name": "9",
+			"text": "nine",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_9.png",
+			"w": 33.344,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+		{
+            "objectId": "number_set20_medium_10",
+            "name": "10",
+			"text": "ten",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_10.png",
+			"w": 47.515,
+            "h": 32.094,
+            "shape": "",
+            "color": ""
+        },
+		{
+            "objectId": "number_set20_medium_11",
+            "name": "11",
+			"text": "eleven",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_11.png",
+			"w": 47.515,
+			"h": 33.761,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_12",
+            "name": "12",
+			"text": "twelve",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_12.png",
+			"w": 47.515,
+			"h": 32.094,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_13",
+            "name": "13",
+			"text": "thirteen",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_13.png",
+			"w": 47.515,
+			"h": 32.51,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_14",
+            "name": "14",
+			"text": "fourteen",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_14.png",
+			"w": 47.515,
+			"h": 31.26,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_15",
+            "name": "15",
+			"text": "fifteen",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_15.png",
+			"w": 47.515,
+			"h": 32.094,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_16",
+            "name": "16",
+			"text": "sixteen",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_16.png",
+			"w": 47.515,
+			"h": 32.094,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_17",
+            "name": "17",
+			"text": "seventeen",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_17.png",
+			"w": 47.515,
+			"h": 32.094,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_18",
+            "name": "18",
+			"text": "eighteen",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_18.png",
+			"w": 47.515,
+			"h": 32.094,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_medium_19",
+            "name": "19",
+			"text": "nineteen",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_19.png",
+			"w": 47.515,
+			"h": 32.094,
+            "shape": "",
+            "color": ""
+        },
+		{
+            "objectId": "number_set20_medium_20",
+            "name": "20",
+			"text": "twenty",
+            "imageUri": "common/numbers/number_set20/number_set20_medium/number_set20_medium_20.png",
+			"w": 47.515,
+            "h": 30.01,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

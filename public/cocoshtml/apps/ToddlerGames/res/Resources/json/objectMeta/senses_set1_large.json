@@ -1,0 +1,52 @@
+{
+	"name": "senses_set1_large",
+	"type": "senses",
+	"suffix": "senses_set1_large_",
+	"objectList": [
+		{
+			"objectId": "senses_set1_large_hearing",
+			"name": "hearing",
+			"imageUri": "common/senses/senses_set1/senses_set1_large/senses_set1_large_hearing.png",
+			"w": 66.688,
+			"h": 82.11,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "senses_set1_large_sight",
+			"name": "sight",
+			"imageUri": "common/senses/senses_set1/senses_set1_large/senses_set1_large_sight.png",
+			"w": 82.943,
+			"h": 75.024,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "senses_set1_large_smell",
+			"name": "smell",
+			"imageUri": "common/senses/senses_set1/senses_set1_large/senses_set1_large_smell.png",
+			"w": 59.186,
+			"h": 82.11,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "senses_set1_large_taste",
+			"name": "taste",
+			"imageUri": "common/senses/senses_set1/senses_set1_large/senses_set1_large_taste.png",
+			"w": 81.693,
+			"h": 65.854,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "senses_set1_large_touch",
+			"name": "touch",
+			"imageUri": "common/senses/senses_set1/senses_set1_large/senses_set1_large_touch.png",
+			"w": 59.186,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

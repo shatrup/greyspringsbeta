@@ -1,0 +1,38 @@
+{
+	"id": "WhatComesNextQuiz",
+    "type": "WhatComesNextQuiz",
+    "bgMusic": "caption_drag_object_pattern",
+    "question": "caption_drag_object_pattern",
+    "complexity": "medium",
+    "qsBgColor": "003366",
+    "sets": [
+    {
+      "name": "set_1",
+      "objectSrc": "realworld_set_color_set1"
+    },
+    {
+      "name": "set_2",
+      "objectSrc": "realworld_set_alphabet_set2"
+    },
+    {
+      "name": "set_3",
+      "objectSrc": "realworld_set_number_set2"      
+    },
+    {
+      "name": "set_4",
+      "objectSrc": "realworld_set_sea_animal_set1"      
+    },
+    {
+      "name": "set_5",
+      "objectSrc": "realworld_set_sea_animal_set2"      
+    },
+    {
+      "name": "set_6",
+      "objectSrc": "realworld_set_sea_animal_set3"      
+    },
+     {
+      "name": "set_8",
+      "objectSrc": "realworld_set_sticker_bird_set0"            
+    }
+  ] 
+}

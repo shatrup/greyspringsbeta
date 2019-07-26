@@ -1,0 +1,798 @@
+{
+    "name": "ComplexObjects",
+    "objectsList": [
+		{
+            "id": "ComplexObject_1",
+            "name": "ComplexObject_1",
+            "componentsList": [
+                {
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/1/child.png",
+                    "x": 0.595,
+                    "y": 0.408,
+                    "zIndex": 2
+                },
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/1/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 1,
+					"objectAudioId":"number_001"
+                },
+                {
+                    "objectId": "1/obj",
+                    "imgSrc": "kindergarten8/nfv/1/obj.png",
+                    "x": 0.682,
+                    "y": 0.469,
+                    "zIndex": 2,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_2",
+            "name": "ComplexObject_2",
+            "componentsList": [
+                {
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/2/child.png",
+                    "x": 0.586,
+                    "y": 0.417,
+                    "zIndex": 2
+                },
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/2/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 1,
+					"objectAudioId":"number_002"
+                },
+                {
+                    "objectId": "2/obj",
+                    "imgSrc": "kindergarten8/nfv/2/obj.png",
+                    "x": 0.504,
+                    "y": 0.452,
+                    "zIndex": 2,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "2/obj1",
+                    "imgSrc": "kindergarten8/nfv/2/obj1.png",
+                    "x": 0.660,
+                    "y": 0.465,
+                    "zIndex": 3,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_3",
+            "name": "ComplexObject_3",
+            "componentsList": [
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/3/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 2,
+					"objectAudioId":"number_003"
+                },
+				{
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/3/child.png",
+                    "x": 0.373,
+                    "y": 0.473,
+                    "zIndex": 1
+                },
+                {
+                    "objectId": "3/obj",
+                    "imgSrc": "kindergarten8/nfv/3/obj.png",
+                    "x": 0.360,
+                    "y": 0.334,
+                    "zIndex": 3,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "3/obj1",
+                    "imgSrc": "kindergarten8/nfv/3/obj1.png",
+                    "x": 0.452,
+                    "y": 0.308,
+                    "zIndex": 3,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "3/obj2",
+                    "imgSrc": "kindergarten8/nfv/3/obj2.png",
+                    "x": 0.569,
+                    "y": 0.321,
+                    "zIndex": 3,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_4",
+            "name": "ComplexObject_4",
+            "componentsList": [
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/4/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 0,
+					"objectAudioId":"number_004"
+                },
+				{
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/4/child.png",
+                    "x": 0.521,
+                    "y": 0.426,
+                    "zIndex": 2
+                },
+				{
+                    "objectId": "arm",
+                    "imgSrc": "kindergarten8/nfv/4/arm.png",
+                    "x": 0.426,
+                    "y": 0.456,
+                    "zIndex": 3
+                },
+                {
+                    "objectId": "4/obj",
+                    "imgSrc": "kindergarten8/nfv/4/obj.png",
+                    "x": 0.443,
+                    "y": 0.421,
+                    "zIndex": 2,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "4/obj1",
+                    "imgSrc": "kindergarten8/nfv/4/obj1.png",
+                    "x": 0.421,
+                    "y": 0.317,
+                    "zIndex": 0,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "4/obj2",
+                    "imgSrc": "kindergarten8/nfv/4/obj2.png",
+                    "x": 0.369,
+                    "y": 0.286,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "4/obj3",
+                    "imgSrc": "kindergarten8/nfv/4/obj3.png",
+                    "x": 0.634,
+                    "y": 0.282,
+                    "zIndex": 1,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_5",
+            "name": "ComplexObject_5",
+            "componentsList": [
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/5/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 0,
+					"objectAudioId":"number_005"
+                },
+				{
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/5/child.png",
+                    "x": 0.486,
+                    "y": 0.504,
+                    "zIndex": 1
+                },
+				{
+                    "objectId": "legs",
+                    "imgSrc": "kindergarten8/nfv/5/legs.png",
+                    "x": 0.491,
+                    "y": 0.3,
+                    "zIndex": 5
+                },
+				{
+                    "objectId": "basket",
+                    "imgSrc": "kindergarten8/nfv/5/basket.png",
+                    "x": 0.491,
+                    "y": 0.356,
+                    "zIndex": 4
+                },
+                {
+                    "objectId": "5/obj",
+                    "imgSrc": "kindergarten8/nfv/5/obj.png",
+                    "x": 0.391,
+                    "y": 0.452,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "5/obj1",
+                    "imgSrc": "kindergarten8/nfv/5/obj1.png",
+                    "x": 0.443,
+                    "y": 0.395,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "5/obj2",
+                    "imgSrc": "kindergarten8/nfv/5/obj2.png",
+                    "x": 0.491,
+                    "y": 0.395,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "5/obj3",
+                    "imgSrc": "kindergarten8/nfv/5/obj3.png",
+                    "x": 0.526,
+                    "y": 0.404,
+                    "zIndex": 2,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "5/obj4",
+                    "imgSrc": "kindergarten8/nfv/5/obj4.png",
+                    "x": 0.543,
+                    "y": 0.391,
+                    "zIndex": 3,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_6",
+            "name": "ComplexObject_6",
+            "componentsList": [
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/6/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 0,
+					"objectAudioId":"number_006"
+                },
+				{
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/6/child.png",
+                    "x": 0.521,
+                    "y": 0.421,
+                    "zIndex": 1
+                },
+                {
+                    "objectId": "6/obj",
+                    "imgSrc": "kindergarten8/nfv/6/obj.png",
+                    "x": 0.373,
+                    "y": 0.343,
+                    "zIndex": 0,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "6/obj1",
+                    "imgSrc": "kindergarten8/nfv/6/obj1.png",
+                    "x": 0.408,
+                    "y": 0.269,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "6/obj2",
+                    "imgSrc": "kindergarten8/nfv/6/obj2.png",
+                    "x": 0.408,
+                    "y": 0.239,
+                    "zIndex": 2,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "6/obj3",
+                    "imgSrc": "kindergarten8/nfv/6/obj3.png",
+                    "x": 0.508,
+                    "y": 0.208,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "6/obj4",
+                    "imgSrc": "kindergarten8/nfv/6/obj4.png",
+                    "x": 0.6,
+                    "y": 0.247,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "6/obj5",
+                    "imgSrc": "kindergarten8/nfv/6/obj5.png",
+                    "x": 0.691,
+                    "y": 0.347,
+                    "zIndex": 1,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_7",
+            "name": "ComplexObject_7",
+            "componentsList": [
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/7/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 1,
+					"objectAudioId":"number_007"
+                },
+				{
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/7/child.png",
+                    "x": 0.413,
+                    "y": 0.430,
+                    "zIndex": 0
+                },
+                {
+                    "objectId": "7/obj",
+                    "imgSrc": "kindergarten8/nfv/7/obj.png",
+                    "x": 0.308,
+                    "y": 0.230,
+                    "zIndex": 0,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "7/obj1",
+                    "imgSrc": "kindergarten8/nfv/7/obj1.png",
+                    "x": 0.378,
+                    "y": 0.213,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "7/obj2",
+                    "imgSrc": "kindergarten8/nfv/7/obj2.png",
+                    "x": 0.456,
+                    "y": 0.208,
+                    "zIndex": 2,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "7/obj3",
+                    "imgSrc": "kindergarten8/nfv/7/obj3.png",
+                    "x": 0.491,
+                    "y": 0.252,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "7/obj4",
+                    "imgSrc": "kindergarten8/nfv/7/obj4.png",
+                    "x": 0.547,
+                    "y": 0.204,
+                    "zIndex": 2,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "7/obj5",
+                    "imgSrc": "kindergarten8/nfv/7/obj5.png",
+                    "x": 0.586,
+                    "y": 0.239,
+                    "zIndex": 0,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "7/obj6",
+                    "imgSrc": "kindergarten8/nfv/7/obj6.png",
+                    "x": 0.626,
+                    "y": 0.213,
+                    "zIndex": 1,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_8",
+            "name": "ComplexObject_8",
+            "componentsList": [
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/8/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 1,
+					"objectAudioId":"number_008"
+                },
+				{
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/8/child.png",
+                    "x": 0.652,
+                    "y": 0.426,
+                    "zIndex": 0
+                },
+                {
+                    "objectId": "8/obj",
+                    "imgSrc": "kindergarten8/nfv/8/obj.png",
+                    "x": 0.708,
+                    "y": 0.456,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "8/obj1",
+                    "imgSrc": "kindergarten8/nfv/8/obj1.png",
+                    "x": 0.330,
+                    "y": 0.243,
+                    "zIndex": 0,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "8/obj2",
+                    "imgSrc": "kindergarten8/nfv/8/obj2.png",
+                    "x": 0.373,
+                    "y": 0.234,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "8/obj3",
+                    "imgSrc": "kindergarten8/nfv/8/obj3.png",
+                    "x": 0.439,
+                    "y": 0.221,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "8/obj4",
+                    "imgSrc": "kindergarten8/nfv/8/obj4.png",
+                    "x": 0.491,
+                    "y": 0.243,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "8/obj5",
+                    "imgSrc": "kindergarten8/nfv/8/obj5.png",
+                    "x": 0.539,
+                    "y": 0.226,
+                    "zIndex": 0,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "8/obj6",
+                    "imgSrc": "kindergarten8/nfv/8/obj6.png",
+                    "x": 0.595,
+                    "y": 0.252,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "8/obj7",
+                    "imgSrc": "kindergarten8/nfv/8/obj7.png",
+                    "x": 0.643,
+                    "y": 0.252,
+                    "zIndex": 1,
+					"objectAudioId":""
+                }
+            ]
+        },
+		{
+            "id": "ComplexObject_9",
+            "name": "ComplexObject_9",
+            "componentsList": [
+                {
+                    "objectId": "number",
+                    "imgSrc": "kindergarten8/nfv/9/number.png",
+                    "x": 0.5,
+                    "y": 0.5,
+                    "zIndex": 1,
+					"objectAudioId":"number_009"
+                },
+				{
+                    "objectId": "child",
+                    "imgSrc": "kindergarten8/nfv/9/child.png",
+                    "x": 0.652,
+                    "y": 0.360,
+                    "zIndex": 1
+                },
+				{
+                    "objectId": "arm",
+                    "imgSrc": "kindergarten8/nfv/9/arm.png",
+                    "x": 0.652,
+                    "y": 0.326,
+                    "zIndex": 2
+                },
+                {
+                    "objectId": "9/obj",
+                    "imgSrc": "kindergarten8/nfv/9/obj.png",
+                    "x": 0.591,
+                    "y": 0.356,
+                    "zIndex": 2,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj1",
+                    "imgSrc": "kindergarten8/nfv/9/obj1.png",
+                    "x": 0.365,
+                    "y": 0.652,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj2",
+                    "imgSrc": "kindergarten8/nfv/9/obj2.png",
+                    "x": 0.404,
+                    "y": 0.7,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj3",
+                    "imgSrc": "kindergarten8/nfv/9/obj3.png",
+                    "x": 0.447,
+                    "y": 0.734,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj4",
+                    "imgSrc": "kindergarten8/nfv/9/obj4.png",
+                    "x": 0.5,
+                    "y": 0.743,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj5",
+                    "imgSrc": "kindergarten8/nfv/9/obj5.png",
+                    "x": 0.552,
+                    "y": 0.726,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj6",
+                    "imgSrc": "kindergarten8/nfv/9/obj6.png",
+                    "x": 0.595,
+                    "y": 0.7,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj7",
+                    "imgSrc": "kindergarten8/nfv/9/obj7.png",
+                    "x": 0.621,
+                    "y": 0.656,
+                    "zIndex": 1,
+					"objectAudioId":""
+                },
+				{
+                    "objectId": "9/obj7",
+                    "imgSrc": "kindergarten8/nfv/9/obj8.png",
+                    "x": 0.643,
+                    "y": 0.604,
+                    "zIndex": 1,
+					"objectAudioId":""
+                }
+            ]
+        },
+        {
+            "id": "ComplexObject_101",
+            "name": "ComplexObject_101",
+            "componentsList": [
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/knife.png",
+                    "x": 0.47,
+                    "y": 0.65,
+                    "zIndex": 1,
+                    "objectAudioId":"household_knife"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/peeler.png",
+                    "x": 0.52,
+                    "y": 0.66,
+                    "zIndex": 1,
+                    "objectAudioId":"household_peeler"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/mixer_grinder.png",
+                    "x": 0.75,
+                    "y": 0.66,
+                    "zIndex": 1,
+                    "objectAudioId":"household_mixer_grinder"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/kettle.png",
+                    "x": 0.85,
+                    "y": 0.63,
+                    "zIndex": 1,
+                    "objectAudioId":"household_kettle"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/pressure_cooker.png",
+                    "x": 0.2,
+                    "y": 0.4,
+                    "zIndex": 1,
+                    "objectAudioId":"household_pressure_cooker"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/gas_stove.png",
+                    "x": 0.5,
+                    "y": 0.4,
+                    "zIndex": 2,
+                    "objectAudioId":"household_gas_stove"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/fry_pan.png",
+                    "x": 0.42,
+                    "y": 0.5,
+                    "zIndex": 1,
+                    "objectAudioId":"household_fry_pan"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/fridge.png",
+                    "x": 0.865,
+                    "y": 0.28,
+                    "zIndex": 1,
+                    "objectAudioId":"household_fridge"
+                }
+            ]
+        },
+        {
+            "id": "ComplexObject_102",
+            "name": "ComplexObject_102",
+            "componentsList": [
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/table_lamp.png",
+                    "x": 0.11,
+                    "y": 0.35,
+                    "zIndex": 1,
+                    "objectAudioId":"household_table_lamp"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/bed.png",
+                    "x": 0.35,
+                    "y": 0.27,
+                    "zIndex": 1,
+                    "objectAudioId":"household_bed"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/window.png",
+                    "x": 0.35,
+                    "y": 0.6,
+                    "zIndex": 1,
+                    "objectAudioId":"household_window"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/mirror.png",
+                    "x": 0.62,
+                    "y": 0.47,
+                    "zIndex": 1,
+                    "objectAudioId":"household_mirror"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/alarm_clock.png",
+                    "x": 0.6,
+                    "y": 0.38,
+                    "zIndex": 2,
+                    "objectAudioId":"household_alarm_clock"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/almirah.png",
+                    "x": 0.81,
+                    "y": 0.48,
+                    "zIndex": 1,
+                    "objectAudioId":"household_almirah"
+                }
+            ]
+        },
+        {
+            "id": "ComplexObject_103",
+            "name": "ComplexObject_103",
+            "componentsList": [
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/sofa.png",
+                    "x": 0.25,
+                    "y": 0.3,
+                    "zIndex": 1,
+                    "objectAudioId":"household_sofa"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/stool.png",
+                    "x": 0.778,
+                    "y": 0.31,
+                    "zIndex": 1,
+                    "objectAudioId":"household_stool"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/table.png",
+                    "x": 0.777,
+                    "y": 0.27,
+                    "zIndex": 1,
+                    "objectAudioId":"household_table"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/wall_lighting.png",
+                    "x": 0.775,
+                    "y": 0.7,
+                    "zIndex": 1,
+                    "objectAudioId":"household_wall_lighting"
+                }
+            ]
+        },
+        {
+            "id": "ComplexObject_104",
+            "name": "ComplexObject_104",
+            "componentsList": [
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/toilet_paper.png",
+                    "x": 0.1,
+                    "y": 0.36,
+                    "zIndex": 1,
+                    "objectAudioId":"household_toilet_paper"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/toilet_seat.png",
+                    "x": 0.2,
+                    "y": 0.37,
+                    "zIndex": 1,
+                    "objectAudioId":"household_toilet_seat"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/wash_basin.png",
+                    "x": 0.332,
+                    "y": 0.44,
+                    "zIndex": 1,
+                    "objectAudioId":"household_wash_basin"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/tooth_brush.png",
+                    "x": 0.44,
+                    "y": 0.53,
+                    "zIndex": 1,
+                    "objectAudioId":"household_tooth_brush"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/dustbin.png",
+                    "x": 0.81,
+                    "y": 0.25,
+                    "zIndex": 2,
+                    "objectAudioId":"household_dustbin"
+                },
+                {
+                    "objectId": "household_item",
+                    "imgSrc": "kindergarten8/households/images_1/wiper.png",
+                    "x": 0.875,
+                    "y": 0.32,
+                    "zIndex": 1,
+                    "objectAudioId":"household_wiper"
+                }
+            ]
+        }
+    ]
+}

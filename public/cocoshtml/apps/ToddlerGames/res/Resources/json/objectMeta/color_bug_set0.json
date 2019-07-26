@@ -1,0 +1,106 @@
+{
+    "name": "color_bug_set0",
+    "type": "",
+    "suffix": "color_bug_set0_",
+    "objectList": [
+        {
+            "objectId": "color_bug_set0_red",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=red&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_red",
+            "shape": ""
+		},
+        {
+            "objectId": "color_bug_set0_blue",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=blue&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_blue",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_green",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=green&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_green",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_orange",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=orange&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_orange",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_brown",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=brown&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_brown",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_black",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=black&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_black",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_white",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=white&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_white",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_pink",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=pink&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_pink",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_violet",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=violet&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_violet",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_grey",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=grey&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_grey",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set0_yellow",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=yellow&sceneId=129",
+            "w": 5,
+            "h": 5,
+            "color": "color_yellow",
+            "shape": ""
+        }
+    ]
+}

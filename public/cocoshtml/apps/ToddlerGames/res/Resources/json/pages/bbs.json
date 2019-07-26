@@ -1,0 +1,123 @@
+{
+	"title": "Baa Baa Black Sheep",
+	"bgaudio": "kindergarten8/rhymes/audio/bbs/bbs.mp3",
+	"bgimage": "kindergarten8/rhymes/images/bbs/background.png",
+	"lyrics": "Baa, baa, black sheep , \n Have you any wool? \n Yes sir, yes sir, \n Three bags full. \n One for the master, \n One for the dame, \n One for the little boy \n Who lives down the lane.",
+	"objects": [
+		{
+			"x": 960,
+			"y": 14,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 658,
+			"y": 66,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "house.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 598,
+			"y": 416,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "bb.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 542,
+			"y": 231,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "cloude3.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 854,
+			"y": 718,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 1025,
+			"y": 661,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation" : "rotateFullForever"
+		},
+		{
+			"x": 533,
+			"y": 739,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 304,
+			"y": 596,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 256,
+			"y": 555,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "flowers.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 1252,
+			"y": 576,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "flowers.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 598,
+			"y": 417,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"sound": "kindergarten8/rhymes/audio/common/sheep.mp3",
+			"image": "sheep.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 258,
+			"y": 417,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "bag.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 438,
+			"y": 417,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "bag.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 348,
+			"y": 447,
+			"dir":"kindergarten8/rhymes/images/bbs/",
+			"image": "bag.png",
+			"position": "absolute",
+			"animation" : "wiggle"
+		}						
+	]
+}

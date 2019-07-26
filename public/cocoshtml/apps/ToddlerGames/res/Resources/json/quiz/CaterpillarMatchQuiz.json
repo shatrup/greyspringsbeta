@@ -1,0 +1,20 @@
+{
+    "id": "CaterpillarMatchQuiz",
+    "type": "CaterpillarMatchQuiz",
+    "complexity": "medium",
+    "qsBgColor": "A5D060",
+    "sets": [
+    {
+      "id": "monster_color",
+      "type": "color",
+      "bgImg" : "common/backgrounds/background_fullbleed/background_green_fullbleed.png",      
+      "bgMusic": "caption_drag_monsters_correct_color",
+      "question": "caption_drag_monsters_correct_color",      
+      "objectSrc": "realworld_set_color_set3_large",
+	  "excludeObjectIds": ["color_set3_large_white"],
+      "customKey1": "color",
+      "customKey2": "",
+	  "isFullBleed":true
+    }
+  ] 
+}

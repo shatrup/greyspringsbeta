@@ -1,0 +1,22 @@
+{
+    "id": "BalloonPopV3Quiz",
+    "type": "BalloonPopV3Quiz",
+    "complexity": "medium",
+    "sets": [    
+    {
+      "id": "balloon_color",
+      "type": "color", 
+      "bgMusic": "caption_touch_balloons_{0}",
+	  "qsBgColor": "60C0CC",
+      "bgImg" : "common/scenes/scene179/balloon_pop_background.png",   
+      "title": "tiletitle_ToddlerGames_BalloonPopV2Quiz",
+      "question": "caption_touch_balloons_color_format",      
+      "objectSrc": "realworld_set_balloon_set1",
+      "customKey1": "effect_boom",
+      "customKey2": "common/scenes/scene179/balloon_burst_1.png",
+      "customKey3": "balloon",
+	  "customKey4": "burst_color",
+	  "isFullBleed": true
+    }
+  ] 
+}

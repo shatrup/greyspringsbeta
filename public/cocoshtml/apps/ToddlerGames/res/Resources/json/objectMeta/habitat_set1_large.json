@@ -1,0 +1,97 @@
+{
+    "name": "habitat_set1_large",
+    "type": "",
+    "suffix": "habitat_set1_large_",
+    "objectList": [
+       {
+                    "objectId": "habitat_set1_large_barn",
+                    "name": "animal_cow",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_barn.png",
+                    "w": 82.943,
+                    "h": 67.522,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_cave",
+                    "name": "animal_lion",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_cave.png",
+                    "w": 82.943,
+                    "h": 47.098,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_fence",
+                    "name": "animal_sheep",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_fence.png",
+                    "w": 82.526,
+                    "h": 55.434,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_forest",
+                    "name": "animal_elephant",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_forest.png",
+                    "w": 82.943,
+                    "h": 64.187,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_kennel",
+                    "name": "animal_dog",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_kennel.png",
+                    "w": 69.606,
+                    "h": 81.693,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_marsh",
+                    "name": "animal_rhino",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_marsh.png",
+                    "w": 82.943,
+                    "h": 65.438,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_mouse_hole",
+                    "name": "animal_mouse",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_mouse_hole.png",
+                    "w": 82.11,
+                    "h": 42.514,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_pillow",
+                    "name": "animal_cat",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_pillow.png",
+                    "w": 82.943,
+                    "h": 47.932,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_puddle",
+                    "name": "animal_pig",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_puddle.png",
+                    "w": 82.526,
+                    "h": 53.767,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "habitat_set1_large_rabbit_hole",
+                    "name": "animal_rabbit",
+                    "imageUri": "common/habitat/habitat_set1/habitat_set1_large/habitat_set1_large_rabbit_hole.png",
+                    "w": 82.526,
+                    "h": 56.685,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "BasicCrossWordQuiz",
+    "type": "BasicCrossWordQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "english_object",
+      "type": "english_object",
+      "bgMusic": "caption_complete_crossword_correct_letters",
+      "question": "caption_complete_crossword_correct_letters",      
+      "objectSrc": "realworld_set_english_object_set1_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_crossword.png",
+      "customKey1": "alphabet_set11_medium",
+	  "isFullBleed": true
+    }
+  ] 
+}

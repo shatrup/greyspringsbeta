@@ -1,0 +1,282 @@
+{
+    "name": "alphabet_object_set3_small",
+    "type": "alphabet",
+    "suffix": "alphabet_object_set3_small_",
+    "objectList": [
+        {
+            "objectId": "alphabet_object_set3_small_ant",
+            "name": "alphabet_ant",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_ant.png",
+            "w": 22.924,
+            "h": 12.087,
+            "phonic": "alphabet_phonic_a",
+            "alphabet": "alphabet_a",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_bear",
+            "name": "alphabet_bear",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_bear.png",
+            "w": 15.422,
+            "h": 22.507,
+            "phonic": "alphabet_phonic_b",
+            "alphabet": "alphabet_b",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_cow",
+            "name": "alphabet_cow",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_cow.png",
+            "w": 22.924,
+            "h": 17.089,
+            "phonic": "alphabet_phonic_c",
+            "alphabet": "alphabet_c",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_duck",
+            "name": "alphabet_duck",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_duck.png",
+            "w": 17.506,
+            "h": 22.09,
+            "phonic": "alphabet_phonic_d",
+            "alphabet": "alphabet_d",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_egg",
+            "name": "alphabet_egg",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_egg.png",
+            "w": 22.924,
+            "h": 12.921,
+            "phonic": "alphabet_phonic_e",
+            "alphabet": "alphabet_e",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_fox",
+            "name": "alphabet_fox",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_fox.png",
+            "w": 17.506,
+            "h": 22.507,
+            "phonic": "alphabet_phonic_f",
+            "alphabet": "alphabet_f",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_guitar",
+            "name": "alphabet_guitar",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_guitar.png",
+            "w": 17.089,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_g",
+            "alphabet": "alphabet_g",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_horse",
+            "name": "alphabet_horse",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_horse.png",
+            "w": 15.005,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_h",
+            "alphabet": "alphabet_h",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_ice",
+            "name": "alphabet_ice",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_ice.png",
+            "w": 22.507,
+            "h": 23.341,
+            "phonic": "alphabet_phonic_i",
+            "alphabet": "alphabet_i",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_joker",
+            "name": "alphabet_joker",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_joker.png",
+            "w": 16.672,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_j",
+            "alphabet": "alphabet_j",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_kite",
+            "name": "alphabet_kite",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_kite.png",
+            "w": 11.254,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_k",
+            "alphabet": "alphabet_k",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_lion",
+            "name": "alphabet_lion",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_lion.png",
+            "w": 15.005,
+            "h": 22.09,
+            "phonic": "alphabet_phonic_l",
+            "alphabet": "alphabet_l",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_mouse",
+            "name": "alphabet_mouse",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_mouse.png",
+            "w": 17.506,
+            "h": 22.507,
+            "phonic": "alphabet_phonic_m",
+            "alphabet": "alphabet_m",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_nest",
+            "name": "alphabet_nest",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_nest.png",
+            "w": 21.674,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_n",
+            "alphabet": "alphabet_n",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_orange",
+            "name": "alphabet_orange",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_orange.png",
+            "w": 19.173,
+            "h": 22.507,
+            "phonic": "alphabet_phonic_o",
+            "alphabet": "alphabet_o",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_panda",
+            "name": "alphabet_panda",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_panda.png",
+            "w": 20.006,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_p",
+            "alphabet": "alphabet_p",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_queen",
+            "name": "alphabet_queen",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_queen.png",
+            "w": 15.005,
+            "h": 23.341,
+            "phonic": "alphabet_phonic_q",
+            "alphabet": "alphabet_q",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_rose",
+            "name": "alphabet_rose",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_rose.png",
+            "w": 15.422,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_r",
+            "alphabet": "alphabet_r",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_sheep",
+            "name": "alphabet_sheep",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_sheep.png",
+            "w": 19.59,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_s",
+            "alphabet": "alphabet_s",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_toothbrush",
+            "name": "alphabet_toothbrush",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_toothbrush.png",
+            "w": 7.919,
+            "h": 22.09,
+            "phonic": "alphabet_phonic_t",
+            "alphabet": "alphabet_t",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_umbrella",
+            "name": "alphabet_umbrella",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_umbrella.png",
+            "w": 20.006,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_u",
+            "alphabet": "alphabet_u",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_van",
+            "name": "alphabet_van",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_van.png",
+            "w": 22.924,
+            "h": 16.53,
+            "phonic": "alphabet_phonic_v",
+            "alphabet": "alphabet_v",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_worm",
+            "name": "alphabet_worm",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_worm.png",
+            "w": 14.588,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_w",
+            "alphabet": "alphabet_w",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_xray",
+            "name": "alphabet_xray",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_xray.png",
+            "w": 22.507,
+            "h": 22.924,
+            "phonic": "alphabet_phonic_x",
+            "alphabet": "alphabet_x",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set3_small_yoyo",
+            "name": "alphabet_yoyo",
+            "imageUri": "common/alphabets/alphabet_object_set3/alphabet_object_set3_small/alphabet_object_set3_small_yoyo.png",
+            "w": 22.924,
+            "h": 16.672,
+            "phonic": "alphabet_phonic_y",
+            "alphabet": "alphabet_y",
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

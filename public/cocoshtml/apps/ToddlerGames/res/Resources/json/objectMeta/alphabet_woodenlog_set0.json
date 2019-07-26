@@ -1,0 +1,267 @@
+{
+    "name": "alphabet_woodenlog_set0",
+    "type": "",
+    "suffix": "alphabet_woodenlog_set0_",
+    "objectList": [
+        {
+            "objectId": "alphabet_woodenlog_set0_a",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_a",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_a",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_b",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_b",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_b",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_c",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_c",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_c",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_d",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_d",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_d",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_e",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_e",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_e",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_f",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_f",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_f",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_g",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_g",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_g",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_h",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_h",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_h",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_i",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_i",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_i",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_j",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_j",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_j",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_k",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_k",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_k",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_l",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_l",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_l",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_m",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_m",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_m",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_n",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_n",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_n",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_o",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_o",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_o",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_p",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_p",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_p",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_q",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_q",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_q",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_r",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_r",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_r",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_s",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_s",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_s",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_t",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_t",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_t",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_u",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_u",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_u",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_v",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_v",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_v",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_w",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_w",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_w",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_x",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_x",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_x",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_y",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_y",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_y",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_woodenlog_set0_z",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=alphabet_set1_z",
+            "w": 5,
+            "h": 5,
+            "audioId": "alphabet_z",
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

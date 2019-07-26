@@ -1,0 +1,18 @@
+{
+    "id": "animalsPage",
+    "title": "ms-resource:MyPaintings_Title",
+	"bgAudio": "/audio/colorbookomeAudio.mp3",
+    "panel": {
+        "clusters": [
+            {
+                "name": "colorBookCluster",
+                "title": "Color Image Holder",
+                "type": "MyPaintingsClusterControl",
+                "requestUri": "/data/pageJson/colorsMyPaintingsInnerLevel.json",
+                "options": {
+                    "isBleed": false
+                }
+            }
+        ]
+    }
+}

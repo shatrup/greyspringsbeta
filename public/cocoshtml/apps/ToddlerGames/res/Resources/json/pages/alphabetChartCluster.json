@@ -1,0 +1,203 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Color Book",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_AlphabetChart"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/a_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/A.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/b_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/B.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/c_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/C.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/d_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/D.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/e_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/E.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/f_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/F.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/g_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/G.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/h_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/H.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/i_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/I.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/j_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/J.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/k_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/K.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/l_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/L.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/m_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/M.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/n_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/N.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/o_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/O.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/p_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/P.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/q_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/Q.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/r_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/R.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/s_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/S.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/t_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/T.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/u_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/U.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/v_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/V.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/w_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/W.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/x_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/X.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/y_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/Y.mp3"
+					}
+				},
+				{
+					"type" : "alphabetsChartTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/z_letter.png",
+						"clicktarget" : "ms-audio://data/alphabets/audio/Z.mp3"
+					}
+				}
+			]
+		}
+	]
+}

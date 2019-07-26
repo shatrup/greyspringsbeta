@@ -1,0 +1,115 @@
+{
+	"name": "animal_scene193_mum",
+	"type": "animal",
+	"suffix": "animal_scene193_mum_",
+	"objectList": [
+		{
+			"objectId": "animal_scene193_mum_camel",
+			"name": "animal_camel",
+			"imageUri": "common/scenes/scene193/rws193_camel.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "land",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_cow",
+			"name": "animal_cow",
+			"imageUri": "common/scenes/scene193/rws193_cow.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "farm",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_dog",
+			"name": "animal_dog",
+			"imageUri": "common/scenes/scene193/rws193_dog.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "land",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_elephant",
+			"name": "animal_elephant",
+			"imageUri": "common/scenes/scene193/rws193_elephant.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "land",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_horse",
+			"name": "animal_horse",
+			"imageUri": "common/scenes/scene193/rws193_horse.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "farm",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_kangaroo",
+			"name": "animal_kangaroo",
+			"imageUri": "common/scenes/scene193/rws193_kangaroo.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "land",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_lion",
+			"name": "animal_lion",
+			"imageUri": "common/scenes/scene193/rws193_lioness.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "land",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_pig",
+			"name": "animal_pig",
+			"imageUri": "common/scenes/scene193/rws193_pig.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "farm",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_rabbit",
+			"name": "animal_rabbit",
+			"imageUri": "common/scenes/scene193/rws193_rabbit.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "farm",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_sheep",
+			"name": "animal_sheep",
+			"imageUri": "common/scenes/scene193/rws193_sheep.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "farm",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_snake",
+			"name": "animal_snake",
+			"imageUri": "common/scenes/scene193/rws193_snake.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "land",
+			"color": ""
+		},
+		{
+			"objectId": "animal_scene193_mum_zebra",
+			"name": "animal_zebra",
+			"imageUri": "common/scenes/scene193/rws193_zebra.png",
+			"w": 385.54,
+			"h": 237.159,
+			"shape": "land",
+			"color": ""
+		}
+	]
+}

@@ -1,0 +1,151 @@
+{
+    "name": "shape_set4_small",
+    "type": "shape",
+    "suffix": "shape_set4_small_",
+    "objectList": [
+        {
+            "objectId": "shape_set4_small_circle",
+            "name": "shape_circle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_circle.png",
+            "w": 23.76,
+            "h": 23.76,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_crescent",
+            "name": "shape_crescent",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_crescent.png",
+            "w": 16.67,
+            "h": 23.34,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_diamond",
+            "name": "shape_diamond",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_diamond.png",
+            "w": 17.92,
+            "h": 23.76,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_heart",
+            "name": "shape_heart",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_heart.png",
+            "w": 23.34,
+            "h": 20.01,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_hexagon",
+            "name": "shape_hexagon",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_hexagon.png",
+            "w": 23.34,
+            "h": 20.42,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_octagon",
+            "name": "shape_octagon",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_octagon.png",
+            "w": 23.76,
+            "h": 23.76,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_oval",
+            "name": "shape_oval",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_oval.png",
+            "w": 18.34,
+            "h": 23.34,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_pentagon",
+            "name": "shape_pentagon",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_pentagon.png",
+            "w": 23.76,
+            "h": 22.51,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_rectangle",
+            "name": "shape_rectangle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_rectangle.png",
+            "w": 23.34,
+            "h": 13.75,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_semicircle",
+            "name": "shape_semicircle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_semicircle.png",
+            "w": 23.76,
+            "h": 12.09,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_square",
+            "name": "shape_square",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_square.png",
+            "w": 23.76,
+            "h": 23.76,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_star",
+            "name": "shape_star",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_star.png",
+            "w": 23.76,
+            "h": 23.76,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_trapezium",
+            "name": "shape_trapezium",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_trapezium.png",
+            "w": 23.76,
+            "h": 10.42,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_triangle",
+            "name": "shape_triangle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_triangle.png",
+            "w": 23.34,
+            "h": 20.42,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_triangle_1",
+            "name": "shape_triangle_1",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_triangle_1.png",
+            "w": 23.76,
+            "h": 23.76,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_small_triangle_2",
+            "name": "shape_triangle_2",
+            "imageUri": "common/shapes/shape_set4/shape_set4_small/shape_set4_small_triangle_2.png",
+            "w": 23.76,
+            "h": 8.34,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

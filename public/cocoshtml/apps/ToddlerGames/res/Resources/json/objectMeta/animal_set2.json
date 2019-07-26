@@ -1,0 +1,52 @@
+{
+    "name": "animal_set2",
+    "type": "animal",
+    "suffix": "animal_set2_",
+    "objectList": [
+        {
+            "objectId": "animal_set2_cat_0",
+            "name": "",
+            "imageUri": "common/animals/animal_set2/animal_set2_cat_0.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set2_cat_1",
+            "name": "",
+            "imageUri": "common/animals/animal_set2/animal_set2_cat_1.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set2_cat_2",
+            "name": "",
+            "imageUri": "common/animals/animal_set2/animal_set2_cat_2.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set2_cat_3",
+            "name": "",
+            "imageUri": "common/animals/animal_set2/animal_set2_cat_3.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set2_cat_4",
+            "name": "",
+            "imageUri": "common/animals/animal_set2/animal_set2_cat_4.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

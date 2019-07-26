@@ -1,0 +1,16 @@
+
+{
+	"id": "MathGames",
+    "title": "ms-resource:PageTitle_MathGames",
+	"bgAudio": "/audio/home.mp3",
+    "panel": {
+        "clusters": [		
+			{
+			    "name": "quizCluster",
+                "title": "quizCluster",
+                "type": "ClusterControl",
+                "requestUri": "json/pages/MathGamesQuizCluster.json"
+			}		
+     ]
+    }
+}

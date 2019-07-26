@@ -1,0 +1,16 @@
+{
+    "id": "ChristmasTreeDecorationQuiz",
+    "type": "ChristmasTreeDecorationQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+	"bgImg" : "common/scenes/scene204/christmas_bg.png",
+    "bgMusic": "",
+    "question": "",
+    "sets": [
+    {
+      "id": "set0",
+      "type": "decorate",
+      "objectSrc": ""
+    }
+  ] 
+}

@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set6",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set6_",
+    "objectList": [
+		{
+			"objectId": "life_cycle_set6_butterfly_1",
+			"name": "word_eggs",
+			"imageUri": "common/life_cycle/life_cycle_set1/butterfly_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_eggs"
+		},
+		{
+			"objectId": "life_cycle_set6_butterfly_2",
+			"name": "word_caterpillar",
+			"imageUri": "common/life_cycle/life_cycle_set1/butterfly_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_caterpillar"
+		},
+		{
+			"objectId": "life_cycle_set6_butterfly_4",
+			"name": "word_butterfly",
+			"imageUri": "common/life_cycle/life_cycle_set1/butterfly_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_butterfly"
+		},
+		{
+			"objectId": "life_cycle_set6_butterfly_3",
+			"name": "word_pupa",
+			"imageUri": "common/life_cycle/life_cycle_set1/butterfly_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_pupa"
+		}
+    ]
+}

@@ -1,0 +1,98 @@
+
+        {
+            "name": "learn_to_write_numbers",
+            "type": "learn",
+            "suffix": "learn_to_write_numbers_",
+            "objectList": [
+                {
+                    "objectId": "learn_to_write_numbers_zero",
+                    "name": "learn_zero",
+                    "imageUri": "playground/tracing_items/0.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_one",
+                    "name": "learn_one",
+                    "imageUri": "playground/tracing_items/1.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_two",
+                    "name": "learn_two",
+                    "imageUri": "playground/tracing_items/2.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_three",
+                    "name": "learn_three",
+                    "imageUri": "playground/tracing_items/3.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_four",
+                    "name": "learn_four",
+                    "imageUri": "playground/tracing_items/4.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_five",
+                    "name": "learn_five",
+                    "imageUri": "playground/tracing_items/5.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_six",
+                    "name": "learn_six",
+                    "imageUri": "playground/tracing_items/6.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_seven",
+                    "name": "learn_seven",
+                    "imageUri": "playground/tracing_items/7.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+				{
+                    "objectId": "learn_to_write_numbers_eight",
+                    "name": "learn_eight",
+                    "imageUri": "playground/tracing_items/8.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                },
+                {
+                    "objectId": "learn_to_write_numbers_nine",
+                    "name": "learn_nine",
+                    "imageUri": "playground/tracing_items/9.png",
+                    "w": 194.229,
+                    "h": 194.229,
+                    "text": "number",
+                    "color": ""
+                }
+            ]
+        }

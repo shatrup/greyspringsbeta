@@ -1,0 +1,30 @@
+{
+    "id": "ColorFunQuiz",
+    "type": "ColorFunQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+    "sets": [
+    {
+      "id": "rws165",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_165",      
+      "bgMusic": "caption_touch_the_clouds",
+      "question": "caption_touch_the_clouds",      
+      "objectSrc": "star_big",
+      "customKey1": "color",
+      "customKey2": "",
+	  "isFullBleed":true
+    },
+	{
+      "id": "rws165_2",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_165_2",      
+      "bgMusic": "caption_grow_new_flowers",
+      "question": "caption_grow_new_flowers",      
+      "objectSrc": "star_big",
+      "customKey1": "color",
+      "customKey2": "",
+	  "isFullBleed":true
+    }
+  ] 
+}

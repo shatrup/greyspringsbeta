@@ -1,0 +1,43 @@
+{
+    "name": "crayon_set3",
+    "type": "crayon",
+    "suffix": "crayon_set3_",
+    "objectList": [
+        {
+            "objectId": "crayon_set3_crayon_1",
+            "name": "crayon",
+            "imageUri": "common/scenes/scene170/rws170_chalk.png",
+			"w": 98.365,
+			"h": 32.51,
+            "shape": "",
+            "color": "4"
+        },
+        {
+            "objectId": "crayon_set3_crayon_2",
+            "name": "crayon",
+            "imageUri": "common/scenes/scene170/rws170_chalk.png",
+			"w": 98.365,
+			"h": 32.51,
+            "shape": "",
+            "color": "2"
+        },
+        {
+            "objectId": "crayon_set3_crayon_3",
+            "name": "crayon",
+            "imageUri": "common/scenes/scene170/rws170_chalk.png",
+			"w": 98.365,
+			"h": 32.51,
+            "shape": "",
+            "color": "9"
+        },
+        {
+            "objectId": "crayon_set3_crayon_4",
+            "name": "crayon",
+            "imageUri": "common/scenes/scene170/rws170_chalk.png",
+			"w": 98.365,
+			"h": 32.51,
+            "shape": "",
+            "color": "0"
+        }
+    ]
+}

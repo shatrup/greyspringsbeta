@@ -1,0 +1,51 @@
+{
+    "id": "BalanceQuiz",
+    "type": "BalanceQuiz",
+    "complexity": "medium",
+    "qsBgColor": "7A4C25",
+    "bgImg" : "common/backgrounds/background_fullbleed/background_wood.png", 
+    "sets": [
+    {
+      "id": "set_1",
+      "type": "fish",
+      "bgMusic": "caption_make_equal",
+      "question": "caption_make_equal",      
+      "objectSrc": "realworld_set_fruit_set1"
+    },
+    {
+      "id": "set_2",
+      "type": "vehicle",
+      "bgMusic": "caption_make_equal",
+      "question": "caption_make_equal",      
+      "objectSrc": "realworld_set_candy_set1"
+    },
+    {
+      "id": "set_3",
+      "type": "vehicle",
+      "bgMusic": "caption_make_equal",
+      "question": "caption_make_equal",      
+      "objectSrc": "realworld_set_stickers_candy_set1"
+    },
+    {
+      "id": "set_4",
+      "type": "animal",
+      "bgMusic": "caption_make_equal",
+      "question": "caption_make_equal",      
+      "objectSrc": "realworld_set_animal_set5_large"
+    },
+    {
+      "id": "set_5",
+      "type": "fruit",
+      "bgMusic": "caption_make_equal",
+      "question": "caption_make_equal",
+      "objectSrc": "realworld_set_fruit_set31_large"
+    },
+    {
+      "id": "set_6",
+      "type": "sea_animal",
+      "bgMusic": "caption_make_equal",
+      "question": "caption_make_equal",
+      "objectSrc": "realworld_set_sea_animal_set10_large"
+    }
+  ] 
+}

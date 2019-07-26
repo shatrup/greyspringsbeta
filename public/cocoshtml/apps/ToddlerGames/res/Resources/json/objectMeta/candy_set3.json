@@ -1,0 +1,70 @@
+{
+    "name": "candy_set3",
+    "type": "",
+    "suffix": "candy_set3_",
+    "objectList": [
+		{
+			"objectId": "candy_set3_candy_blue",
+			"name": "candy_blue",
+			"imageUri": "common/scenes/scene179/candy_blue.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": "blue"
+		},
+		{
+			"objectId": "candy_set3_candy_green",
+			"name": "candy_green",
+			"imageUri": "common/scenes/scene179/candy_green.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": "green"
+		},
+		{
+			"objectId": "candy_set3_candy_orange",
+			"name": "candy_orange",
+			"imageUri": "common/scenes/scene179/candy_orange.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": "orange"
+		},
+		{
+			"objectId": "candy_set3_candy_pink",
+			"name": "candy_pink",
+			"imageUri": "common/scenes/scene179/candy_pink.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": "pink"
+		},
+		{
+			"objectId": "candy_set3_candy_purple",
+			"name": "candy_purple",
+			"imageUri": "common/scenes/scene179/candy_purple.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": "purple"
+		},
+		{
+			"objectId": "candy_set3_candy_red",
+			"name": "candy_red",
+			"imageUri": "common/scenes/scene179/candy_red.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": "red"
+		},
+		{
+			"objectId": "candy_set3_candy_yellow",
+			"name": "candy_yellow",
+			"imageUri": "common/scenes/scene179/candy_yellow.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": "yellow"
+		}
+    ]
+}

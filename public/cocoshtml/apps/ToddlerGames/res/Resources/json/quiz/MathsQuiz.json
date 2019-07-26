@@ -1,0 +1,41 @@
+{
+    "objects": [
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_10.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_11.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_12.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_13.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_14.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_15.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_16.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_17.png"
+        },
+        {
+            "path": "common/stickers/candies",
+            "name": "sticker_18.png"
+        }
+        
+    ]
+}

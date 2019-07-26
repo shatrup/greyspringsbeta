@@ -1,0 +1,97 @@
+{
+    "name": "number_balloon_set2",
+    "type": "",
+    "suffix": "number_balloon_set2_",
+    "objectList": [        
+		{
+			"objectId": "number_balloon_set2_number_0",
+			"name": "0",
+			"imageUri": "common/balloons/number_0.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_1",
+			"name": "1",
+			"imageUri": "common/balloons/number_1.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_2",
+			"name": "2",
+			"imageUri": "common/balloons/number_2.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_3",
+			"name": "3",
+			"imageUri": "common/balloons/number_3.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_4",
+			"name": "4",
+			"imageUri": "common/balloons/number_4.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_5",
+			"name": "5",
+			"imageUri": "common/balloons/number_5.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_6",
+			"name": "6",
+			"imageUri": "common/balloons/number_6.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_7",
+			"name": "7",
+			"imageUri": "common/balloons/number_7.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_8",
+			"name": "8",
+			"imageUri": "common/balloons/number_8.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_balloon_set2_number_9",
+			"name": "9",
+			"imageUri": "common/balloons/number_9.png",
+			"w": 148.381,
+			"h": 192.562,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

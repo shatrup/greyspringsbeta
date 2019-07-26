@@ -1,0 +1,117 @@
+{
+    "name": "number_set16_large",
+    "type": "number",
+    "suffix": "number_set16_large_",
+    "objectList": [
+        {
+            "objectId": "number_set16_large_0",
+            "name": "number_0",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_0.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": "",
+            "audioId": "number_0"
+        },
+        {
+            "objectId": "number_set16_large_1",
+            "name": "number_1",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_1.png",
+            "w": 97.114,
+            "h": 82.943,
+            "shape": "",
+            "color": "",
+            "audioId": "number_1"
+        },
+        {
+            "objectId": "number_set16_large_2",
+            "name": "number_2",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_2.png",
+            "w": 84.61,
+            "h": 82.943,
+            "shape": "",
+            "color": "",
+            "audioId": "number_2"
+        },
+        {
+            "objectId": "number_set16_large_3",
+            "name": "number_3",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_3.png",
+            "w": 102.533,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_3"
+        },
+        {
+            "objectId": "number_set16_large_4",
+            "name": "number_4",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_4.png",
+            "w": 65.021,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_4"
+        },
+        {
+            "objectId": "number_set16_large_5",
+            "name": "number_5",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_5.png",
+            "w": 82.11,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_5"
+        },
+        {
+            "objectId": "number_set16_large_6",
+            "name": "number_6",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_6.png",
+            "w": 76.691,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_6"
+        },
+        {
+            "objectId": "number_set16_large_7",
+            "name": "number_7",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_7.png",
+            "w": 72.106,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_7"
+        },
+        {
+            "objectId": "number_set16_large_8",
+            "name": "number_8",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_8.png",
+            "w": 98.365,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_8"
+        },
+        {
+            "objectId": "number_set16_large_9",
+            "name": "number_9",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_9.png",
+            "w": 55.851,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_9"
+        },
+        {
+            "objectId": "number_set16_large_10",
+            "name": "number_10",
+            "imageUri": "common/numbers/number_set16/number_set16_large/number_set16_large_10.png",
+            "w": 140.045,
+            "h": 83.777,
+            "shape": "",
+            "color": "",
+            "audioId": "number_10"
+        }
+    ]
+}

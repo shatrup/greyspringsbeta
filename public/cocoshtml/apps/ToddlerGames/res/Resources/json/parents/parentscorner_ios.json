@@ -1,0 +1,196 @@
+{
+    "title": "parentszone_parentscorner",
+    "companyName": "Greysprings",
+    "website": "http://www.greysprings.com",
+    "privacyUrl": "http://www.greysprings.com/privacy",
+    "designers": "pthakur@greysprings.com, maharaj@greysprings.com, kangkan@greysprings.com",
+    "sections": [
+        {
+            "id": "actions",
+            "title": "section_actions",
+            "list": [
+                {
+                    "id": "gopremium",
+                    "title": "caption_buyfullversion",
+                    "imgSrc": "common/chrome/buttons/go_premium_button.png",
+                    "target": "appprotocol://parentsgopremium"
+                },
+                {
+                    "id": "restore_transactions",
+                    "title": "caption_restore_purchases",
+                    "imgSrc": "common/chrome/buttons/restore_button.png",
+                    "target": "appprotocol://restore_purchases"
+                },
+                {
+                    "id": "rateus",
+                    "title": "word_rateus",
+                    "imgSrc": "common/chrome/buttons/rate_us_button.png",
+                    "target": "appprotocol://parents_rateus"
+                },
+				{
+					"id": "promocode",
+					"title": "button_text_redeem_promo_code",
+					"imgSrc": "common/chrome/buttons/go_premium_button.png"
+				},
+                {
+                    "id": "sound",
+                    "title": "word_sound"
+                },
+		        {
+		            "id": "music",
+		            "title": "word_music"
+		        }
+            ]
+        },
+        {
+            "id": "offers",
+            "title": "section_offers",
+            "list": [
+                {
+                    "id": "rateus",
+                    "title": "offer_rateus",
+                    "imgSrc": "appprotocol://gopremium",
+                    "desc": ""
+                },
+                {
+                    "id": "gopremium",
+                    "title": "offer_gopremium",
+                    "imgSrc": "appprotocol://rateus",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": "moreapps",
+            "title": "section_moreapps",
+            "list": [
+                {
+                    "id": "PreschoolBasics",
+                    "title": "apptitle_gskids_PreschoolBasics",
+                    "imgSrc": "common/chrome/crossapp/PreschoolBasics/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id817306903?mt=8",
+                    "desc": "appdesc_PreschoolBasics"
+                },
+                {
+                    "id": "PreschoolGames",
+                    "title": "apptitle_gskids_PreschoolGames",
+                    "imgSrc": "common/chrome/crossapp/PreschoolGames/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id726944785?mt=8",
+                    "desc": "appdesc_PreschoolGames"
+                },
+                {
+                    "id": "PreschoolLetters",
+                    "title": "apptitle_gskids_PreschoolLetters",
+                    "imgSrc": "common/chrome/crossapp/PreschoolLetters/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id919899621?mt=8",
+                    "desc": "appdesc_PreschoolLetters"
+                },
+                {
+                    "id": "PreschoolNumbers",
+                    "title": "apptitle_gskids_PreschoolNumbers",
+                    "imgSrc": "common/chrome/crossapp/PreschoolNumbers/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id892282101?mt=8",
+                    "desc": "appdesc_PreschoolNumbers"
+                },
+                {
+                    "id": "ShapesAndColors",
+                    "title": "apptitle_gskids_ShapesAndColors",
+                    "imgSrc": "common/chrome/crossapp/ShapesAndColors/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id897800852?mt=8",
+                    "desc": "appdesc_ShapesAndColors"
+                },
+                {
+                    "id": "MathGames",
+                    "title": "apptitle_gskids_MathGames",
+                    "imgSrc": "common/chrome/crossapp/MathGames/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id975978247?mt=8",
+                    "desc": "appdesc_MathGames"
+                },
+                {
+                    "id": "JigsawGames",
+                    "title": "apptitle_gskids_JigsawGames",
+                    "imgSrc": "common/chrome/crossapp/JigsawGames/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id999758651?mt=8",
+                    "desc": "appdesc_JigsawGames"
+                },
+                {
+                    "id": "JigsawGames",
+                    "title": "bundletitle_30percent_off",
+                    "imgSrc": "common/chrome/crossapp/Offers/offer_wide_30.png",
+                    "target": "itms-apps://itunes.apple.com/us/app-bundle/id952801442?mt=8",
+                    "desc": "appdesc_bundletitle_30percent_off"
+                },
+                {
+                    "id": "JigsawGames",
+                    "title": "bundletitle_50percent_off",
+                    "imgSrc": "common/chrome/crossapp/Offers/offer_wide_50.png",
+                    "target": "itms-apps://itunes.apple.com/us/app-bundle/id1084655924?mt=8",
+                    "desc": "appdesc_bundletitle_50percent_off"
+                },
+                {
+                    "id": "TracingApp",
+                    "title": "apptitle_gskids_TracingApp",
+                    "imgSrc": "common/chrome/crossapp/TracingApp/logo_wide.png",
+                    "target": "itms-apps://itunes.apple.com/app/id1330689476?mt=8",
+                    "desc": "appdesc_TracingApp"
+                }
+            ]
+        },
+        {
+            "id": "social",
+            "title": "section_followus",
+            "list": [
+                {
+                    "id": "facebook",
+                    "title": "word_facebook",
+                    "imgSrc": "common/chrome/social/icon_facebook.png",
+                    "target": "fb://profile/142825835780590"
+                },
+                {
+                    "id": "googleplus",
+                    "title": "word_googleplus",
+                    "imgSrc": "common/chrome/social/icon_googleplus.png",
+                    "target": "gplus://plus.google.com/111631486877697048983/"
+                },
+                {
+                    "id": "twitter",
+                    "title": "word_twitter",
+                    "imgSrc": "common/chrome/social/icon_twitter_0.png",
+                    "target": "twitter://user?id=1572976586"
+                },
+                {
+                    "id": "youtube",
+                    "title": "word_youtube",
+                    "imgSrc": "common/chrome/social/icon_youtube.png",
+                    "target": "youtube://www.youtube.com/channel/UCSWsOyjT6cOLgizVizviMjQ"
+                }
+            ]
+        },
+        {
+            "id": "links",
+            "title": "section_reachus",
+            "list": [
+                {
+                    "id": "website",
+                    "title": "website_url",
+                    "target": "http://www.greysprings.com"
+                },
+                {
+                    "id": "privacy",
+                    "title": "text_privacy_policy",
+                    "target": "http://www.greysprings.com/privacy"
+                },
+                {
+                    "id": "gsonstore",
+                    "title": "text_greysprings_onstore",
+                    "target": "itms-apps://itunes.com/apps/greyspringssoftwaresolutionspvtltd"
+                },
+                {
+                    "id": "contact",
+                    "title": "contact_email",
+                    "target": "http://www.greysprings.com/contact"
+                }
+            ]
+        }
+    ]
+}

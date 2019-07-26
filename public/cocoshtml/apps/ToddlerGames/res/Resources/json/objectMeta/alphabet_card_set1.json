@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_card_set1",
+    "type": "alphabet",
+    "suffix": "alphabet_card_set1_",
+    "objectList": [
+        {
+            "objectId": "alphabet_card_set1_a",
+            "name": "alphabet_a",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_a",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_b",
+            "name": "alphabet_b",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_b",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_c",
+            "name": "alphabet_c",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_c",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_d",
+            "name": "alphabet_d",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_d",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_e",
+            "name": "alphabet_e",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_e",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_f",
+            "name": "alphabet_f",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_f",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_g",
+            "name": "alphabet_g",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_g",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_h",
+            "name": "alphabet_h",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_h",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_i",
+            "name": "alphabet_i",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_i",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_j",
+            "name": "alphabet_j",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_j",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_k",
+            "name": "alphabet_k",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_k",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_l",
+            "name": "alphabet_l",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_l",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_m",
+            "name": "alphabet_m",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_m",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_n",
+            "name": "alphabet_n",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_n",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_o",
+            "name": "alphabet_o",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_o",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_p",
+            "name": "alphabet_p",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_p",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_q",
+            "name": "alphabet_q",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_q",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_r",
+            "name": "alphabet_r",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_r",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_s",
+            "name": "alphabet_s",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_s",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_t",
+            "name": "alphabet_t",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_t",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_u",
+            "name": "alphabet_u",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_u",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_v",
+            "name": "alphabet_v",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_v",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_w",
+            "name": "alphabet_w",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_w",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_x",
+            "name": "alphabet_x",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_x",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_y",
+            "name": "alphabet_y",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_y",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_card_set1_z",
+            "name": "alphabet_z",
+            "imageUri": "potsprite://bundlesprite?bgId=quizchrome_set1_card&imgColor=000000&imgId=alphabet_set11_x_large_z",
+            "w": 131.292,
+            "h": 125.874,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

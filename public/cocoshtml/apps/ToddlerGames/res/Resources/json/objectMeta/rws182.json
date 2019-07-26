@@ -1,0 +1,247 @@
+{
+    "name": "rws182",
+    "type": "",
+    "suffix": "rws182",
+    "objectList": [
+		  {
+			 "objectId":"rws182_rock_front_1",
+			 "imageUri":"common/scenes/scene182/rock_front.png",
+			 "x":47,
+			 "y":16,
+			 "zIndex":50
+		  },
+		  {
+			 "objectId":"rws182_rock_background_1",
+			 "imageUri":"common/scenes/scene182/rock_background_1.png",
+			 "x":440,
+			 "y":60,
+			 "zIndex":30
+		  },
+		  {
+			 "objectId":"rws182_bubble_source_1",
+			 "imageUri":"common/scenes/scene182/bubble_source_1.png",
+			 "x":140,
+			 "y":24,
+			 "zIndex":50
+		  },
+		  {
+			 "objectId":"rws182_bubble_source_2",
+			 "imageUri":"common/scenes/scene182/bubble_source_2.png",
+			 "x":309,
+			 "y":27,
+			 "zIndex":50
+		  },
+		  {
+			 "objectId":"rws182_bubble_source_3",
+			 "imageUri":"common/scenes/scene182/bubble_source_3.png",
+			 "x":405,
+			 "y":25,
+			 "zIndex":50
+		  },
+		  {
+			 "objectId":"rws182_rock_background_2",
+			 "imageUri":"common/scenes/scene182/rock_background_2.png",
+			 "x":92,
+			 "y":43,
+			 "zIndex":30
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_front.png",
+			 "x":30,
+			 "y":75,
+			 "zIndex":40
+		  },
+		  {
+			 "objectId":"rws182_lights",
+			 "imageUri":"common/scenes/scene182/lights.png",
+			 "x":282,
+			 "y":160,
+			 "zIndex":100
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_background.png",
+			 "x":107,
+			 "y":66,
+			 "zIndex":1
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_background.png",
+			 "x":87,
+			 "y":72,
+			 "scale": 0.67,
+			 "zIndex":1
+		  },
+		  {
+			 "objectId":"rws182_bubble_source_4",
+			 "imageUri":"common/scenes/scene182/bubble_source_4.png",
+			 "x":223,
+			 "y":22,
+			 "zIndex":50
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_front_1.png",
+			 "x":545,
+			 "y":66,
+			 "zIndex":40
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_background_1.png",
+			 "x":539,
+			 "y":109,
+			 "zIndex":1
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_background_1.png",
+			 "x":524,
+			 "y":106,
+			 "scale": 0.9,
+			 "zIndex":1
+		  },
+		  {
+			 "objectId":"rws182_fish_secondary",
+			 "imageUri":"common/scenes/scene182/fish_secondary.png",
+			 "x":102,
+			 "y":180,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_fish_secondary",
+			 "imageUri":"common/scenes/scene182/fish_secondary.png",
+			 "x":137,
+			 "y":107,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_fish_secondary",
+			 "imageUri":"common/scenes/scene182/fish_secondary.png",
+			 "x":324,
+			 "y":220,
+			 "zIndex":1,
+			 "isFlipX": true,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_fish_secondary",
+			 "imageUri":"common/scenes/scene182/fish_secondary.png",
+			 "x":290,
+			 "y":137,
+			 "zIndex":1,
+			 "isFlipX": true,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_rock_front_2",
+			 "imageUri":"common/scenes/scene182/rock_front.png",
+			 "x":520,
+			 "y":17,
+			 "isFlipX": true,
+			 "zIndex":50
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_background.png",
+			 "x":446,
+			 "y":80,
+			 "isFlipX": true,
+			 "scale": 0.33,
+			 "zIndex":1
+		  },
+		  {
+			 "objectId":"rws182_leaf",
+			 "imageUri":"common/scenes/scene182/leaf_background.png",
+			 "x":452,
+			 "y":81,
+			 "isFlipX": true,
+			 "scale": 0.3,
+			 "zIndex":1
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":129,
+			 "y":37,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":147,
+			 "y":46,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":205,
+			 "y":35,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":226,
+			 "y":36,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":235,
+			 "y":43,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":287,
+			 "y":46,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":307,
+			 "y":55,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":331,
+			 "y":44,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":392,
+			 "y":37,
+			 "zIndex":1,
+			 "visible": false
+		  },
+		  {
+			 "objectId":"rws182_bubble_1",
+			 "imageUri":"common/scenes/scene182/bubble_1.png",
+			 "x":410,
+			 "y":49,
+			 "zIndex":1,
+			 "visible": false
+		  }
+    ]
+}

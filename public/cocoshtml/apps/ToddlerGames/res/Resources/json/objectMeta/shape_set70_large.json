@@ -1,0 +1,147 @@
+{
+    "name": "shape_set70_large",
+    "type": "shape",
+    "suffix": "shape_set70_large_",
+    "objectList": [
+        {
+            "objectId": "shape_set70_large_circle_1",
+            "name": "shape_circle",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_circle_1.png",
+            "w": 81.276,
+            "h": 81.276,
+            "shape": "shape_circle",
+            "shape": "shape_circle",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_crescent_1",
+            "name": "shape_crescent",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_crescent_1.png",
+            "w": 55.851,
+            "h": 81.693,
+            "shape": "shape_crescent",
+            "shape": "shape_crescent",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_diamond_1",
+            "name": "shape_diamond",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_diamond_1.png",
+            "w": 81.693,
+            "h": 81.693,
+            "shape": "shape_diamond",
+            "shape": "shape_diamond",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_heart_1",
+            "name": "shape_heart",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_heart_1.png",
+            "w": 80.026,
+            "h": 73.774,
+            "shape": "shape_heart",
+            "shape": "shape_heart",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_hexagon_1",
+            "name": "shape_hexagon",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_hexagon_1.png",
+            "w": 82.11,
+            "h": 71.273,
+            "shape": "shape_hexagon",
+            "shape": "shape_hexagon",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_narrow_mouth_1",
+            "name": "shape_crescent",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_narrow_mouth_1.png",
+            "w": 82.11,
+            "h": 66.271,
+            "shape": "shape_crescent",
+            "shape": "shape_crescent",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_oval_1",
+            "name": "shape_oval",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_oval_1.png",
+            "w": 57.102,
+            "h": 82.11,
+            "shape": "shape_oval",
+            "shape": "shape_oval",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_pentagon_1",
+            "name": "shape_pentagon",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_pentagon_1.png",
+            "w": 81.276,
+            "h": 80.859,
+            "shape": "shape_pentagon",
+            "shape": "shape_pentagon",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_rectangle_1",
+            "name": "shape_rectangle",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_rectangle_1.png",
+            "w": 82.11,
+            "h": 48.349,
+            "shape": "shape_rectangle",
+            "shape": "shape_rectangle",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_semi_circle_1",
+            "name": "shape_circle",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_semi_circle_1.png",
+            "w": 81.276,
+            "h": 80.859,
+            "shape": "shape_circle",
+            "shape": "shape_circle",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_square_1",
+            "name": "shape_square",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_square_1.png",
+            "w": 81.693,
+            "h": 76.691,
+            "shape": "shape_square",
+            "shape": "shape_square",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set70_large_star_1",
+            "name": "shape_star",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_star_1.png",
+            "w": 82.11,
+            "h": 81.276,
+            "color": "shape_star",
+            "shape": "",
+            "color": "shape_star"
+        },
+        {
+            "objectId": "shape_set70_large_triangle_1",
+            "name": "shape_triangle",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_triangle_1.png",
+            "w": 53.767,
+            "h": 81.276,
+            "color": "shape_triangle",
+            "shape": "",
+            "color": "shape_triangle"
+        },
+        {
+            "objectId": "shape_set70_large_wide_mouth_1",
+            "name": "shape_crescent",
+            "imageUri": "common/shapes/shape_set70/shape_set70_large/shape_set70_large_wide_mouth_1.png",
+            "w": 82.11,
+            "h": 60.019,
+            "color": "shape_crescent",
+            "shape": "",
+            "color": "shape_crescent"
+        }
+    ]
+}

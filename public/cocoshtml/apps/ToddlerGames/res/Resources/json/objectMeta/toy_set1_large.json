@@ -1,0 +1,205 @@
+        {
+            "name": "toy_set1_large",
+            "type": "toy",
+            "suffix": "toy_set1_large_",
+            "objectList": [
+                {
+                    "objectId": "toy_set1_large_ball_1",
+                    "name": "toy_1",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_1.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_10",
+                    "name": "toy_10",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_10.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_11",
+                    "name": "toy_11",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_11.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_12",
+                    "name": "toy_12",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_12.png",
+                    "w": 82.526,
+                    "h": 82.526,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_13",
+                    "name": "toy_13",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_13.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_14",
+                    "name": "toy_14",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_14.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_15",
+                    "name": "toy_15",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_15.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_16",
+                    "name": "toy_16",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_16.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_17",
+                    "name": "toy_17",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_17.png",
+                    "w": 82.526,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_18",
+                    "name": "toy_18",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_18.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_19",
+                    "name": "toy_19",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_19.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_2",
+                    "name": "toy_2",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_2.png",
+                    "w": 83.36,
+                    "h": 83.36,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_20",
+                    "name": "toy_20",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_20.png",
+                    "w": 83.36,
+                    "h": 83.36,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_21",
+                    "name": "toy_21",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_21.png",
+                    "w": 82.526,
+                    "h": 82.526,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_22",
+                    "name": "toy_22",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_22.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_3",
+                    "name": "toy_3",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_3.png",
+                    "w": 83.36,
+                    "h": 83.36,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_4",
+                    "name": "toy_4",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_4.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_5",
+                    "name": "toy_5",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_5.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_6",
+                    "name": "toy_6",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_6.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_7",
+                    "name": "toy_7",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_7.png",
+                    "w": 82.11,
+                    "h": 82.11,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_8",
+                    "name": "toy_8",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_8.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "toy_set1_large_ball_9",
+                    "name": "toy_9",
+                    "imageUri": "common/toys/toy_set1/toy_set1_large/toy_set1_large_ball_9.png",
+                    "w": 82.943,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                }
+            ]
+        }

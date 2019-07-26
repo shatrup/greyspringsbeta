@@ -1,0 +1,19 @@
+{
+	"id": "ColorBookClusterControl",
+    "title": "Color Book",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ColorBookViewBlock",
+		"data": [
+				{
+					"type" : "colorBookViewBlockTemplate",
+					"data" : {
+						"image": "/data/rhymes/thumbnails/wotb.png",
+						"title": "Wheels on the bus"
+					}
+				}
+			]
+		}
+	]
+}

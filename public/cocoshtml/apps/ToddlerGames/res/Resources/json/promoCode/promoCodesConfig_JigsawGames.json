@@ -1,0 +1,39 @@
+{
+	"subscriptionPromoCodeId" : "JigsawGamesFreeDiamond200", 
+	"promoCodeList": [
+	{
+		"promoCodeId" : "JigsawGamesAdsFree",
+		"promoCodeType" : "AdsFree"
+	},
+	{
+		"promoCodeId" : "JigsawGamesFreeDiamond200",
+		"promoCodeType" : "DIAMOND",
+		"rewardValue" : 200
+	},
+	{
+		"promoCodeId" : "JigsawGamesFreeDiamond400",
+		"promoCodeType" : "DIAMOND",
+		"rewardValue" : 400
+	},
+	{
+		"promoCodeId" : "JigsawGamesFreeDiamond800",
+		"promoCodeType" : "DIAMOND",
+		"rewardValue" : 800
+	},
+	{
+		"promoCodeId" : "JigsawGamesFreeCoins200",
+		"promoCodeType" : "COINS",
+		"rewardValue" : 200
+	},
+	{
+		"promoCodeId" : "JigsawGamesFreeCoins400",
+		"promoCodeType" : "COINS",
+		"rewardValue" : 400
+	},
+	{
+		"promoCodeId" : "JigsawGamesFreeCoins800",
+		"promoCodeType" : "COINS",
+		"rewardValue" : 800
+	}
+]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "crayon_set1",
+    "type": "crayon",
+    "suffix": "crayon_set1_",
+    "objectList": [
+        {
+            "objectId": "crayon_set1_crayon_1",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/crayon_1.png",
+			"w": 23.758,
+			"h": 94.614,
+            "shape": "",
+            "color": "0"
+        },
+        {
+            "objectId": "crayon_set1_crayon_2",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/crayon_1.png",
+			"w": 23.758,
+			"h": 94.614,
+            "shape": "",
+            "color": "9"
+        },
+        {
+            "objectId": "crayon_set1_crayon_3",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/crayon_1.png",
+			"w": 23.758,
+			"h": 94.614,
+            "shape": "",
+            "color": "4"
+        },
+        {
+            "objectId": "crayon_set1_crayon_4",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/crayon_1.png",
+			"w": 23.758,
+			"h": 94.614,
+            "shape": "",
+            "color": "11"
+        },
+        {
+            "objectId": "crayon_set1_crayon_5",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/crayon_1.png",
+			"w": 23.758,
+			"h": 94.614,
+            "shape": "",
+            "color": "13"
+        },
+        {
+            "objectId": "crayon_set1_crayon_6",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/crayon_1.png",
+			"w": 23.758,
+			"h": 94.614,
+            "shape": "",
+            "color": "8"
+        }
+    ]
+}

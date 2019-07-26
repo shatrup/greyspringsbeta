@@ -1,0 +1,16 @@
+{
+    "id": "LearnToWriteTest",
+    "type": "LearnToWriteTest",
+    "complexity": "medium",
+	"bgImg" : "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+    "bgMusic" : "caption_trace_dots_{0}",
+	"qsBgColor": "865B36",
+	"question" : "caption_trace_dots_format",
+	"isFullBleed": true,
+    "sets": [
+		{
+		  "id": "learn_to_write_train_capital_alphabets",
+		  "objectSrc": "realworld_set_learn_to_write_train_capital_alphabets"
+		}
+    ]
+}

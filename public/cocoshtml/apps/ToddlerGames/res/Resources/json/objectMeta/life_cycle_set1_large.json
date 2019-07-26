@@ -1,0 +1,34 @@
+{
+    "name": "life_cycle_set1_large",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set1_large_",
+    "objectList": [
+          {
+                    "objectId": "life_cycle_set1_large_baby",
+                    "name": "word_baby",
+                    "imageUri": "common/life_cycle/life_cycle_set1/life_cycle_set1_large/life_cycle_set1_large_baby.png",
+                    "w": 79.192,
+                    "h": 82.526,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "life_cycle_set1_large_man",
+                    "name": "word_man",
+                    "imageUri": "common/life_cycle/life_cycle_set1/life_cycle_set1_large/life_cycle_set1_large_man.png",
+                    "w": 39.179,
+                    "h": 81.693,
+                    "shape": "",
+                    "color": ""
+				},
+                {
+                    "objectId": "life_cycle_set1_large_boy",
+                    "name": "word_boy",
+                    "imageUri": "common/life_cycle/life_cycle_set1/life_cycle_set1_large/life_cycle_set1_large_boy.png",
+                    "w": 40.013,
+                    "h": 83.36,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

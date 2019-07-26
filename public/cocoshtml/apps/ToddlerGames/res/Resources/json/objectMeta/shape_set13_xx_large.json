@@ -1,0 +1,151 @@
+{
+	"name": "shape_set13_xx_large",
+	"type": "shapes",
+	"suffix": "shape_set13_xx_large_",
+	"objectList": [
+		{
+			"objectId": "shape_set13_xx_large_arrow_down",
+			"name": "_down",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_arrow_down.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_arrow_left",
+			"name": "_left",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_arrow_left.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_arrow_right",
+			"name": "_right",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_arrow_right.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_arrow_up",
+			"name": "_up",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_arrow_up.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_circle",
+			"name": "_circle",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_circle.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_diagonal_left",
+			"name": "_left",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_diagonal_left.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_diagonal_right",
+			"name": "_right",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_diagonal_right.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_horizontal_line",
+			"name": "_line",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_horizontal_line.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_semicircle_down",
+			"name": "_down",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_semicircle_down.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_semicircle_left",
+			"name": "_left",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_semicircle_left.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_semicircle_right",
+			"name": "_right",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_semicircle_right.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_semicircle_up",
+			"name": "_up",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_semicircle_up.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_square",
+			"name": "_square",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_square.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_triangle_down",
+			"name": "_down",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_triangle_down.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_triangle_up",
+			"name": "_up",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_triangle_up.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set13_xx_large_vertical_line",
+			"name": "_line",
+			"imageUri": "common/shapes/shape_set13/shape_set13_xx_large/shape_set13_xx_large_vertical_line.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

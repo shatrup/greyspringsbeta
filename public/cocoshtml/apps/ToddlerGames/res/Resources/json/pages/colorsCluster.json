@@ -1,0 +1,22 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/color_chart.png",
+						"title": "ms-resource:GameTileTitle_Colors",
+						"clicktarget" : "appprotocol://page?id=colorsPage"
+					}
+				}
+				
+			]
+		}
+	]
+}

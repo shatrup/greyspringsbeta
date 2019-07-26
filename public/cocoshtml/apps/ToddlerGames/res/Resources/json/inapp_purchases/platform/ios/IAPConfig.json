@@ -1,0 +1,153 @@
+{
+	"InAppIds": [{
+			"AppIdentifier": "com.greysprings.kindergarten8",
+			"InAppId": "adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.kindergarten8",
+			"InAppId": "com.greysprings.preschoolbasics.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.preschoolnumbers",
+			"InAppId": "com.greysprings.preschoolnumbers.premiumuser.v1",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.preschoolnumbers",
+			"InAppId": "com.greysprings.preschoolnumbers.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.shapesandcolors",
+			"InAppId": "com.greysprings.shapesncolors.premiumuser",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.shapesandcolors",
+			"InAppId": "com.greysprings.shapesandcolors.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.games",
+			"InAppId": "com.greysprings.gspg.premiumupgrade",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.games",
+			"InAppId": "com.greysprings.preschoolgames.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.preschoolletters",
+			"InAppId": "com.greysprings.preschoolletters.premiumuser",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.preschoolletters",
+			"InAppId": "com.greysprings.preschoolletters.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.mathgames",
+			"InAppId": "com.greysprings.mathgames.premiumuser",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.mathgames",
+			"InAppId": "com.greysprings.mathgames.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.toddlergames",
+			"InAppId": "adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.toddlergames",
+			"InAppId": "com.greysprings.toddlergames.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.sciencegames",
+			"InAppId": "sciencegames_adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.sciencegames",
+			"InAppId": "com.greysprings.sciencegames.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.tracingapp",
+			"InAppId": "com.greysprings.tracingapp.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.wordgames",
+			"InAppId": "com.greysprings.wordgames.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.connect.dot.to.dot.ABC.games.kids",
+			"InAppId": "com.greysprings.connectthedots.iap.adsfree",
+			"ActionType": "AdsFree",
+			"Nature": "nonconsumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.jigsawgames",
+			"InAppId": "JigsawGames_diamond_pack1",
+			"ActionType": "AdsFree",
+			"Nature": "consumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.jigsawgames",
+			"InAppId": "com.greysprings.jigsawgames.iap.diamondpack_1",
+			"ActionType": "AdsFree",
+			"Nature": "consumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.jigsawgames",
+			"InAppId": "JigsawGames_diamond_pack2",
+			"ActionType": "AdsFree",
+			"Nature": "consumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.jigsawgames",
+			"InAppId": "com.greysprings.jigsawgames.iap.diamondpack_2",
+			"ActionType": "AdsFree",
+			"Nature": "consumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.jigsawgames",
+			"InAppId": "JigsawGames_diamond_pack3",
+			"ActionType": "AdsFree",
+			"Nature": "consumable"
+		},
+		{
+			"AppIdentifier": "com.greysprings.jigsawgames",
+			"InAppId": "com.greysprings.jigsawgames.iap.diamondpack_3",
+			"ActionType": "AdsFree",
+			"Nature": "consumable"
+		}
+	]
+}

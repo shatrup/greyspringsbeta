@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set8",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set8_",
+    "objectList": [
+                {
+			"objectId": "life_cycle_set8_frog_1",
+			"name": "word_eggs",
+			"imageUri": "common/life_cycle/life_cycle_set4/frog_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_eggs"
+		},
+		{
+			"objectId": "life_cycle_set8_frog_2",
+			"name": "word_tadpole",
+			"imageUri": "common/life_cycle/life_cycle_set4/frog_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_tadpole"
+		},
+		{
+			"objectId": "life_cycle_set8_frog_4",
+			"name": "word_frog",
+			"imageUri": "common/life_cycle/life_cycle_set4/frog_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_frog"
+		},
+		{
+			"objectId": "life_cycle_set8_frog_3",
+			"name": "word_froglet",
+			"imageUri": "common/life_cycle/life_cycle_set4/frog_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_froglet"
+		}
+    ]
+}

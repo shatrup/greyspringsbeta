@@ -1,0 +1,225 @@
+{
+	"id" :  "PreschoolBasicsHomeAlphabetCluster",
+	"hasHeroTile" : false,
+	"heroImgUri" : "kindergarten8/colors.png",
+	"heroTargetUri" : "appprotocol://scene/?id=PanoramaApp.VerticalChartPage",
+	"type": "professions",
+	"tileList": [
+	{
+		"title" :  "ASTRONAUT",
+		"imgUri" : "kindergarten8/professions/animation/astronaut_1.png",
+		"tileAudioId" : "profession_astronaut",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/astronaut_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "CHEF",
+		"imgUri" : "kindergarten8/professions/animation/chef_1.png",
+		"tileAudioId" : "profession_chef",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/chef_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "CONDUCTOR",
+		"imgUri" : "kindergarten8/professions/animation/conductor_1.png",
+		"tileAudioId" : "profession_conductor",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/conductor_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "COURIER BOY",
+		"imgUri" : "kindergarten8/professions/animation/courier_1.png",
+		"tileAudioId" : "profession_courier_boy",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/courier_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "DETECTIVE",
+		"imgUri" : "kindergarten8/professions/animation/detective_1.png",
+		"tileAudioId" : "profession_detective",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/detective_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "DOCTOR",
+		"imgUri" : "kindergarten8/professions/animation/doctor_1.png",
+		"tileAudioId" : "profession_doctor",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/doctor_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "ELECTRICIAN",
+		"imgUri" : "kindergarten8/professions/animation/electrician_1.png",
+		"tileAudioId" : "profession_electrician",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/electrician_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "ENGINEER",
+		"imgUri" : "kindergarten8/professions/animation/engineer_1.png",
+		"tileAudioId" : "profession_engineer",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/engineer_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "FARMER",
+		"imgUri" : "kindergarten8/professions/animation/farmer_1.png",
+		"tileAudioId" : "profession_farmer",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/farmer_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "FIREMAN",
+		"imgUri" : "kindergarten8/professions/animation/fireman_1.png",
+		"tileAudioId" : "profession_fireman",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/fireman_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "GARDENER",
+		"imgUri" : "kindergarten8/professions/animation/gardener_1.png",
+		"tileAudioId" : "profession_gardener",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/gardener_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "SOLDIER",
+		"imgUri" : "kindergarten8/professions/animation/soldier_1.png",
+		"tileAudioId" : "profession_soldier",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/soldier_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "KARATE INSTRUCTOR",
+		"imgUri" : "kindergarten8/professions/animation/karate_instructor_1.png",
+		"tileAudioId" : "profession_karate_instructor",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/karate_instructor_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "TAILOR",
+		"imgUri" : "kindergarten8/professions/animation/tailor_1.png",
+		"tileAudioId" : "profession_tailor",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/tailor_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "TEACHER",
+		"imgUri" : "kindergarten8/professions/animation/teacher_1.png",
+		"tileAudioId" : "profession_teacher",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/teacher_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "TRAFFIC POLICE",
+		"imgUri" : "kindergarten8/professions/animation/traffic_police_1.png",
+		"tileAudioId" : "profession_traffic_police",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/traffic_police_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "VETERINARY DOCTOR",
+		"imgUri" : "kindergarten8/professions/animation/vet_1.png",
+		"tileAudioId" : "profession_veterinary_doctor",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/vet_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "WAITER",
+		"imgUri" : "kindergarten8/professions/animation/waiter_1.png",
+		"tileAudioId" : "profession_waiter",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/professions/animation/waiter_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	}
+]
+}

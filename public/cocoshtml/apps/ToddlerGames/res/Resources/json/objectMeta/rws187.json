@@ -1,0 +1,31 @@
+{
+    "name": "rws187",
+    "type": "",
+    "suffix": "rws187",
+    "objectList": [
+        {
+            "objectId": "rws187_character_body",
+            "imageUri": "common/scenes/scene187/character_body.png",
+            "w": 130.458,
+            "h": 122.956
+        },
+        {
+            "objectId": "rws187_character_eye",
+            "imageUri": "common/scenes/scene187/character_eye.png",
+            "w": 130.458,
+            "h": 122.956
+        },
+        {
+            "objectId": "rws187_color_pencil_1",
+            "imageUri": "common/scenes/scene187/color_pencil_1.png",
+            "w": 135.043,
+            "h": 25.008
+        },
+        {
+            "objectId": "rws187_color_pencil_2",
+            "imageUri": "common/scenes/scene187/color_pencil_2.png",
+            "w": 135.043,
+            "h": 25.008
+        }
+    ]
+}

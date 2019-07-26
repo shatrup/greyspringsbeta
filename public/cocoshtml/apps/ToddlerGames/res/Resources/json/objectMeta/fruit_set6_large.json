@@ -1,0 +1,88 @@
+{
+    "name": "fruit_set6_large",
+    "type": "",
+    "suffix": "fruit_set6_large_",
+    "objectList": [
+        {
+            "objectId": "fruit_set6_large_apple",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_apple.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_avocado",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_avocado.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_banana",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_banana.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_mangosteen",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_mangosteen.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_orange",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_orange.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_papaya",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_papaya.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_pear",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_pear.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_pineapple",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_pineapple.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set6_large_pomegranate",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set6/fruit_set6_large/fruit_set6_large_pomegranate.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

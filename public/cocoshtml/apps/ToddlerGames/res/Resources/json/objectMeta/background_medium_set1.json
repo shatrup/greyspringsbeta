@@ -1,0 +1,43 @@
+{
+    "name": "background_medium_set1",
+    "type": "background_medium",
+    "suffix": "background_medium_set1",
+    "objectList": [
+        {
+            "objectId": "background_medium_set1_blue_sky",
+            "name": "background_sky",
+            "imageUri": "common/backgrounds/background_medium/background_medium_blue_sky.png",
+            "w": 221.321,
+            "h": 157.55,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_medium_set1_blue_sky_with_earth",
+            "name": "background_earth",
+            "imageUri": "common/backgrounds/background_medium/background_medium_blue_sky_with_earth.png",
+            "w": 218.82,
+            "h": 146.297,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_medium_set1_blue_sky_with_earth_and_sun",
+            "name": "background_sun",
+            "imageUri": "common/backgrounds/background_medium/background_medium_blue_sky_with_earth_and_sun.png",
+            "w": 218.403,
+            "h": 156.3,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_medium_set1_sea",
+            "name": "background_sea",
+            "imageUri": "common/backgrounds/background_medium/background_medium_sea.png",
+            "w": 285.091,
+            "h": 200.064,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

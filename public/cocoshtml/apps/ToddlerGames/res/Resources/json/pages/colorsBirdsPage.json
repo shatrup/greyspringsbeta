@@ -1,0 +1,27 @@
+{
+	"id": "animalsPage",
+    "title": "ms-resource:Birds_Tile",
+	"bgAudio": "/audio/colorbookomeAudio.mp3",
+    "panel": {
+        "clusters": [
+			  {
+				"name": "colorBookCluster",
+                "title": "Color Image Holder",
+                "type": "ClusterControl",
+                "requestUri": "/data/pageJson/colorsBirdsInnerLevel.json",
+				"options": {
+					"isBleed": false
+				}
+            },
+			{
+			    "name": "adsCluster",
+                "title": "Ads",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/adsCluster.json",
+				 "requestParams": {
+					"adsName" : "GSPPaint_300x600_BirdsPage_AtEnd"
+				 }
+			}
+		]
+    }
+}

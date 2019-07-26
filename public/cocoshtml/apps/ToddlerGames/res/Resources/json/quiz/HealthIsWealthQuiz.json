@@ -1,0 +1,18 @@
+{
+	"id": "HealthIsWealthQuiz",
+	"type": "HealthIsWealthQuiz",
+	"bgMusic": "caption_lets_eat_healthy",
+	"question": "caption_lets_eat_healthy",
+	"bgImg": "common/scenes/scene196/rws196_background.png",
+	"complexity": "low",
+	"qsBgColor": "60C0CC",
+	"isFullBleed":true,
+   "sets": [
+	   {
+		"id": "food_set",
+		"name": "foods",
+		"objectSrc": "realworld_set_food_set1_medium",
+		"customKey1": "food_set2_medium"
+	   }
+    ] 
+}

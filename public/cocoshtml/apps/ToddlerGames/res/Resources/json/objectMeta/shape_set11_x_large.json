@@ -1,0 +1,87 @@
+{
+    "name": "shape_set11_x_large",
+    "type": "shape",
+    "suffix": "shape_set11_x_large_",
+	"objectList": [
+		{
+			"objectId": "shape_set11_x_large_circle",
+			"name": "shape_circle",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_circle.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set11_x_large_diamond",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_diamond.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set11_x_large_hexagon",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_hexagon.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set11_x_large_pentagon",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_pentagon.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set11_x_large_rectangle",
+			"name": "shape_rectangle",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_rectangle.png",
+			"w": 218.403,
+			"h": 109.202,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set11_x_large_square",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_square.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set11_x_large_star",
+			"name": "shape_star",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_star.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set11_x_large_triangle",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set11/shape_set11_x_large/shape_set11_x_large_triangle.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "shape",
+			"shape": "",
+			"color": ""
+		}
+	]
+}

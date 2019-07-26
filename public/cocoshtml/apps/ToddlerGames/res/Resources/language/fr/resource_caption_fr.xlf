@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="fr-FR">
+    <body>
+      <group id="Games">
+        <trans-unit id="caption_buyfullversion" space="preserve" translate="yes">
+          <source>Buy full version</source>
+          <target state="new" state-qualifier="mt-suggestion">Version complète</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to buy full version of app</note>
+        </trans-unit>
+        <trans-unit id="caption_restore_purchases" space="preserve" translate="yes">
+          <source>Restore purchases</source>
+          <target state="new" state-qualifier="mt-suggestion">restaurer les achats</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to buy full version of app</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

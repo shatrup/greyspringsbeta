@@ -1,0 +1,151 @@
+          {
+            "name": "playground_arrangements",
+	        "type": "arrangements",
+            "suffix": "playground_arrangements_",
+            "objectList": [
+                {
+                    "objectId": "playground_arrangements_anteater",
+                    "name": "anteater",
+                    "imageUri": "playground/blocks_arrangement/anteater.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_bull",
+                    "name": "bull",
+                    "imageUri": "playground/blocks_arrangement/bull.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_cow",
+                    "name": "cow",
+                    "imageUri": "playground/blocks_arrangement/cow.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_dog",
+                    "name": "dog",
+                    "imageUri": "playground/blocks_arrangement/dog.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_dog1",
+                    "name": "dog1",
+                    "imageUri": "playground/blocks_arrangement/dog1.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_elephant",
+                    "name": "elephant",
+                    "imageUri": "playground/blocks_arrangement/elephant.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_mouse",
+                    "name": "mouse",
+                    "imageUri": "playground/blocks_arrangement/mouse.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_octopus",
+                    "name": "octopus",
+                    "imageUri": "playground/blocks_arrangement/octopus.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_panda",
+                    "name": "panda",
+                    "imageUri": "playground/blocks_arrangement/panda.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_pig",
+                    "name": "pig",
+                    "imageUri": "playground/blocks_arrangement/pig.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_rhyno",
+                    "name": "rhyno",
+                    "imageUri": "playground/blocks_arrangement/rhyno.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_seal",
+                    "name": "seal",
+                    "imageUri": "playground/blocks_arrangement/seal.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_sheep",
+                    "name": "sheep",
+                    "imageUri": "playground/blocks_arrangement/sheep.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_snake",
+                    "name": "snake",
+                    "imageUri": "playground/blocks_arrangement/snake.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_turtle",
+                    "name": "turtle",
+                    "imageUri": "playground/blocks_arrangement/turtle.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "playground_arrangements_yak",
+                    "name": "yak",
+                    "imageUri": "playground/blocks_arrangement/yak.png",
+                    "w": 323.437,
+                    "h": 220.07,
+                    "shape": "",
+                    "color": ""
+                }
+            ]
+        }

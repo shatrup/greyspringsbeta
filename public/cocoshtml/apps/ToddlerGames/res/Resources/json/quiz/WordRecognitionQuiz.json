@@ -1,0 +1,19 @@
+{
+    "id": "WordRecognitionQuiz",
+    "type": "WordRecognitionQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "alphabet",
+      "type": "alphabet",
+      "bgMusic": "caption_place_correct_pictures_on_rhyming_truck",
+      "question": "caption_place_correct_pictures_on_rhyming_truck",      
+      "objectSrc": "RealWorldScene_138",
+      "bgImg": "",
+      "customKey1": "english_object_set1_large",
+	  "customKey2": "word_basics",
+	  "isFullBleed": true
+    }
+  ] 
+}

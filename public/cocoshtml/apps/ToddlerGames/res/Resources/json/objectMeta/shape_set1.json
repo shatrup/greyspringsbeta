@@ -1,0 +1,70 @@
+{
+    "name": "shape_set1",
+    "type": "shape",
+    "suffix": "shape_set1_",
+    "objectList": [
+        {
+            "objectId": "shape_set1_circle",
+            "name": "shape_circle",
+            "imageUri": "common/shapes/shape_set1/shape_set1_circle.png",
+            "w": 250.91,
+            "h": 248,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set1_hexagon",
+            "name": "shape_hexagon",
+            "imageUri": "common/shapes/shape_set1/shape_set1_hexagon.png",
+            "w": 257.58,
+            "h": 222.57,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set1_pentagon",
+            "name": "shape_pentagon",
+            "imageUri": "common/shapes/shape_set1/shape_set1_pentagon.png",
+            "w": 259.25,
+            "h": 246.75,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set1_rectangle",
+            "name": "shape_rectangle",
+            "imageUri": "common/shapes/shape_set1/shape_set1_rectangle.png",
+            "w": 256.33,
+            "h": 202.15,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set1_square",
+            "name": "shape_square",
+            "imageUri": "common/shapes/shape_set1/shape_set1_square.png",
+            "w": 257.58,
+            "h": 246.33,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set1_star",
+            "name": "shape_star",
+            "imageUri": "common/shapes/shape_set1/shape_set1_star.png",
+            "w": 260.92,
+            "h": 248,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set1_triangle",
+            "name": "shape_triangle",
+            "imageUri": "common/shapes/shape_set1/shape_set1_triangle.png",
+            "w": 256.75,
+            "h": 245.08,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

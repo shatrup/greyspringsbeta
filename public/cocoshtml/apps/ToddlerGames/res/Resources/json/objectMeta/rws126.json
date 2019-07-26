@@ -1,0 +1,34 @@
+{
+    "name": "rws126",
+    "type": "",
+    "suffix": "rws126_",
+    "objectList": [
+        {
+            "objectId": "rws126_seaanimals_fish_0",
+            "name": "",
+            "imageUri": "common/scenes/scene126/rws126_seaanimals_fish_0.png",
+            "w": 46.52,
+            "h": 44.44,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "rws126_seaanimals_seahorse_0",
+            "name": "",
+            "imageUri": "common/scenes/scene126/rws126_seaanimals_seahorse_0.png",
+            "w": 22.52,
+            "h": 29.04,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "rws126_seaanimals_set0_octopus_0",
+            "name": "",
+            "imageUri": "common/scenes/scene126/rws126_seaanimals_set0_octopus_0.png",
+            "w": 48.3,
+            "h": 86.52,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

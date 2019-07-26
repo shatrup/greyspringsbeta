@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_sticker_set2",
+    "type": "",
+    "suffix": "alphabet_sticker_set2_",
+    "objectList": [
+        {
+            "objectId": "alphabet_sticker_set2_a",
+            "name": "alphabet_a",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=a",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_b",
+            "name": "alphabet_b",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=b",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_c",
+            "name": "alphabet_c",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=c",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_d",
+            "name": "alphabet_d",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=d",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_e",
+            "name": "alphabet_e",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=e",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_f",
+            "name": "alphabet_f",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=f",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_g",
+            "name": "alphabet_g",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=g",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_h",
+            "name": "alphabet_h",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=h",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_i",
+            "name": "alphabet_i",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=i",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_j",
+            "name": "alphabet_j",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=j",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_k",
+            "name": "alphabet_k",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=k",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_l",
+            "name": "alphabet_l",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=l",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_m",
+            "name": "alphabet_m",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=m",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_n",
+            "name": "alphabet_n",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=n",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_o",
+            "name": "alphabet_o",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=o",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_p",
+            "name": "alphabet_p",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=p",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_q",
+            "name": "alphabet_q",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=q",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_r",
+            "name": "alphabet_r",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=r",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_s",
+            "name": "alphabet_s",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=s",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_t",
+            "name": "alphabet_t",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=t",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_u",
+            "name": "alphabet_u",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=u",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_v",
+            "name": "alphabet_v",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=v",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_w",
+            "name": "alphabet_w",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=w",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_x",
+            "name": "alphabet_x",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=x",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_y",
+            "name": "alphabet_y",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=y",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_sticker_set2_z",
+            "name": "alphabet_z",
+            "imageUri": "potsprite://sticker_alphabet/?alphabet=z",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

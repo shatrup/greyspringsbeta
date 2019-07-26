@@ -1,0 +1,160 @@
+{
+    "name": "odditems",
+    "type": "",
+    "suffix": "odditems_",
+    "objectList": [
+        {
+            "objectId": "odditems_birds_owl_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_birds_owl_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_boat_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_boat_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_bookself_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_bookself_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_colddrink_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_colddrink_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_igloo_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_igloo_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_lantern_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_lantern_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_lantern_1",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_lantern_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_seaanimals_fish_1",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_seaanimals_fish_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_seaanimals_fish_2",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_seaanimals_fish_2.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_seaanimals_fish_3",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_seaanimals_fish_3.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_sidetable_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_sidetable_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_snowman_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_snowman_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_snowman_1",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_snowman_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_teamug_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_teamug_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_torch_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_torch_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_vehicles_car_0",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_vehicles_car_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "odditems_vehicles_car_1",
+            "name": "",
+            "imageUri": "common/scenes/odditems/odditems_vehicles_car_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

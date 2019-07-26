@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_set21",
+	"type": "alphabet",
+	"suffix": "alphabet_set21_",
+	"objectList": [
+		{
+			"objectId": "alphabet_set21_a",
+			"name": "alphabet_a",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_a.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_b",
+			"name": "alphabet_b",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_b.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_c",
+			"name": "alphabet_c",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_c.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_d",
+			"name": "alphabet_d",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_d.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_e",
+			"name": "alphabet_e",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_e.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_f",
+			"name": "alphabet_f",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_f.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_g",
+			"name": "alphabet_g",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_g.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_h",
+			"name": "alphabet_h",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_h.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_i",
+			"name": "alphabet_i",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_i.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_j",
+			"name": "alphabet_j",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_j.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_k",
+			"name": "alphabet_k",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_k.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_l",
+			"name": "alphabet_l",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_l.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_m",
+			"name": "alphabet_m",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_m.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_n",
+			"name": "alphabet_n",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_n.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_o",
+			"name": "alphabet_o",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_o.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_p",
+			"name": "alphabet_p",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_p.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_q",
+			"name": "alphabet_q",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_q.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_r",
+			"name": "alphabet_r",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_r.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_s",
+			"name": "alphabet_s",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_s.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_t",
+			"name": "alphabet_t",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_t.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_u",
+			"name": "alphabet_u",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_u.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_v",
+			"name": "alphabet_v",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_v.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_w",
+			"name": "alphabet_w",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_w.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_x",
+			"name": "alphabet_x",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_x.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_y",
+			"name": "alphabet_y",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_y.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set21_z",
+			"name": "alphabet_z",
+			"imageUri": "common/alphabets/alphabet_set21/alphabet_set21_z.png",
+			"w": 218.403,
+			"h": 218.403,
+			"text": "letter",
+			"color": ""
+		}
+	]
+}

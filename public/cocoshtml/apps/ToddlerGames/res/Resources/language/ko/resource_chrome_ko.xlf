@@ -1,0 +1,1560 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="fr-FR">
+		<body>
+			<group id="Games">
+				<trans-unit id="apptitle_TracingApp" space="preserve" translate="yes">
+				  <source>Learn to Write</source>
+				  <target state="new" state-qualifier="mt-suggestion">쓰는 법을 배우십시오.</target>
+				  <note annotates="source" from="Tracing App" priority="2">This is app title "Learn to Write"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_TracingApp" space="preserve" translate="yes">
+				  <source>Writing</source>
+				  <target state="new" state-qualifier="mt-suggestion">쓰기</target>
+				  <note annotates="source" from="Tracing App" priority="2">This is first half of app title "Learn to Write"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_TracingApp" space="preserve" translate="yes">
+				  <source>Fun</source>
+				  <target state="new" state-qualifier="mt-suggestion">장난</target>
+				  <note annotates="source" from="Tracing App" priority="2">This is second half of app title "Learn to Write"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ArcticAlphas" space="preserve" translate="yes">
+				  <source>English Word Search</source>
+				  <target state="new" state-qualifier="mt-suggestion">영어 단어 검색</target>
+				  <note annotates="source" from="Arctic Alphas" priority="2">This is app title "Arctic Alphas"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_ArcticAlphas" space="preserve" translate="yes">
+				  <source>English</source>
+				  <target state="new" state-qualifier="mt-suggestion">영어</target>
+				  <note annotates="source" from="Arctic Alphas" priority="2">This is first half of app title "Arctic Alphas"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_ArcticAlphas" space="preserve" translate="yes">
+				  <source>Word Search</source>
+				  <target state="new" state-qualifier="mt-suggestion">단어 검색</target>
+				  <note annotates="source" from="Arctic Alphas" priority="2">This is second half of app title "Arctic Alphas"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolGames" space="preserved">
+					<source>Kids Preschool Learning Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">아이 유치원 학습 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Learning Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolActivities" space="preserved">
+					<source>Kids Preschool Interactive Activities</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">유치원 활동</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Interactive Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolActivities" space="preserved">
+					<source>Preschool Activities</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="ko">유치원 활동</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolActivities" space="preserved">
+					<source>Preschool</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="ko">취학 전의</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolActivities" space="preserved">
+					<source>Activities</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="ko">활동</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolBasics" space="preserved">
+					<source>Kindergarten Kids Learning</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">유치원 학습 활동 및 퍼즐l</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kindergarten Kids Learning"</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part1_Kindergarten" space="preserve">
+				  <source>Kindergarten</source>
+				  <target state="new" state-qualifier="mt-suggestion">유치원</target>
+				  <note from="Kindergarten8" annotates="source" priority="2">This is first half of app title Kindergarten8</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part2_Kindergarten" space="preserve">
+				  <source>Kids Learning</source>
+				  <target state="new" state-qualifier="mt-suggestion">학습 키즈</target>
+				  <note from="Kindergarten8" annotates="source" priority="2">This is second half of app title Kindergarten8</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolNumbers" space="preserved">
+					<source>Kids Preschool Numbers and Math</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">아이 유치원 수학 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Numbers and Math"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolLetters" space="preserved">
+					<source>Kids Preschool Learn Letters</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">아이 유치원 영어</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Learn Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_ShapesAndColors" space="preserved">
+					<source>Shapes and Colors Nursery Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">아이 모양과 색상</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Shapes and Colors Nursery Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_WordGames" space="preserved">
+					<source>Kids Learning Word Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">아이들은 워드 게임 학습</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Learning Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_MathGames" space="preserved">
+					<source>Kids Games Learning Math Basic</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">아이 게임 배우 기본적인 수학r</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Games Learning Math Basic"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_ToddlerGames" space="preserved">
+					<source>Kids Toddler Learning Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">어린이 유아 학습 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Toddler Learning Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_JigsawGames" space="preserve" translate="yes">
+				  <source>Pirate Jigsaw Puzzles - Treasure Hunt</source>
+				  <target state="new" state-qualifier="mt-suggestion">해적 조각 그림 맞추기 - 보물 찾기</target>
+				  <note annotates="source" from="App name" priority="2">This is app title "Pirate Jigsaw Puzzles - Treasure Hunt"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_ScienceGames" space="preserve" translate="yes">
+				  <source>Kids Learning Science Games</source>
+				  <target state="new" state-qualifier="mt-suggestion">Kids Learning Science Games</target>
+				  <note annotates="source" from="App name" priority="2">This is app title "Kids Learning Science Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolGames" space="preserve" translate="yes">
+					<source>Preschool Games</source>
+					<target state="translated">유치원 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Games"</note>
+				</trans-unit>
+		        <trans-unit id="bundletitle_30percent_off" space="preserve" translate="yes">
+		          <source>Learning pack of 3 games</source>
+		          <target state="new" state-qualifier="mt-suggestion">3 게임의 학습 팩</target>
+		          <note annotates="source" from="App name" priority="2">This is bundle title for &quot;Learning pack of 3 games&quot;</note>
+		        </trans-unit>
+		        <trans-unit id="bundletitle_50percent_off" space="preserve" translate="yes">
+		          <source>Learning pack of 5 games</source>
+		          <target state="new" state-qualifier="mt-suggestion">5 게임의 학습 팩</target>
+		          <note annotates="source" from="App name" priority="2">This is app title &quot;Learning pack of 5 games&quot;</note>
+		        </trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolGames" space="preserve" translate="yes">
+					<source>Preschool</source>
+					<target state="translated">유치원</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolGames" space="preserve" translate="yes">
+					<source>Games</source>
+					<target state="translated">게임</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ScienceGames" space="preserve" translate="yes">
+				  <source>Science Games</source>
+				  <target state="new" state-qualifier="mt-suggestion">과학 게임</target>
+				  <note annotates="source" from="Science Games" priority="2">This is app title for Science Games;</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part1_ScienceGames" space="preserve">
+				  <source>Science</source>
+				  <target state="new" state-qualifier="mt-suggestion">과학</target>
+				  <note from="Science Games" annotates="source" priority="2">This is first half of app title Science Games</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part2_ScienceGames" space="preserve">
+				  <source>Games</source>
+				  <target state="new" state-qualifier="mt-suggestion">게임</target>
+				  <note from="Science Games" annotates="source" priority="2">This is second half of app title Science Games</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolBasics" space="preserve" translate="yes">
+					<source>Preschool Basics</source>
+					<target state="new" state-qualifier="mt-suggestion">유치원 기본 사항</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Basics"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolBasics" space="preserve" translate="yes">
+					<source>Preschool</source>
+					<target state="new" state-qualifier="mt-suggestion">유치원</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Basics"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolBasics" space="preserve" translate="yes">
+					<source>Basics</source>
+					<target state="new" state-qualifier="mt-suggestion">기본 사항</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Basics"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolNumbers" space="preserve" translate="yes">
+					<source>Preschool Numbers</source>
+					<target state="new" state-qualifier="mt-suggestion">유치원 수학 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Numbers"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolNumbers" space="preserve" translate="yes">
+					<source>Preschool</source>
+					<target state="new" state-qualifier="mt-suggestion">유치원</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Numbers"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolNumbers" space="preserve" translate="yes">
+					<source>Numbers</source>
+					<target state="new" state-qualifier="mt-suggestion">수학 게임</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Numbers"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolLetters" space="preserve" translate="yes">
+					<source>Preschool Letters</source>
+					<target state="new" state-qualifier="mt-suggestion">유치원 영어</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolLetters" space="preserve" translate="yes">
+					<source>Preschool</source>
+					<target state="new" state-qualifier="mt-suggestion">유치원</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolLetters" space="preserve" translate="yes">
+					<source>Letters</source>
+					<target state="new" state-qualifier="mt-suggestion">영어</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ShapesAndColors" space="preserve" translate="yes">
+					<source>Shapes &amp; Colors</source>
+					<target state="new" state-qualifier="mt-suggestion">모양과 색상</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Shapes &amp; Colors"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_ShapesAndColors" space="preserve" translate="yes">
+					<source>Shapes N</source>
+					<target state="new" state-qualifier="mt-suggestion">모양과</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Shapes And Colors"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_ShapesAndColors" space="preserve" translate="yes">
+					<source>Colors</source>
+					<target state="new" state-qualifier="mt-suggestion">색상</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Shapes And Colors"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_WordGames" space="preserve" translate="yes">
+					<source>Word Games</source>
+					<target state="new" state-qualifier="mt-suggestion">워드 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_WordGames" space="preserve" translate="yes">
+					<source>Word</source>
+					<target state="new" state-qualifier="mt-suggestion">워드</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_WordGames" space="preserve" translate="yes">
+					<source>Games</source>
+					<target state="new" state-qualifier="mt-suggestion">게임</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_MathGames" space="preserve" translate="yes">
+					<source>Math Games</source>
+					<target state="new" state-qualifier="mt-suggestion">수학 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Math Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_MathGames" space="preserve" translate="yes">
+					<source>Math</source>
+					<target state="new" state-qualifier="mt-suggestion">수학</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Math Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_MathGames" space="preserve" translate="yes">
+					<source>Games</source>
+					<target state="new" state-qualifier="mt-suggestion">게임</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Math Games"</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JigsawJumbleQuiz" space="preserve" translate="yes">
+					<source>Jigsaw puzzle</source>
+					<target state="new" state-qualifier="mt-suggestion">지그 소 퍼즐</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_JigsawV2Quiz" space="preserve" translate="yes">
+					<source>Jigsaw puzzle</source>
+					<target state="new" state-qualifier="mt-suggestion">지그 소 퍼즐</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_CarPartsAssemblingActivityLayer" space="preserved">
+					<source>Make your Car</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">차를 만드십시오.</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for Car assembling Activity</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_MemoryGame" space="preserve" translate="yes">
+					<source>Memory Game</source>
+					<target state="new" state-qualifier="mt-suggestion">메모리 게임</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for memory game</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ConnectTheDots" space="preserve" translate="yes">
+					<source>Connect the dots</source>
+					<target state="new" state-qualifier="mt-suggestion">점을 연결 하는</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ConnectTheDots_ConnectTheDotsV2" space="preserve" translate="yes">
+					<source>Connect the dots</source>
+					<target state="new" state-qualifier="mt-suggestion">점을 연결 하는</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_DragToMatchQuiz" space="preserve" translate="yes">
+					<source>Match the numbers</source>
+					<target state="new" state-qualifier="mt-suggestion">숫자를 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JigsawPuzzleV3" space="preserve" translate="yes">
+					<source>Jigsaw Puzzle</source>
+					<target state="new" state-qualifier="mt-suggestion">Jigsaw Puzzle</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AlphabetChart" space="preserve" translate="yes">
+					<source>Alphabet Chart</source>
+					<target state="new" state-qualifier="mt-suggestion">알파벳 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AlphabetQuiz" space="preserve" translate="yes">
+					<source>Alphabet Quiz</source>
+					<target state="new" state-qualifier="mt-suggestion">알파벳 퀴즈</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Vegetableschart" space="preserved">
+					<source>Vegetables chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">야채 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Fruitschart" space="preserved">
+					<source>Fruits chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">과일 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Animalschart" space="preserved">
+					<source>Animals chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">동물 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Sportschart" space="preserved">
+					<source>Sports chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">스포츠 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_SolarSystem" space="preserved">
+					<source>Solar System</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">태양계</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_BodyParts" space="preserved">
+					<source>Body Parts</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="de">신체 부위</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Shapeschart" space="preserved">
+					<source>Shapes chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">모양 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Householdschart" space="preserved">
+					<source>Households chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">가구 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Numberschart" space="preserved">
+					<source>Numbers chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">숫자 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Professionschart" space="preserved">
+					<source>Professions chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">직업 차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Numberquiz" space="preserved">
+					<source>Number quiz</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">번호 퀴즈</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_NumberPaint" space="preserved">
+				  <source>Colorful Numbers</source>
+				  <target state="pending" state-qualifier="mt-suggestion" xml:lang="en">다채로운 번호</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AlphabetPaint" space="preserve" translate="yes">
+				  <source>Colorful Alphabets</source>
+				  <target state="new" state-qualifier="mt-suggestion">다채로운 알파벳</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_FruitPaint" space="preserve" translate="yes">
+				  <source>Colorful Fruits</source>
+				  <target state="new" state-qualifier="mt-suggestion">다채로운 과일</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_VegetablePaint" space="preserve" translate="yes">
+				  <source>Colorful Vegetables</source>
+				  <target state="new" state-qualifier="mt-suggestion">다채로운 야채</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ProfessionPaint" space="preserve" translate="yes">
+				  <source>Colorful Professions</source>
+				  <target state="new" state-qualifier="mt-suggestion">화려한 직업</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ActivityPaint" space="preserve" translate="yes">
+				  <source>Colorful Activities</source>
+				  <target state="new" state-qualifier="mt-suggestion">다채로운 활동</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>	
+				<trans-unit id="tiletitle_Hotcrossbuns" space="preserved">
+					<source>Hot cross buns</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">뜨거운 십자가 빵</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Twinkletwinkle" space="preserved">
+					<source>Twinkle twinkle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">반짝 반짝</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_OldMcdonald" space="preserved">
+					<source>Old Mcdonald</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">올드 맥도날드</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Baabaablacksheep" space="preserved">
+					<source>Baa baa black sheep</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">바아의 매매 검은 양</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Incywincyspider" space="preserved">
+					<source>Incy wincy spider</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">Incy의 wincy 거미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Maryhadalittlelamb" space="preserved">
+					<source>Mary had a little lamb</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">메리는 작은 양을했다</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Humptydumpty" space="preserved">
+					<source>Humpty dumpty</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">험 프티 덤프 티의</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Jackandjill" space="preserved">
+					<source>Jack and jill</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">잭과 질</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Wheelsonthebus" space="preserved">
+					<source>Wheels on the bus</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">버스의 바퀴</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Alphabets" space="preserved">
+					<source>Alphabets</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Activities" space="preserved">
+					<source>Activities</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="de">활동</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Animals" space="preserved">
+					<source>Animals</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">동물</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Charts" space="preserved">
+					<source>Charts</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">차트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Gallery" space="preserved">
+					<source>My Paintings</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">내 그림</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Quizzes" space="preserved">
+					<source>Quizzes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">퀴즈</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Rhymes" space="preserved">
+					<source>Rhymes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">운율</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Fruits" space="preserved">
+					<source>Fruits</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">과일</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Fruits_And_Vegetables" space="preserved">
+					<source>Fruits</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">과일</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>			
+				<trans-unit id="charttitle_Greetings" space="preserved">
+					<source>Greetings</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Greetings</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>								
+				<trans-unit id="charttitle_Households" space="preserved">
+					<source>Households</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">가구</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Numbers" space="preserved">
+					<source>Numbers</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">민수기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Professions" space="preserved">
+					<source>Professions</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">직업</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Shapes" space="preserved">
+					<source>Shapes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">모양</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Sports" space="preserved">
+					<source>Sports</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">스포츠의</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Vegetables" space="preserved">
+					<source>Vegetables</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">야채</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="clustertitle_Alphabets" space="preserved">
+		          <source>Alphabets</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="ko"> 알 파 벳 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Numbers" space="preserved">
+		          <source>Numbers</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="ko"> 민 수 기 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Paint" space="preserved">
+		          <source>Paint</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="ko"> 페 인 트 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Rhymes" space="preserved">
+		          <source>Rhymes</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="ko"> 운 율 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Playground" space="preserved">
+		          <source>Playground</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="ko"> 운 동 장 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Charts" space="preserved">
+		          <source>Charts</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="ko"> 차 트 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+				<trans-unit id="clustertitle_ShapesAndColors" space="preserved">
+				  <source>Shapes and Colors</source>
+				  <target state="pending" state-qualifier="mt-suggestion" xml:lang="ko">모양 및 색상</target>
+				  <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+				</trans-unit>
+				<trans-unit id="message_ok" space="preserve" translate="yes">
+					<source>OK</source>
+					<target state="new" state-qualifier="mt-suggestion">확인</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message used to ok</note>
+				</trans-unit>
+				<trans-unit id="message_buy" space="preserve" translate="yes">
+					<source>Buy</source>
+					<target state="new" state-qualifier="mt-suggestion">구입</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message used to buy on the store</note>
+				</trans-unit>
+				<trans-unit id="message_goadsfree" space="preserve" translate="yes">
+					<source>Remove ads</source>
+					<target state="new" state-qualifier="mt-suggestion">광고를 제거</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message for removing ads</note>
+				</trans-unit>
+				<trans-unit id="message_cancel" space="preserve" translate="yes">
+					<source>Cancel</source>
+					<target state="new" state-qualifier="mt-suggestion">취소</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message used to cancel</note>
+				</trans-unit>
+				<trans-unit id="apppurchase_restore" space="preserve" translate="yes">
+					<source>Restore</source>
+					<target state="new" state-qualifier="mt-suggestion">복원</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="apppurchase_restore_purchases_confirmation_text" space="preserve" translate="yes">
+					<source>Congratulations, you have successfully restored your purchase.</source>
+					<target state="new" state-qualifier="mt-suggestion">축하합니다, 당신의 구매가 성공적으로 복원됩니다.</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="flyout_rateus_title" space="preserve" translate="yes">
+					<source>Rate us</source>
+					<target state="new" state-qualifier="mt-suggestion">평가해주세요</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_rateus_msg" space="preserve" translate="yes">
+					<source>Please take a moment to rate the app. Thank you so much!</source>
+					<target state="new" state-qualifier="mt-suggestion">응용 프로그램을 평가하기 위해 잠시 시간을내어 주시기 바랍니다. 정말 감사합니다</target>
+					<note annotates="source" from="Score Board" priority="2">Rate us message</note>
+				</trans-unit>
+				<trans-unit id="flyout_social_share_title" space="preserve" translate="yes">
+					<source>Facebook share</source>
+					<target state="new" state-qualifier="mt-suggestion">페이스 북 공유</target>
+					<note annotates="source" from="Homepage" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_social_share_msg" space="preserve" translate="yes">
+					<source>Please take a moment to share the app. Thank you so much!</source>
+					<target state="new" state-qualifier="mt-suggestion">응용 프로그램을 공유하기 위해 잠시 시간을내어 주시기 바랍니다. 정말 감사합니다!</target>
+					<note annotates="source" from="Homepage" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_premium_user_title" space="preserve" translate="yes">
+					<source>Premium user</source>
+					<target state="new" state-qualifier="mt-suggestion">고급 사용자</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_premium_user_msg" space="preserve" translate="yes">
+					<source>You are already a premium user. Thanks for purchasing the app</source>
+					<target state="new" state-qualifier="mt-suggestion">이미 프리미엄 사용자입니다. 응용 프로그램을 구입 주셔서 감사합니다</target>
+					<note annotates="source" from="Score Board" priority="2">Premium user note</note>
+				</trans-unit>
+				<trans-unit id="flyout_goadsfree_title" space="preserve" translate="yes">
+					<source>Go ads free</source>
+					<target state="new" state-qualifier="mt-suggestion">광고를 제거</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_goadsfree_msg" space="preserve" translate="yes">
+					<source>Go premium to remove ads and give your child an ads free experience</source>
+					<target state="new" state-qualifier="mt-suggestion">광고를 제거 할 응용 프로그램을 구입</target>
+					<note annotates="source" from="Score Board" priority="2">Go ads free note</note>
+				</trans-unit>
+				<trans-unit id="flyout_gopremium_title" space="preserve" translate="yes">
+					<source>Go premium</source>
+					<target state="new" state-qualifier="mt-suggestion">이동 프리미엄</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_gopremium_msg" space="preserve" translate="yes">
+					<source>Go premium to remove ads and unlock more exciting games</source>
+					<target state="new" state-qualifier="mt-suggestion">광고를 제거하고 더 호쾌한 게임을 자물쇠로 여는 프리미엄은 간다</target>
+					<note annotates="source" from="Score Board" priority="2">Premium user note</note>
+				</trans-unit>
+				<trans-unit id="flyout_parental_title" space="preserve" translate="yes">
+					<source>Parents only</source>
+					<target state="new" state-qualifier="mt-suggestion">부모 만</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for parental control</note>
+				</trans-unit>
+				<trans-unit id="flyout_parental_msg" space="preserve" translate="yes">
+					<source>Choose the right answer to continue</source>
+					<target state="new" state-qualifier="mt-suggestion">계속 정답을 선택</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout msg for parental control</note>
+				</trans-unit>
+				<trans-unit id="flyout_browser_title" space="preserve" translate="yes">
+					<source>Web browser</source>
+					<target state="new" state-qualifier="mt-suggestion">웹 브라우저</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for external communication</note>
+				</trans-unit>
+				<trans-unit id="flyout_browser_msg" space="preserve" translate="yes">
+					<source>We are taking you to the web browser. Please confirm</source>
+					<target state="new" state-qualifier="mt-suggestion">우리는 웹 브라우저로 이동하고있다. 확인하시기 바랍니다</target>
+					<note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming external communication</note>
+				</trans-unit>
+				<trans-unit id="section_moreapps" space="preserve" translate="yes">
+					<source>More Apps</source>
+					<target state="new" state-qualifier="mt-suggestion">더 많은 애플 리케이션</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is title More apps section in parental control</note>
+				</trans-unit>
+				<trans-unit id="section_followus" space="preserve" translate="yes">
+					<source>Follow us</source>
+					<target state="new" state-qualifier="mt-suggestion">우리를 따르</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is title Follow us section in parental control</note>
+				</trans-unit>
+				<trans-unit id="section_reachus" space="preserve" translate="yes">
+					<source>Reach us</source>
+					<target state="new" state-qualifier="mt-suggestion">저희에게 연락하십시오</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is title Reach us section in parental control</note>
+				</trans-unit>
+				<trans-unit id="parentszone_parentscorner" space="preserve" translate="yes">
+					<source>Parent’s corner</source>
+					<target state="new" state-qualifier="mt-suggestion">부모의 지역</target>
+					<note annotates="source" from="Parent’s zone" priority="2">This is parents corner in parents zone</note>
+				</trans-unit>
+				<trans-unit id="text_download_free" space="preserve" translate="yes">
+					<source>Download free</source>
+					<target state="new" state-qualifier="mt-suggestion">다운로드는 해방한다</target>
+					<note annotates="source" from="Parent’s zone" priority="2">This is text used for suggesting free downloads</note>
+				</trans-unit>
+				<trans-unit id="text_greysprings_onstore" space="preserve" translate="yes">
+					<source>Greysprings on store</source>
+					<target state="new" state-qualifier="mt-suggestion">상점에 앱스 더</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is text title for Greysprings on store</note>
+				</trans-unit>
+				<trans-unit id="text_privacy_policy" space="preserve" translate="yes">
+					<source>Privacy policy</source>
+					<target state="new" state-qualifier="mt-suggestion">개인정보 취급방침</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is text title for privacy policy</note>
+				</trans-unit>
+				<trans-unit id="text_goodjob" space="preserve" translate="yes">
+					<source>Good job</source>
+					<target state="new" state-qualifier="mt-suggestion">좋은 일</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for good job</note>
+				</trans-unit>
+				<trans-unit id="text_greatjob" space="preserve" translate="yes">
+					<source>Great job</source>
+					<target state="new" state-qualifier="mt-suggestion">훌륭한 일</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for great job</note>
+				</trans-unit>
+				<trans-unit id="text_superjob" space="preserve" translate="yes">
+					<source>Super job</source>
+					<target state="new" state-qualifier="mt-suggestion">슈퍼 작업</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for super job</note>
+				</trans-unit>
+				<trans-unit id="text_youdidit" space="preserve" translate="yes">
+					<source>You did it</source>
+					<target state="new" state-qualifier="mt-suggestion">You did it</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for You did it</note>
+				</trans-unit>
+				<trans-unit id="text_champ" space="preserve" translate="yes">
+					<source>Champ</source>
+					<target state="new" state-qualifier="mt-suggestion">Champion</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for Champ</note>
+				</trans-unit>
+				<trans-unit id="text_goodtry" space="preserve" translate="yes">
+					<source>Good try</source>
+					<target state="new" state-qualifier="mt-suggestion">Bel essai</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for good try</note>
+				</trans-unit>
+				<trans-unit id="text_goodtry" space="preserve" translate="yes">
+					<source>Good try</source>
+					<target state="new" state-qualifier="mt-suggestion">좋은 시도</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for good try</note>
+				</trans-unit>
+				<trans-unit id="text_tryagain" space="preserve" translate="yes">
+					<source>Try again</source>
+					<target state="new" state-qualifier="mt-suggestion">다시 시도</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for try again</note>
+				</trans-unit>
+				<trans-unit id="text_bravo" space="preserve" translate="yes">
+					<source>Bravo</source>
+					<target state="new" state-qualifier="mt-suggestion">브라보</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for bravo</note>
+				</trans-unit>
+				<trans-unit id="text_brilliant" space="preserve" translate="yes">
+					<source>Brilliant</source>
+					<target state="new" state-qualifier="mt-suggestion">화려한</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for try again</note>
+				</trans-unit>
+				<trans-unit id="text_intelligent" space="preserve" translate="yes">
+					<source>Intelligent</source>
+					<target state="new" state-qualifier="mt-suggestion">지능형</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for intelligent</note>
+				</trans-unit>
+				<trans-unit id="text_terrific" space="preserve" translate="yes">
+					<source>Terrific</source>
+					<target state="new" state-qualifier="mt-suggestion">좋아요</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for terrific</note>
+				</trans-unit>
+				<trans-unit id="text_excellent" space="preserve" translate="yes">
+					<source>Excellent</source>
+					<target state="new" state-qualifier="mt-suggestion">우수</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for excellent</note>
+				</trans-unit>
+				<trans-unit id="text_phenomenal" space="preserve" translate="yes">
+					<source>Phenomenal</source>
+					<target state="new" state-qualifier="mt-suggestion">경이적인</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for phenomenal</note>
+				</trans-unit>
+				<trans-unit id="tilelock_rateus" space="preserve" translate="yes">
+					<source>Rate us to unlock</source>
+					<target state="new" state-qualifier="mt-suggestion">자물쇠로 열기 위하여 저희를 평가하십시오</target>
+					<note annotates="source" from="Chrome" priority="2">Text for unlocking games by providing ratings on store</note>
+				</trans-unit>
+				<trans-unit id="tilelock_socialshare" space="preserve" translate="yes">
+					<source>Share to unlock</source>
+					<target state="new" state-qualifier="mt-suggestion">공유 잠금을 해제</target>
+					<note annotates="source" from="Chrome" priority="2">Text for unlocking games by sharing app on social media</note>
+				</trans-unit>
+				<trans-unit id="tilelock_premium" space="preserve" translate="yes">
+					<source>Buy to unlock</source>
+					<target state="new" state-qualifier="mt-suggestion">구매하고 자물쇠로 여십시오</target>
+					<note annotates="source" from="Chrome" priority="2">Text for unlocking games by purchasing from store</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JigsawWordQuiz" space="preserve" translate="yes">
+					<source>Jigsaw Words</source>
+					<target state="new" state-qualifier="mt-suggestion">퍼즐 단어</target>
+					<note annotates="source" from="Word Games" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="flyout_store_title" space="preserve" translate="yes">
+					<source>Visit store</source>
+					<target state="new" state-qualifier="mt-suggestion">매장 구경</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for store communication</note>
+				</trans-unit>
+				<trans-unit id="flyout_store_msg" space="preserve" translate="yes">
+					<source>We are taking you to the store. Please confirm</source>
+					<target state="new" state-qualifier="mt-suggestion">우리는 앱 스토어 로 이동 하고있다. 확인하시기 바랍니다</target>
+					<note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming store communication</note>
+				</trans-unit>
+				<trans-unit id="flyout_leave_app_title" space="preserve" translate="yes">
+					<source>Leave app</source>
+					<target state="new" state-qualifier="mt-suggestion">떠나 앱</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for leaving app.</note>
+				</trans-unit>
+				<trans-unit id="flyout_leave_app_msg" space="preserve" translate="yes">
+					<source>We are taking you outside the app. Please confirm.</source>
+					<target state="new" state-qualifier="mt-suggestion">우리는 응용 프로그램 외부로하고있다. 확인하시기 바랍니다</target>
+					<note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming leaving application</note>
+				</trans-unit>
+				<trans-unit id="flyout_restore_purchases_title" space="preserve" translate="yes">
+					<source>Restore the transaction</source>
+					<target state="new" state-qualifier="mt-suggestion">트랜잭션을 복원</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="flyout_restore_purchases_message" space="preserve" translate="yes">
+					<source>Restore a previously purchased product</source>
+					<target state="new" state-qualifier="mt-suggestion">이전에 구입 한 제품을 복원합니다</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="flyout_restore_purchases_error_message" space="preserve" translate="yes">
+					<source>Error restoring a purchase.</source>
+					<target state="new" state-qualifier="mt-suggestion">구매를 복원 오류가 있습니다</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ComparisonQuiz" space="preserve" translate="yes">
+					<source>Equal or Unequal</source>
+					<target state="new" state-qualifier="mt-suggestion">평등 또는 불평등</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JuicyGridQuiz" space="preserve" translate="yes">
+					<source>Juicy grid</source>
+					<target state="new" state-qualifier="mt-suggestion">과일 그리드</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AscendingDescendingQuiz" space="preserve" translate="yes">
+					<source>Sort it out</source>
+					<target state="new" state-qualifier="mt-suggestion">그것을 밖으로 정렬</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_NumberLineQuiz" space="preserve" translate="yes">
+					<source>Number line</source>
+					<target state="new" state-qualifier="mt-suggestion">번호 라인</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_NumberPlayQuiz" space="preserve" translate="yes">
+					<source>Number Play</source>
+					<target state="new" state-qualifier="mt-suggestion">숫자 놀이</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for number play quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AdditionSubtractionQuiz" space="preserve" translate="yes">
+					<source>Add me up</source>
+					<target state="new" state-qualifier="mt-suggestion">나를 추가</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ToddlerGames" space="preserve" translate="yes">
+					<source>Toddler Games</source>
+					<target state="new" state-qualifier="mt-suggestion">유아 게임</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Toddler Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_ToddlerGames" space="preserve" translate="yes">
+					<source>Toddler</source>
+					<target state="new" state-qualifier="mt-suggestion">유아</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Toddler Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_ToddlerGames" space="preserve" translate="yes">
+					<source>Games</source>
+					<target state="new" state-qualifier="mt-suggestion">게임</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Toddler Games"</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_HungryFrogV2Quiz" space="preserve" translate="yes">
+					<source>Hungry frog</source>
+					<target state="new" state-qualifier="mt-suggestion">배고픈 개구리</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_FeedTheSharkQuiz" space="preserve" translate="yes">
+					<source>Feed the shark</source>
+					<target state="new" state-qualifier="mt-suggestion">상어 피드</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_BodyPartsQuiz" space="preserve" translate="yes">
+				  <source>Body Parts</source>
+				  <target state="new" state-qualifier="mt-suggestion">신체 부위</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="button_text_redeem_promo_code" space="preserve" translate="yes">
+				  <source>Redeem Code</source>
+				  <target state="new" state-qualifier="mt-suggestion">코드를 사용</target>
+				  <note annotates="source" from="promo code" priority="2">Redeem</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_AscendingDescendingQuiz" space="preserve" translate="yes">
+					<source>Sort it out</source>
+					<target state="new" state-qualifier="mt-suggestion">개체를 분류</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_NumberNamesQuiz" space="preserve" translate="yes">
+					<source>Number Names</source>
+					<target state="new" state-qualifier="mt-suggestion">수치의 명칭</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_EvenOddHopQuiz" space="preserve" translate="yes">
+					<source>Even Odd</source>
+					<target state="new" state-qualifier="mt-suggestion">짝수 및 홀수</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_FractionalPizzaQuiz" space="preserve" translate="yes">
+					<source>Part or Whole</source>
+					<target state="new" state-qualifier="mt-suggestion">일부 또는 전부</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_TickTockQuiz" space="preserve" translate="yes">
+					<source>Tell the Time</source>
+					<target state="new" state-qualifier="mt-suggestion">시간을 말해</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_TensAndOnesQuiz" space="preserve" translate="yes">
+					<source>Tens and Ones</source>
+					<target state="new" state-qualifier="mt-suggestion">10 또는 1</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_AquariumNumberAddQuiz" space="preserve" translate="yes">
+					<source>Add Me Up</source>
+					<target state="new" state-qualifier="mt-suggestion">나를 추가</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_CutItOffQuiz" space="preserve" translate="yes">
+					<source>CUT IT OFF</source>
+					<target state="new" state-qualifier="mt-suggestion">제거 할 컷</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_HalvesAndDoublesQuiz" space="preserve" translate="yes">
+					<source>Halves and Doubles</source>
+					<target state="new" state-qualifier="mt-suggestion">반쪽 및 복식</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_LearnToTrace" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_MusicInstrumentV2Quiz" space="preserve" translate="yes">
+					<source>Music Time</source>
+					<target state="new" state-qualifier="mt-suggestion">음악 시간</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_MatchTheShadow" space="preserve" translate="yes">
+					<source>Match the shadow</source>
+					<target state="new" state-qualifier="mt-suggestion">그림자를 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_NumberCountQuiz" space="preserve" translate="yes">
+					<source>Count 123</source>
+					<target state="new" state-qualifier="mt-suggestion">123 카운트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ScratchPad" space="preserve" translate="yes">
+					<source>Scratch to reveal</source>
+					<target state="new" state-qualifier="mt-suggestion">페인트 스크래치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ScratchToRevealQuiz" space="preserve" translate="yes">
+					<source>Scratch to reveal</source>
+					<target state="new" state-qualifier="mt-suggestion">페인트 스크래치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BalloonPopQuiz" space="preserved">
+					<source>Cow Mania</source>
+					<target state="pending" state-qualifier="mt-suggestion">플 라 잉 소</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BalloonPopQuiz2" space="preserved">
+					<source>Flying gnome</source>
+					<target state="pending" state-qualifier="mt-suggestion">비행가</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_BalloonPopQuiz" space="preserved">
+					<source>Flying gnome</source>
+					<target state="pending" state-qualifier="mt-suggestion">비행가</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+ 				<trans-unit id="tiletitle_PreschoolGames_SortItOut" space="preserved">
+ 					<source>Sort it out</source>
+ 					<target state="pending" state-qualifier="mt-suggestion" xml:lang="es">그것을 밖으로 정렬</target>
+ 					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+ 				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_HungryFrogQuiz" space="preserved">
+					<source>Hungry Lizzy</source>
+					<target state="pending" state-qualifier="mt-suggestion">굶주림의 도마뱀</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_HungryFrogQuiz2" space="preserved">
+					<source>Hungry Lizzy</source>
+					<target state="pending" state-qualifier="mt-suggestion">굶주림의 도마뱀</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_TrickyMaze" space="preserve" translate="yes">
+					<source>Tricky maze</source>
+					<target state="new" state-qualifier="mt-suggestion">까다로운 미로</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_HideAndSeekQuiz" space="preserve" translate="yes">
+				  <source>Hide And Seek</source>
+				  <target state="new" state-qualifier="auto_localize">숨바꼭질</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ColorTheObjects" space="preserve" translate="yes">
+					<source>Fill the colors</source>
+					<target state="new" state-qualifier="mt-suggestion">색상 채우기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_SortTheObjectsQuiz" space="preserve" translate="yes">
+					<source>Sort it out</source>
+					<target state="new" state-qualifier="mt-suggestion">개체를 분류</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWrite" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWriteV2" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWriteV4" space="preserve" translate="yes">
+					<source>Cursive Tracing</source>
+					<target state="new" state-qualifier="mt-suggestion">필기체 추적</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWriteV6" space="preserve" translate="yes">
+					<source>Cursive Tracing</source>
+					<target state="new" state-qualifier="mt-suggestion">필기체 추적</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+		        <trans-unit id="tiletitle_PreschoolLetters_LearnToWriteV6" space="preserve" translate="yes">
+		          <source>Learn to trace</source>
+		          <target state="new" state-qualifier="mt-suggestion">필기체 추적</target>
+		          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		        </trans-unit>
+				<trans-unit id="tiletitle_WordGames_LearnToWriteWords" space="preserved">
+					<source>Trace the Words</source>
+					<target state="pending" state-qualifier="mt-suggestion">단어 쓰기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ThemesInteractionQuiz" space="preserve" translate="yes">
+					<source>Fun with Shapes</source>
+					<target state="new" state-qualifier="mt-suggestion">모양과 재미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_LearnToWriteV2" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_OddInGroupQuiz" space="preserve" translate="yes">
+					<source>Odd one out</source>
+					<target state="new" state-qualifier="mt-suggestion">이상한 개체를 찾기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BingoQuizV2" space="preserve" translate="yes">
+					<source>Bingo fun</source>
+					<target state="new" state-qualifier="mt-suggestion">빙고의 재미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BingoQuiz" space="preserve" translate="yes">
+					<source>Bingo fun</source>
+					<target state="new" state-qualifier="mt-suggestion">빙고의 재미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_MissingObjects" space="preserve" translate="yes">
+					<source>Missing objects</source>
+					<target state="new" state-qualifier="mt-suggestion">개체를 누락</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_OddItems" space="preserve" translate="yes">
+					<source>Find odd items</source>
+					<target state="new" state-qualifier="mt-suggestion">홀수 항목 찾기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_SpotDifferences" space="preserve" translate="yes">
+					<source>Spot the difference</source>
+					<target state="new" state-qualifier="mt-suggestion">차이를 스팟</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_JigsawJumbleQuiz" space="preserve" translate="yes">
+					<source>Jigsaw puzzle</source>
+					<target state="new" state-qualifier="mt-suggestion">지그 소 퍼즐</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_JigsawPuzzle" space="preserve" translate="yes">
+					<source>Jigsaw puzzle</source>
+					<target state="new" state-qualifier="mt-suggestion">지그 소 퍼즐</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>	
+				<trans-unit id="tiletitle_PreschoolGames_LifeCycleQuiz" space="preserve" translate="yes">
+				  <source>Growth Cycle</source>
+				  <target state="new" state-qualifier="mt-suggestion">수명주기</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolLetters_MatchTheShadow" space="preserve" translate="yes">
+					<source>Match the shadow</source>
+					<target state="new" state-qualifier="mt-suggestion">그림자를 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+		        <trans-unit id="tiletitle_PreschoolLetters_MatchTheShadowActivity" space="preserve" translate="yes">
+		          <source>Match the Shadow</source>
+		          <target state="new" state-qualifier="mt-suggestion">그림자를 일치</target>
+		          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="tiletitle_PreschoolLetters_TrickyMaze" space="preserve" translate="yes">
+		          <source>Tricky Maze</source>
+		          <target state="new" state-qualifier="mt-suggestion">까다로운 미로</target>
+		          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		        </trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_ColorBallsQuiz" space="preserve" translate="yes">
+					<source>Color Ball</source>
+					<target state="new" state-qualifier="mt-suggestion">컬러 볼</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_JigsawV2Quiz" space="preserve" translate="yes">
+					<source>Jigsaw Alphabets</source>
+					<target state="new" state-qualifier="mt-suggestion">퍼즐 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_BalloonPopQuiz" space="preserve" translate="yes">
+					<source>Bubbly Alphabets</source>
+					<target state="new" state-qualifier="mt-suggestion">거품 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_BingoQuiz" space="preserve" translate="yes">
+					<source>Bingo Alphabets</source>
+					<target state="new" state-qualifier="mt-suggestion">빙고 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_ConnectTheDots" space="preserve" translate="yes">
+					<source>Connect the dots</source>
+					<target state="new" state-qualifier="mt-suggestion">점을 연결 하는</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_OddInGroupQuiz" space="preserve" translate="yes">
+					<source>Odd one out</source>
+					<target state="new" state-qualifier="mt-suggestion">이상한 개체를 찾기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_SequenceCrawlQuiz" space="preserve" translate="yes">
+					<source>Sequence Crawl</source>
+					<target state="new" state-qualifier="mt-suggestion">순서 크롤링</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_HopQuiz" space="preserve" translate="yes">
+					<source>Letter Hop</source>
+					<target state="new" state-qualifier="mt-suggestion">편지 홉</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_BubbleSequenceQuiz" space="preserve" translate="yes">
+					<source>Sequential Shells</source>
+					<target state="new" state-qualifier="mt-suggestion">순차 쉘</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_HelloPhoneticsQuiz" space="preserve" translate="yes">
+					<source>Hello Phonics</source>
+					<target state="new" state-qualifier="mt-suggestion">안녕하세요 파닉스</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_MatchItemsGridQuiz" space="preserve" translate="yes">
+					<source>First Letter</source>
+					<target state="new" state-qualifier="mt-suggestion">첫 번째 편지</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_LearnToTrace" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_AscendingDescendingQuiz" space="preserve" translate="yes">
+					<source>Sort it out</source>
+					<target state="new" state-qualifier="mt-suggestion">개체를 분류</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_NumberNamesQuiz" space="preserve" translate="yes">
+					<source>Number Names</source>
+					<target state="new" state-qualifier="mt-suggestion">수치의 명칭</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_EvenOddHopQuiz" space="preserve" translate="yes">
+					<source>Even Odd</source>
+					<target state="new" state-qualifier="mt-suggestion">짝수 및 홀수</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_FractionalPizzaQuiz" space="preserve" translate="yes">
+					<source>Part or Whole</source>
+					<target state="new" state-qualifier="mt-suggestion">일부 또는 전부</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_AquariumNumberAddQuiz" space="preserve" translate="yes">
+					<source>Add Me Up</source>
+					<target state="new" state-qualifier="mt-suggestion">나를 추가</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_CutItOffQuiz" space="preserve" translate="yes">
+					<source>CUT IT OFF</source>
+					<target state="new" state-qualifier="mt-suggestion">제거 할 컷</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_HalvesAndDoublesQuiz" space="preserve" translate="yes">
+					<source>Halves and Doubles</source>
+					<target state="new" state-qualifier="mt-suggestion">반쪽 및 복식</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_UnderwaterCatchQuiz" space="preserve" translate="yes">
+					<source>Underwater catch</source>
+					<target state="new" state-qualifier="mt-suggestion">수중 캐치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_NumberFunQuiz" space="preserve" translate="yes">
+					<source>Number Fun</source>
+					<target state="new" state-qualifier="mt-suggestion">번호 재미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for number fun quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_NumberPlayQuiz" space="preserve" translate="yes">
+					<source>Shoot The Ball</source>
+					<target state="new" state-qualifier="mt-suggestion">공을 쏠</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for shoot the ball quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_ScratchToRevealQuiz" space="preserve" translate="yes">
+					<source>Scratching Fun</source>
+					<target state="new" state-qualifier="mt-suggestion">긁는 재미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for scratching fun quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_BalloonPopQuiz" space="preserve" translate="yes">
+					<source>Bubbly Numbers</source>
+					<target state="new" state-qualifier="mt-suggestion">버블 번호</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_FloatingBubblesQuiz" space="preserve" translate="yes">
+					<source>Bubbly Numbers</source>
+					<target state="new" state-qualifier="mt-suggestion">버블 번호</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_PuzzleManiaQuiz" space="preserve" translate="yes">
+					<source>Puzzle Mania</source>
+					<target state="new" state-qualifier="mt-suggestion">퍼즐 매니아</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for Puzzle Mania quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_ConnectTheDots" space="preserve" translate="yes">
+					<source>Connect the dots</source>
+					<target state="new" state-qualifier="mt-suggestion">점을 연결 하는</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_HopQuiz" space="preserve" translate="yes">
+					<source>Hopping frog</source>
+					<target state="new" state-qualifier="mt-suggestion">도약 개구리</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_BalanceQuiz" space="preserve" translate="yes">
+					<source>Same to same</source>
+					<target state="new" state-qualifier="mt-suggestion">동일한에 같은</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_ComparisonQuiz" space="preserve" translate="yes">
+					<source>Compare twosome</source>
+					<target state="new" state-qualifier="mt-suggestion">둘로 비교</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_BeforeAfterNumberQuiz" space="preserve" translate="yes">
+					<source>Before and After</source>
+					<target state="new" state-qualifier="mt-suggestion">전후</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for Before and After quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_ScratchToRevealQuiz" space="preserve" translate="yes">
+					<source>Scratch to reveal</source>
+					<target state="new" state-qualifier="mt-suggestion">페인트 스크래치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_LifeCycleQuiz" space="preserve" translate="yes">
+				  <source>Growth Cycle</source>
+				  <target state="new" state-qualifier="mt-suggestion">수명주기</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_MumAndBabyQuiz" space="preserve" translate="yes">
+				  <source>Mum And Baby</source>
+				  <target state="new" state-qualifier="mt-suggestion">어머니와 아이</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_FloatSinkQuiz" space="preserve" translate="yes">
+				  <source>Sink or Float</source>
+				  <target state="new" state-qualifier="mt-suggestion">싱크 또는 플로트</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_FiveSensesQuiz" space="preserve" translate="yes">
+				  <source>Know Your Senses</source>
+				  <target state="new" state-qualifier="mt-suggestion">감각 기관</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_StatesOfMatterQuiz" space="preserve" translate="yes">
+				  <source>What's the Matter</source>
+				  <target state="new" state-qualifier="mt-suggestion">물질의 상태</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_HomeSweetHomeQuiz" space="preserve" translate="yes">
+				  <source>Home Sweet Home</source>
+				  <target state="new" state-qualifier="mt-suggestion">홈 스위트 홈</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_HealthIsWealthQuiz" space="preserve" translate="yes">
+				  <source>Health Is Wealth</source>
+				  <target state="new" state-qualifier="mt-suggestion">건강입니다 부</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_HungryFrogV2Quiz" space="preserve" translate="yes">
+					<source>Hungry frog</source>
+					<target state="new" state-qualifier="mt-suggestion">배고픈 개구리</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ColorTheObjects" space="preserve" translate="yes">
+					<source>Fill the colors</source>
+					<target state="new" state-qualifier="mt-suggestion">색상 채우기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ColorTheObjectsQuizV2" space="preserve" translate="yes">
+					<source>Fill the colors</source>
+					<target state="new" state-qualifier="mt-suggestion">색상 채우기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ConnectTheDots" space="preserve" translate="yes">
+					<source>Connect the dots</source>
+					<target state="new" state-qualifier="mt-suggestion">점을 연결 하는</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ShapesMatchingQuiz" space="preserve" translate="yes">
+				  <source>Choose Correct Shapes</source>
+				  <target state="new" state-qualifier="mt-suggestion">Choose Correct Shapes</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ColorBallsQuiz" space="preserve" translate="yes">
+					<source>Color Ball</source>
+					<target state="new" state-qualifier="mt-suggestion">컬러 볼</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ScratchToRevealQuiz" space="preserve" translate="yes">
+					<source>Scratch to reveal</source>
+					<target state="new" state-qualifier="mt-suggestion">스크래치 페인트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_FillShapeHolesQuiz" space="preserve" translate="yes">
+					<source>Match the shapes</source>
+					<target state="new" state-qualifier="mt-suggestion">모양과 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BuildRobotQuiz" space="preserve" translate="yes">
+					<source>Robot Factory</source>
+					<target state="new" state-qualifier="mt-suggestion">로봇 공장</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_JoinThePiecesQuiz" space="preserve" translate="yes">
+					<source>Join the pieces</source>
+					<target state="new" state-qualifier="mt-suggestion">깨진 개체</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BuildTheToysQuiz" space="preserve" translate="yes">
+					<source>Build the toys</source>
+					<target state="new" state-qualifier="mt-suggestion">장난감을 구축</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_CaterpillarMatchQuiz" space="preserve" translate="yes">
+					<source>Match the colors</source>
+					<target state="new" state-qualifier="mt-suggestion">색상을 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_AlienColorMatchQuiz" space="preserved">
+					<source>Space Jump</source>
+					<target state="pending" state-qualifier="mt-suggestion" >공간 점프</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_OddInGroupQuiz" space="preserve" translate="yes">
+					<source>Odd one out</source>
+					<target state="new" state-qualifier="mt-suggestion">이상한 개체를 찾기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_HopQuiz" space="preserve" translate="yes">
+					<source>Honey bee</source>
+					<target state="new" state-qualifier="mt-suggestion">꿀 꿀벌</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BingoQuiz" space="preserve" translate="yes">
+					<source>Bingo fun</source>
+					<target state="new" state-qualifier="mt-suggestion">빙고의 재미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_LearnToTrace" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HalloweenQuiz" space="preserved">
+					<source>Halloween Pumpkin</source>
+					<target state="pending" state-qualifier="mt-suggestion">할로윈 호박</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_HalloweenQuiz" space="preserved">
+					<source>Halloween Pumpkin</source>
+					<target state="pending" state-qualifier="mt-suggestion">할로윈 호박</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ThemesInteractionQuiz" space="preserve" translate="yes">
+					<source>Count the Items</source>
+					<target state="new" state-qualifier="mt-suggestion">항목 계산</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ColorTheObjectsQuizV3" space="preserve" translate="yes">
+					<source>Fill the colors</source>
+					<target state="new" state-qualifier="mt-suggestion">색상 채우기</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HangingFruitsQuiz" space="preserve" translate="yes">
+					<source>Hanging fruits</source>
+					<target state="new" state-qualifier="mt-suggestion">과일 매달려</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_SeaWonderQuiz" space="preserved">
+				  <source>Sea Wonder</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="ko">바다 원더</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BubbleCatchQuiz" space="preserve" translate="yes">
+					<source>Floating bubbles</source>
+					<target state="new" state-qualifier="mt-suggestion">거품 부동</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HungryFrogV2Quiz" space="preserve" translate="yes">
+					<source>Hungry frog</source>
+					<target state="new" state-qualifier="mt-suggestion">배고픈 개구리</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HungryFrogV3Quiz" space="preserve" translate="yes">
+					<source>Hungry frog</source>
+					<target state="new" state-qualifier="mt-suggestion">배고픈 개구리</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_LearnToWriteV3" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_MatchTheShadow" space="preserve" translate="yes">
+					<source>Match the shadow</source>
+					<target state="new" state-qualifier="mt-suggestion">그림자를 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ScratchToRevealQuiz" space="preserve" translate="yes">
+					<source>Scratch to reveal</source>
+					<target state="new" state-qualifier="mt-suggestion">스크래치 페인트</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ColorFunQuiz" space="preserve" translate="yes">
+					<source>Color fun</source>
+					<target state="new" state-qualifier="mt-suggestion">색상 재미</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_UnderwaterCatchQuiz" space="preserve" translate="yes">
+					<source>Underwater catch</source>
+					<target state="new" state-qualifier="mt-suggestion">수중 캐치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BalloonPopQuiz" space="preserve" translate="yes">
+					<source>Balloon pop</source>
+					<target state="new" state-qualifier="mt-suggestion">풍선 팝업</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BalloonPopV2Quiz" space="preserve" translate="yes">
+					<source>Balloon pop</source>
+					<target state="new" state-qualifier="mt-suggestion">풍선 팝업</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BalloonPopUnlimitedQuiz" space="preserve" translate="yes">
+					<source>Balloon fun</source>
+					<target state="new" state-qualifier="mt-suggestion">재미있는 풍선</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_MusicInstrumentQuiz" space="preserve" translate="yes">
+				  <source>Toddlers Piano</source>
+				  <target state="new" state-qualifier="mt-suggestion">유아 피아노</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_ToddlerGames_JigsawV2Quiz" space="preserve" translate="yes">
+					<source>Jigsaw puzzle</source>
+					<target state="new" state-qualifier="mt-suggestion">지그 소 퍼즐</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_LearnToTrace" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BalloonPopV3Quiz" space="preserve" translate="yes">
+					<source>Balloon pop</source>
+					<target state="new" state-qualifier="mt-suggestion">풍선 팝업</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_SequentialMatchTheShadow" space="preserve" translate="yes">
+					<source>Match the shadow</source>
+					<target state="new" state-qualifier="mt-suggestion">그림자를 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_HelloPhoneticsQuiz" space="preserve" translate="yes">
+					<source>Hello Phonics</source>
+					<target state="new" state-qualifier="mt-suggestion">안녕하세요 파닉스</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_ColorBallsQuiz" space="preserve" translate="yes">
+					<source>Color Ball</source>
+					<target state="new" state-qualifier="mt-suggestion">컬러 볼</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_VerticalMatchQuiz" space="preserve" translate="yes">
+					<source>Vertical Match</source>
+					<target state="new" state-qualifier="mt-suggestion">수직 일치</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_ThemeBingoQuiz" space="preserve" translate="yes">
+					<source>Bingo</source>
+					<target state="new" state-qualifier="mt-suggestion">빙고</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_OddOneOutV2Quiz" space="preserve" translate="yes">
+					<source>Odd One Out</source>
+					<target state="new" state-qualifier="mt-suggestion">괴상 한 개</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_BasicCrossWordQuiz" space="preserve" translate="yes">
+					<source>Crossword</source>
+					<target state="new" state-qualifier="mt-suggestion">크로스 워드 퍼즐</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_MonkeyQuiz" space="preserve" translate="yes">
+					<source>Monkey Quiz</source>
+					<target state="new" state-qualifier="mt-suggestion">단어를 완료</target>
+					<note annotates="source" from="Word Games" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_RhymingObjectsQuiz" space="preserve" translate="yes">
+					<source>Rhyming Words</source>
+					<target state="new" state-qualifier="mt-suggestion">단어 를 운</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_MatchItemsGridV2Quiz" space="preserve" translate="yes">
+					<source>Letter Grid</source>
+					<target state="new" state-qualifier="mt-suggestion">편지 그리드</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_WordRecognitionQuiz" space="preserve" translate="yes">
+					<source>Word Recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">단어 인식</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_LearnToTrace" space="preserve" translate="yes">
+					<source>Learn to trace</source>
+					<target state="new" state-qualifier="mt-suggestion">추적 알파벳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+        <trans-unit id="no_internet_label_text" space="preserve" translate="yes">
+          <source>No Internet</source>
+          <target state="new" state-qualifier="mt-suggestion">인터넷</target>
+          <note annotates="source" from="Chrome" priority="2">Main label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_sublabel1_text" space="preserve" translate="yes">
+          <source>App could not connect to internet.</source>
+          <target state="new" state-qualifier="mt-suggestion">응용 프로그램 인터넷에 연결할 수 없습니다.</target>
+          <note annotates="source" from="Chrome" priority="2">First sub label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_sublabel2_text" space="preserve" translate="yes">
+          <source>Please reconnect to play.</source>
+          <target state="new" state-qualifier="mt-suggestion">제발 재생을 다시 연결 합니다.</target>
+          <note annotates="source" from="Chrome" priority="2">Second sub label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_bottom_label_text" space="preserve" translate="yes">
+          <source>Waiting to reconnect</source>
+          <target state="new" state-qualifier="mt-suggestion">다시 연결 대기</target>
+          <note annotates="source" from="Chrome" priority="2">Bottom sub label for network requirement dialog.</note>
+        </trans-unit>
+			</group>
+		</body>
+	</file>
+</xliff>
+

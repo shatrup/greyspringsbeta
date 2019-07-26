@@ -1,0 +1,52 @@
+{
+    "name": "symbols_math_set1",
+    "type": "",
+    "suffix": "symbols_math_set1_",
+    "objectList": [
+        {
+            "objectId": "symbols_math_set1_addition",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set1/symbol_set1_addition.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set1_equal",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set1/symbol_set1_equal.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set1_subtraction",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set1/symbol_set1_subtraction.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set1_greater",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set1/symbol_set1_greater_than.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set1_less",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set1/symbol_set1_less_than.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

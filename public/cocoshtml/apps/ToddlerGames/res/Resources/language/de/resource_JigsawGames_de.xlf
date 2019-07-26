@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?><xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="en-US">
+    <body>
+      <group id="Games">
+        <trans-unit id="pirate_jigsaw_story_0_page_1" space="preserve">
+          <source>Ahoy! I am captain Hawk</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Ahoy! I am captain Hawk</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_0_page_2" space="preserve">
+          <source>I am going on a treasure hunt with my crew members. Would you like to join us?</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">I am going on a treasure hunt with my crew members. Would you like to join us?</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_1_page_1" space="preserve">
+          <source>Great! Now we got the map to find the treasure</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Great! Now we got the map to find the treasure</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_1_page_2" space="preserve">
+          <source>Let's sail into the ocean following the map</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Let's sail into the ocean following the map</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>		
+        <trans-unit id="pirate_jigsaw_story_2_page_1" space="preserve">
+          <source>This is the statue of God Tekkor of the tribe land!</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">This is the statue of God Tekkor of the tribe land!</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_2_page_2" space="preserve">
+          <source>We can trade this with the Tekkor tribes to open the gates of Tekkorland to pass by!</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">We can trade this with the Tekkor tribes to open the gates of Tekkorland to pass by!</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_3_page_1" space="preserve">
+          <source>Thank goodness! We had the statue of God Tekkor which we could trade to open the gate.</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Thank goodness! We had the statue of God Tekkor which we could trade to open the gate.</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_3_page_2" space="preserve">
+          <source>Thank you people!</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Thank you people!</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_4_page_1" space="preserve">
+          <source>Yay! We got the key. Now let's set to sail in the dead ocean.</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Yay! We got the key. Now let's set to sail in the dead ocean.</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_5_page_1" space="preserve">
+          <source>Kudos to our talented matey, who repaired the ship.</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Kudos to our talented matey, who repaired the ship.</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_5_page_2" space="preserve">
+          <source>The ghost ship is moving closer, Let's gear up for the battle...</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">The ghost ship is moving closer, Let's gear up for the battle...</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_6_page_1" space="preserve">
+          <source>Good Lord! The ghost ship has been demolished...</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Good Lord! The ghost ship has been demolished...</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_7_page_1" space="preserve">
+          <source>Thank goodness! We had the trident of God Poseidon...</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Thank goodness! We had the trident of God Poseidon...</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_7_page_2" space="preserve">
+          <source>Now this little octopus is no harm any more!</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Now this little octopus is no harm any more!</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_story_8_page_1" space="preserve">
+          <source>Captian would like to thank you for being such a talented matey on his ship. So here, our journey ends. We wish to meet you soon. Since then, Good bye!</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Captian would like to thank you for being such a talented matey on his ship. So here, our journey ends. We wish to meet you soon. Since then, Good bye!</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>		
+        <trans-unit id="pirate_jigsaw_intro_title_timer" space="preserve">
+          <source>Timer</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Timer</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Timer</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_timer" space="preserve">
+          <source>Solve in {0} seconds</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Löse in {0} Sekunden</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw intoduction flyout timegoal</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_score" space="preserve">
+          <source>Score</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Score</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Score</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_score" space="preserve">
+          <source>Score {0}</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Erziele {0}</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw intoduction flyout scoregoal</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_move" space="preserve">
+          <source>Moves</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Züge</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Moves</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_move" space="preserve">
+          <source>Solve in {0} moves</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Löse in {0} Zügen</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw intoduction flyout movegoal</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_level_failed_flyout_msg_move" space="preserve">
+          <source>Out of moves</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Keine Züge mehr</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw level failed flyout target move goal</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_level_failed_flyout_msg_score" space="preserve">
+          <source>Target score failed</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Zielscore nicht erreicht</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw level failed flyout target score goal</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_level_failed_flyout_msg_timer" space="preserve">
+          <source>Out of time</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Zeit abgelaufen</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw level failed flyout target time goal</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_level_failed_flyout_msg_mine" space="preserve">
+          <source>Mine exploded</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Mine explodiert</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames level failed flyout target mine exploded</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_level_failed_flyout_msg_timebomb" space="preserve">
+          <source>Bomb exploded</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Bombe explodiert</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames level failed flyout target bomb exploded</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_goldcoins" space="preserve">
+          <source>Gold coins</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Goldmünzen</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames collect gold coin</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_goldcoins" space="preserve">
+          <source>Help boost score</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Hilfe beim Erhöhen des Scores</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Help boost score</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_mine" space="preserve">
+          <source>Mine</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Mine</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames watch out mines</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_mine" space="preserve">
+          <source>Beware of the mines</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Pass auf die Minen auf</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Beware of the mines</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_timebomb" space="preserve">
+          <source>Time bomb</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Zeitbombe</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Time bomb</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_timebomb" space="preserve">
+          <source>Diffuse before it explodes</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Entschärfe sie, bevor sie explodiert</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Diffuse before it explodes</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_magnet" space="preserve">
+          <source>Magnet</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Magnet</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames Magnet</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_magnet" space="preserve">
+          <source>Grab all you can</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Nimm alles, was du kannst</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Grab all you can</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_trident" space="preserve">
+          <source>Trident</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Dreizack</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Trident</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_poseidon" space="preserve">
+          <source>Poseidon</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Poseidon</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Poseidon</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_poseidon" space="preserve">
+          <source>Solve before pieces shrink</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Löse, bevor die Teile schrumpfen</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Solve before pieces shrink</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_luckystars" space="preserve">
+          <source>Lucky stars</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Glückssterne</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames lucky stars</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_luckystars" space="preserve">
+          <source>Grab them all</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Hol sie dir alle</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Grab them all</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_presolved_pieces" space="preserve">
+          <source>Presolved Pieces</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Vorgelöste Teile</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames Presolved Pieces</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_blackholes" space="preserve">
+          <source>Black Holes</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Schwarze Löcher</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames Black Holes</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_flipped_pieces" space="preserve">
+          <source>Twist</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Twist</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames Flipped Pieces</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_failure_flyout_default_title" space="preserve">
+          <source>Twist</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Twist</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames failure flyout default title</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_flipped_pieces" space="preserve">
+          <source>Beware of image flips</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Pass auf Bildkippungen auf</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Beware of image flips</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_garbage_pieces" space="preserve">
+          <source>Twist</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Twist</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames Garbage Pieces</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_garbage_pieces" space="preserve">
+          <source>Extra pieces add to confusion</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Extrateile tragen zur Verwirrung bei</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Add to confusion</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_sequential_holes" space="preserve">
+          <source>Sequence</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Sequenz</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames Sequential Pieces</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_sequential_holes" space="preserve">
+          <source>Fill holes in sequence</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Fülle die Löcher in der Sequenz</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Fill holes in sequence</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_title_sequential_pieces" space="preserve">
+          <source>Sequence</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Sequenz</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">JigsawGames Sequential Pieces</note>
+        </trans-unit>
+        <trans-unit id="pirate_jigsaw_intro_text_sequential_pieces" space="preserve">
+          <source>Fill pieces in sequence</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Füge Teile in die Sequenz ein</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Fill pieces in sequence</note>
+        </trans-unit>
+        <trans-unit id="text_friends" space="preserve">
+          <source>Friends</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Freunde</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Friends</note>
+        </trans-unit>
+        <trans-unit id="text_all" space="preserve">
+          <source>All</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Alle</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">All</note>
+        </trans-unit>
+        <trans-unit id="text_global" space="preserve">
+          <source>Global</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Global</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Global</note>
+        </trans-unit>
+        <trans-unit id="text_out_of_hints" space="preserve">
+          <source>Out of hints</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Keine Tipps mehr</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Out of hints</note>
+        </trans-unit>
+        <trans-unit id="text_out_of_lives" space="preserve">
+          <source>Out of Lives</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Keine Leben mehr</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Out of Lives</note>
+        </trans-unit>
+        <trans-unit id="text_earn_more_diamonds" space="preserve">
+          <source>Earn more diamonds</source>
+          <target state-qualifier="mt-suggestion" xml:lang="de" state="new">Verdienen Sie mehr Diamanten</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Earn more diamonds</note>
+        </trans-unit> 
+        <trans-unit id="text_add_more_lives" space="preserve">
+          <source>Add more lives</source>
+          <target state-qualifier="mt-suggestion" xml:lang="de" state="new">Fügen Sie mehr Leben</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Add more lives</note>
+        </trans-unit> 
+        <trans-unit id="text_add_more_hints" space="preserve">
+          <source>Add more hints</source>
+          <target state-qualifier="mt-suggestion" xml:lang="de" state="new">Fügen Sie weitere Hinweise</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Add more hints</note>
+        </trans-unit>   
+        <trans-unit id="text_tap_again_to_confirm" space="preserve">
+          <source>Tap again to confirm</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Zum Bestätigen erneut tappen</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Tap again to confirm</note>
+        </trans-unit>
+        <trans-unit id="text_added_items_format" space="preserve">
+          <source>Added {0} items</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">{0} Objekte hinzugefügt</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Added {0} items</note>
+        </trans-unit>
+        <trans-unit id="text_added_lives_format" space="preserve">
+          <source>Added {0} lives</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">{0} Leben hinzugefügt</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Added {0} lives</note>
+        </trans-unit>
+        <trans-unit id="text_added_hints_format" space="preserve">
+          <source>Added {0} hints</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">{0} Tipps hinzugefügt</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Added {0} hints</note>
+        </trans-unit>
+        <trans-unit id="text_insufficient_diamonds" space="preserve">
+          <source>Insufficient diamonds</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Nicht genügend Diamanten</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Insufficient diamonds</note>
+        </trans-unit>		
+        <trans-unit id="text_login_buy" space="preserve">
+          <source>Please login to buy</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Bitte anmelden, um zu kaufen</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Please login to buy</note>
+        </trans-unit>
+		<trans-unit id="text_follow_us" space="preserve">
+			<source>Follow us</source>
+			<target state="pending" state-qualifier="auto_localize" xml:lang="de">Folge uns</target>
+			<note annotates="source" from="Pirate Jigsaw" priority="2">Follow us</note>
+		</trans-unit>			
+		<trans-unit id="text_rate_us" space="preserve">
+			<source>Rate us</source>
+			<target state="pending" state-qualifier="auto_localize" xml:lang="de">Bewerten Sie uns</target>
+			<note annotates="source" from="Pirate Jigsaw" priority="2">Rate us</note>
+		</trans-unit>			
+		<trans-unit id="text_share_us" space="preserve">
+			<source>Share us</source>
+			<target state="pending" state-qualifier="auto_localize" xml:lang="de">Teilen Sie uns</target>
+			<note annotates="source" from="Pirate Jigsaw" priority="2">Share us</note>
+		</trans-unit>		
+		<trans-unit id="text_login" space="preserve">
+			<source>Log in</source>
+			<target state="pending" state-qualifier="auto_localize" xml:lang="de">Einloggen</target>
+			<note annotates="source" from="Pirate Jigsaw" priority="2">Log in</note>
+		</trans-unit>		
+		<trans-unit id="text_logout" space="preserve">
+			<source>Log out</source>
+			<target state="pending" state-qualifier="auto_localize" xml:lang="de">Abmelden</target>
+			<note annotates="source" from="Pirate Jigsaw" priority="2">Log out</note>
+		</trans-unit>
+		<trans-unit id="text_connect_to_internet" space="preserve">
+			<source>Please connect to internet</source>
+			<target state="pending" state-qualifier="auto_localize" xml:lang="de">Bitte schließen Sie den Internet-</target>
+			<note annotates="source" from="Pirate Jigsaw" priority="2">Please Connect to internet</note>
+		</trans-unit>		
+		<trans-unit id="text_login_using_facebook" space="preserve">
+			<source>Please login using Facebook</source>
+			<target state="pending" state-qualifier="auto_localize" xml:lang="de">Bitte melden Sie sich mit Facebook</target>
+			<note annotates="source" from="Pirate Jigsaw" priority="2">Please login using Facebook</note>
+		</trans-unit>			
+        <trans-unit id="apptitle_JigsawGames" space="preserve">
+          <source>Pirate Jigsaw</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Piratenpuzzles</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is app title Pirate Jigsaw</note>
+        </trans-unit>
+        <trans-unit id="apptitle_store_JigsawGames" space="preserve">
+          <source>Pirate Jigsaw Puzzles - Treasure Hunt</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Piratenpuzzles - Schatzsuche</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is app title Pirate Jigsaw Puzzles - Treasure Hunt</note>
+        </trans-unit>
+        <trans-unit id="appdesc_short_JigsawGames" space="preserve">
+          <source>A journey to treasure island to unlock 64 challenging puzzles.</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Eine Reise zur Schatzinsel, um 64 herausfordernde Puzzles zu entsperren.</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is short description for PirateJigsaw</note>
+        </trans-unit>			
+        <trans-unit id="appdesc_JigsawGames" space="preserve">
+          <source>‘Pirate Jigsaw Puzzle - Treasure Hunt’ is a family-friendly jigsaw puzzle game that caters to a wide age group of audience. The game lets you relive your fantasy of being a pirate, sailing in the high seas to a Treasure Island. So, buckle yourself for the voyage of  a lifetime with the daring Captain Hawk and his merry band of pirates as they embark on a quest to find hidden treasures. On this voyage, you will encounter several intriguing jigsaw puzzles with increasing levels of complexity. You will have to brave your way past a gigantic octopus, humble tribes of nomads and a cheerful dragon before you can eventually lay claim to the greatest treasure of ‘em all! With 64 puzzles waiting to be unlocked, gear up for an exciting experience. You are in for hours and hours of guaranteed fun!</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="de">‘Pirate Jigsaw Puzzle - Treasure Hunt’ is a family-friendly jigsaw puzzle game that caters to a wide age group of audience. The game lets you relive your fantasy of being a pirate, sailing in the high seas to a Treasure Island. So, buckle yourself for the voyage of  a lifetime with the daring Captain Hawk and his merry band of pirates as they embark on a quest to find hidden treasures. On this voyage, you will encounter several intriguing jigsaw puzzles with increasing levels of complexity. You will have to brave your way past a gigantic octopus, humble tribes of nomads and a cheerful dragon before you can eventually lay claim to the greatest treasure of ‘em all! With 64 puzzles waiting to be unlocked, gear up for an exciting experience. You are in for hours and hours of guaranteed fun!</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is description for PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_1" space="preserve">
+          <source>Game</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Spiel</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_2" space="preserve">
+          <source>Loot</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Beute</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_3" space="preserve">
+          <source>Plunder</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Plündern</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_JigsawGames_4" space="preserve">
+          <source>Ship</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Schiff</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_JigsawGames_5" space="preserve">
+          <source>Piracy</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Piraterie</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_6" space="preserve">
+          <source>Adventure</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Abenteuer</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_7" space="preserve">
+          <source>Ahoy</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Ahoy</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_8" space="preserve">
+          <source>Kids</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Kids</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_9" space="preserve">
+          <source>Sea</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Meer</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_10" space="preserve">
+          <source>Seaman</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Seemann</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_11" space="preserve">
+          <source>Story</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Geschichte</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_12" space="preserve">
+          <source>Booty</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Beute</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_13" space="preserve">
+          <source>Armada</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Armada</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_14" space="preserve">
+          <source>Family</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Familie</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_15" space="preserve">
+          <source>Voyage</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Fahrt</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>			
+        <trans-unit id="appkeyword_JigsawGames_16" space="preserve">
+          <source>Think</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Denken</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_17" space="preserve">
+          <source>Free</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Kostenlos</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appkeyword_JigsawGames_18" space="preserve">
+          <source>Interesting</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Interessant</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_19" space="preserve">
+          <source>Campaign</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Kampagne</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_20" space="preserve">
+          <source>Complex</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Komplex</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_21" space="preserve">
+          <source>Fun</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Spaß</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>	
+        <trans-unit id="appkeyword_JigsawGames_22" space="preserve">
+          <source>Gem</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Schmuckstück</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_JigsawGames_23" space="preserve">
+          <source>Treasure Island</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Schatzinsel</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_JigsawGames_24" space="preserve">
+          <source>Lost Treasure</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Verlorenen Schatz</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_JigsawGames_25" space="preserve">
+          <source>Journey</source>
+          <target state="pending" state-qualifier="auto_localize" xml:lang="de">Fahrt</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">This is keyword for app PirateJigsaw</note>
+        </trans-unit>		
+        <trans-unit id="appfeature_JigsawGames_1" space="preserve">
+          <source>Story based progression</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Storybasierter Fortschritt</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app feature</note>
+        </trans-unit>
+        <trans-unit id="appfeature_JigsawGames_2" space="preserve">
+          <source>64 Challenging puzzles</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">64 herausfordernde Puzzles</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app feature</note>
+        </trans-unit>
+        <trans-unit id="appfeature_JigsawGames_3" space="preserve">
+          <source>Challenges of time, score and number of attempts</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Herausforderungen bezüglich Zeit, Score und Anzahl der Versuche</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app feature</note>
+        </trans-unit>
+        <trans-unit id="appfeature_JigsawGames_4" space="preserve">
+          <source>Increasing complexity</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Steigernde Komplexität</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app feature</note>
+        </trans-unit>
+        <trans-unit id="appfeature_JigsawGames_5" space="preserve">
+          <source>Attractive aesthetics</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Attraktives Aussehen</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app feature</note>
+        </trans-unit>
+        <trans-unit id="appskill_JigsawGames_1" space="preserve">
+          <source>Concentration</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Konzentration</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app skill</note>
+        </trans-unit>
+        <trans-unit id="appskill_JigsawGames_2" space="preserve">
+          <source>Logical ability</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Logische Fähigkeiten</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app skill</note>
+        </trans-unit>
+        <trans-unit id="appskill_JigsawGames_3" space="preserve">
+          <source>Analytical skills</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Analytische Fähigkeiten</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app skill</note>
+        </trans-unit>
+        <trans-unit id="appskill_JigsawGames_4" space="preserve">
+          <source>Problem solving</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Problemlösungsfähigkeiten</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app skill</note>
+        </trans-unit>
+        <trans-unit id="appskill_JigsawGames_5" space="preserve">
+          <source>Visual and spatial perception</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="de">Visuelle und räumliche Wahrnehmung</target>
+          <note annotates="source" from="App name" priority="2">This is Pirate Jigsaw app skill</note>
+        </trans-unit>		
+        <trans-unit id="appfeature_header" space="preserve" translate="yes">
+          <source>Features</source>
+          <target state="new" state-qualifier="mt-suggestion">Features</target>
+          <note annotates="source" from="App name" priority="2">This is app feature header</note>
+        </trans-unit>
+        <trans-unit id="appskill_header" space="preserve" translate="yes">
+          <source>Games are designed to enhance following skills</source>
+          <target state="new" state-qualifier="mt-suggestion">Spiele sind so konzipiert, folgende Fähigkeiten zu verbessern</target>
+          <note annotates="source" from="App name" priority="2">This is common app skill</note>
+        </trans-unit>		
+      </group>
+    </body>
+  </file>
+</xliff>

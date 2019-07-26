@@ -1,0 +1,156 @@
+{
+   "name":"vehicle_parts_set6",
+   "type":"vehicles",
+   "suffix":"vehicle_parts_set6_",
+   "background":"common/backgrounds/background_fullbleed/background_car_garage_2.png",
+   "finishSoundEffect": "effect_car",
+   "partsList":[
+		{
+			"objectId": "vehicle_parts_set6_back_light_1",
+			"name": "back_light",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_back_light_1.png",
+			"w": 26.258,
+			"h": 41.68,
+			"x": 438.79824829101562,
+			"y": 84.134605407714844,
+			"zorder": 20,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_back_light_1.png",
+				"common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_back_light_2.png"
+			],
+			"frameInterval": 0.3,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set6_car_body",
+			"name": "car_body",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_car_body.png",
+			"w": 324.687,
+			"h": 151.298,
+			"x": 278.2750244140625,
+			"y": 113.48381805419922,
+			"zorder": 10,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set6_car_shadow",
+			"name": "car_shadow",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_car_shadow.png",
+			"w": 379.705,
+			"h": 13.754,
+			"x": 278,
+			"y": 19.338741302490234,
+			"zorder": 1,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set6_car_smile",
+			"name": "car_smile",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_car_smile.png",
+			"w": 17.922,
+			"h": 6.669,
+			"x": 129.1343994140625,
+			"y": 77.693473815917969,
+			"zorder": 20,
+			"animationType": ["blink"],
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set6_head_light_1",
+			"name": "head_light",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_head_light_1.png",
+			"w": 52.1,
+			"h": 39.179,
+			"x": 148.973876953125,
+			"y": 121.54747009277344,
+			"zorder": 20,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_head_light_1.png",
+				"common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_head_light_2.png",
+				"common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_head_light_3.png",
+				"common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_head_light_2.png"
+			],
+			"frameInterval": 0.3,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set6_pattern_1",
+			"name": "pattern",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_pattern_1.png",
+			"w": 68.355,
+			"h": 67.105,
+			"x": 279.61843872070312,
+			"y": 87.3739013671875,
+			"zorder": 20,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set6_pattern_2",
+			"name": "_2",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_pattern_2.png",
+			"w": 68.355,
+			"h": 67.105,
+			"x": 279.61843872070312,
+			"y": 87.3739013671875,
+			"zorder": 30,
+			"animationType": ["blink"],
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set6_tire_1",
+			"name": "tire_front",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_tire.png",
+			"type": "tyre",
+			"w": 81.693,
+			"h": 81.693,
+			"x": 183.20542907714844,
+			"y": 61,
+			"zorder": 20,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -40.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set6_tire_2",
+			"name": "tire_rear",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_tire.png",
+			"type": "tyre",
+			"w": 81.693,
+			"h": 81.693,
+			"x": 377.84759521484375,
+			"y": 61,
+			"zorder": 20,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -40.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set6_window_1",
+			"name": "window_1",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_window_1.png",
+			"w": 90.862,
+			"h": 61.27,
+			"x": 239.28982543945313,
+			"y": 152.83961486816406,
+			"zorder": 20,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set6_window_2",
+			"name": "window_2",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set6/vehicle_parts_set6_window_2.png",
+			"w": 92.946,
+			"h": 61.27,
+			"x": 329.66128540039062,
+			"y": 152.92530822753906,
+			"zorder": 20,
+			"isShadow": true
+		}
+	]
+}

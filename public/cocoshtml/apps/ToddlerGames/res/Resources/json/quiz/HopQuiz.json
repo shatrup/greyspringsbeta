@@ -1,0 +1,44 @@
+{
+    "id": "NumberHopQuiz",
+    "type": "NumberHopQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+    "sets": [
+    {
+      "id": "frog_number",
+      "type": "number",
+      "bgMusic": "caption_touch_number_sequence_reach_pond",
+      "question": "caption_touch_number_sequence_reach_pond",      
+      "objectSrc": "realworld_set_number_woodenlog_set0",
+      "bgImg" : "common/scenes/scene100/rws100_background_fullbleed.png",
+      "customKey1": "frog",
+      "customKey2": "common/chrome/quiz/frog.png",
+      "customKey3": "not_applicable",
+	  "isFullBleed": true
+    },
+    {
+      "id": "bee_color",
+      "type": "color",
+      "bgMusic": "caption_touch_{0}_flowers_hive",
+      "qsBgColor": "0B9444",
+      "question": "caption_touch_color_flowers_hive_format",      
+      "objectSrc": "realworld_set_color_flowerplant_set0",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_131",
+      "customKey1": "bee",
+      "customKey2": "common/scenes/scene131/rws131_bee_0.png",
+      "customKey3": "rws131_hive"
+    },
+    {
+      "id": "frog_alphabet",
+      "type": "alphabet",
+      "bgMusic": "caption_touch_letters_sequence_reach_pond",
+      "question": "caption_touch_letters_sequence_reach_pond",      
+      "objectSrc": "realworld_set_alphabet_woodenlog_set0",
+      "bgImg" : "common/scenes/scene100/rws100_background_fullbleed.png",
+      "customKey1": "frog",
+      "customKey2": "common/chrome/quiz/frog.png",
+      "customKey3": "not_applicable",
+	  "isFullBleed": true
+    }
+  ] 
+}

@@ -1,0 +1,34 @@
+{
+    "name": "animation_set5",
+    "type": "monkey_animation",
+	"suffix": "animation_set5_",
+	"objectList": [
+		{
+			"objectId": "animation_set5_rws139_monkey_3",
+			"name": "scene139_3",
+			"imageUri": "common/scenes/scene139/rws139_monkey_3.png",
+			"w": 61.27,
+			"h": 64.604,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set5_rws139_monkey_2",
+			"name": "scene139_2",
+			"imageUri": "common/scenes/scene139/rws139_monkey_2.png",
+			"w": 73.357,
+			"h": 35.011,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set5_rws139_monkey_4",
+			"name": "scene139_4",
+			"imageUri": "common/scenes/scene139/rws139_monkey_4.png",
+			"w": 55.851,
+			"h": 69.189,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

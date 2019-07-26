@@ -1,0 +1,53 @@
+{
+    "id": "OddOneOutV2Quiz",
+    "type": "OddOneOutV2Quiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "alphabet1",
+      "type": "alphabet",
+      "bgMusic": "caption_touch_odd_word_out",
+      "question": "caption_touch_odd_word_out",      
+      "objectSrc": "realworld_set_alphabet_object_set5_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_vertical_match.png",
+	  "customKey1": "alphabet_card_set1",
+	  "customKey2": "alphabet_object",
+	  "isFullBleed": true
+    },
+    {
+      "id": "alphabet2",
+      "type": "alphabet",
+      "bgMusic": "caption_touch_odd_word_out",
+      "question": "caption_touch_odd_word_out",      
+      "objectSrc": "realworld_set_alphabet_object_set6_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_vertical_match.png",
+	  "customKey1": "alphabet_card_set1",
+	  "customKey2": "alphabet_object",
+	  "isFullBleed": true
+    },
+    {
+      "id": "alphabet3",
+      "type": "alphabet",
+      "bgMusic": "caption_touch_odd_word_out",
+      "question": "caption_touch_odd_word_out",      
+      "objectSrc": "realworld_set_alphabet_object_set7_large",
+	  "excludeObjectIds": ["alphabet_object_set7_large_bug"],
+      "bgImg": "common/backgrounds/background_fullbleed/background_vertical_match.png",
+	  "customKey1": "alphabet_card_set1",
+	  "customKey2": "alphabet_object",
+	  "isFullBleed": true
+    },
+    {
+      "id": "alphabet4",
+      "type": "alphabet",
+      "bgMusic": "caption_touch_odd_word_out",
+      "question": "caption_touch_odd_word_out",      
+      "objectSrc": "realworld_set_alphabet_object_set8_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_vertical_match.png",
+	  "customKey1": "alphabet_card_set1",
+	  "customKey2": "alphabet_object",
+	  "isFullBleed": true
+    }	
+  ] 
+}

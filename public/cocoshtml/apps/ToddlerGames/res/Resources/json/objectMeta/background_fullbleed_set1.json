@@ -1,0 +1,124 @@
+{
+    "name": "background_fullbleed_set1",
+    "type": "",
+    "suffix": "background_fullbleed_set1",
+    "objectList": [
+        {
+            "objectId": "background_fullbleed_set1_texture_canvas",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/texture_canvas.png",
+            "w": 569.35,
+            "h": 284.67,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_fullbleed_set1_background_wool",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_wool.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_fullbleed_set1_background_book",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_book.png",
+            "w": 569.35,
+            "h": 284.67,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_fullbleed_set1_background_canvas_1",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_canvas_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+		{
+            "objectId": "background_fullbleed_set1_background_grey",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_grey.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_fullbleed_set1_background_wood_3",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_wood_3.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "background_fullbleed_set1_background_wood_5",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_wood_5.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+		{
+            "objectId": "background_fullbleed_set1_background_vertical_match",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_vertical_match.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+		{
+            "objectId": "background_fullbleed_set1_background_bricks",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_bricks.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "background_fullbleed_set1_background_water",
+			"name": "",
+			"imageUri": "common/backgrounds/background_fullbleed/background_water.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "background_fullbleed_set1_background_green",
+			"name": "",
+			"imageUri": "common/backgrounds/background_fullbleed/background_green.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "background_fullbleed_set1_background_jigsaw",
+			"name": "",
+			"imageUri": "common/backgrounds/background_fullbleed/background_jigsaw.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+        {
+            "objectId": "background_fullbleed_set1_background_canvas_1",
+            "name": "",
+            "imageUri": "common/backgrounds/background_fullbleed/background_canvas_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

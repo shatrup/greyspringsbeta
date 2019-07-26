@@ -1,0 +1,15 @@
+{
+	"id": "chartsPage",
+    "title": "ms-resource:Caption_Charts",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+			  {
+				"name": "ClusterControl",
+                "title": "Charts",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/chartsClusterInnerLevel.json"
+            }
+        ]
+    }
+}

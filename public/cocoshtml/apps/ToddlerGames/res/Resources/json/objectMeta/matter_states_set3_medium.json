@@ -1,0 +1,52 @@
+{
+    "name": "matter_states_set3_medium",
+    "type": "gas",
+    "suffix": "matter_states_set3_medium_",
+    "objectList": [
+				{
+                    "objectId": "matter_states_set3_medium_hot_air",
+                    "name": "hot air",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_medium/matter_states_set3_medium_hot_air.png",
+                    "w": 45.431,
+                    "h": 46.682,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_medium_smoke",
+                    "name": "smoke",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_medium/matter_states_set3_medium_smoke.png",
+                    "w": 47.098,
+                    "h": 20.423,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_medium_fumes",
+                    "name": "fumes",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_medium/matter_states_set3_medium_fumes.png",
+                    "w": 25.842,
+                    "h": 45.848,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_medium_cloud",
+                    "name": "cloud",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_medium/matter_states_set3_medium_cloud.png",
+                    "w": 46.682,
+                    "h": 24.174,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_medium_steam",
+                    "name": "steam",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_medium/matter_states_set3_medium_steam.png",
+                    "w": 39.179,
+                    "h": 37.095,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

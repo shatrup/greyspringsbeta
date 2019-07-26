@@ -1,0 +1,72 @@
+{
+    "name": "spaceship_parts_set_1",
+    "type": "spaceship",
+    "suffix": "spaceship_parts_set_1_",
+    "objectList": [
+		{
+			"objectId": "spaceship_parts_set_1_spaceship_part_left",
+			"name": "spaceship_part_left",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_left.png",
+			"selector": "selector_spaceship_part_missile",
+			"isRefSprite": false,
+			"zIndex": 10
+		},
+		{
+			"objectId": "spaceship_parts_set_1_spaceship_part_lower",
+			"name": "spaceship_part_lower",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_lower.png",
+			"selector": "selector_spaceship_part_lower",
+			"isRefSprite": false,
+			"zIndex": 12
+		},
+		{
+			"objectId": "spaceship_parts_set_1_spaceship_part_right",
+			"name": "spaceship_part_right",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_left.png",
+			"selector": "selector_spaceship_part_missile",
+			"isRefSprite": false,
+			"zIndex": 10
+		},
+        {
+			"objectId": "spaceship_parts_set_1_spaceship_part_center",
+			"name": "spaceship_part_center",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_center.png",
+			"selector": "selector_spaceship_part_center",
+			"isRefSprite": false,
+			"zIndex": 11
+		},
+
+		{
+			"objectId": "spaceship_parts_set_1_spaceship_part_left_outline",
+			"name": "spaceship_part_left_outline",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_left_outline.png",
+			"selector": "selector_spaceship_part_missile",
+			"isRefSprite": true,
+			"zIndex": 5
+		},
+		{
+			"objectId": "spaceship_parts_set_1_spaceship_part_center_outline",
+			"name": "spaceship_part_center_outline",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_center_outline.png",
+			"selector": "selector_spaceship_part_center",
+			"isRefSprite": true,
+			"zIndex": 5
+		},
+		{
+			"objectId": "spaceship_parts_set_1_spaceship_part_right_outline",
+			"name": "spaceship_part_right_outline",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_left_outline.png",
+			"selector": "selector_spaceship_part_missile",
+			"isRefSprite": true,
+			"zIndex": 5
+		},
+		{
+			"objectId": "spaceship_parts_set_1_spaceship_part_lower_outline",
+			"name": "spaceship_part_lower_outline",
+			"imageUri": "SpaceActivity/spaceship/spaceship_part_lower_outline.png",
+			"selector": "selector_spaceship_part_lower",
+			"isRefSprite": true,
+			"zIndex": 5
+		}
+   ]
+}

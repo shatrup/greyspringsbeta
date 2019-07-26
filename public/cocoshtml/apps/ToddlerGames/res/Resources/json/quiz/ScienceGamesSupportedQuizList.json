@@ -1,0 +1,50 @@
+{
+    "quizList": [
+	{
+        "id": "StatesOfMatterQuiz",
+		"unlockConstraint": "none"
+	},
+	{
+        "id": "LifeCycleQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "FloatSinkQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+		"id": "ScratchToRevealQuiz",
+		"sets": ["animal_scratch"],
+		"unlockConstraint": "none",
+		"networkConstraint": true
+	},
+	{
+        "id": "FiveSensesQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "HomeSweetHomeQuiz",
+	    "unlockConstraint": "none"
+    },
+    {
+    	"id": "HealthIsWealthQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "MumAndBabyQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "TrickyMaze",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "MissingObjects",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "SpotDifferences",
+        "unlockConstraint": "none"
+    }
+]
+}

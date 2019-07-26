@@ -1,0 +1,61 @@
+{
+    "name": "piglets_set1",
+    "type": "",
+    "suffix": "piglet_set1_",
+    "objectList": [
+        {
+            "objectId": "piglet_set1_0",
+            "name": "",
+            "imageUri": "common/scenes/scene103/rws103_animals_set0_pig_0.png",
+            "w": 63.35,
+            "h": 74.61,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "piglet_set1_1",
+            "name": "",
+            "imageUri": "common/scenes/scene103/rws103_animals_set0_pig_1.png",
+            "w": 48.35,
+            "h": 70.44,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "piglet_set1_2",
+            "name": "",
+            "imageUri": "common/scenes/scene103/rws103_animals_set0_pig_2.png",
+            "w": 43.35,
+            "h": 60.85,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "piglet_set1_3",
+            "name": "",
+            "imageUri": "common/scenes/scene103/rws103_animals_set0_pig_3.png",
+            "w": 47.93,
+            "h": 70.86,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "piglet_set1_4",
+            "name": "",
+            "imageUri": "common/scenes/scene103/rws103_animals_set0_pig_4.png",
+            "w": 43.35,
+            "h": 60.85,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "piglet_set1_5",
+            "name": "",
+            "imageUri": "common/scenes/scene103/rws103_animals_set0_pig_5.png",
+            "w": 64.19,
+            "h": 90.03,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

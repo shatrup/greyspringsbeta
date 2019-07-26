@@ -1,0 +1,115 @@
+{
+    "name": "animal_set10",
+    "type": "animal",
+    "suffix": "animal_set10_",
+    "objectList": [
+        {
+			"objectId": "animal_set10_cat",
+			"name": "cat",
+			"imageUri": "common/animals/animal_set10/animal_set10_cat.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_cow",
+			"name": "cow",
+			"imageUri": "common/animals/animal_set10/animal_set10_cow.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_crocodile",
+			"name": "crocodile",
+			"imageUri": "common/animals/animal_set10/animal_set10_crocodile.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_dog",
+			"name": "dog",
+			"imageUri": "common/animals/animal_set10/animal_set10_dog.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_elephant",
+			"name": "elephant",
+			"imageUri": "common/animals/animal_set10/animal_set10_elephant.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_lion",
+			"name": "lion",
+			"imageUri": "common/animals/animal_set10/animal_set10_lion.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_mouse",
+			"name": "mouse",
+			"imageUri": "common/animals/animal_set10/animal_set10_mouse.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_pig",
+			"name": "pig",
+			"imageUri": "common/animals/animal_set10/animal_set10_pig.png",
+			"w": 318.435,
+			"h": 216.319,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_rabbit",
+			"name": "rabbit",
+			"imageUri": "common/animals/animal_set10/animal_set10_rabbit.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_rhino",
+			"name": "rhino",
+			"imageUri": "common/animals/animal_set10/animal_set10_rhino.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_sheep",
+			"name": "sheep",
+			"imageUri": "common/animals/animal_set10/animal_set10_sheep.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set10_zebra",
+			"name": "zebra",
+			"imageUri": "common/animals/animal_set10/animal_set10_zebra.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

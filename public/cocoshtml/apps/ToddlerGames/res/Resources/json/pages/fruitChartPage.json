@@ -1,0 +1,18 @@
+{
+	"id":"fruitChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+            {
+				"name": "fruitChartCluster",
+                "title": "Fruit Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/fruitChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

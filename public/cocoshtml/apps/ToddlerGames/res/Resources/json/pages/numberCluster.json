@@ -1,0 +1,39 @@
+{
+	"id": "Numbers01",
+    "title": "Numbers",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "kindergarten8/common/images/number_fullview.png",
+						"title": "ms-resource:GameTileTitle_Numbers",
+						"clicktarget": "appprotocol://page?id=numberBigObjectsListPage&type=numbers",
+						"backgroundColor": "003366"
+					}
+				},
+		        {
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/number_chart.png",
+						"title": "ms-resource:GameTileTitle_NumberChart",
+						"clicktarget": "appprotocol://page?id=numberChartPage&type=numbers&layout=vertical",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/number_quiz.png",
+						"title": "ms-resource:GameTileTitle_NumberBalloonQuiz",
+						"clicktarget": "appprotocol://page?id=PlayGroundPage&type=balloon&subtype=numbers",
+						"backgroundColor": "F2F2F2"
+					}
+				}
+			]
+		}
+	]
+}

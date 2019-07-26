@@ -1,0 +1,93 @@
+{
+    "id": "ScratchToRevealQuiz",
+    "type": "ScratchToRevealQuiz",
+    "bgMusic": "caption_scratch_reveal_{0}",
+    "question": "caption_scratch_reveal_{0}",
+    "complexity": "low",
+    "qsBgColor": "56C5FF",
+    "sets": [
+        {
+            "id": "number_name_scratch",
+            "name": "set_1",
+            "type": "number",
+            "objectSrc": "realworld_set_number_set16_xx_large",
+            "customKey2": "number",
+			"isFullBleed":true
+        },
+        {
+            "id": "fruit_name_scratch",
+            "name": "set_2",
+            "type": "fruit",
+            "objectSrc": "realworld_set_fruit_set31_xx_large",
+            "bgImg": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+            "customKey2": "fruit",
+			"isFullBleed":true
+        },
+        {
+            "id": "shape_name_scratch",
+            "name": "set_3",
+            "type": "shape",
+            "objectSrc": "realworld_set_shape_set8_xx_large",
+            "bgImg": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+            "customKey2": "shape",
+			"isFullBleed":true
+        },
+        {
+            "id": "color_name_scratch",
+            "name": "set_4",
+            "type": "color",
+            "objectSrc": "realworld_set_color_set3_xx_large",
+            "excludeObjectIds": [
+                "color_set3_xx_large_black",
+                "color_set3_xx_large_grey",
+                "color_set3_xx_large_white"
+            ],
+            "bgImg": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+            "customKey1": "word_color",
+            "customKey2": "picture",
+			"isFullBleed":true
+        },
+		{
+            "id": "number_name_scratch_2",
+			"bgImg": "common/backgrounds/background_fullbleed/background_scratch.png",
+            "name": "set_5",
+            "type": "number",
+            "objectSrc": "realworld_set_number_set16_x_large",
+            "customKey2": "number",
+			"isFullBleed":true
+        },
+        {
+            "id": "image_scratch",
+            "name": "set_5",
+            "type": "image",
+            "objectSrc": "realworld_set_scratch_to_reveal_set1",
+            "bgImg": "common/backgrounds/background_fullbleed/{0}.png",
+            "customKey2": "picture",
+            "customKey3": "hasCompletionAnimation",
+            "customKey4": "hasScratchLayerFileUri",
+			"isFullBleed":true
+        },
+        {
+            "id": "image_scratch_ping",
+            "name": "set_6",
+            "type": "image",
+            "objectSrc": "realworld_set_scratch_to_reveal_set2",
+            "bgImg": "common/backgrounds/background_fullbleed/{0}.png",
+            "customKey2": "picture",
+            "customKey3": "hasCompletionAnimation",
+            "customKey4": "hasScratchLayerFileUri",
+			"isFullBleed":true
+        },
+        {
+            "id": "animal_scratch",
+            "name": "set_8",
+            "type": "animal",
+            "objectSrc": "realworld_set_animal_animation_set1",
+            "bgImg": "common/backgrounds/background_fullbleed/match_the_shadow_background_farm.png",
+            "customKey2": "picture",
+            "customKey3": "hasImageBg",
+            "customKey4": "",
+			"isFullBleed":true
+        }
+    ]
+}

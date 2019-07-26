@@ -1,0 +1,32 @@
+{
+    "quizList": [
+        {
+            "id": "LearnToWrite",
+            "sets": ["small_alphabets"],
+            "unlockConstraint": "none",
+			"setAvailabilityConstraint": true
+        },
+		{
+            "id": "LearnToWriteV2",
+            "sets": ["spanish", "hindi"],
+            "unlockConstraint": "none",
+			"setAvailabilityConstraint": true
+        },
+        {
+            "id": "LearnToWriteV4",
+            "unlockConstraint": "none",
+			"setAvailabilityConstraint": true
+        },
+        {
+            "id": "LearnToWriteV5",
+            "unlockConstraint": "none",
+            "setAvailabilityConstraint": true
+        },
+        {
+            "id": "LearnToWriteV6",
+            "sets": ["capital_alphabets_v2", "small_alphabets_v2", "numbers_v2", "shapes_v2"],
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        }
+    ]
+}

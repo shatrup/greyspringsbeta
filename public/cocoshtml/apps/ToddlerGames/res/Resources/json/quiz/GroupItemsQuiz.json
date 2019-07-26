@@ -1,0 +1,16 @@
+{
+    "id": "GroupItemsQuiz",
+    "type": "GroupItemsQuiz",
+    "complexity": "medium",
+    "qsBgColor": "003366",
+    "bgImg" : "common/backgrounds/background_maths_grid.png", 
+    "sets": [
+    {
+      "id": "set_1",
+      "type": "candy",
+      "bgMusic": "caption_make_group_format",
+      "question": "caption_make_group_format",      
+      "objectSrc": "realworld_set_candies_set1"
+    }
+  ] 
+}

@@ -1,0 +1,84 @@
+{
+	"id": "Play01",
+    "title": "Playground",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "kindergarten8/common/images/playground_fullview.png",
+						"title": "ms-resource:GameTileTitle_Playground",
+						"clicktarget": "approtocol://page?id=PlayGroundPage&type=play",
+						"backgroundColor": "003366"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/balloonQuiz.png",
+						"title": "ms-resource:GameTileTitle_BurstBalloons",
+						"clicktarget": "approtocol://page?id=PlayGroundPage&type=balloon",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/memoryGame.png",
+						"title": "ms-resource:GameTileTitle_SolveMemoryGame",
+						"clicktarget": "approtocol://page?id=PlayGroundPage&type=memory",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/oddOneOutQuiz.png",
+						"title": "ms-resource:GameTileTitle_CompareObjects",
+						"clicktarget" : "appprotocol://page?id=PlayGroundPage&type=oddOneOut",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/sameVsDifferent.png",
+						"title": "ms-resource:GameTileTitle_CompareObjects",
+						"clicktarget" : "appprotocol://page?id=PlayGroundPage&type=sameVsDifferent",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/jigsawPuzzle.png",
+						"title": "ms-resource:GameTileTitle_JigsawPuzzle",
+						"clicktarget": "approtocol://page?id=PlayGroundPage&type=jigsaw",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/shadowMatching.png",
+						"title": "ms-resource:GameTileTitle_MatchObjects",
+						"clicktarget" : "appprotocol://page?id=PlayGroundPage&type=shadow",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"image": "kindergarten8/common/images/arrow.png",	
+						"title": "Quizzes",
+						"clicktarget" : "appprotocol://page?id=playgroundPage",
+						"backgroundColor": "F2F2F2"
+					}
+				}
+			]
+		}
+	]
+}

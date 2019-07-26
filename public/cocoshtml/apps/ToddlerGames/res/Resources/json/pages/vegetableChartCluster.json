@@ -1,0 +1,284 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Vegetable Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_VegetablesChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/carrot.jpg",
+						"text": "carrot",
+						"clicktarget" : "ms-audio://data/vegetables/audio/carrot.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/cauliflower.jpg",
+						"text": "Cauliflower",
+						"clicktarget" : "ms-audio://data/vegetables/audio/cauliflower.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/garlic.jpg",
+						"text": "Garlic",
+						"clicktarget" : "ms-audio://data/vegetables/audio/garlic.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/ginger.jpg",
+						"text": "Ginger",
+						"clicktarget" : "ms-audio://data/vegetables/audio/ginger.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/green_beans.jpg",
+						"text": "Green Beans",
+						"clicktarget" : "ms-audio://data/vegetables/audio/green_beans.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/mint.jpg",
+						"text": "Mint",
+						"clicktarget" : "ms-audio://data/vegetables/audio/mint.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/mushroom.jpg",
+						"text": "Mushroom",
+						"clicktarget" : "ms-audio://data/vegetables/audio/mushroom.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/onion.jpg",
+						"text": "Onion",
+						"clicktarget" : "ms-audio://data/vegetables/audio/onion.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/tomato.jpg",
+						"text": "Tomato",
+						"clicktarget" : "ms-audio://data/vegetables/audio/tomato.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/bottle_gourd.jpg",
+						"text": "Bottle Gourd",
+						"clicktarget" : "ms-audio://data/vegetables/audio/bottle_gourd.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/broccoli.jpg",
+						"text": "Broccoli",
+						"clicktarget" : "ms-audio://data/vegetables/audio/broccoli.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/butternut.jpg",
+						"text": "Butternut",
+						"clicktarget" : "ms-audio://data/vegetables/audio/butternut.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/cucumber.jpg",
+						"text": "Cucumber",
+						"clicktarget" : "ms-audio://data/vegetables/audio/cucumber.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/eggplant.jpg",
+						"text": "Eggplant",
+						"clicktarget" : "ms-audio://data/vegetables/audio/eggplant.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/lemon_cucumber.jpg",
+						"text": "Lemon Cucumber",
+						"clicktarget" : "ms-audio://data/vegetables/audio/lemon_cucumber.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/maize.jpg",
+						"text": "Maize",
+						"clicktarget" : "ms-audio://data/vegetables/audio/maize.mp3"
+					}
+				},
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/pumpkin.jpg",
+						"text": "Pumpkin",
+						"clicktarget" : "ms-audio://data/vegetables/audio/pumpkin.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/purple_cabbage.jpg",
+						"text": "Purple Cabbage",
+						"clicktarget" : "ms-audio://data/vegetables/audio/purple_cabbage.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/red_chilli.jpg",
+						"text": "Red Chilli",
+						"clicktarget" : "ms-audio://data/vegetables/audio/red_chilli.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/red_pepper.jpg",
+						"text": "Red Pepper",
+						"clicktarget" : "ms-audio://data/vegetables/audio/red_pepper.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/romanesco_broccoli.jpg",
+						"text": "Romanesco Broccoli",
+						"clicktarget" : "ms-audio://data/vegetables/audio/romanesco_broccoli.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/savoy_cabbage.jpg",
+						"text": "Savoy Cabbage",
+						"clicktarget" : "ms-audio://data/vegetables/audio/savoy_cabbage.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/spinach.jpg",
+						"text": "Spinach",
+						"clicktarget" : "ms-audio://data/vegetables/audio/spinach.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/lettuce.jpg",
+						"text": "Lettuce",
+						"clicktarget" : "ms-audio://data/vegetables/audio/lettuce.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/leek.jpg",
+						"text": "Leek",
+						"clicktarget" : "ms-audio://data/vegetables/audio/leek.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/sweet_potato.jpg",
+						"text": "Sweet Potato",
+						"clicktarget" : "ms-audio://data/vegetables/audio/sweet_potato.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/german_turnip.jpg",
+						"text": "German Turnip",
+						"clicktarget" : "ms-audio://data/vegetables/audio/german_turnip.mp3"
+					}
+				},
+				
+				
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/olive.jpg",
+						"text": "Olive",
+						"clicktarget" : "ms-audio://data/vegetables/audio/olive.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/red_chicory.jpg",
+						"text": "Red Chicory",
+						"clicktarget" : "ms-audio://data/vegetables/audio/red_chicory.mp3"
+					}
+				},
+				
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/zucchini.jpg",
+						"text": "Zucchini",
+						"clicktarget" : "ms-audio://data/vegetables/audio/zucchini.mp3"
+					}
+				},
+
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/artichoke.jpg",
+						"text": "artichoke",
+						"clicktarget" : "ms-audio://data/vegetables/audio/artichoke.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/vegetables/images/asparagus.jpg",
+						"text": "Asparagus",
+						"clicktarget" : "ms-audio://data/vegetables/audio/asparagus.mp3"
+					}
+				}		
+			]
+		}
+	]
+}

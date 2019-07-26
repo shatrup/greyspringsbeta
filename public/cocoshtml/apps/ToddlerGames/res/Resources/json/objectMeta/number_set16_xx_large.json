@@ -1,0 +1,117 @@
+{
+    "name": "number_set16_xx_large",
+    "type": "number",
+    "suffix": "number_set16_xx_large_",
+    "objectList": [
+        {
+            "objectId": "number_set16_xx_large_number_set16_0",
+            "name": "number_0",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_0.png",
+            "w": 273.004,
+            "h": 273.004,
+            "shape": "",
+            "color": "",
+            "audioId": "number_0"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_1",
+            "name": "number_1",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_1.png",
+            "w": 318.435,
+            "h": 273.004,
+            "shape": "",
+            "color": "",
+            "audioId": "number_1"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_10",
+            "name": "number_10",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_10.png",
+            "w": 460.147,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_10"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_2",
+            "name": "number_2",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_2.png",
+            "w": 278.006,
+            "h": 273.004,
+            "shape": "",
+            "color": "",
+            "audioId": "number_2"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_3",
+            "name": "number_3",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_3.png",
+            "w": 336.358,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_3"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_4",
+            "name": "number_4",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_4.png",
+            "w": 214.235,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_4"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_5",
+            "name": "number_5",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_5.png",
+            "w": 270.503,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_5"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_6",
+            "name": "number_6",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_6.png",
+            "w": 252.581,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_6"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_7",
+            "name": "number_7",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_7.png",
+            "w": 237.159,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_7"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_8",
+            "name": "number_8",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_8.png",
+            "w": 323.854,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_8"
+        },
+        {
+            "objectId": "number_set16_xx_large_number_set16_9",
+            "name": "number_9",
+            "imageUri": "common/numbers/number_set16/number_set16_xx_large/number_set16_xx_large_9.png",
+            "w": 183.809,
+            "h": 275.505,
+            "shape": "",
+            "color": "",
+            "audioId": "number_9"
+        }
+    ]
+}

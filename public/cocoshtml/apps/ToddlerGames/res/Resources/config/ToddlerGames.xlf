@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <app id="ToddlerGames">
+    <platform id="ios">
+      <appStoreIdentifier>1071362540</appStoreIdentifier>
+      <custom>
+        <PremiumUpgradeSKU>adsfree</PremiumUpgradeSKU>
+        <GoogleAnalyticsTrackingId>UA-47207781-34</GoogleAnalyticsTrackingId>
+        <GoogleAnalyticsTrackingIdPro>UA-47207781-35</GoogleAnalyticsTrackingIdPro>
+        <appRatingReminderThreshold >20</appRatingReminderThreshold>
+        <appWebUri>http://www.greysprings.com/project/toddlergames</appWebUri>
+        <appRatingReminderThreshold>20</appRatingReminderThreshold>
+        <CompanyFacebookAppUriScheme>fb://profile/142825835780590</CompanyFacebookAppUriScheme>
+        <CompanyYoutubeAppUriScheme>youtube://www.youtube.com/channel/UCSWsOyjT6cOLgizVizviMjQ</CompanyYoutubeAppUriScheme>
+        <CompanyTwitterAppUriScheme>twitter://user?id=1572976586</CompanyTwitterAppUriScheme>
+        <CompanyGooglePlusAppUriScheme>gplus://plus.google.com/111631486877697048983/</CompanyGooglePlusAppUriScheme>
+        <gamePageAdSupport>true</gamePageAdSupport>
+        <scoreboardAdSupport>true</scoreboardAdSupport>
+        <fullscreenAdSupport>true</fullscreenAdSupport>
+        <fullscreenAdThreshold>2</fullscreenAdThreshold>
+        <ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+    		<appRatingReminderThreshold>20</appRatingReminderThreshold>
+      </custom>
+    </platform>
+    <platform id="Android">
+      <appStoreIdentifier>com.greysprings.kidstoddlergames</appStoreIdentifier>
+      <custom>
+        <purgedAppName>Kids Toddler Learning Games</purgedAppName>
+        <PremiumUpgradeSKU>premium_user</PremiumUpgradeSKU>
+    		<appRatingReminderThreshold>20</appRatingReminderThreshold>
+    		<facebookAppId>1665676950327262</facebookAppId>
+    		<facebookAppSecret>ac10be2045c81aaade59edd2bdec4eaa</facebookAppSecret>
+			<isPromotionalTileEnabled>false</isPromotionalTileEnabled>
+    		<unlockQuizzesOnFacebookShare>true</unlockQuizzesOnFacebookShare>
+    		<isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+    		<appWebUri>http://www.greysprings.com/products/toddlergames</appWebUri>
+    		<gamePageAdSupport>true</gamePageAdSupport>
+    		<scoreboardAdSupport>false</scoreboardAdSupport>
+    		<ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+    		<promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>
+      </custom>	  
+    </platform>
+    <platform id="AndroidUniversal">
+      <appStoreIdentifier>com.greysprings.kids.toddler.games</appStoreIdentifier>
+      <custom>
+        <purgedAppName>Kids Toddler Learning Games</purgedAppName>
+        <PremiumUpgradeSKU>premium_user</PremiumUpgradeSKU>
+        <appRatingReminderThreshold>20</appRatingReminderThreshold>
+        <facebookAppId>1665676950327262</facebookAppId>
+        <facebookAppSecret>ac10be2045c81aaade59edd2bdec4eaa</facebookAppSecret>
+        <unlockQuizzesOnFacebookShare>true</unlockQuizzesOnFacebookShare>
+        <isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+        <appWebUri>http://www.greysprings.com/products/toddlergames</appWebUri>
+        <gamePageAdSupport>true</gamePageAdSupport>
+        <scoreboardAdSupport>false</scoreboardAdSupport>
+        <ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+        <promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>
+      </custom>   
+    </platform>
+    <platform id="Samsung">
+      <appStoreIdentifier>com.greysprings.kidstoddlergames</appStoreIdentifier>
+      <custom>
+        <purgedAppName>Kids Toddler Learning Games</purgedAppName>
+        <PremiumUpgradeSKU>premium_user</PremiumUpgradeSKU>
+    		<appRatingReminderThreshold>2000</appRatingReminderThreshold>
+    		<facebookAppId>1665676950327262</facebookAppId>
+    		<facebookAppSecret>ac10be2045c81aaade59edd2bdec4eaa</facebookAppSecret>
+    		<unlockQuizzesOnFacebookShare>true</unlockQuizzesOnFacebookShare>
+    		<isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+    		<appWebUri>http://www.greysprings.com/products/toddlergames</appWebUri>
+    		<gamePageAdSupport>true</gamePageAdSupport>
+    		<scoreboardAdSupport>true</scoreboardAdSupport>
+    		<fullscreenAdSupport>true</fullscreenAdSupport>
+    		<fullscreenAdThreshold>4</fullscreenAdThreshold>
+    		<ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+    		<promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>
+        <hasInAppPurchaseSupport>false</hasInAppPurchaseSupport>
+        <hasRateUs>false</hasRateUs>
+      </custom>	  
+    </platform>
+    <platform id="Xiaomi">
+      <appStoreIdentifier>com.greysprings.kidstoddlergames</appStoreIdentifier>
+      <custom>
+        <purgedAppName>Kids Toddler Learning Games</purgedAppName>
+        <PremiumUpgradeSKU>premium_user</PremiumUpgradeSKU>
+    		<appRatingReminderThreshold>20000</appRatingReminderThreshold>
+    		<facebookAppId>1665676950327262</facebookAppId>
+    		<facebookAppSecret>ac10be2045c81aaade59edd2bdec4eaa</facebookAppSecret>
+    		<unlockQuizzesOnFacebookShare>true</unlockQuizzesOnFacebookShare>
+    		<isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+    		<appWebUri>http://www.greysprings.com/products/toddlergames</appWebUri>
+    		<gamePageAdSupport>true</gamePageAdSupport>
+    		<scoreboardAdSupport>true</scoreboardAdSupport>
+    		<fullscreenAdSupport>true</fullscreenAdSupport>
+    		<fullscreenAdThreshold>4</fullscreenAdThreshold>
+    		<ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+    		<promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>
+        <hasInAppPurchaseSupport>false</hasInAppPurchaseSupport>
+        <hasRateUs>false</hasRateUs>
+      </custom>	  
+    </platform>	
+    <platform id="Amazon">
+      <appStoreIdentifier>com.greysprings.kidstoddlergames</appStoreIdentifier>
+      <custom>
+        <purgedAppName>Kids Toddler Learning Games</purgedAppName>
+        <PremiumUpgradeSKU>premium_user</PremiumUpgradeSKU>
+    		<appRatingReminderThreshold>20</appRatingReminderThreshold>
+    		<facebookAppId>1665676950327262</facebookAppId>
+    		<facebookAppSecret>ac10be2045c81aaade59edd2bdec4eaa</facebookAppSecret>
+    		<unlockQuizzesOnFacebookShare>true</unlockQuizzesOnFacebookShare>
+    		<isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+    		<appWebUri>http://www.greysprings.com/products/toddlergames</appWebUri>
+    		<gamePageAdSupport>true</gamePageAdSupport>
+    		<scoreboardAdSupport>false</scoreboardAdSupport>
+        <fullscreenAdSupport>false</fullscreenAdSupport>
+        <fullscreenAdThreshold>4</fullscreenAdThreshold>		
+    		<ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+    		<promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>
+      </custom>	  
+    </platform>	
+    <platform id="wp8">
+      <appStoreIdentifier>zune:reviewapp?appid=ebbb7a4c-1a32-43be-afaf-fe0e820499d6</appStoreIdentifier>
+      <appStoreProIdentifier>zune:reviewapp?appid=832cf9bc-940d-4303-94e8-48f1922383cf</appStoreProIdentifier>
+      <custom>
+        <adsFreeProductId>tg_goadsfree</adsFreeProductId>
+        <facebookAppId>366407610221530</facebookAppId>
+        <facebookAppSecret>fb68ea2f47f5e34bd6c6126e6d75c872</facebookAppSecret>
+        <appWebUri>http://www.greysprings.com/project/toddlergames</appWebUri>
+        <unlockQuizzesOnFacebookShare>false</unlockQuizzesOnFacebookShare>
+    		<isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+        <gamePageAdSupport>true</gamePageAdSupport>
+       	<scoreboardAdSupport>false</scoreboardAdSupport>
+    		<appRatingReminderThreshold>20</appRatingReminderThreshold>
+    		<promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>	
+      </custom>
+    </platform>
+    <platform id="Windows8">
+      <appStoreIdentifier>ms-windows-store:REVIEW?PFN=greysprings.GSKidsToddlerGames_p4xj81aw0mjbg</appStoreIdentifier>
+      <appStoreProIdentifier>ms-windows-store:REVIEW?PFN=greysprings.GSKidsToddlerGamesPro_p4xj81aw0mjbg</appStoreProIdentifier>
+      <custom>
+        <adsFreeProductId>adsfree</adsFreeProductId>
+        <facebookAppId>366407610221530</facebookAppId>
+        <facebookAppSecret>fb68ea2f47f5e34bd6c6126e6d75c872</facebookAppSecret>
+        <appWebUri>http://www.greysprings.com/project/toddlergames</appWebUri>
+        <unlockQuizzesOnFacebookShare>true</unlockQuizzesOnFacebookShare>
+    		<isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+    		<appRatingReminderThreshold>0</appRatingReminderThreshold>
+       	<gamePageAdSupport>true</gamePageAdSupport>
+       	<scoreboardAdSupport>true</scoreboardAdSupport>
+        <ResourceServer>gsinst.blob.core.windows.net</ResourceServer>	
+    		<promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>		
+      </custom>
+    </platform>
+    <platform id="Windows10">
+      <appStoreIdentifier>ms-windows-store:REVIEW?PFN=greysprings.GSKidsToddlerGames_p4xj81aw0mjbg</appStoreIdentifier>
+      <appStoreProIdentifier>ms-windows-store:REVIEW?PFN=greysprings.GSKidsToddlerGamesPro_p4xj81aw0mjbg</appStoreProIdentifier>
+      <custom>
+        <adsFreeProductId>adsfree</adsFreeProductId>
+        <facebookAppId>366407610221530</facebookAppId>
+        <facebookAppSecret>fb68ea2f47f5e34bd6c6126e6d75c872</facebookAppSecret>
+        <appWebUri>http://www.greysprings.com/project/toddlergames</appWebUri>
+        <unlockQuizzesOnFacebookShare>true</unlockQuizzesOnFacebookShare>
+        <isPromotionalTileEnabled>true</isPromotionalTileEnabled>
+        <isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+        <appRatingReminderThreshold>0</appRatingReminderThreshold>
+        <gamePageAdSupport>true</gamePageAdSupport>
+        <scoreboardAdSupport>true</scoreboardAdSupport>
+        <fullscreenAdSupport>true</fullscreenAdSupport>
+        <fullscreenAdThreshold>4</fullscreenAdThreshold>
+        <ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+        <promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&amp;appName={1}</promocodeConsumerUriFormat>
+      </custom>
+    </platform>	
+    <platform id="win32">
+      <appStoreIdentifier>greysprings.GSKidsToddlerGames_p4xj81aw0mjbg</appStoreIdentifier>
+      <custom>
+        <adsFreeProductId>adsfree</adsFreeProductId>
+        <facebookAppId>366407610221530</facebookAppId>
+        <facebookAppSecret>fb68ea2f47f5e34bd6c6126e6d75c872</facebookAppSecret>
+        <appWebUri>http://www.greysprings.com/project/toddlergames</appWebUri>
+        <unlockQuizzesOnFacebookShare>false</unlockQuizzesOnFacebookShare>
+    		<isSnowEffectEnabledOnHomepage>false</isSnowEffectEnabledOnHomepage>
+        <rateusUri>http://apps.microsoft.com/windows/en-us/app/de14d127-9d59-4bd9-9dba-aae227835ea6</rateusUri>
+    		<gamePageAdSupport>true</gamePageAdSupport>
+        <scoreboardAdSupport>true</scoreboardAdSupport>
+        <ResourceServer>gsinst.blob.core.windows.net</ResourceServer>
+    		<promocodeConsumerUriFormat>http://gs-services.cloudapp.net/PromocodeV1.svc/user/promocode/applyPromo/?promoCode={0}&appName={1}</promocodeConsumerUriFormat>
+      </custom>
+    </platform>
+  </app>
+</xliff>

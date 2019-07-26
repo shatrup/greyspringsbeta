@@ -1,0 +1,194 @@
+{
+    "id": "OddOneOutQuiz",
+    "type": "oddOneOut",
+    "bgMusic": "caption_touch_item_{0}",
+    "question": "caption_touch_item_format",
+    "complexity": "easy",
+    "qsBgColor": "#003366",
+    "sets": [
+        {
+			"name": "set_1",
+            "objects": [{"objectId": "fruit_set2_apple"}]
+        },
+        {
+			"name": "set_2",
+            "objects": [{"objectId": "fruit_set2_mango"}]
+        },
+        {
+			"name": "set_3",
+            "objects": [{"objectId": "fruit_set2_plum"}]
+        },
+        {
+			"name": "set_4",
+            "objects": [{"objectId": "fruit_set2_pineapple"}]
+        },
+        {
+			"name": "set_5",
+            "objects": [{"objectId": "fruit_set2_star_fruit"}]
+        },
+        {
+			"name": "set_6",
+            "objects": [{"objectId": "fruit_set2_strawberry"}]
+        },
+        {
+			"name": "set_7",
+            "objects": [{"objectId": "fruit_set2_watermelon"}]
+        },
+        {
+			"name": "set_8",
+            "objects": [{"objectId": "vegetable_set1_cauliflower"}]
+        },
+        {
+			"name": "set_9",
+            "objects": [{"objectId": "vegetable_set1_pumpkin"}]
+        },
+        {
+			"name": "set_10",
+            "objects": [{"objectId": "vegetable_set1_purple_cabbage"}]
+        },
+        {
+			"name": "set_11",
+            "objects": [{"objectId": "vegetable_set1_red_pepper"}]
+        },
+        {
+			"name": "set_12",
+            "objects": [{"objectId": "animal_set3_bear"}]
+        },
+        {
+			"name": "set_13",
+            "objects": [{"objectId": "animal_set3_bear"}]
+        },
+        {
+			"name": "set_14",
+            "objects": [{"objectId": "animal_set3_beaver"}]
+        },
+        {
+			"name": "set_15",
+            "objects": [{"objectId": "animal_set3_buffalo"}]
+        },
+        {
+			"name": "set_16",
+            "objects": [{"objectId": "animal_set3_bull"}]
+        },
+        {
+			"name": "set_17",
+            "objects": [{"objectId": "animal_set3_camel"}]
+        },
+        {
+			"name": "set_18",
+            "objects": [{"objectId": "animal_set3_chameleon"}]
+        },
+        {
+			"name": "set_19",
+            "objects": [{"objectId": "animal_set3_cheetah"}]
+        },
+        {
+			"name": "set_20",
+            "objects": [{"objectId": "animal_set3_cow"}]
+        },
+        {
+			"name": "set_21",
+            "objects": [{"objectId": "animal_set3_coyote"}]
+        },
+        {
+			"name": "set_22",
+            "objects": [{"objectId": "animal_set3_deer"}]
+        },
+        {
+			"name": "set_23",
+            "objects": [{"objectId": "animal_set3_donkey"}]
+        },
+        {
+			"name": "set_24",
+            "objects": [{"objectId": "animal_set3_elephant"}]
+        },
+        {
+			"name": "set_25",
+            "objects": [{"objectId": "animal_set3_ferret"}]
+        },
+        {
+			"name": "set_26",
+            "objects": [{"objectId": "animal_set3_frog"}]
+        },
+        {
+			"name": "set_27",
+            "objects": [{"objectId": "animal_set3_giraffe"}]
+        },
+        {
+			"name": "set_28",
+            "objects": [{"objectId": "animal_set3_goat"}]
+        },
+        {
+			"name": "set_29",
+            "objects": [{"objectId": "animal_set3_horse"}]
+        },
+        {
+			"name": "set_30",
+            "objects": [{"objectId": "animal_set3_koala"}]
+        },
+        {
+			"name": "set_31",
+            "objects": [{"objectId": "animal_set3_lion"}]
+        },
+        {
+			"name": "set_32",
+            "objects": [{"objectId": "animal_set3_moose"}]
+        },
+        {
+			"name": "set_33",
+            "objects": [{"objectId": "animal_set3_mule_deer"}]
+        },
+        {
+			"name": "set_34",
+            "objects": [{"objectId": "animal_set3_pig"}]
+        },
+        {
+			"name": "set_35",
+            "objects": [{"objectId": "animal_set3_polar_bear"}]
+        },
+        {
+			"name": "set_36",
+            "objects": [{"objectId": "animal_set3_rabbit"}]
+        },
+        {
+			"name": "set_37",
+            "objects": [{"objectId": "animal_set3_ram"}]
+        },
+        {
+			"name": "set_38",
+            "objects": [{"objectId": "animal_set3_rat"}]
+        },
+        {
+			"name": "set_39",
+            "objects": [{"objectId": "animal_set3_sheep"}]
+        },
+        {
+			"name": "set_40",
+            "objects": [{"objectId": "animal_set3_snake"}]
+        },
+        {
+			"name": "set_41",
+            "objects": [{"objectId": "animal_set3_squirrel"}]
+        },
+        {
+			"name": "set_42",
+            "objects": [{"objectId": "animal_set3_stag"}]
+        },
+        {
+			"name": "set_43",
+            "objects": [{"objectId": "animal_set3_tiger"}]
+        },
+        {
+			"name": "set_44",
+            "objects": [{"objectId": "animal_set3_tortoise"}]
+        },
+        {
+			"name": "set_45",
+            "objects": [{"objectId": "animal_set3_wildebeest"}]
+        },
+        {
+			"name": "set_46",
+            "objects": [{"objectId": "animal_set3_zebra"}]
+        }
+    ]
+}

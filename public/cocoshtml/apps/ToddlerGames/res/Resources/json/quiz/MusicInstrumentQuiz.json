@@ -1,0 +1,22 @@
+{
+    "id": "MusicInstrumentQuiz",
+    "type": "MusicInstrumentQuiz",
+    "complexity": "medium",
+    "bgImg": "common/scenes/scene185/background.png",
+    "sets": [    
+    {
+      "id": "balloon_alphabet_burst_all",
+      "type": "alphabet", 
+      "bgMusic": "caption_touch_balloon_{0}",
+	  "qsBgColor": "60C0CC",
+      "title": "tiletitle_ToddlerGames_BalloonPopV2Quiz",
+      "question": "caption_touch_balloon_alphabet_format",      
+      "objectSrc": "realworld_set_color_balloon_set1",
+      "customKey1": "effect_boom",
+      "customKey2": "common/scenes/scene174/{0}_burst.png",
+      "customKey3": "balloon",
+	  "customKey4": "burst_all",
+	  "isFullBleed": true
+    }
+  ] 
+}

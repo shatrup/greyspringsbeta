@@ -1,0 +1,205 @@
+{
+	"name": "rws196",
+	"type": "scene196",
+	"suffix": "rws196_",
+	"objectList": [
+		{
+			"objectId": "rws196_background",
+			"name": "scene196_background",
+			"imageUri": "common/scenes/scene196/rws196_background.png",
+			"w": 569.349,
+			"h": 320.102,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_1",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_boy_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_1_eating_1",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_boy_1_eating_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_1_eating_2",
+			"name": "scene196_2",
+			"imageUri": "common/scenes/scene196/rws196_boy_1_eating_2.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_1_sad",
+			"name": "scene196_sad",
+			"imageUri": "common/scenes/scene196/rws196_boy_1_sad.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_1_slurp_1",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_boy_1_slurp_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_1_slurp_2",
+			"name": "scene196_2",
+			"imageUri": "common/scenes/scene196/rws196_boy_1_slurp_2.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_2",
+			"name": "scene196_2",
+			"imageUri": "common/scenes/scene196/rws196_boy_2.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_2_eating_1",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_boy_2_eating_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_2_eating_2",
+			"name": "scene196_2",
+			"imageUri": "common/scenes/scene196/rws196_boy_2_eating_2.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_2_sad",
+			"name": "scene196_sad",
+			"imageUri": "common/scenes/scene196/rws196_boy_2_sad.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_2_slurp_2",
+			"name": "scene196_slurp",
+			"imageUri": "common/scenes/scene196/rws196_boy_2_slurp.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_2_slurp_1",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_boy_2_slurp_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_food_container",
+			"name": "scene196_container",
+			"imageUri": "common/scenes/scene196/rws196_food_container.png",
+			"w": 581.853,
+			"h": 199.23,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_food_rack",
+			"name": "scene196_rack",
+			"imageUri": "common/scenes/scene196/rws196_food_rack.png",
+			"w": 82.943,
+			"h": 6.669,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_3",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_girl_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_3_eating_1",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_girl_eating_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_3_eating_2",
+			"name": "scene196_2",
+			"imageUri": "common/scenes/scene196/rws196_girl_eating_2.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_3_sad",
+			"name": "scene196_sad",
+			"imageUri": "common/scenes/scene196/rws196_girl_sad.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_3_slurp_2",
+			"name": "scene196_slurp",
+			"imageUri": "common/scenes/scene196/rws196_girl_slurp.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_kid_3_slurp_1",
+			"name": "scene196_1",
+			"imageUri": "common/scenes/scene196/rws196_girl_slurp_1.png",
+			"w": 95.03,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "rws196_plate",
+			"name": "scene196_plate",
+			"imageUri": "common/scenes/scene196/rws196_plate.png",
+			"w": 124.623,
+			"h": 50.016,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

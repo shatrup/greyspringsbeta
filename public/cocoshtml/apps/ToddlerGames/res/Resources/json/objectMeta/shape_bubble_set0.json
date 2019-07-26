@@ -1,0 +1,106 @@
+{
+    "name": "shape_bubble_set0",
+    "type": "",
+    "suffix": "shape_bubble_set0_",
+    "objectList": [
+        {
+            "objectId": "shape_bubble_set0_circle",
+            "name": "shape_circle",
+            "imageUri": "potsprite://bubble_shape/?id=circle",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_diamond",
+            "name": "shape_diamond",
+            "imageUri": "potsprite://bubble_shape/?id=diamond",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_heart",
+            "name": "shape_heart",
+            "imageUri": "potsprite://bubble_shape/?id=heart",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_hexagon",
+            "name": "shape_hexagon",
+            "imageUri": "potsprite://bubble_shape/?id=hexagon",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_octagon",
+            "name": "shape_octagon",
+            "imageUri": "potsprite://bubble_shape/?id=octagon",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_oval",
+            "name": "shape_oval",
+            "imageUri": "potsprite://bubble_shape/?id=oval",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_pentagon",
+            "name": "shape_pentagon",
+            "imageUri": "potsprite://bubble_shape/?id=pentagon",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_rectangle",
+            "name": "shape_rectangle",
+            "imageUri": "potsprite://bubble_shape/?id=rectangle",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_square",
+            "name": "shape_square",
+            "imageUri": "potsprite://bubble_shape/?id=square",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_star",
+            "name": "shape_star",
+            "imageUri": "potsprite://bubble_shape/?id=hexagon",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_bubble_set0_triangle",
+            "name": "shape_triangle",
+            "imageUri": "potsprite://bubble_shape/?id=hexagon",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

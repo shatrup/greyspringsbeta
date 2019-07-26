@@ -1,0 +1,205 @@
+{
+	"id" :  "PreschoolBasicsHomeAlphabetCluster",
+	"hasHeroTile" : false,
+	"heroImgUri" : "kindergarten8/colors.png",
+	"heroTargetUri" : "appprotocol://scene/?id=PanoramaApp.VerticalChartPage",
+	"type": "shapes",
+	"tileList": [
+	{
+		"title" :  "CIRCLE",
+		"imgUri" : "kindergarten8/shapes/animation/circle.png",
+		"tileAudioId" : "shape_circle",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/circle_2.png",
+			"kindergarten8/shapes/animation/circle_3.png",
+			"kindergarten8/shapes/animation/circle_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "TRIANGLE",
+		"imgUri" : "kindergarten8/shapes/animation/triangle.png",
+		"tileAudioId" : "shape_triangle",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/triangle_2.png",
+			"kindergarten8/shapes/animation/triangle_3.png",
+			"kindergarten8/shapes/animation/triangle_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "RECTANGLE",
+		"imgUri" : "kindergarten8/shapes/animation/rectangle.png",
+		"tileAudioId" : "shape_rectangle",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/rectangle_2.png",
+			"kindergarten8/shapes/animation/rectangle_3.png",
+			"kindergarten8/shapes/animation/rectangle_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "SQUARE",
+		"imgUri" : "kindergarten8/shapes/animation/square.png",
+		"tileAudioId" : "shape_square",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/square_2.png",
+			"kindergarten8/shapes/animation/square_3.png",
+			"kindergarten8/shapes/animation/square_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "PENTAGON",
+		"imgUri" : "kindergarten8/shapes/animation/pentagon.png",
+		"tileAudioId" : "shape_pentagon",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/pentagon_2.png",
+			"kindergarten8/shapes/animation/pentagon_3.png",
+			"kindergarten8/shapes/animation/pentagon_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "HEXAGON",
+		"imgUri" : "kindergarten8/shapes/animation/hexagon.png",
+		"tileAudioId" : "shape_hexagon",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/hexagon_2.png",
+			"kindergarten8/shapes/animation/hexagon_3.png",
+			"kindergarten8/shapes/animation/hexagon_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "OCTAGON",
+		"imgUri" : "kindergarten8/shapes/animation/octagon.png",
+		"tileAudioId" : "shape_octagon",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/octagon_2.png",
+			"kindergarten8/shapes/animation/octagon_3.png",
+			"kindergarten8/shapes/animation/octagon_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "STAR",
+		"imgUri" : "kindergarten8/shapes/animation/star.png",
+		"tileAudioId" : "shape_star",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/star_2.png",
+			"kindergarten8/shapes/animation/star_3.png",
+			"kindergarten8/shapes/animation/star_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "HEART",
+		"imgUri" : "kindergarten8/shapes/animation/heart.png",
+		"tileAudioId" : "shape_heart",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/heart_2.png",
+			"kindergarten8/shapes/animation/heart_3.png",
+			"kindergarten8/shapes/animation/heart_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "DIAMOND",
+		"imgUri" : "kindergarten8/shapes/animation/diamond.png",
+		"tileAudioId" : "shape_diamond",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/diamond_2.png",
+			"kindergarten8/shapes/animation/diamond_3.png",
+			"kindergarten8/shapes/animation/diamond_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "OVAL",
+		"imgUri" : "kindergarten8/shapes/animation/oval.png",
+		"tileAudioId" : "shape_oval",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/oval_2.png",
+			"kindergarten8/shapes/animation/oval_3.png",
+			"kindergarten8/shapes/animation/oval_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "SEMI CIRCLE",
+		"imgUri" : "kindergarten8/shapes/animation/semicircle.png",
+		"tileAudioId" : "shape_semicircle",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/semicircle_2.png",
+			"kindergarten8/shapes/animation/semicircle_3.png",
+			"kindergarten8/shapes/animation/semicircle_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "CRESCENT",
+		"imgUri" : "kindergarten8/shapes/animation/crescent.png",
+		"tileAudioId" : "shape_crescent",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/crescent_2.png",
+			"kindergarten8/shapes/animation/crescent_3.png",
+			"kindergarten8/shapes/animation/crescent_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	},
+	{
+		"title" :  "TRAPEZIUM",
+		"imgUri" : "kindergarten8/shapes/animation/trapezium.png",
+		"tileAudioId" : "shape_trapezium",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/shapes/animation/trapezium_2.png",
+			"kindergarten8/shapes/animation/trapezium_3.png",
+			"kindergarten8/shapes/animation/trapezium_4.png"
+		],
+		"animationSound": "effect_cartoon_ascent",
+		"animationFrameRate": 0.2
+	}
+]
+}

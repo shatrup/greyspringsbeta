@@ -1,0 +1,205 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Animal Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_AnimalChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/bear.png",
+						"text": "Bear",
+						"clicktarget" : "ms-audio://data/animals/audio/bear.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/buffalo.png",
+						"text": "Buffalo",
+						"clicktarget" : "ms-audio://data/animals/audio/buffalo.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/bull.png",
+						"text": "Bull",
+						"clicktarget" : "ms-audio://data/animals/audio/bull.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/camel.png",
+						"text": "Camel",
+						"clicktarget" : "ms-audio://data/animals/audio/camel.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/cheetah.png",
+						"text": "Cheetah",
+						"clicktarget" : "ms-audio://data/animals/audio/cheetah.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/cow.png",
+						"text": "Cow",
+						"clicktarget" : "ms-audio://data/animals/audio/cow.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/deer.png",
+						"text": "deer",
+						"clicktarget" : "ms-audio://data/animals/audio/deer.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/donkey.png",
+						"text": "Donkey",
+						"clicktarget" : "ms-audio://data/animals/audio/donkey.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/elephant.png",
+						"text": "Elephant",
+						"clicktarget" : "ms-audio://data/animals/audio/elephant.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/giraffe.png",
+						"text": "Giraffe",
+						"clicktarget" : "ms-audio://data/animals/audio/giraffe.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/horse.png",
+						"text": "Horse",
+						"clicktarget" : "ms-audio://data/animals/audio/horse.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/lion.png",
+						"text": "Lion",
+						"clicktarget" : "ms-audio://data/animals/audio/lion.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/sheep.png",
+						"text": "Sheep",
+						"clicktarget" : "ms-audio://data/animals/audio/sheep.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/tiger.png",
+						"text": "Tiger",
+						"clicktarget" : "ms-audio://data/animals/audio/tiger.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/zebra.png",
+						"text": "Zebra",
+						"clicktarget" : "ms-audio://data/animals/audio/zebra.mp3"
+					}
+				},			
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/goat.png",
+						"text": "Goat",
+						"clicktarget" : "ms-audio://data/animals/audio/goat.mp3"
+					}
+				},				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/pig.png",
+						"text": "Pig",
+						"clicktarget" : "ms-audio://data/animals/audio/pig.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/tortoise.png",
+						"text": "Tortoise",
+						"clicktarget" : "ms-audio://data/animals/audio/tortoise.mp3"
+					}
+				},				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/coyote.png",
+						"text": "Coyote",
+						"clicktarget" : "ms-audio://data/animals/audio/coyote.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/snake.png",
+						"text": "Snake",
+						"clicktarget" : "ms-audio://data/animals/audio/snake.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/stag.png",
+						"text": "Stag",
+						"clicktarget" : "ms-audio://data/animals/audio/stag.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/elk.png",
+						"text": "Elk",
+						"clicktarget" : "ms-audio://data/animals/audio/elk.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/animals/images/moose.png",
+						"text": "Moose",
+						"clicktarget" : "ms-audio://data/animals/audio/moose.mp3"
+					}
+				}
+			]
+		}
+	]
+}

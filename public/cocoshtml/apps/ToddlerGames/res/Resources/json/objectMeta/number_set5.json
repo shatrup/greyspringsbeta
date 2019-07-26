@@ -1,0 +1,88 @@
+{
+    "name": "number_set5",
+    "type": "number",
+    "suffix": "number_set5_",
+    "objectList": [
+        {
+            "objectId": "number_set5_1",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_1.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_2",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_2.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_3",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_3.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_4",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_4.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_5",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_5.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_6",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_6.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_7",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_7.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_8",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_8.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set5_9",
+            "name": "",
+            "imageUri": "common/numbers/number_set5/number_set5_9.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

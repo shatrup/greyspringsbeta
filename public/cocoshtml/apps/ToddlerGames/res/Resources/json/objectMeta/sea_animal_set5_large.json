@@ -1,0 +1,97 @@
+{
+    "name": "sea_animal_set5_large",
+    "type": "sea",
+    "suffix": "sea_animal_set5_large_",
+    "objectList": [
+        {
+            "objectId": "sea_animal_set5_large_fish_black",
+            "name": "sea_black",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_black.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_blue",
+            "name": "sea_blue",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_blue.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_brown",
+            "name": "sea_brown",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_brown.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_green",
+            "name": "sea_green",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_green.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_grey",
+            "name": "sea_grey",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_grey.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_orange",
+            "name": "sea_orange",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_orange.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_pink",
+            "name": "sea_pink",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_pink.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_purple",
+            "name": "sea_purple",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_purple.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_red",
+            "name": "sea_red",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_red.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set5_large_fish_yellow",
+            "name": "sea_yellow",
+            "imageUri": "common/sea_animals/sea_animal_set5/sea_animal_set5_large/sea_animal_set5_large_fish_yellow.png",
+            "w": 82.526,
+            "h": 61.686,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

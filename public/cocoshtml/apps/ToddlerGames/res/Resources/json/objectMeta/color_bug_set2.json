@@ -1,0 +1,96 @@
+{
+    "name": "color_bug_set2",
+    "type": "",
+    "suffix": "color_bug_set2_",
+    "objectList": [
+        {
+            "objectId": "color_bug_set2_red",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=red&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_red"
+		},
+        {
+            "objectId": "color_bug_set2_blue",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=blue&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_blue"
+        },
+        {
+            "objectId": "color_bug_set2_green",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=green&sceneId=166&colorCode=54ff32",
+            "w": 5,
+            "h": 5,
+            "color": "color_green"
+        },
+        {
+            "objectId": "color_bug_set2_orange",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=orange&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_orange"
+        },
+        {
+            "objectId": "color_bug_set2_brown",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=brown&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_brown"
+        },
+        {
+            "objectId": "color_bug_set2_black",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=black&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_black",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set2_white",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=white&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_white"
+        },
+        {
+            "objectId": "color_bug_set2_pink",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=pink&sceneId=166&colorCode=ff07ff",
+            "w": 5,
+            "h": 5,
+            "color": "color_pink"
+        },
+        {
+            "objectId": "color_bug_set2_violet",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=violet&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_violet"
+        },
+        {
+            "objectId": "color_bug_set2_grey",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=grey&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_grey"
+        },
+        {
+            "objectId": "color_bug_set2_yellow",
+            "name": "",
+            "imageUri": "potsprite://bug_color/?color=yellow&sceneId=166",
+            "w": 5,
+            "h": 5,
+            "color": "color_yellow"
+        }
+    ]
+}

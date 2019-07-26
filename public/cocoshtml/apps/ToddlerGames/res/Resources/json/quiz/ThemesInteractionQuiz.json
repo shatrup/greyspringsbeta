@@ -1,0 +1,51 @@
+{
+    "id": "ThemesInteractionQuiz",
+    "type": "ThemesInteractionQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "id": "set1",
+      "type": "number",
+      "bgMusic": "caption_count_objects",
+      "question": "caption_count_format",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_199_1",
+      "objectSrc": "realworld_set_color_set3_large",
+      "customKey1": "rws199_light_2",
+	  "customKey2": "common/scenes/scene199/rws199_light_{0}_enable_{0}.png"
+    },
+    {
+      "id": "set2",
+      "type": "number",
+      "bgMusic": "caption_count_objects",
+      "question": "caption_count_format",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_199_2",
+      "objectSrc": "realworld_set_color_set3_large",
+      "customKey1": "rws199_light_3",
+	  "customKey2": "common/scenes/scene199/rws199_light_{0}_enable_{0}.png"
+    },
+    {
+      "id": "set3",
+      "type": "shape",
+	  "bgMusic": "caption_touch_find_item",
+      "question": "caption_touch_find_items",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_199_1",
+      "objectSrc": "realworld_set_color_set3_large",
+      "customKey1": "rws199_light_2",
+	  "customKey2": "shape_set24_2_enable_{0}_{1}",
+      "customKey3": "shape_set24_1"
+    },
+    {
+      "id": "set4",
+      "type": "shape",
+	  "bgMusic": "caption_touch_find_item",
+      "question": "caption_touch_find_items",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_199_2",
+      "objectSrc": "realworld_set_color_set3_large",
+      "customKey1": "rws199_light_3",
+	  "customKey2": "shape_set24_2_enable_{0}_{1}",
+      "customKey3": "shape_set24_1"
+    }
+  ] 
+}

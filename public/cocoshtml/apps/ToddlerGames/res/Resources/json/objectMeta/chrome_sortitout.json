@@ -1,0 +1,53 @@
+{
+    "name": "chrome_sortitout",
+    "type": "",
+    "suffix": "chrome_sortitout_",
+    "objectList": [
+		{
+                    "objectId": "chrome_sortitout_alphabets",
+                    "name": "quiz_alphabets",
+                    "imageUri": "common/chrome/sortitout/alphabets.png",
+                    "w": 79.192,
+                    "h": 20.006,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_sortitout_common_left",
+                    "name": "quiz_left",
+                    "imageUri": "common/chrome/sortitout/common_left.png",
+                    "w": 222.571,
+                    "h": 361.782,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_sortitout_numbers",
+                    "name": "quiz_numbers",
+                    "imageUri": "common/chrome/sortitout/numbers.png",
+                    "w": 79.192,
+                    "h": 20.006,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_sortitout_shadow",
+                    "name": "quiz_shadow",
+                    "imageUri": "common/chrome/sortitout/shadow.png",
+                    "w": 42.097,
+                    "h": 455.562,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_sortitout_strip",
+                    "name": "quiz_strip",
+                    "imageUri": "common/chrome/sortitout/strip.png",
+                    "w": 15.005,
+                    "h": 455.562,
+                    "shape": "",
+                    "color": ""
+                }
+		]
+}			
+	

@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_set9_medium",
+    "type": "alphabet",
+    "suffix": "alphabet_set9_medium_",
+    "objectList": [
+		{
+			"objectId": "alphabet_set9_medium_a",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_a.png",
+			"w": 36.678,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_b",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_b.png",
+			"w": 37.095,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_c",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_c.png",
+			"w": 33.344,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_d",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_d.png",
+			"w": 40.43,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_e",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_e.png",
+			"w": 33.344,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_f",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_f.png",
+			"w": 34.594,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_g",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_g.png",
+			"w": 37.929,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_h",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_h.png",
+			"w": 42.097,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_i",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_i.png",
+			"w": 25.425,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_j",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_j.png",
+			"w": 36.678,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_k",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_k.png",
+			"w": 31.677,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_l",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_l.png",
+			"w": 35.428,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_m",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_m.png",
+			"w": 47.515,
+			"h": 46.265,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_n",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_n.png",
+			"w": 40.013,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_o",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_o.png",
+			"w": 39.179,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_p",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_p.png",
+			"w": 35.845,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_q",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_q.png",
+			"w": 38.762,
+			"h": 47.098,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_r",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_r.png",
+			"w": 36.678,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_s",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_s.png",
+			"w": 32.094,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_t",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_t.png",
+			"w": 40.846,
+			"h": 47.098,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_u",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_u.png",
+			"w": 38.762,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_v",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_v.png",
+			"w": 41.68,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_w",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_w.png",
+			"w": 47.515,
+			"h": 41.68,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_x",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_x.png",
+			"w": 43.764,
+			"h": 47.098,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_y",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_y.png",
+			"w": 34.594,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set9_medium_z",
+			"name": "",
+			"imageUri": "common/alphabets/alphabet_set9/alphabet_set9_medium/alphabet_set9_medium_z.png",
+			"w": 36.678,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

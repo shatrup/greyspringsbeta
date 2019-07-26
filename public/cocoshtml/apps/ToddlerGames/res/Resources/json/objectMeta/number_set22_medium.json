@@ -1,0 +1,106 @@
+{
+    "name": "number_set22_medium",
+    "type": "number",
+    "suffix": "number_set22_medium_",
+    "objectList": [
+        {
+            "objectId": "number_set22_medium_0",
+            "name": "number_0",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_0.png",
+            "w": 38.346,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_1",
+            "name": "number_1",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_1.png",
+            "w": 23.758,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_2",
+            "name": "number_2",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_2.png",
+            "w": 38.762,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_3",
+            "name": "number_3",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_3.png",
+            "w": 32.094,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_4",
+            "name": "number_4",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_4.png",
+            "w": 35.011,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_5",
+            "name": "number_5",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_5.png",
+            "w": 33.761,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_6",
+            "name": "number_6",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_6.png",
+            "w": 35.845,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_7",
+            "name": "number_7",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_7.png",
+            "w": 29.176,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_8",
+            "name": "number_8",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_8.png",
+            "w": 32.51,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_9",
+            "name": "number_9",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_9.png",
+            "w": 34.594,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set22_medium_10",
+            "name": "number_10",
+            "imageUri": "common/numbers/number_set22/number_set22_medium/number_set22_medium_10.png",
+            "w": 61.686,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

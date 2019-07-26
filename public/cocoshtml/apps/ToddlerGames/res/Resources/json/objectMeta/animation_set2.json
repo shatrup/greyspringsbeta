@@ -1,0 +1,34 @@
+{
+	"name": "animation_set2",
+	"type": "monster_animation",
+	"suffix": "animation_set2_",
+	"objectList": [
+        {
+            "objectId": "animation_set2_monster_1",
+            "name": "_1",
+            "imageUri": "common/chrome/animation/animation_set2/animation_set2_monster_1.png",
+            "w": 195.479,
+            "h": 209.65,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animation_set2_monster_2",
+            "name": "_2",
+            "imageUri": "common/chrome/animation/animation_set2/animation_set2_monster_2.png",
+            "w": 195.479,
+            "h": 209.65,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animation_set2_monster_3",
+            "name": "_3",
+            "imageUri": "common/chrome/animation/animation_set2/animation_set2_monster_3.png",
+            "w": 195.479,
+            "h": 209.65,
+            "shape": "",
+            "color": ""
+        }
+	]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "BodyPartsQuiz",
+    "type": "BodyPartsQuiz",
+    "complexity": "medium",
+    "qsBgColor": "7A4C25",
+	"bgMusic": "caption_match_the_organs_with_their_names",
+    "question": "caption_match_the_organs_with_their_names",  
+    "sets": [
+    {
+       "bgImg" : "common/backgrounds/background_fullbleed/background_floor.png",
+	   "customKey1" : "quizchrome_set1_human_organs"
+    },
+	{
+       "bgImg" : "common/backgrounds/background_fullbleed/background_plant.png",
+	   "customKey1" : "quizchrome_set1_plant"
+    },  
+	{
+       "bgImg" : "common/backgrounds/background_fullbleed/background_plant.png",
+	   "customKey1" : "quizchrome_set1_human_organs"
+    }
+  ] 
+}

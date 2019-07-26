@@ -1,0 +1,53 @@
+{
+   "name":"alphabet_parts_alphabet",
+   "type":"alphabet",
+   "suffix":"alphabet_parts_alphabet",
+   "background":"common/backgrounds/background_fullbleed/alpha_background.png",
+   "finishSoundEffect": "effect_car",
+   "partsList":[
+      {
+         "objectId":"alphabet_set29_x_large_s",
+         "name":"back_light",
+         "imageUri":"common/alphabets/alphabet_set29/alphabet_set29_x_large/alphabet_set29_x_large_s.png",
+         "w":10.837,
+         "h":32.927,
+		 "x": 284,
+		 "y": 160,
+         "zorder":10,
+		 "isShadow": false
+      },
+      {
+         "objectId":"alphabet_set29_x_large_s1",
+         "name":"back_light",
+         "imageUri":"common/alphabets/alphabet_set29/alphabet_set29_x_large/alphabet_set29_x_large_s1.png",
+         "w":10.837,
+         "h":32.927,
+		 "x": 281.11984252929688,
+		 "y": 201.15177917480469,
+         "zorder":20,
+		 "isShadow": true
+      },
+      {
+         "objectId":"alphabet_set29_x_large_s2",
+         "name":"back_light",
+         "imageUri":"common/alphabets/alphabet_set29/alphabet_set29_x_large/alphabet_set29_x_large_s2.png",
+         "w":10.837,
+         "h":32.927,
+		 "x": 284.037109375,
+		 "y": 120.48967742919922,
+         "zorder":20,
+		 "isShadow": true
+      },
+      {
+         "objectId":"alphabet_set29_x_large_s3",
+         "name":"back_light",
+         "imageUri":"common/alphabets/alphabet_set29/alphabet_set29_x_large/alphabet_set29_x_large_s3.png",
+         "w":10.837,
+         "h":32.927,
+		 "x": 284.27166748046875,
+		 "y": 162.13803100585938,
+         "zorder":20,
+		 "isShadow": true
+      }
+   ]
+}

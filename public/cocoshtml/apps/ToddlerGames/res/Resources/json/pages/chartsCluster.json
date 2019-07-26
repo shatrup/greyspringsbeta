@@ -1,0 +1,75 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Color Book",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "kindergarten8/common/images/charts_fullview.png",
+						"title": "ms-resource:TileTitle_Charts",
+						"clicktarget" : "appprotocol://page?id=chartsPage",
+						"backgroundColor": "003366"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/vegetable_chart.png",
+						"title": "ms-resource:GameTileTitle_VegeteblesChart",
+						"clicktarget" : "appprotocol://page?id=vegetableChartPage&type=vegetables",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+                        "image": "kindergarten8/common/images/fruit_chart.png",
+                        "title": "ms-resource:GameTileTitle_FruitsChart",
+                        "clicktarget": "appprotocol://page?id=fruitChartPage",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/alphabet_chart.png",
+						"title": "ms-resource:GameTileTitle_AlphabetChart",
+						"clicktarget" : "appprotocol://page?id=alphabetChartPage&type=alphabets",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+                        "image": "kindergarten8/common/images/animal_chart.png",
+                        "title": "ms-resource:GameTileTitle_AnimalsChart",
+                        "clicktarget": "appprotocol://page?id=animalChartPage",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/sports_chart.png",
+						"title": "ms-resource:GameTileTitle_SportsChart",
+						"clicktarget" : "appprotocol://page?id=sportsChartPage",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"image": "kindergarten8/common/images/arrow.png",	
+						"title": "More Tile",
+						"clicktarget" : "appprotocol://page?id=chartsPage",
+						"backgroundColor": "F2F2F2"
+					}
+				}
+			]
+		}
+	]
+}

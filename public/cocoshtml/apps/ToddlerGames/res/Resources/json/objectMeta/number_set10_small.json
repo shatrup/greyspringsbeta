@@ -1,0 +1,99 @@
+  {
+            "name": "number_set10_small",
+            "type": "number",
+            "suffix": "number_set10_small_",
+            "objectList": [
+                {
+                    "objectId": "number_set10_small_0",
+                    "name": "number_0",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_0.png",
+                    "w": 18.756,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_1",
+                    "name": "number_1",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_1.png",
+                    "w": 17.089,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_2",
+                    "name": "number_2",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_2.png",
+                    "w": 18.756,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_3",
+                    "name": "number_3",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_3.png",
+                    "w": 15.422,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_4",
+                    "name": "number_4",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_4.png",
+                    "w": 17.506,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_5",
+                    "name": "number_5",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_5.png",
+                    "w": 17.089,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_6",
+                    "name": "number_6",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_6.png",
+                    "w": 18.339,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_7",
+                    "name": "number_7",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_7.png",
+                    "w": 19.173,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_8",
+                    "name": "number_8",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_8.png",
+                    "w": 16.672,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set10_small_9",
+                    "name": "number_9",
+                    "imageUri": "common/numbers/number_set10/number_set10_small/number_set10_small_9.png",
+                    "w": 14.588,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                }
+            ]
+        
+}
+    

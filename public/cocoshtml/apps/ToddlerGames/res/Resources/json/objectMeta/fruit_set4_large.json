@@ -1,0 +1,88 @@
+{
+    "name": "fruit_set4_large",
+    "type": "",
+    "suffix": "fruit_set4_large_",
+    "objectList": [
+        {
+            "objectId": "fruit_set4_large_black_grapes",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_black_grapes.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_coconut",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_coconut.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_fig",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_fig.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_mango",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_mango.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_orange",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_orange.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_papaya",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_papaya.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_persimmon",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_persimmon.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_pineapple",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_pineapple.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set4_large_pomegranate",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set4/fruit_set4_large/fruit_set4_large_pomegranate.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

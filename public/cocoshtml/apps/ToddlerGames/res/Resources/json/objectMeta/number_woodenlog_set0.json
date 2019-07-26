@@ -1,0 +1,97 @@
+{
+    "name": "number_woodenlog_set0",
+    "type": "",
+    "suffix": "number_woodenlog_set0_",
+    "objectList": [
+        {
+            "objectId": "number_woodenlog_set0_1",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_1",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_1",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_2",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_2",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_2",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_3",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_3",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_3",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_4",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_4",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_4",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_5",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_5",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_5",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_6",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_6",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_6",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_7",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_7",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_7",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_8",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_8",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_8",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_woodenlog_set0_9",
+            "name": "",
+            "imageUri": "potsprite://woodenlogsprite/?id=number_set3_9",
+            "w": 5,
+            "h": 5,
+            "audioId": "number_9",
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

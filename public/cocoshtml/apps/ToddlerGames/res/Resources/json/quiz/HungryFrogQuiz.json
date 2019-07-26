@@ -1,0 +1,34 @@
+{
+    "id": "HungryFrogQuiz",
+    "type": "HungryFrogQuiz",
+    "complexity": "medium",
+    "qsBgColor": "56C5FF",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "id": "bug_color",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_129",      
+      "bgMusic": "caption_feed_hungry_frog_{0}_insect_fly",
+      "question": "caption_feed_hungry_frog_fly_format",      
+      "title":"tiletitle_HungryFrogQuiz",
+      "objectSrc": "realworld_set_color_bug_set0",
+	  "excludeObjectIds": ["color_bug_set0_grey"],
+      "customKey1": "color",
+      "customKey2": "rws129_frog_0"
+    },
+	{
+      "id": "lizzy_color",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_161",
+      "bgMusic": "caption_{0}_fly",
+      "title":"tiletitle_HungryFrogQuiz2",
+      "question": "caption_color_fly_format",
+      "objectSrc": "realworld_set_color_bug_set1",
+	  "excludeObjectIds": ["color_bug_set1_grey","color_bug_set1_black"],
+      "customKey1": "color",
+      "customKey2": "rws161_lizzy_0"
+    }
+
+  ] 
+}

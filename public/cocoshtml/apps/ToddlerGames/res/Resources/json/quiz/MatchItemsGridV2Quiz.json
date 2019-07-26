@@ -1,0 +1,34 @@
+{
+    "id": "MatchItemsGridV2Quiz",
+    "type": "MatchItemsGridV2Quiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "alphabet1",
+      "type": "alphabet",
+      "bgMusic": "caption_drag_pictures_complete_grid",
+      "question": "caption_drag_pictures_complete_grid",      
+      "objectSrc": "realworld_set_alphabet_object_set5_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_yellow_color.png",
+	  "customKey1": "alphabet_set6_large",
+	  "customKey2": "alphabet",
+	  "customKey3": "name",
+	  "customKey4": "alphabet_object",
+	  "isFullBleed": true
+    },
+    {
+      "id": "alphabet2",
+      "type": "alphabet",
+      "bgMusic": "caption_drag_pictures_complete_grid",
+      "question": "caption_drag_pictures_complete_grid",      
+      "objectSrc": "realworld_set_alphabet_object_set6_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_puzzle_mania_1.png",
+	  "customKey1": "alphabet_set6_large",
+	  "customKey2": "alphabet",
+	  "customKey3": "name",
+	  "customKey4": "alphabet_object",
+	  "isFullBleed": true
+    }		
+  ] 
+}

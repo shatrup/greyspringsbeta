@@ -1,0 +1,19 @@
+{
+	"id": "MumAndBabyQuiz",
+	"type": "MumAndBabyQuiz",
+	"bgMusic": "caption_help_baby_find_mum",
+	"question": "caption_help_baby_find_mum",
+	"bgImg": "common/scenes/scene193/rws193_background_{0}.png",
+	"complexity": "low",
+	"qsBgColor": "60C0CC",
+	"isFullBleed":true,
+   "sets": [
+	{
+	  "id": "animal_set",
+      "name": "animals",
+      "customKey1": "animal_scene193_mum",
+	  "customKey2": "animal_scene193_baby",
+	  "customKey3": "animal_set8_large"
+    }
+    ] 
+}

@@ -1,0 +1,324 @@
+{
+	"id": "Alphabets01",
+    "title": "Alphabets",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/a_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Afor.mp3",
+						"letter": "Aa",
+						"letterAudio": "ms-audio://data/alphabets/audio/A.mp3",
+						"word" : "Apple",
+						"wordAudio": "ms-audio://data/alphabets/audio/Aobj.mp3",
+						"clicktarget": ""
+					}
+				},
+		       	{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/b_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Bfor.mp3",
+						"letter": "Bb",
+						"letterAudio": "ms-audio://data/alphabets/audio/B.mp3",
+						"word" : "Ball",
+						"wordAudio": "ms-audio://data/alphabets/audio/Bobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/c_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Cfor.mp3",
+						"letter": "Cc",
+						"letterAudio": "ms-audio://data/alphabets/audio/C.mp3",
+						"word" : "Cat",
+						"wordAudio": "ms-audio://data/alphabets/audio/Cobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/d_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Dfor.mp3",
+						"letter": "Dd",
+						"letterAudio": "ms-audio://data/alphabets/audio/D.mp3",
+						"word" : "Dog",
+						"wordAudio": "ms-audio://data/alphabets/audio/Dobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/e_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Efor.mp3",
+						"letter": "Ee",
+						"letterAudio": "ms-audio://data/alphabets/audio/E.mp3",
+						"word" : "Elephant",
+						"wordAudio": "ms-audio://data/alphabets/audio/Eobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/f_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Ffor.mp3",
+						"letter": "Ff",
+						"letterAudio": "ms-audio://data/alphabets/audio/F.mp3",
+						"word" : "Flag",
+						"wordAudio": "ms-audio://data/alphabets/audio/Fobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/g_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Gfor.mp3",
+						"letter": "Gg",
+						"letterAudio": "ms-audio://data/alphabets/audio/G.mp3",
+						"word" : "Gift",
+						"wordAudio": "ms-audio://data/alphabets/audio/Gobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/h_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Hfor.mp3",
+						"letter": "Hh",
+						"letterAudio": "ms-audio://data/alphabets/audio/H.mp3",
+						"word" : "Hat",
+						"wordAudio": "ms-audio://data/alphabets/audio/Hobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/i_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Ifor.mp3",
+						"letter": "Ii",
+						"letterAudio": "ms-audio://data/alphabets/audio/I.mp3",
+						"word" : "Icecream",
+						"wordAudio": "ms-audio://data/alphabets/audio/Iobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/j_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Jfor.mp3",
+						"letter": "Jj",
+						"letterAudio": "ms-audio://data/alphabets/audio/J.mp3",
+						"word" : "Joker",
+						"wordAudio": "ms-audio://data/alphabets/audio/Jobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/k_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Kfor.mp3",
+						"letter": "Kk",
+						"letterAudio": "ms-audio://data/alphabets/audio/K.mp3",
+						"word" : "Kite",
+						"wordAudio": "ms-audio://data/alphabets/audio/Kobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/l_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Lfor.mp3",
+						"letter": "Ll",
+						"letterAudio": "ms-audio://data/alphabets/audio/L.mp3",
+						"word" : "Lion",
+						"wordAudio": "ms-audio://data/alphabets/audio/Lobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/m_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Mfor.mp3",
+						"letter": "Mm",
+						"letterAudio": "ms-audio://data/alphabets/audio/M.mp3",
+						"word" : "Monkey",
+						"wordAudio": "ms-audio://data/alphabets/audio/Mobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/n_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Nfor.mp3",
+						"letter": "Nn",
+						"letterAudio": "ms-audio://data/alphabets/audio/N.mp3",
+						"word" : "Nest",
+						"wordAudio": "ms-audio://data/alphabets/audio/Nobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/o_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Ofor.mp3",
+						"letter": "Oo",
+						"letterAudio": "ms-audio://data/alphabets/audio/O.mp3",
+						"word" : "Orange",
+						"wordAudio": "ms-audio://data/alphabets/audio/Oobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/p_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Pfor.mp3",
+						"letter": "Pp",
+						"letterAudio": "ms-audio://data/alphabets/audio/P.mp3",
+						"word" : "Parrot",
+						"wordAudio": "ms-audio://data/alphabets/audio/Pobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/q_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Qfor.mp3",
+						"letter": "Qq",
+						"letterAudio": "ms-audio://data/alphabets/audio/Q.mp3",
+						"word" : "Queen",
+						"wordAudio": "ms-audio://data/alphabets/audio/Qobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/r_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Rfor.mp3",
+						"letter": "Rr",
+						"letterAudio": "ms-audio://data/alphabets/audio/R.mp3",
+						"word" : "Rabbit",
+						"wordAudio": "ms-audio://data/alphabets/audio/Robj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/s_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Sfor.mp3",
+						"letter": "Ss",
+						"letterAudio": "ms-audio://data/alphabets/audio/S.mp3",
+						"word" : "Ship",
+						"wordAudio": "ms-audio://data/alphabets/audio/Sobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/t_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Tfor.mp3",
+						"letter": "Tt",
+						"letterAudio": "ms-audio://data/alphabets/audio/T.mp3",
+						"word" : "Tiger",
+						"wordAudio": "ms-audio://data/alphabets/audio/Tobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/u_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Ufor.mp3",
+						"letter": "Uu",
+						"letterAudio": "ms-audio://data/alphabets/audio/U.mp3",
+						"word" : "Umbrella",
+						"wordAudio": "ms-audio://data/alphabets/audio/Uobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/v_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Vfor.mp3",
+						"letter": "Vv",
+						"letterAudio": "ms-audio://data/alphabets/audio/V.mp3",
+						"word" : "Violin",
+						"wordAudio": "ms-audio://data/alphabets/audio/Vobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/w_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Wfor.mp3",
+						"letter": "Ww",
+						"letterAudio": "ms-audio://data/alphabets/audio/W.mp3",
+						"word" : "Watch",
+						"wordAudio": "ms-audio://data/alphabets/audio/Wobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/x_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Xfor.mp3",
+						"letter": "Xx",
+						"letterAudio": "ms-audio://data/alphabets/audio/X.mp3",
+						"word" : "X-Max",
+						"wordAudio": "ms-audio://data/alphabets/audio/Xobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/y_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Yfor.mp3",
+						"letter": "Yy",
+						"letterAudio": "ms-audio://data/alphabets/audio/Y.mp3",
+						"word" : "Yak",
+						"wordAudio": "ms-audio://data/alphabets/audio/Yobj.mp3",
+						"clicktarget": ""
+					}
+				},
+				{
+					"type" : "alphabetBigObjectTemplate",
+					"data" : {
+						"image": "kindergarten8/alphabets/images/z_object.jpg",
+						"imageAudio": "ms-audio://data/alphabets/audio/Zfor.mp3",
+						"letter": "Zz",
+						"letterAudio": "ms-audio://data/alphabets/audio/Z.mp3",
+						"word" : "Zebra",
+						"wordAudio": "ms-audio://data/alphabets/audio/Zobj.mp3",
+						"clicktarget": ""
+					}
+				}
+			]
+		}
+	]
+}

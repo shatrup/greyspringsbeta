@@ -1,0 +1,87 @@
+{
+    "id": "AnimalsCluster",
+    "title": "Color Images",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+				
+				
+                 {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/58.png",
+                        "title": "Mouse",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=58&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/59.png",
+                        "title": "Turtle",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=59&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/60.png",
+                        "title": "Bears",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=60&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/61.png",
+                        "title": "Crab",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=61&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                       "image": "/data/colors/thumbnails/62.png",
+                        "title": "Fish",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=62&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/63.png",
+                        "title": "Elephant",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=63&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/64.png",
+                        "title": "Squirrel",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=64&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                       "image": "/data/colors/thumbnails/65.png",
+                        "title": "Lion",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=65&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/66.png",
+                        "title": "Dog",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=66&layout=vertical"
+                    }
+                }
+				
+            ]
+        }
+    ]
+}

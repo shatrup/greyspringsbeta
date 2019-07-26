@@ -1,0 +1,34 @@
+{
+    "id": "ColorBallsQuiz",
+    "type": "ColorBallsQuiz",
+    "complexity": "medium",
+    "qsBgColor": "647687",
+	"bgImg": "common/backgrounds/background_fullbleed/background_clouds.png",
+    "sets": [
+    {
+      "id": "basic_English_objects",
+      "type": "english_objects",
+      "bgMusic": "caption_touch_words_same",
+      "question": "caption_touch_words_same",      
+      "objectSrc": "realworld_set_basic_english_words_set50",
+	  "isFullBleed":true
+    },
+	{
+      "id": "basic_english_alphabets",
+      "type": "english_alphabets",
+      "bgMusic": "caption_touch_letters_same_color",
+      "question": "caption_touch_letters_same_color",      
+      "objectSrc": "realworld_set_basic_english_alphabets",
+	  "customKey1": "alphabet_object_set6_medium",
+	  "isFullBleed":true
+    },
+    {
+      "id": "basic_shape_objects",
+      "type": "shape_objects",
+      "bgMusic": "caption_touch_shapes_same",
+      "question": "caption_touch_shapes_same",      
+      "objectSrc": "realworld_set_basic_shape_set50",
+	  "isFullBleed":true
+    }
+  ] 
+}

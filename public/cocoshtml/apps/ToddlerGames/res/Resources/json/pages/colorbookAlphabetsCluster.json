@@ -1,0 +1,68 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/alphabetsTile400x800.jpg",
+						"title": "ms-resource:Alphabets_Title",
+						"clicktarget" : "appprotocol://page?id=colorsAlphabetsPage"
+					}
+				},
+				   {
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/1.png",
+						"title": "A",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=1&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/2.png",
+						"title": "B",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=2&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/3.png",
+						"title": "C",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=3&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/4.png",
+						"title": "D",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=4&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/5.png",
+						"title": "E",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=5&layout=vertical"
+					}
+				},
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsAlphabetsPage"
+					}
+				}
+			]
+		}
+	]
+}

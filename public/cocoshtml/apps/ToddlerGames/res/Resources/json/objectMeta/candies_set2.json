@@ -1,0 +1,52 @@
+{
+    "name": "candies_set2",
+    "type": "",
+    "suffix": "candies_set2_",
+    "objectList": [
+        {
+            "objectId": "candies_set2_toffie_0",
+            "name": "",
+            "imageUri": "common/stickers/candies/sticker_4.png",
+            "w": 82.94,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candies_set2_toffie_1",
+            "name": "",
+            "imageUri": "common/stickers/candies/sticker_5.png",
+            "w": 82.94,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candies_set2_toffie_2",
+            "name": "",
+            "imageUri": "common/stickers/candies/sticker_6.png",
+            "w": 82.94,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candies_set2_toffie_3",
+            "name": "",
+            "imageUri": "common/stickers/candies/sticker_7.png",
+            "w": 82.94,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candies_set2_toffie_4",
+            "name": "",
+            "imageUri": "common/stickers/candies/sticker_8.png",
+            "w": 82.94,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

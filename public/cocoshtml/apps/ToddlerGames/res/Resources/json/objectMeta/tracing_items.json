@@ -1,0 +1,80 @@
+
+       {
+            "name": "tracing_items",
+            "type": "tracing",
+            "suffix": "tracing_items_",
+            "objectList": [
+                {
+                    "objectId": "tracing_items_0",
+                    "name": "tracing_0",
+                    "imageUri": "playground/tracing_items/tracing_items_0.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "tracing_items_1",
+                    "name": "tracing_1",
+                    "imageUri": "playground/tracing_items/tracing_items_1.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "tracing_items_2",
+                    "name": "tracing_2",
+                    "imageUri": "playground/tracing_items/tracing_items_2.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "tracing_items_b",
+                    "name": "tracing_b",
+                    "imageUri": "playground/tracing_items/tracing_items_b.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                },
+				{
+                    "objectId": "tracing_items_bb",
+                    "name": "tracing_b",
+                    "imageUri": "playground/tracing_items/tracing_items_bb.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                },
+				{
+                    "objectId": "tracing_items_cc",
+                    "name": "tracing_cc",
+                    "imageUri": "playground/tracing_items/tracing_items_cc.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                },
+				{
+                    "objectId": "tracing_items_ccc",
+                    "name": "tracing_ccc",
+                    "imageUri": "playground/tracing_items/tracing_items_ccc.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "tracing_items_r",
+                    "name": "tracing_r",
+                    "imageUri": "playground/tracing_items/tracing_items_r.png",
+                    "w": 273.004,
+                    "h": 273.004,
+                    "shape": "",
+                    "color": ""
+                }
+            ]
+        }

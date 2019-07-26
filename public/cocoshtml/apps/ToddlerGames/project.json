@@ -1,0 +1,42 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "noCache" : true,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "../../common/common/url.js",
+		"../../common/realworld/RealWorldObjectMetaInfoStore.js",
+        "../../common/Schemas/DataSchema.js",
+        "../../common/Schemas/VehiclePartsSchema.js",
+        "../../common/Schemas/QuizSchema.js",
+		"../../common/uicontrols/div.js",
+		"../../common/uicontrols/gameSprite.js",
+		"../../common/uicontrols/LayoutHelper.js",
+		"../../common/utilities/utilities.js",
+		"../../common/utilities/DomUtils.js",
+		"../../quizcommon/common/quizbaselayer.js",
+		"../../quizcommon/common/quizbasescene.js",
+		"../../quizcommon/common/quizcontroller.js",
+        "../../quizcommon/common/quizfactory.js",
+        "../../quizcommon/common/AttributeQuizBaseSprite.js",
+        "../../quizcommon/common/AttributeBasedQuizLayer.js",
+		"../../quizcommon/quizes/misc/fillthecolor.js",
+		"../../quizcommon/quizes/misc/matchtheshadow.js",
+        "../../activitycommon/common/ActivityBaseScene.js",
+        "../../activitycommon/activities/ArcheryActivityLayer.js",
+        "../../activitycommon/activities/BasketballActivityLayer.js",
+        "../../activitycommon/activities/CarPartsAssemblingActivityLayer.js",
+        "../../activitycommon/activities/HurdleJumpActivityLayer.js",
+        "../../activitycommon/activities/RushLanesActivityLayer.js",
+        "../../activitycommon/activities/RunnerFoxActivityLayer.js"
+    ]
+}

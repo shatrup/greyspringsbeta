@@ -1,0 +1,30 @@
+{
+    "id": "HangingFruitsQuiz",
+    "type": "HangingFruitsQuiz",
+    "complexity": "medium",
+    "qsBgColor": "EBAB1F",
+    "sets": [
+    {
+      "id": "fruit_color",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_167",      
+      "bgMusic": "caption_touch_all_the_fruits",
+      "question": "caption_touch_all_the_fruits",      
+      "objectSrc": "realworld_set_fruit_set31_large",
+      "excludeObjectIds": ["fruit_set31_large_pineapple"],
+      "customKey1": "color",
+      "customKey2": "fruit_name",
+	  "isFullBleed":true
+    },
+	{
+      "id": "fruit_number",
+      "type": "number",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_135",      
+      "bgMusic": "caption_touch_all_the_fruits",
+      "question": "caption_touch_all_the_fruits",      
+      "objectSrc": "fruit_set1",
+      "customKey1": "number_{0}",
+      "customKey2": "fruit_number"
+    }
+  ] 
+}

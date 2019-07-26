@@ -1,0 +1,15 @@
+{
+    "id": "ScratchFunQuiz",
+    "type": "ScratchFunQuiz",
+    "bgImg": "common/backgrounds/background_fullbleed/background_scratching.png",
+    "bgMusic": "caption_scratch_pad_learn_new_number",
+    "question": "caption_scratch_pad_learn_new_number",
+    "complexity": "medium",
+    "qsBgColor": "8AB6CD",
+    "sets": [
+        {
+            "name": "set_0",
+            "objectSrc": "realworld_set_number_set16_xx_large"
+        }
+    ]
+}

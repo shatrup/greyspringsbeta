@@ -1,0 +1,160 @@
+{
+	"name": "vehicle_set4",
+	"type": "vehicles",
+	"suffix": "vehicle_set4_",
+	"objectList": [
+		{
+			"objectId": "vehicle_set4_aeroplane",
+			"name": "aeroplane",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_aeroplane.png",
+			"w": 310.099,
+			"h": 222.571,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_aeroplane"
+		},
+		{
+			"objectId": "vehicle_set4_ambulance",
+			"name": "ambulance",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_ambulance.png",
+			"w": 428.054,
+			"h": 238.826,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_ambulance"
+		},
+		{
+			"objectId": "vehicle_set4_boat",
+			"name": "boat",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_boat.png",
+			"w": 229.24,
+			"h": 271.754,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_boat"
+		},
+		{
+			"objectId": "vehicle_set4_car",
+			"name": "car",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_car.png",
+			"w": 344.694,
+			"h": 216.319,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_car"
+		},
+		{
+			"objectId": "vehicle_set4_helicopter",
+			"name": "helicopter",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_helicopter.png",
+			"w": 315.934,
+			"h": 253.414,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "alphabet_object_helicopter"
+		},
+		{
+			"objectId": "vehicle_set4_jeep",
+			"name": "jeep",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_jeep.png",
+			"w": 272.587,
+			"h": 235.492,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_jeep"
+		},
+		{
+			"objectId": "vehicle_set4_school_bus",
+			"name": "bus",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_school_bus.png",
+			"w": 375.537,
+			"h": 217.57,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_bus"
+		},
+		{
+			"objectId": "vehicle_set4_scooter",
+			"name": "scooter",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_scooter.png",
+			"w": 273.004,
+			"h": 226.322,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_scooter"
+		},
+		{
+			"objectId": "vehicle_set4_ship",
+			"name": "ship",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_ship.png",
+			"w": 321.353,
+			"h": 267.586,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_ship"
+		},
+		{
+			"objectId": "vehicle_set4_tractor",
+			"name": "tractor",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_tractor.png",
+			"w": 328.855,
+			"h": 204.649,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveRight"
+				}
+			]
+		},
+		{
+			"objectId": "vehicle_set4_truck",
+			"name": "truck",
+			"imageUri": "common/vehicles/vehicle_set4/vehicle_set4_truck.png",
+			"w": 392.209,
+			"h": 194.229,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			],
+			"audioId": "word_vehicles_truck"
+		}
+	]
+}

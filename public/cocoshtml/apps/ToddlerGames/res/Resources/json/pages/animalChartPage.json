@@ -1,0 +1,18 @@
+{
+	"id": "animalChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+            {
+				"name": "animalChartCluster",
+                "title": "Animal Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/animalChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+	"name": "fruit_set35",
+	"type": "fruit",
+	"suffix": "fruit_set35_",
+	"objectList": [
+		{
+			"objectId": "fruit_set35_apple",
+			"name": "apple",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_apple.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_banana",
+			"name": "banana",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_banana.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_blueberry",
+			"name": "blueberry",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_blueberry.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_mango",
+			"name": "mango",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_mango.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_orange",
+			"name": "orange",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_orange.png",
+			"w": 242.994,
+			"h": 227.156,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_peach",
+			"name": "peach",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_peach.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_pear",
+			"name": "pear",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_pear.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_pineapple",
+			"name": "pineapple",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_pineapple.png",
+			"w": 147.13,
+			"h": 278.839,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_plum",
+			"name": "plum",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_plum.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_pomegranate",
+			"name": "pomegranate",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_pomegranate.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_raspberry",
+			"name": "raspberry",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_raspberry.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_strawberry",
+			"name": "strawberry",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_strawberry.png",
+			"w": 273.004,
+			"h": 273.004,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "fruit_set35_watermelon",
+			"name": "watermelon",
+			"imageUri": "common/fruits/fruit_set35/fruit_set35_watermelon.png",
+			"w": 237.993,
+			"h": 235.909,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "beatles_set0",
+    "type": "",
+    "suffix": "beatle_set0_",
+    "objectList": [
+        {
+            "objectId": "beatle_set0_1",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_insects_set0_beetal_1.png",
+            "w": 41.68,
+            "h": 34.18,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "beatle_set0_2",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_insects_set0_beetal_2.png",
+            "w": 45.85,
+            "h": 56.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "beatle_set0_3",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_insects_set0_beetal_3.png",
+            "w": 55.02,
+            "h": 28.34,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "beatle_set0_4",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_insects_set0_beetal_4.png",
+            "w": 35.84,
+            "h": 64.19,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "beatle_set0_5",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_insects_set0_beetal_5.png",
+            "w": 35.01,
+            "h": 27.09,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "beatle_set0_6",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_insects_set0_beetal_6.png",
+            "w": 43.35,
+            "h": 38.76,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

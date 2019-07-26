@@ -1,0 +1,586 @@
+{
+  "titleBGColor": "0072C6",
+    "sets": [
+    {
+      "type": "alphanumeric",
+      "qValue": "caption_sort_items_x_y",
+      "customKey1": "alphabets",
+      "customKey2": "numbers",
+      "bgMusicValue": "caption_sort_items_alphabets_numbers",
+      "subtypes": [
+      {
+        "type": "alphabets",
+        "background": "",
+        "extraObject": "common/chrome/sortitout/alphabets.png",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_a.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_b.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_c.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_d.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_e.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_f.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_g.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_h.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_i.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_j.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_k.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_l.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_m.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_n.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_o.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_p.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_q.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_r.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_s.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_t.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_u.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_v.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_w.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_x.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_y.png"
+        },
+        {
+          "path": "common/alphabets/alphabet_set6/alphabet_set6_large",
+          "name": "alphabet_set6_large_z.png"
+        }
+        ]
+      },
+      {
+        "type": "numbers",
+        "background": "",
+        "extraObject": "common/chrome/sortitout/numbers.png",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_1.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_2.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_3.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_4.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_5.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_6.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_7.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_8.png"
+        },
+        {
+          "path": "common/numbers/number_set2",
+          "name": "number_set2_9.png"
+        }
+        ]
+      }
+      ]
+    },
+    {
+      "type": "color",
+      "qValue": "caption_sort_items_color",
+      "customKey1": "",
+      "customKey2": "",
+      "bgMusicValue": "caption_sort_items_color",
+      "subtypes": [
+      {
+        "type": "blue",
+        "background": "",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/candies/candy_set2",
+          "name": "candy_set2_blue.png"
+        },
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_misc_tent_0_piece_1.png"
+        },
+        {
+          "path": "common/scenes/scene104",
+          "name": "rws104_toy_fish_0_.png"
+        },
+        {
+          "path": "common/scenes/scene121",
+          "name": "rws121_misc_set0_cloud_2.png"
+        }
+        ]
+      },
+      {
+        "type": "green",
+        "background": "",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_misc_set0_lotusleaf_2.png"
+        },
+        {
+          "path": "common/scenes/scene102",
+          "name": "rws102_animals_set0_tortoise_1.png"
+        },
+        {
+          "path": "common/scenes/scene104",
+          "name": "rws104_misc_ball_0_.png"
+        },
+        {
+          "path": "common/scenes/scene104",
+          "name": "rws104_misc_swiming_tube_0_.png"
+        },
+        {
+          "path": "common/scenes/scene115",
+          "name": "rws115_misc_set2_tree_2.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_set0_octopus_1.png"
+        },
+        {
+          "path": "common/scenes/scene128",
+          "name": "rws128_birds_set0_sparrow_7.png"
+        }
+        ]
+      },
+      {
+        "type": "yellow",
+        "background": "",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_insects_butterfly_0.png"
+        },
+        {
+          "path": "common/scenes/scene103",
+          "name": "rws103_misc_basketball_stand_0_piece1.png"
+        },
+        {
+          "path": "common/scenes/scene103",
+          "name": "rws103_misc_drum_0_piece0.png"
+        },
+        {
+          "path": "common/scenes/scene104",
+          "name": "rws104_animals_fish_0_.png"
+        },
+        {
+          "path": "common/scenes/scene104",
+          "name": "rws104_misc_sun_0_.png"
+        },
+        {
+          "path": "common/scenes/scene105",
+          "name": "rws105_birds_set0_duckling_0.png"
+        },
+        {
+          "path": "common/scenes/scene110",
+          "name": "rws110_misc_slide_0_piece1.png"
+        },
+        {
+          "path": "common/scenes/scene115",
+          "name": "rws115_misc_butterfly_0.png"
+        },
+        {
+          "path": "common/scenes/scene117",
+          "name": "rws117_misc_tent_0_piece1.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_set0_octopus_0.png"
+        },
+         {
+          "path": "common/scenes/scene128",
+          "name": "rws128_birds_set0_sparrow_2.png"
+        }
+        ]
+      },
+      {
+        "type": "red",
+        "background": "",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_misc_plant_0_piece1.png"
+        },
+        {
+          "path": "common/scenes/scene105",
+          "name": "rws105_animals_set0_monkey_1_piece3.png"
+        },
+        {
+          "path": "common/scenes/scene105",
+          "name": "rws105_animals_set0_hen_0.png"
+        },
+        {
+          "path": "common/scenes/scene107",
+          "name": "rws107_insects_set0_beetal_6.png"
+        },
+        {
+          "path": "common/scenes/scene115",
+          "name": "rws115_misc_tent_0_piece1.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_crab_1.png"
+        }
+        ]
+      },
+      {
+        "type": "pink",
+        "background": "",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_bird_sparrow_0.png"
+        },
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_bird_sparrow_0.png"
+        },
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_animals_cat_1.png"
+        },
+        {
+          "path": "playground/find_four_differences/set_5",
+          "name": "object_3.png"
+        },
+        {
+          "path": "common/scenes/scene107",
+          "name": "rws107_misc_set0_flower_0.png"
+        },
+        {
+          "path": "common/scenes/scene107",
+          "name": "rws107_misc_set0_flower_3.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_fish_0.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_set0_star_fish_0.png"
+        },
+        {
+          "path": "common/scenes/scene128",
+          "name": "rws128_birds_set0_sparrow_4.png"
+        }
+        ]
+      },
+      {
+        "type": "brown",
+        "background": "",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 100,
+          "verticalProportion": 100
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_misc_set0_stone_2.png"
+        },
+        {
+          "path": "common/scenes/scene106",
+          "name": "rws106_insects_set0_ant_0_piece0.png"
+        },
+        {
+          "path": "common/scenes/scene106",
+          "name": "rws106_insects_set0_ant_3_piece1.png"
+        },
+        {
+          "path": "common/scenes/scene121",
+          "name": "rws121_misc_set0_nut_2.png"
+        },
+        {
+          "path": "common/scenes/scene121",
+          "name": "rws121_animal_set0_squirrel_2.png"
+        },
+         {
+          "path": "common/scenes/scene126",
+          "name": "rws126_misc_ship_0_piece1.png"
+        }
+        ]
+      }
+      ]
+    },
+    {
+      "type": "environment",
+      "qValue": "caption_sort_items_environment",
+      "customKey1": "s",
+      "customKey2": "",
+      "bgMusicValue": "caption_sort_items_environment",
+      "subtypes": [
+      {
+        "type": "land",
+        "background": "common/scenes/scene102/rws102_background.png",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 60,
+          "yAxisProportion": 0,
+          "horizontalProportion": 30,
+          "verticalProportion": 90
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_animals_cat_1.png"
+        },
+         {
+          "path": "common/scenes/scene116",
+          "name": "rws116_animals_set0_dog_0.png"
+        },
+        {
+          "path": "common/scenes/scene116",
+          "name": "rws116_kids_set0_kid_3.png"
+        },
+         {
+          "path": "common/scenes/scene116",
+          "name": "rws116_animals_set0_dog_1.png"
+        },
+        {
+          "path": "common/scenes/scene115",
+          "name": "rws115_misc_cart_0.png"
+        },
+        {
+          "path": "common/scenes/scene107",
+          "name": "rws107_insects_set0_beetal_1.png"
+        },
+        {
+          "path": "common/scenes/scene107",
+          "name": "rws107_insects_set0_spider_0.png"
+        },
+        {
+          "path": "common/scenes/scene101",
+          "name": "rws101_animals_set0_monkey_0.png"
+        },
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_animals_cat_0.png"
+        },
+        {
+          "path": "common/scenes/scene103",
+          "name": "rws103_animals_set0_pig_3.png"
+        },
+        {
+          "path": "common/scenes/scene106",
+          "name": "rws106_insects_set0_ant_2.png"
+        },
+        {
+          "path": "common/scenes/scene106",
+          "name": "rws106_misc_set0_stone_0.png"
+        },
+        {
+          "path": "playground/find_four_differences/set_4",
+          "name": "object_4.png"
+        },
+        {
+          "path": "playground/find_four_differences/set_4",
+          "name": "object_11.png"
+        }
+        ]
+      },
+      {
+        "type": "water",
+        "background": "common/scenes/scene118/rws118_background.png",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 0,
+          "yAxisProportion": 0,
+          "horizontalProportion": 30,
+          "verticalProportion": 90
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene118",
+          "name": "rws118_seaanimals_set0_fish_0.png"
+        }, 
+        {
+          "path": "common/scenes/scene118",
+          "name": "rws118_seaanimals_set2_fish_0.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_crab_1.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_fish_0.png"
+        },
+        {
+          "path": "common/scenes/scene126",
+          "name": "rws126_seaanimals_set0_octopus_2.png"
+        },
+        {
+          "path": "playground/find_four_differences/set_5",
+          "name": "object_3.png"
+        },
+        {
+          "path": "playground/find_four_differences/set_7",
+          "name": "object_6.png"
+        }
+        ]
+      },
+      {
+        "type": "sky",
+        "background": "common/scenes/scene101/rws101_background.png",
+        "bgTextureRectMeta": {
+          "xAxisProportion": 60,
+          "yAxisProportion": 0,
+          "horizontalProportion": 30,
+          "verticalProportion": 90
+        },
+        "objects": [
+        {
+          "path": "common/scenes/scene104",
+          "name": "rws104_misc_sun_0_.png"
+        },
+        {
+          "path": "common/scenes/scene115",
+          "name": "rws115_misc_butterfly_0.png"
+        },
+         {
+          "path": "common/scenes/scene121",
+          "name": "rws121_misc_set0_cloud_2.png"
+        },
+        {
+          "path": "common/scenes/scene100",
+          "name": "rws100_insects_butterfly_0.png"
+        },
+        {
+          "path": "playground/find_four_differences/set_8",
+          "name": "object_5.png"
+        },
+        {
+          "path": "common/scenes/scene128",
+          "name": "rws128_birds_set0_sparrow_6.png"
+        }
+        ]
+      }
+      ]
+    }
+  ]
+}

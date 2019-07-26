@@ -1,0 +1,97 @@
+{
+    "name": "number_balloon_set0",
+    "type": "",
+    "suffix": "number_balloon_set0_",
+    "objectList": [
+        {
+            "objectId": "number_balloon_set0_0",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=0&color=60A917",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_1",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=1&color=007945",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_2",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=2&color=0029B4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_3",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=3&color=0071B4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_4",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=4&color=EB1C24",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_5",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=5&color=AC1C45",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_6",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=6&color=9B298B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_7",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=7&color=EF3F6B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_8",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=8&color=FFF124",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_balloon_set0_9",
+            "name": "",
+            "imageUri": "potsprite://balloon_number/?number=9&color=F89F1B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

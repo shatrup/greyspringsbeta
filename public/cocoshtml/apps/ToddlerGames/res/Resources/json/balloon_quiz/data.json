@@ -1,0 +1,6 @@
+{
+    "directory": "data/playground/balloon_quiz",
+    "titleBGColor": "#47BEEA",
+    "availableColors": ["red", "green", "blue", "black", "brown", "yellow", "purple", "violet", "pink", "orange", "grey"],
+    "background": "background.jpg"
+}

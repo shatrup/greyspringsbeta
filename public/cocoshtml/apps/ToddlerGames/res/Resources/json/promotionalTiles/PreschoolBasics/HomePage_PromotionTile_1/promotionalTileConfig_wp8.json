@@ -1,0 +1,13 @@
+{
+	"tileType" : "PanoAppHomePagePromoTile",
+	"appId" : "ToddlerGames",
+	"tileId" : "PromotionalTile_1", 
+	"version" :  "1.0",
+	"title" : "Kids Toddler Learning Games",
+	"ageGroup" : "2-3",
+	"description" : "Let's gear up for school",
+	"logoUri" : "common/promotional_promo/round_icons/toddler_games_icon.png",
+	"backgroundUri" : "common/promotional_promo/background/toddler_games_background.png",
+	"buttonImgUri" : "common/promotional_promo/common/windows_download_button.png",
+	"targetUri" : "zune:navigate?appid=ebbb7a4c-1a32-43be-afaf-fe0e820499d6"	
+}

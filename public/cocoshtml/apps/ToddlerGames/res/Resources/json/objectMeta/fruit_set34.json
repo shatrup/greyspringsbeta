@@ -1,0 +1,79 @@
+{
+	"name": "fruit_set34",
+	"type": "fruit",
+	"suffix": "fruit_set34_",
+	"objectList": [
+		{
+			"objectId": "basket_apple",
+			"name": "apple",
+			"imageUri": "common/fruits/fruit_set34/basket_apple.png",
+			"w": 110.035,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "basket_banana",
+			"name": "banana",
+			"imageUri": "common/fruits/fruit_set34/basket_banana.png",
+			"w": 110.035,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "basket_cherry",
+			"name": "cherry",
+			"imageUri": "common/fruits/fruit_set34/basket_cherry.png",
+			"w": 110.035,
+			"h": 75.024,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "basket_mango",
+			"name": "mango",
+			"imageUri": "common/fruits/fruit_set34/basket_mango.png",
+			"w": 110.035,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "basket_orange",
+			"name": "orange",
+			"imageUri": "common/fruits/fruit_set34/basket_orange.png",
+			"w": 110.035,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "basket_pineapple",
+			"name": "pineapple",
+			"imageUri": "common/fruits/fruit_set34/basket_pineapple.png",
+			"w": 110.035,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "basket_strawberry",
+			"name": "strawberry",
+			"imageUri": "common/fruits/fruit_set34/basket_strawberry.png",
+			"w": 110.035,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "basket_watermelon",
+			"name": "watermelon",
+			"imageUri": "common/fruits/fruit_set34/basket_watermelon.png",
+			"w": 110.035,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

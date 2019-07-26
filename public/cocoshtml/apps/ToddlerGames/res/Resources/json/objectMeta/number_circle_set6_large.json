@@ -1,0 +1,97 @@
+{
+    "name": "number_circle_set6_large",
+    "type": "",
+    "suffix": "number_circle_set6_large_",
+    "objectList": [
+        {
+            "objectId": "number_circle_set6_large_0",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_0",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_1",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_2",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_2",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_3",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_3",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_4",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_5",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_5",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_6",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_6",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_7",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_7",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_8",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_8",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set6_large_9",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set6_large_9",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

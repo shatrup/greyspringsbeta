@@ -1,0 +1,115 @@
+{
+	"name": "food_set1_large",
+	"type": "food",
+	"suffix": "food_set1_large_",
+	"objectList": [
+		{
+			"objectId": "food_set1_large_apple",
+			"name": "word_apple",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_apple.png",
+			"w": 80.859,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_carrot",
+			"name": "vegetable_carrot",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_carrot.png",
+			"w": 75.441,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_cherry",
+			"name": "fruit_cherry",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_cherry.png",
+			"w": 67.105,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_corn",
+			"name": "vegetable_corn",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_corn.png",
+			"w": 61.686,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_eggplant",
+			"name": "vegetable_eggplant",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_eggplant.png",
+			"w": 49.182,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_fig",
+			"name": "fruit_fig",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_fig.png",
+			"w": 56.268,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_grapes",
+			"name": "fruit_grapes",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_grapes.png",
+			"w": 50.433,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_mango",
+			"name": "fruit_mango",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_mango.png",
+			"w": 47.932,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_peas",
+			"name": "vegetable_peas",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_peas.png",
+			"w": 79.192,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_strawberry",
+			"name": "fruit_strawberry",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_strawberry.png",
+			"w": 51.683,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_tomato",
+			"name": "vegetable_tomato",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_tomato.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set1_large_watermelon",
+			"name": "fruit_watermelon",
+			"imageUri": "common/foods/food_set1/food_set1_large/food_set1_large_watermelon.png",
+			"w": 83.36,
+			"h": 55.018,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

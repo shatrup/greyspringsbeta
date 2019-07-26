@@ -1,0 +1,18 @@
+{
+  "id": "CutItOffQuiz",
+  "type": "CutItOffQuiz",
+  "complexity": "medium",
+  "qsBgColor": "D65521",
+  "bgImg": "common/backgrounds/background_fullbleed/background_bricks_fullbleed.png",
+  "bgMusic": "caption_touch_{0}s_remove_them",
+  "question": "caption_touch_{0}s_remove_them",
+  "isFullBleed": true,
+  "sets": [{
+    "id": "set0",
+    "type": "shape",
+    "objectSrc": "realworld_set_shape_set8_large",
+    "includeObjectIds": ["shape_set8_large_triangle", "shape_set8_large_circle", "shape_set8_large_square",
+      "shape_set8_large_star", "shape_set8_large_pentagon"
+    ]
+  }]
+}

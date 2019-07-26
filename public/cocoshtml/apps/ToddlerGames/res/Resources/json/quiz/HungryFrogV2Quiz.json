@@ -1,0 +1,20 @@
+{
+    "id": "HungryFrogV2Quiz",
+    "type": "HungryFrogV2Quiz",
+    "complexity": "medium",
+    "qsBgColor": "56C5FF",
+    "sets": [
+    {
+      "id": "bug_color",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_166",
+      "bgMusic": "caption_touch_the_flies_to_feed_the_hungry_frog",
+      "question": "caption_touch_the_flies_to_feed_the_hungry_frog",
+      "objectSrc": "realworld_set_color_bug_set2",
+      "excludeObjectIds": ["color_bug_set2_violet","color_bug_set2_black"],
+      "customKey1": "color",
+      "customKey2": "8bff3e",
+	  "isFullBleed":true
+    }
+  ]
+}

@@ -1,0 +1,1562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps.Description" product-version="1.0.0.1" source-language="en-US" target-language="en-US">
+		<body>
+			<group id="Games">
+				<trans-unit id="apptitle_TracingApp" space="preserve" translate="yes">
+				  <source>Learn to Write</source>
+				  <target state="new" state-qualifier="mt-suggestion">学习写作</target>
+				  <note annotates="source" from="Tracing App" priority="2">This is app title "Learn to Write"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_TracingApp" space="preserve" translate="yes">
+				  <source>Writing</source>
+				  <target state="new" state-qualifier="mt-suggestion">写作</target>
+				  <note annotates="source" from="Tracing App" priority="2">This is first half of app title "Learn to Write"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_TracingApp" space="preserve" translate="yes">
+				  <source>Fun</source>
+				  <target state="new" state-qualifier="mt-suggestion">开玩笑</target>
+				  <note annotates="source" from="Tracing App" priority="2">This is second half of app title "Learn to Write"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ArcticAlphas" space="preserve" translate="yes">
+				  <source>English Word Search</source>
+				  <target state="new" state-qualifier="mt-suggestion">英语词搜索</target>
+				  <note annotates="source" from="Arctic Alphas" priority="2">This is app title "Arctic Alphas"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_ArcticAlphas" space="preserve" translate="yes">
+				  <source>English</source>
+				  <target state="new" state-qualifier="mt-suggestion">英语</target>
+				  <note annotates="source" from="Arctic Alphas" priority="2">This is first half of app title "Arctic Alphas"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_ArcticAlphas" space="preserve" translate="yes">
+				  <source>Word Search</source>
+				  <target state="new" state-qualifier="mt-suggestion">词搜索</target>
+				  <note annotates="source" from="Arctic Alphas" priority="2">This is second half of app title "Arctic Alphas"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolGames" space="preserved">
+					<source>Kids Preschool Learning Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">儿童 幼儿园游戏</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Learning Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolActivities" space="preserved">
+					<source>Kids Preschool Interactive Activities</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">孩子学龄前互动活动</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Interactive Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolActivities" space="preserved">
+					<source>Preschool Activities</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">学龄前活动</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolActivities" space="preserved">
+					<source>Preschool</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">幼儿</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolActivities" space="preserved">
+					<source>Activities</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">活动</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Activities"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolBasics" space="preserved">
+					<source>Kindergarten Kids Learning</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">幼儿园 学习 活动</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kindergarten Kids Learning"</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part1_Kindergarten" space="preserve">
+				  <source>Kindergarten</source>
+				  <target state="new" state-qualifier="mt-suggestion">幼儿园</target>
+				  <note from="Kindergarten8" annotates="source" priority="2">This is first half of app title Kindergarten8</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part2_Kindergarten" space="preserve">
+				  <source>Kids Learning</source>
+				  <target state="new" state-qualifier="mt-suggestion">孩子们学习</target>
+				  <note from="Kindergarten8" annotates="source" priority="2">This is second half of app title Kindergarten8</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolNumbers" space="preserved">
+					<source>Kids Preschool Numbers and Math</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">儿童 学前数学</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Numbers and Math"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_PreschoolLetters" space="preserved">
+					<source>Kids Preschool Learn Letters</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">儿童 学前英语</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Learn Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_ShapesAndColors" space="preserved">
+					<source>Shapes and Colors Nursery Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">形状和颜色 - 幼儿园教育游戏</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Shapes and Colors Nursery Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_WordGames" space="preserved">
+					<source>Kids Learning Word Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">孩子學習文字遊戲</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Learning Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_MathGames" space="preserved">
+					<source>Kids Games Learning Math Basic</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">孩子们的游戏学习基本的数学</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Games Learning Math Basic"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_ToddlerGames" space="preserved">
+					<source>Kids Toddler Learning Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学步的孩子学习游戏</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Kids Toddler Learning Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_JigsawGames" space="preserved">
+				  <source>Pirate Jigsaw Puzzles - Treasure Hunt</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">海盗拼图 - 寻宝游戏</target>
+				  <note annotates="source" from="App name" priority="2">This is app title "Pirate Jigsaw Puzzles - Treasure Hunt"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_gskids_ScienceGames" space="preserve" translate="yes">
+				  <source>Kids Learning Science Games</source>
+				  <target state="new" state-qualifier="mt-suggestion">Kids Learning Science Games</target>
+				  <note annotates="source" from="App name" priority="2">This is app title "Kids Learning Science Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolGames" space="preserved">
+					<source>Preschool Games</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">幼儿园游戏</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Games"</note>
+				</trans-unit>
+		        <trans-unit id="bundletitle_30percent_off" space="preserve" translate="yes">
+		          <source>Learning pack of 3 games</source>
+		          <target state="new" state-qualifier="mt-suggestion">3 场比赛的学习包</target>
+		          <note annotates="source" from="App name" priority="2">This is bundle title for &quot;Learning pack of 3 games&quot;</note>
+		        </trans-unit>
+		        <trans-unit id="bundletitle_50percent_off" space="preserve" translate="yes">
+		          <source>Learning pack of 5 games</source>
+		          <target state="new" state-qualifier="mt-suggestion">学习 5 游戏包</target>
+		          <note annotates="source" from="App name" priority="2">This is app title &quot;Learning pack of 5 games&quot;</note>
+		        </trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolGames" space="preserved">
+					<source>Preschool</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">学前教育</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolGames" space="preserved">
+					<source>Games</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">游戏</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ScienceGames" space="preserved">
+				  <source>Science Games</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">科学游戏</target>
+				  <note annotates="source" from="Science Games" priority="2">This is app title for Science Games;</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part1_ScienceGames" space="preserve">
+				  <source>Science</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">科学</target>
+				  <note from="Science Games" annotates="source" priority="2">This is first half of app title Science Games</note>
+				</trans-unit>
+				<trans-unit translate="yes" id="apptitle_part2_ScienceGames" space="preserve">
+				  <source>Games</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">游戏</target>
+				  <note from="Science Games" annotates="source" priority="2">This is second half of app title Science Games</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolBasics" space="preserved">
+					<source>Preschool Basics</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学前教育基础知识</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Basics"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolBasics" space="preserved">
+					<source>Preschool</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学前教育</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Basics"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolBasics" space="preserved">
+					<source>Basics</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">基础知识</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Basics"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolNumbers" space="preserved">
+					<source>Preschool Numbers</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学前数学</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Numbers"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolNumbers" space="preserved">
+					<source>Preschool</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学前教育</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Numbers"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolNumbers" space="preserved">
+					<source>Numbers</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数学</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Numbers"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_PreschoolLetters" space="preserved">
+					<source>Preschool Letters</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学前英语</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Preschool Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_PreschoolLetters" space="preserved">
+					<source>Preschool</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学前教育</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_PreschoolLetters" space="preserved">
+					<source>Letters</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">英语</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Letters"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ShapesAndColors" space="preserved">
+					<source>Shapes &amp; Colors</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">形状和颜色</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Shapes &amp; Colors"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_ShapesAndColors" space="preserved">
+					<source>Shapes N</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学前教育</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Shapes And Colors"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_ShapesAndColors" space="preserved">
+					<source>Colors</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">形状和颜色</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Shapes And Colors"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_WordGames" space="preserved">
+					<source>Word Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">文字游戏</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_WordGames" space="preserved">
+					<source>Word</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">字</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_WordGames" space="preserved">
+					<source>Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">游戏</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Word Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_MathGames" space="preserved">
+					<source>Math Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数学游戏</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Math Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_MathGames" space="preserved">
+					<source>Math</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数学</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Math Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_MathGames" space="preserved">
+					<source>Games</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">游戏</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Math Games"</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JigsawJumbleQuiz" space="preserved">
+					<source>Jigsaw puzzle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">拼图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_JigsawV2Quiz" space="preserved">
+					<source>Jigsaw puzzle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">拼图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_CarPartsAssemblingActivityLayer" space="preserved">
+					<source>Make your Car</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">制作你的车</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for Car assembling Activity</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_MemoryGame" space="preserved">
+					<source>Memory Game</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">记忆游戏</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for memory game</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ConnectTheDots" space="preserved">
+					<source>Connect the dots</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">连接点</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ConnectTheDots_ConnectTheDotsV2" space="preserved">
+					<source>Connect the dots</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">连接点</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_DragToMatchQuiz" space="preserved">
+					<source>Match the numbers</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">匹配的数字</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JigsawPuzzleV3" space="preserved">
+					<source>Jigsaw Puzzle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">Jigsaw Puzzle</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AlphabetChart" space="preserved">
+					<source>Alphabet Chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">字母图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AlphabetQuiz" space="preserved">
+					<source>Alphabet Quiz</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">字母测验</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Vegetableschart" space="preserved">
+					<source>Vegetables chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">蔬菜图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Fruitschart" space="preserved">
+					<source>Fruits chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">水果图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Animalschart" space="preserved">
+					<source>Animals chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">动物图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Sportschart" space="preserved">
+					<source>Sports chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">体育图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_SolarSystem" space="preserved">
+					<source>Solar System</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">太阳系</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_BodyParts" space="preserved">
+					<source>Body Parts</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="de">身体部位</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Shapeschart" space="preserved">
+					<source>Shapes chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">形状图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Householdschart" space="preserved">
+					<source>Households chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">家庭图表</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Numberschart" space="preserved">
+					<source>Numbers chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数字图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Professionschart" space="preserved">
+					<source>Professions chart</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">职业排行榜</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Numberquiz" space="preserved">
+					<source>Number quiz</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数竞猜</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_NumberPaint" space="preserved">
+				  <source>Colorful Numbers</source>
+				  <target state="pending" state-qualifier="mt-suggestion" xml:lang="en">七彩号码</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AlphabetPaint" space="preserve" translate="yes">
+				  <source>Colorful Alphabets</source>
+				  <target state="new" state-qualifier="mt-suggestion">五颜六色的字母</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_FruitPaint" space="preserve" translate="yes">
+				  <source>Colorful Fruits</source>
+				  <target state="new" state-qualifier="mt-suggestion">五颜六色的水果</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_VegetablePaint" space="preserve" translate="yes">
+				  <source>Colorful Vegetables</source>
+				  <target state="new" state-qualifier="mt-suggestion">五颜六色的蔬菜</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ProfessionPaint" space="preserve" translate="yes">
+				  <source>Colorful Professions</source>
+				  <target state="new" state-qualifier="mt-suggestion">七彩虹职业</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ActivityPaint" space="preserve" translate="yes">
+				  <source>Colorful Activities</source>
+				  <target state="new" state-qualifier="mt-suggestion">丰富多彩的活动</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Hotcrossbuns" space="preserved">
+					<source>Hot cross buns</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">热十字面包</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Twinkletwinkle" space="preserved">
+					<source>Twinkle twinkle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">星星闪烁</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_OldMcdonald" space="preserved">
+					<source>Old Mcdonald</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">老麦克唐纳</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Baabaablacksheep" space="preserved">
+					<source>Baa baa black sheep</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">咩咩害群之马</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Incywincyspider" space="preserved">
+					<source>Incy wincy spider</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">INCY wincy蜘蛛</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Maryhadalittlelamb" space="preserved">
+					<source>Mary had a little lamb</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">玛丽有只小羊羔</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Humptydumpty" space="preserved">
+					<source>Humpty dumpty</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">矮胖子</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Jackandjill" space="preserved">
+					<source>Jack and jill</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">杰克和吉尔</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_Wheelsonthebus" space="preserved">
+					<source>Wheels on the bus</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">上车车轮</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Alphabets" space="preserved">
+					<source>Alphabets</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">字母表</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Activities" space="preserved">
+					<source>Activities</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="de">活动</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Animals" space="preserved">
+					<source>Animals</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">动物</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Charts" space="preserved">
+					<source>Charts</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">图表</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Gallery" space="preserved">
+					<source>My Paintings</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">我的画</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Quizzes" space="preserved">
+					<source>Quizzes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">测验</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Rhymes" space="preserved">
+					<source>Rhymes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">韵</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Fruits" space="preserved">
+					<source>Fruits</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">水果</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Fruits_And_Vegetables" space="preserved">
+					<source>Fruits</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">水果</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>	
+				<trans-unit id="charttitle_Greetings" space="preserved">
+					<source>Greetings</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Greetings</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="charttitle_Households" space="preserved">
+					<source>Households</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">住户</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Numbers" space="preserved">
+					<source>Numbers</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">号码</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Professions" space="preserved">
+					<source>Professions</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">职业</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Shapes" space="preserved">
+					<source>Shapes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">形状</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Sports" space="preserved">
+					<source>Sports</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">体育运动</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="charttitle_Vegetables" space="preserved">
+					<source>Vegetables</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">青菜</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="clustertitle_Alphabets" space="preserved">
+		          <source>Alphabets</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="zh"> 字 母 表 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Numbers" space="preserved">
+		          <source>Numbers</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="zh"> 号 码 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Paint" space="preserved">
+		          <source>Paint</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="zh"> 油 漆 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Rhymes" space="preserved">
+		          <source>Rhymes</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="zh"> 韵 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Playground" space="preserved">
+		          <source>Playground</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="zh"> 操 场 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="clustertitle_Charts" space="preserved">
+		          <source>Charts</source>
+		          <target state="pending" state-qualifier="mt-suggestion" xml:lang="zh"> 图表 </target>
+		          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+		        </trans-unit>
+				<trans-unit id="clustertitle_ShapesAndColors" space="preserved">
+				  <source>Shapes and Colors</source>
+				  <target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">形状和颜色</target>
+				  <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+				</trans-unit>
+				<trans-unit id="message_ok" space="preserved">
+					<source>OK</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">好的</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message used to ok</note>
+				</trans-unit>
+				<trans-unit id="message_buy" space="preserved">
+					<source>Buy</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">购买</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message used to buy on the store</note>
+				</trans-unit>
+				<trans-unit id="message_goadsfree" space="preserved">
+					<source>Remove ads</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">移除广告</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message for removing ads</note>
+				</trans-unit>
+				<trans-unit id="message_cancel" space="preserved">
+					<source>Cancel</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">取消</target>
+					<note annotates="source" from="Message/Alerts" priority="2">This is message used to cancel</note>
+				</trans-unit>
+				<trans-unit id="apppurchase_restore" space="preserved">
+					<source>Restore</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">恢复</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="apppurchase_restore_purchases_confirmation_text" space="preserved">
+					<source>Your purchase has been successfully restored</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">恭喜，已成功恢复你以前的购买。</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="flyout_rateus_title" space="preserved">
+					<source>Rate us</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">为我们评分</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_rateus_msg" space="preserved">
+					<source>Please take a moment to rate the app. Thank you so much!</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">烦请花一点时间为这款 app 评分。非常感谢！</target>
+					<note annotates="source" from="Score Board" priority="2">Rate us message</note>
+				</trans-unit>
+				<trans-unit id="flyout_social_share_title" space="preserved">
+					<source>Facebook share</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">Facebook 分享</target>
+					<note annotates="source" from="Homepage" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_social_share_msg" space="preserved">
+					<source>Please take a moment to share the app. Thank you so much!</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">烦请花一点时间共享这款 app。非常感谢！</target>
+					<note annotates="source" from="Homepage" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_premium_user_title" space="preserved">
+					<source>Premium user</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">高级用户</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_premium_user_msg" space="preserved">
+					<source>You are already a premium user. Thanks for purchasing the app</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">你已是高级用户。感谢你购买这款 app</target>
+					<note annotates="source" from="Score Board" priority="2">Premium user note</note>
+				</trans-unit>
+				<trans-unit id="flyout_goadsfree_title" space="preserved">
+					<source>Go ads free</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">去除广告</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_goadsfree_msg" space="preserved">
+					<source>Go premium to remove ads and give your child an ads free experience</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">成为高级用户来移除广告，给孩子没有广告的体验</target>
+					<note annotates="source" from="Score Board" priority="2">Go ads free note</note>
+				</trans-unit>
+				<trans-unit id="flyout_gopremium_title" space="preserved">
+					<source>Go premium</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">成为高级用户</target>
+					<note annotates="source" from="Score Board" priority="2"/>
+				</trans-unit>
+				<trans-unit id="flyout_gopremium_msg" space="preserved">
+					<source>Go premium to remove ads and unlock more exciting games</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">成为高级用户来移除广告并解锁更多精彩游戏</target>
+					<note annotates="source" from="Score Board" priority="2">Premium user note</note>
+				</trans-unit>
+				<trans-unit id="flyout_parental_title" space="preserved">
+					<source>Parents only</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">仅限父母</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for parental control</note>
+				</trans-unit>
+				<trans-unit id="flyout_parental_msg" space="preserved">
+					<source>Choose the right answer to continue</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">选取正确的答案来继续</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout msg for parental control</note>
+				</trans-unit>
+				<trans-unit id="flyout_browser_title" space="preserved">
+					<source>Web browser</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">Web 浏览器</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for external communication</note>
+				</trans-unit>
+				<trans-unit id="flyout_browser_msg" space="preserved">
+					<source>We are taking you to the web browser. Please confirm</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">我们会将你带到 web 浏览器。请确认</target>
+					<note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming external communication</note>
+				</trans-unit>
+				<trans-unit id="section_moreapps" space="preserved">
+					<source>More Apps</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">更多 Apps</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is title More apps section in parental control</note>
+				</trans-unit>
+				<trans-unit id="section_followus" space="preserved">
+					<source>Follow us</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">关注我们</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is title Follow us section in parental control</note>
+				</trans-unit>
+				<trans-unit id="section_reachus" space="preserved">
+					<source>Reach us</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">联络我们</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is title Reach us section in parental control</note>
+				</trans-unit>
+				<trans-unit id="parentszone_parentscorner" space="preserved">
+					<source>Parent’s corner</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">父母角</target>
+					<note annotates="source" from="Parent’s zone" priority="2">This is parents corner in parents zone</note>
+				</trans-unit>
+				<trans-unit id="text_download_free" space="preserved">
+					<source>Download free</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">免费下载</target>
+					<note annotates="source" from="Parent’s zone" priority="2">This is text used for suggesting free downloads</note>
+				</trans-unit>
+				<trans-unit id="text_greysprings_onstore" space="preserved">
+					<source>Greysprings on store</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">商店中的 Greysprings</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is text title for Greysprings on store</note>
+				</trans-unit>
+				<trans-unit id="text_privacy_policy" space="preserved">
+					<source>Privacy policy</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">隐私政策</target>
+					<note annotates="source" from="Sticker Board" priority="2">This is text title for privacy policy</note>
+				</trans-unit>
+				<trans-unit id="text_goodjob" space="preserved">
+					<source>Good job</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">做得好</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for good job</note>
+				</trans-unit>
+				<trans-unit id="text_greatjob" space="preserved">
+					<source>Great job</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">做得很好</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for great job</note>
+				</trans-unit>
+				<trans-unit id="text_superjob" space="preserved">
+					<source>Super job</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">做得超棒</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for super job</note>
+				</trans-unit>
+				<trans-unit id="text_welldone" space="preserved">
+					<source>Well done</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">很好</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for Well done</note>
+				</trans-unit>
+				<trans-unit id="text_youdidit" space="preserved">
+					<source>You did it</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">你成功了</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for You did it</note>
+				</trans-unit>
+				<trans-unit id="text_champ" space="preserved">
+					<source>Champ</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">冠军</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for Champ</note>
+				</trans-unit>
+				<trans-unit id="text_goodtry" space="preserved">
+					<source>Good try</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">很用心</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for good try</note>
+				</trans-unit>
+				<trans-unit id="text_tryagain" space="preserved">
+					<source>Try again</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">再试一次</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for try again</note>
+				</trans-unit>
+				<trans-unit id="text_bravo" space="preserved">
+					<source>Bravo</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">好棒</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for bravo</note>
+				</trans-unit>
+				<trans-unit id="text_brilliant" space="preserved">
+					<source>Brilliant</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">精彩</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for try again</note>
+				</trans-unit>
+				<trans-unit id="text_intelligent" space="preserved">
+					<source>Intelligent</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">机智</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for intelligent</note>
+				</trans-unit>
+				<trans-unit id="text_terrific" space="preserved">
+					<source>Terrific</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">很棒</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for terrific</note>
+				</trans-unit>
+				<trans-unit id="text_excellent" space="preserved">
+					<source>Excellent</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">好极了</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for excellent</note>
+				</trans-unit>
+				<trans-unit id="text_phenomenal" space="preserved">
+					<source>Phenomenal</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">了不起</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for phenomenal</note>
+				</trans-unit>
+				<trans-unit id="tilelock_rateus" space="preserved">
+					<source>Rate us to unlock</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">为我们评分来解锁</target>
+					<note annotates="source" from="Chrome" priority="2">Text for unlocking games by providing ratings on store</note>
+				</trans-unit>
+				<trans-unit id="tilelock_socialshare" space="preserved">
+					<source>Share to unlock</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">共享来解锁</target>
+					<note annotates="source" from="Chrome" priority="2">Text for unlocking games by sharing app on social media</note>
+				</trans-unit>
+				<trans-unit id="tilelock_premium" space="preserved">
+					<source>Buy to unlock</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">购买来解锁</target>
+					<note annotates="source" from="Chrome" priority="2">Text for unlocking games by purchasing from store</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JigsawWordQuiz" space="preserved">
+					<source>Jigsaw Words</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">拼图词</target>
+					<note annotates="source" from="Word Games" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="flyout_store_title" space="preserved">
+					<source>Visit store</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">访问商店</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for store communication</note>
+				</trans-unit>
+				<trans-unit id="flyout_store_msg" space="preserved">
+					<source>We are taking you to the store. Please confirm</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">我们会将你带到商店。请确认</target>
+					<note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming store communication</note>
+				</trans-unit>
+				<trans-unit id="flyout_leave_app_title" space="preserved">
+					<source>Leave app</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">离开 app</target>
+					<note annotates="source" from="Score Board" priority="2">This is text used for flyout title for leaving app.</note>
+				</trans-unit>
+				<trans-unit id="flyout_leave_app_msg" space="preserved">
+					<source>We are taking you outside the app. Please confirm.</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">你即将离开应用程序。请确认。</target>
+					<note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming leaving application</note>
+				</trans-unit>
+				<trans-unit id="flyout_restore_purchases_title" space="preserved">
+					<source>Restore my purchases</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">恢复我以前的购买</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="flyout_restore_purchases_message" space="preserved">
+					<source>Restore previously purchased products</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">恢复以前购买的产品。</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="flyout_restore_purchases_error_message" space="preserved">
+					<source>We can not restore your purchase at this time</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">我们现在无法恢复你以前的购买。</target>
+					<note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ComparisonQuiz" space="preserved">
+					<source>Equal or Unequal</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">相等或不等</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_JuicyGridQuiz" space="preserved">
+					<source>Juicy grid</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">多汁格</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AscendingDescendingQuiz" space="preserved">
+					<source>Sort it out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">整理出来</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_NumberLineQuiz" space="preserved">
+					<source>Number line</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">学会做加减法</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_NumberPlayQuiz" space="preserved">
+					<source>Number Play</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数字游戏</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for number play quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_AdditionSubtractionQuiz" space="preserved">
+					<source>Add me up</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">添加号码</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="apptitle_ToddlerGames" space="preserved">
+					<source>Toddler Games</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">幼儿游戏</target>
+					<note annotates="source" from="App name" priority="2">This is app title "Toddler Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part1_ToddlerGames" space="preserved">
+					<source>Toddler</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">幼儿</target>
+					<note annotates="source" from="App name" priority="2">This is first half of app title "Toddler Games"</note>
+				</trans-unit>
+				<trans-unit id="apptitle_part2_ToddlerGames" space="preserved">
+					<source>Games</source>
+					<target state="translated" state-qualifier="mt-suggestion" xml:lang="zh">游戏</target>
+					<note annotates="source" from="App name" priority="2">This is second half of app title "Toddler Games"</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_HungryFrogV2Quiz" space="preserved">
+					<source>Hungry frog</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">饥饿的青蛙</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_FeedTheSharkQuiz" space="preserved">
+					<source>Feed the shark</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">喂鲨鱼</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_BodyPartsQuiz" space="preserved">
+				  <source>Body Parts</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">身体部位</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="button_text_redeem_promo_code" space="preserve" translate="yes">
+				  <source>Redeem Code</source>
+				  <target state="new" state-qualifier="mt-suggestion">兑换代码</target>
+				  <note annotates="source" from="promo code" priority="2">Redeem</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_AscendingDescendingQuiz" space="preserved">
+					<source>Sort it out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">分类对象</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_NumberNamesQuiz" space="preserved">
+					<source>Number Names</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数的名称</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_EvenOddHopQuiz" space="preserved">
+					<source>Even Odd</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">奇数和偶数</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_FractionalPizzaQuiz" space="preserved">
+					<source>Part or Whole</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">部分或全部</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_TickTockQuiz" space="preserved">
+					<source>Tell the Time</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">告诉时间</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_TensAndOnesQuiz" space="preserved">
+					<source>Tens and Ones</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">十位和个</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_AquariumNumberAddQuiz" space="preserved">
+					<source>Add Me Up</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">加我</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_CutItOffQuiz" space="preserved">
+					<source>CUT IT OFF</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">切去除</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_HalvesAndDoublesQuiz" space="preserved">
+					<source>Halves and Doubles</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">半和双打</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_MathGames_LearnToTrace" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_MusicInstrumentV2Quiz" space="preserved">
+					<source>Music Time</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">音乐时间</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_MatchTheShadow" space="preserved">
+					<source>Match the shadow</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">匹配的影子</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_NumberCountQuiz" space="preserved">
+					<source>Count 123</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">计数123</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ScratchPad" space="preserved">
+					<source>Scratch to reveal</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">刮开垫画</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ScratchToRevealQuiz" space="preserved">
+					<source>Scratch to reveal</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">刮开垫画</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BalloonPopQuiz" space="preserved">
+					<source>Cow Mania</source>
+					<target state="pending" state-qualifier="mt-suggestion">飞牛</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BalloonPopQuiz2" space="preserved">
+					<source>Flying gnome</source>
+					<target state="pending" state-qualifier="mt-suggestion">飞人</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>		
+				<trans-unit id="tiletitle_PreschoolNumbers_BalloonPopQuiz" space="preserved">
+					<source>Flying gnome</source>
+					<target state="pending" state-qualifier="mt-suggestion">飞人</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+ 				<trans-unit id="tiletitle_PreschoolGames_SortItOut" space="preserved">
+ 					<source>Sort it out</source>
+ 					<target state="pending" state-qualifier="mt-suggestion" xml:lang="es">梳理出来</target>
+ 					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+ 				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_HungryFrogQuiz" space="preserved">
+					<source>Hungry Lizzy</source>
+					<target state="pending" state-qualifier="mt-suggestion">饿了蜥蜴</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_HungryFrogQuiz2" space="preserved">
+					<source>Hungry Lizzy</source>
+					<target state="pending" state-qualifier="mt-suggestion">饿了蜥蜴</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_TrickyMaze" space="preserved">
+					<source>Tricky maze</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">棘手的迷宫</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_HideAndSeekQuiz" space="preserve" translate="yes">
+				  <source>Hide And Seek</source>
+				  <target state="new" state-qualifier="auto_localize">捉迷藏</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_ColorTheObjects" space="preserved">
+					<source>Fill the colors</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">填充颜​​色</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_SortTheObjectsQuiz" space="preserved">
+					<source>Sort it out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">分类对象</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWrite" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWriteV2" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWriteV4" space="preserved">
+					<source>Cursive Tracing</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">跟踪草书</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_LearnToWriteV6" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+		        <trans-unit id="tiletitle_PreschoolLetters_LearnToWriteV6" space="preserve" translate="yes">
+		          <source>Learn to trace</source>
+		          <target state="new" state-qualifier="mt-suggestion">追查字母</target>
+		          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		        </trans-unit>
+				<trans-unit id="tiletitle_WordGames_LearnToWriteWords" space="preserved">
+					<source>Trace the Words</source>
+					<target state="pending" state-qualifier="mt-suggestion">写单词</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ThemesInteractionQuiz" space="preserved">
+					<source>Fun with Shapes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">有趣的形状</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_LearnToWriteV2" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_OddInGroupQuiz" space="preserved">
+					<source>Odd one out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">奇一出</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BingoQuizV2" space="preserved">
+					<source>Bingo fun</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">宾果游戏的乐趣</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_BingoQuiz" space="preserved">
+					<source>Bingo fun</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">宾果游戏的乐趣</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolGames_MissingObjects" space="preserved">
+					<source>Missing objects</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">缺少对象</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_OddItems" space="preserved">
+					<source>Find odd items</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">查找奇数项</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_SpotDifferences" space="preserved">
+					<source>Spot the difference</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">现货的差异</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_JigsawJumbleQuiz" space="preserved">
+					<source>Jigsaw puzzle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">拼图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_JigsawPuzzle" space="preserved">
+					<source>Jigsaw puzzle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">拼图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>	
+				<trans-unit id="tiletitle_PreschoolGames_LifeCycleQuiz" space="preserved">
+				  <source>Growth Cycle</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">生命周期</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_PreschoolLetters_MatchTheShadow" space="preserved">
+					<source>Match the shadow</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">匹配的影子</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+		        <trans-unit id="tiletitle_PreschoolLetters_MatchTheShadowActivity" space="preserve" translate="yes">
+		          <source>Match the Shadow</source>
+		          <target state="new" state-qualifier="mt-suggestion">匹配的影子</target>
+		          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		        </trans-unit>
+		        <trans-unit id="tiletitle_PreschoolLetters_TrickyMaze" space="preserve" translate="yes">
+		          <source>Tricky Maze</source>
+		          <target state="new" state-qualifier="mt-suggestion">棘手的迷宫</target>
+		          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		        </trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_ColorBallsQuiz" space="preserved">
+					<source>Color Ball</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">颜色球</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_JigsawV2Quiz" space="preserved">
+					<source>Jigsaw Alphabets</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">字母拼图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_BalloonPopQuiz" space="preserved">
+					<source>Bubbly Alphabets</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">天真活泼的字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_BingoQuiz" space="preserved">
+					<source>Bingo Alphabets</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">宾果字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_ConnectTheDots" space="preserved">
+					<source>Connect the dots</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">连接点</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_OddInGroupQuiz" space="preserved">
+					<source>Odd one out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">奇一出</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_SequenceCrawlQuiz" space="preserved">
+					<source>Sequence Crawl</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">顺序抓取</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_HopQuiz" space="preserved">
+					<source>Letter Hop</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">跳蛙</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_BubbleSequenceQuiz" space="preserved">
+					<source>Sequential Shells</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">完成序列</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_HelloPhoneticsQuiz" space="preserved">
+					<source>Hello Phonics</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">您好拼音</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_MatchItemsGridQuiz" space="preserved">
+					<source>First Letter</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">第一个字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolLetters_LearnToTrace" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_AscendingDescendingQuiz" space="preserved">
+					<source>Sort it out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">分类对象</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_NumberNamesQuiz" space="preserved">
+					<source>Number Names</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数的名称</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_EvenOddHopQuiz" space="preserved">
+					<source>Even Odd</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">奇数和偶数</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_FractionalPizzaQuiz" space="preserved">
+					<source>Part or Whole</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">部分或全部</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_AquariumNumberAddQuiz" space="preserved">
+					<source>Add Me Up</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">加我</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_CutItOffQuiz" space="preserved">
+					<source>CUT IT OFF</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">切去除</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_HalvesAndDoublesQuiz" space="preserved">
+					<source>Halves and Doubles</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">半和双打</target>
+					<note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_UnderwaterCatchQuiz" space="preserved">
+					<source>Underwater catch</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">水下抓</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_NumberFunQuiz" space="preserved">
+					<source>Number Fun</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">数字乐趣</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for number fun quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_NumberPlayQuiz" space="preserved">
+					<source>Shoot The Ball</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">投篮</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for shoot the ball quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_ScratchToRevealQuiz" space="preserved">
+					<source>Scratching Fun</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">抓乐趣</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for scratching fun quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_BalloonPopQuiz" space="preserved">
+					<source>Bubbly Numbers</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">泡泡号码</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_FloatingBubblesQuiz" space="preserved">
+					<source>Bubbly Numbers</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">泡泡号码</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_PuzzleManiaQuiz" space="preserved">
+					<source>Puzzle Mania</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">疯狂拼图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for Puzzle Mania quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_ConnectTheDots" space="preserved">
+					<source>Connect the dots</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">连接点</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_HopQuiz" space="preserved">
+					<source>Hopping frog</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">跳蛙</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_BalanceQuiz" space="preserved">
+					<source>Same to same</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">平衡它</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_ComparisonQuiz" space="preserved">
+					<source>Compare twosome</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">比较两人一组</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolNumbers_BeforeAfterNumberQuiz" space="preserved">
+					<source>Before and After</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">之前和之后</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page for Before and After quiz</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_ScratchToRevealQuiz" space="preserved">
+					<source>Scratch to reveal</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">刮开垫画</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_LifeCycleQuiz" space="preserved">
+				  <source>Growth Cycle</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">生命周期</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_MumAndBabyQuiz" space="preserved">
+				  <source>Mum And Baby</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">母亲和孩子</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_FloatSinkQuiz" space="preserved">
+				  <source>Sink or Float</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">下沉或浮动</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_FiveSensesQuiz" space="preserved">
+				  <source>Know Your Senses</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">感觉器官</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_StatesOfMatterQuiz" space="preserved">
+				  <source>What's the Matter</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">物质状态</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_HomeSweetHomeQuiz" space="preserved">
+				  <source>Home Sweet Home</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">甜蜜的家</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ScienceGames_HealthIsWealthQuiz" space="preserved">
+				  <source>Health Is Wealth</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">健康就是财富</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_HungryFrogV2Quiz" space="preserved">
+					<source>Hungry frog</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">饿了青蛙</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ColorTheObjects" space="preserved">
+					<source>Fill the colors</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">填充颜​​色</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ColorTheObjectsQuizV2" space="preserved">
+					<source>Fill the colors</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">填充颜​​色</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ConnectTheDots" space="preserved">
+					<source>Connect the dots</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">连接点</target>
+					<note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ShapesMatchingQuiz" space="preserve" translate="yes">
+				  <source>Choose Correct Shapes</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">Choose Correct Shapes</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ColorBallsQuiz" space="preserved">
+					<source>Color Ball</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">颜色球</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_ScratchToRevealQuiz" space="preserved">
+					<source>Scratch to reveal</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">刮开露出</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_FillShapeHolesQuiz" space="preserved">
+					<source>Match the shapes</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">匹配的形状</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BuildRobotQuiz" space="preserved">
+					<source>Robot Factory</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">机器人工厂</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_JoinThePiecesQuiz" space="preserved">
+					<source>Join the pieces</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">加入件</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BuildTheToysQuiz" space="preserved">
+					<source>Build the toys</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">构建玩具</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_CaterpillarMatchQuiz" space="preserved">
+					<source>Match the colors</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">匹配颜色</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_AlienColorMatchQuiz" space="preserved">
+					<source>Space Jump</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">空间跳跃</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_OddInGroupQuiz" space="preserved">
+					<source>Odd one out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">奇一出</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_HopQuiz" space="preserved">
+					<source>Honey bee</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">蜜蜂</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BingoQuiz" space="preserved">
+					<source>Bingo fun</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">宾果游戏的乐趣</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_LearnToTrace" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HalloweenQuiz" space="preserved">
+					<source>Halloween Pumpkin</source>
+					<target state="pending" state-qualifier="mt-suggestion">万圣节南瓜</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_PreschoolGames_HalloweenQuiz" space="preserved">
+					<source>Halloween Pumpkin</source>
+					<target state="pending" state-qualifier="mt-suggestion">万圣节南瓜</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ThemesInteractionQuiz" space="preserved">
+					<source>Count the Items</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">计数项目</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ColorTheObjectsQuizV3" space="preserved">
+					<source>Fill the colors</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">填充颜​​色</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HangingFruitsQuiz" space="preserved">
+					<source>Hanging fruits</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">挂水果</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_SeaWonderQuiz" space="preserved">
+				  <source>Sea Wonder</source>
+				  <target state="new" state-qualifier="mt-suggestion" xml:lang="zh">海奇迹</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BubbleCatchQuiz" space="preserved">
+					<source>Floating bubbles</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">浮动的气泡</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HungryFrogV2Quiz" space="preserved">
+					<source>Hungry frog</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">饿了青蛙</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_HungryFrogV3Quiz" space="preserved">
+					<source>Hungry frog</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">饿了青蛙</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_LearnToWriteV3" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_MatchTheShadow" space="preserved">
+					<source>Match the shadow</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">匹配的影子</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ScratchToRevealQuiz" space="preserved">
+					<source>Scratch to reveal</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">刮开露出</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_ColorFunQuiz" space="preserved">
+					<source>Color fun</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">彩的乐趣</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_UnderwaterCatchQuiz" space="preserved">
+					<source>Underwater catch</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">水下抓</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BalloonPopQuiz" space="preserved">
+					<source>Balloon pop</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">气球游戏</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BalloonPopV2Quiz" space="preserved">
+					<source>Balloon pop</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">气球游戏</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_BalloonPopUnlimitedQuiz" space="preserved">
+					<source>Balloon fun</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">有趣的气球</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_MusicInstrumentQuiz" space="preserve" translate="yes">
+				  <source>Toddlers Piano</source>
+				  <target state="new" state-qualifier="mt-suggestion">幼儿钢琴</target>
+				  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>				
+				<trans-unit id="tiletitle_ToddlerGames_JigsawV2Quiz" space="preserved">
+					<source>Jigsaw puzzle</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">拼图</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ToddlerGames_LearnToTrace" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_ShapesAndColors_BalloonPopV3Quiz" space="preserved">
+					<source>Balloon pop</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">气球游戏</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_SequentialMatchTheShadow" space="preserved">
+					<source>Match the shadow</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">匹配的影子</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_HelloPhoneticsQuiz" space="preserved">
+					<source>Hello Phonics</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">您好拼音</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_ColorBallsQuiz" space="preserved">
+					<source>Color Ball</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">颜色球</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_VerticalMatchQuiz" space="preserved">
+					<source>Vertical Match</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">垂直匹配</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_ThemeBingoQuiz" space="preserved">
+					<source>Bingo</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">宾果</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_OddOneOutV2Quiz" space="preserved">
+					<source>Odd One Out</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">奇一出</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_BasicCrossWordQuiz" space="preserved">
+					<source>Crossword</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">填字游戏</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_MonkeyQuiz" space="preserved">
+					<source>Monkey Quiz</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">完成單詞</target>
+					<note annotates="source" from="Word Games" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_RhymingObjectsQuiz" space="preserved">
+					<source>Rhyming Words</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">押韵的词</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_MatchItemsGridV2Quiz" space="preserved">
+					<source>Letter Grid</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">格信</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_WordRecognitionQuiz" space="preserved">
+					<source>Word Recognition</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">承认字</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+				<trans-unit id="tiletitle_WordGames_LearnToTrace" space="preserved">
+					<source>Learn to trace</source>
+					<target state="pending" state-qualifier="mt-suggestion" xml:lang="zh">追查字母</target>
+					<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+				</trans-unit>
+        <trans-unit id="no_internet_label_text" space="preserve" translate="yes">
+          <source>No Internet</source>
+          <target state="new" state-qualifier="mt-suggestion">没有互联网</target>
+          <note annotates="source" from="Chrome" priority="2">Main label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_sublabel1_text" space="preserve" translate="yes">
+          <source>App could not connect to internet.</source>
+          <target state="new" state-qualifier="mt-suggestion">应用程序无法连接到互联网</target>
+          <note annotates="source" from="Chrome" priority="2">First sub label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_sublabel2_text" space="preserve" translate="yes">
+          <source>Please reconnect to play.</source>
+          <target state="new" state-qualifier="mt-suggestion">请重新连接才能发挥</target>
+          <note annotates="source" from="Chrome" priority="2">Second sub label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_bottom_label_text" space="preserve" translate="yes">
+          <source>Waiting to reconnect</source>
+          <target state="new" state-qualifier="mt-suggestion">等待重新连接</target>
+          <note annotates="source" from="Chrome" priority="2">Bottom sub label for network requirement dialog.</note>
+        </trans-unit>
+			</group>
+		</body>
+	</file>
+</xliff>
+
+
+

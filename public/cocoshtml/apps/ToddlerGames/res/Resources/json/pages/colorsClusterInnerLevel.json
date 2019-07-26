@@ -1,0 +1,384 @@
+{
+    "id": "AnimalsCluster",
+    "title": "Color Images",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+				{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "Shapes"
+					}
+				},
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/9.png",
+                        "title": "ms-resource:Bird_Toucan",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=9&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/10.png",
+                        "title": "ms-resource:Bird_crane",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=10&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/19.png",
+                        "title": "ms-resource:Bird_Duck",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=19&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/20.png",
+                        "title": "ms-resource:Bird_Owl",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=20&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/21.png",
+                        "title": "ms-resource:Bird_Parrot",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=21&layout=vertical"
+                    }
+                },
+				{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "Numbers"
+					}
+				},
+             	{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/1.png",
+						"title": "ms-resource:Rodent_Mouse",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=1&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/2.png",
+						"title": "ms-resource:Animal_Bears",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=3&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/3.png",
+						"title": "ms-resource:Animal_Elephant",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=12&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/4.png",
+						"title": "ms-resource:Rodent_Squirrel",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=14&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/5.png",
+						"title": "ms-resource:Animal_Lion",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=17&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/6.png",
+						"title": "ms-resource:Animal_Lion",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=17&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/7.png",
+						"title": "ms-resource:Animal_Lion",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=17&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/8.png",
+						"title": "ms-resource:Animal_Lion",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=17&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/9.png",
+						"title": "ms-resource:Animal_Lion",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=17&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/numbers/10.png",
+						"title": "ms-resource:Animal_Lion",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=17&layout=vertical"
+					}
+				},
+				{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "Alphabets"
+					}
+				},
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/9.png",
+                        "title": "ms-resource:Bird_Toucan",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=9&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/10.png",
+                        "title": "ms-resource:Bird_crane",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=10&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/19.png",
+                        "title": "ms-resource:Bird_Duck",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=19&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/20.png",
+                        "title": "ms-resource:Bird_Owl",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=20&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/21.png",
+                        "title": "ms-resource:Bird_Parrot",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=21&layout=vertical"
+                    }
+                },
+				{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "ms-resource:Word_Animals"
+					}
+				},
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/1.png",
+                        "title": "ms-resource:Rodent_Mouse",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=1&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/2.png",
+                        "title": "ms-resource:Animal_Turtle",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=2&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/3.png",
+                        "title": "ms-resource:Animal_Bears",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=3&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/6.png",
+                        "title": "ms-resource:Animal_Crab",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=6&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/7.png",
+                        "title": "ms-resource:Animal_Fish",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=7&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/12.png",
+                        "title": "ms-resource:Animal_Elephant",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=12&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/14.png",
+                        "title": "ms-resource:Rodent_Squirrel",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=14&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/17.png",
+                        "title": "ms-resource:Animal_Lion",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=17&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/22.png",
+                        "title": "ms-resource:Animal_Dog",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=22&layout=vertical"
+                    }
+                },
+				{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "ms-resource:Word_Birds"
+					}
+				},
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/9.png",
+                        "title": "ms-resource:Bird_Toucan",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=9&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/10.png",
+                        "title": "ms-resource:Bird_crane",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=10&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/19.png",
+                        "title": "ms-resource:Bird_Duck",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=19&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/20.png",
+                        "title": "ms-resource:Bird_Owl",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=20&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/21.png",
+                        "title": "ms-resource:Bird_Parrot",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=21&layout=vertical"
+                    }
+                },
+				{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "ms-resource:Word_Other"
+					}
+				},
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/4.png",
+                        "title": "ms-resource:Insect_Bee",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=4&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/5.png",
+                        "title": "ms-resource:Word_Umbrella",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=5&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/8.png",
+                        "title": "ms-resource:MythicalCreature_Mermaid",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=8&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/11.png",
+                        "title": "ms-resource:Word_Fairy",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=11&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/15.png",
+                        "title": "ms-resource:Word_Fairy",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=15&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/13.png",
+                        "title": "ms-resource:Word_Sun",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=13&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/16.png",
+                        "title": "ms-resource:Word_Fruits",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=16&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/18.png",
+                        "title": "ms-resource:Word_Bee",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=18&layout=vertical"
+                    }
+                }
+            ]
+        }
+    ]
+}

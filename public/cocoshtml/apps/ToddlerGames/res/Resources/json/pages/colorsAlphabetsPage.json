@@ -1,0 +1,27 @@
+{
+	"id": "animalsPage",
+    "title": "ms-resource:Alphabets_Title",
+	"bgAudio": "/audio/colorbookomeAudio.mp3",
+    "panel": {
+        "clusters": [
+			  {
+				"name": "colorBookCluster",
+                "title": "Color Image Holder",
+                "type": "ClusterControl",
+                "requestUri": "/data/pageJson/colorsAlphabetsInnerLevel.json",
+				"options": {
+					"isBleed": false
+				}
+            },
+			{
+			    "name": "adsCluster",
+                "title": "Ads",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/adsCluster.json",
+				 "requestParams": {
+					"adsName" : "GSPPaint_300x600_AlphabetPage_AtEnd"
+				 }
+			}
+		]
+    }
+}

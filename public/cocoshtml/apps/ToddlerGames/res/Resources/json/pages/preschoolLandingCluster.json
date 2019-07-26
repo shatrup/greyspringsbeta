@@ -1,0 +1,25 @@
+{
+	"id": "Alphabets01",
+    "title": "Alphabets",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletile",
+					"data" : {
+						"image": "playground/common/images/playground.png",
+						"title": "mainTile",
+						"playimage": "playground/common/images/play.png",
+						"playtarget": "appprotocol://page?id=PlayGroundPage&type=play",
+						"rewardimage": "playground/common/images/reward.png",
+						"rewardtarget": "",
+						"rateusimage": "playground/common/images/gsRatingImage.png",
+						"rateustarget": ""
+					}
+				}
+			]
+		}
+	]
+}

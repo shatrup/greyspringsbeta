@@ -1,0 +1,115 @@
+{
+	"name": "animal_scene193_baby",
+	"type": "animal",
+	"suffix": "animal_scene193_baby_",
+	"objectList": [
+		{
+			"objectId": "animal_scene193_baby_camel_1",
+			"name": "animal_camel",
+			"imageUri": "common/scenes/scene193/rws193_baby_camel_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_camel_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_cow_1",
+			"name": "animal_cow",
+			"imageUri": "common/scenes/scene193/rws193_baby_cow_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_cow_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_dog_1",
+			"name": "animal_dog",
+			"imageUri": "common/scenes/scene193/rws193_baby_dog_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_dog_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_elephant_1",
+			"name": "animal_elephant",
+			"imageUri": "common/scenes/scene193/rws193_baby_elephant_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_elephant_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_horse_1",
+			"name": "animal_horse",
+			"imageUri": "common/scenes/scene193/rws193_baby_horse_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_horse_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_kangaroo_1",
+			"name": "animal_kangaroo",
+			"imageUri": "common/scenes/scene193/rws193_baby_kangaroo_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_kangaroo_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_lion_1",
+			"name": "animal_lion",
+			"imageUri": "common/scenes/scene193/rws193_baby_lion_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_lion_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_pig_1",
+			"name": "animal_pig",
+			"imageUri": "common/scenes/scene193/rws193_baby_pig_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_pig_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_rabbit_1",
+			"name": "animal_rabbit",
+			"imageUri": "common/scenes/scene193/rws193_baby_rabbit_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_rabbit_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_sheep_1",
+			"name": "animal_sheep",
+			"imageUri": "common/scenes/scene193/rws193_baby_sheep_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_sheep_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_snake_1",
+			"name": "animal_snake",
+			"imageUri": "common/scenes/scene193/rws193_baby_snake_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_snake_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "animal_scene193_baby_zebra_1",
+			"name": "animal_zebra",
+			"imageUri": "common/scenes/scene193/rws193_baby_zebra_1.png",
+			"w": 120.038,
+			"h": 81.693,
+			"frameformat": "common/scenes/scene193/rws193_baby_zebra_{0}.png",
+			"noofframes": 2
+		}
+	]
+}

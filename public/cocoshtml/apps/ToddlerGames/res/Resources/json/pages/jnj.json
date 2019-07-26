@@ -1,0 +1,195 @@
+{
+	"title": "Jack and jill",
+	"bgaudio": "kindergarten8/rhymes/audio/jnj/jnj.mp3",
+	"bgimage": "kindergarten8/rhymes/images/jnj/background.png",
+	"lyrics": "Jack and Jill went up the hill to fetch a pail of water \n Jack fell down and broke his crown \n And Jill came tumbling after.",
+	"objects": [
+		{
+			"x": 353,
+			"y": 512,
+			"dir": "kindergarten8/rhymes/images/jnj/",
+			"image": "jill.png",
+			"sound": "kindergarten8/rhymes/audio/common/laugh.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 443,
+			"y": 502,
+			"dir": "kindergarten8/rhymes/images/jnj/",
+			"image": "jack.png",
+			"sound": "kindergarten8/rhymes/audio/common/laugh.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 25,
+			"y": 131,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree1.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 330,
+			"y": 90,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree2.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 879,
+			"y": 156,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree4.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 913,
+			"y": 28,
+			"dir": "kindergarten8/rhymes/images/jnj/",
+			"image": "well.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1153,
+			"y": 18,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree5.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 518,
+			"y": 60,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "birds.png",
+			"sound": "kindergarten8/rhymes/audio/common/crow.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 705,
+			"y": 10,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "sun.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 432,
+			"y": 159,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 546,
+			"y": 140,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude2.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 754,
+			"y": 96,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 625,
+			"y": 232,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree3.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 31,
+			"y": 525,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 197,
+			"y": 280,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 374,
+			"y": 409,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 740,
+			"y": 650,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 836,
+			"y": 245,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1033,
+			"y": 703,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 988,
+			"y": 583,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1133,
+			"y": 590,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1243,
+			"y": 585,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		}
+	]
+}

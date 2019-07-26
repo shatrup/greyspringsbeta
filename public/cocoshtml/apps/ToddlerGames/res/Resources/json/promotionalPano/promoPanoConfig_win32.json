@@ -1,0 +1,79 @@
+{
+	"version" :  "1.0",
+	"pageTitle" : "More Apps",
+	"storeButtonUri" : "common/promotional_promo/common/android_download_button.png",
+	"clusterList" : [
+	{		
+		"id" : "preschool_games",
+		"title" : "Preschool Games",
+		"ageGroup" : "2-6",
+		"description" : "Let's gear up for school",
+		"imgUri" : "common/promotional_promo/background/preschool_games_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "jigsaw_games",
+		"title" : "Pirate Jigsaw Puzzles",
+		"ageGroup" : "6+",
+		"description" : "Treasure Hunt",
+		"imgUri" : "common/promotional_promo/background/jigsaw_games_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "preschool_numbers",
+		"title" : "Preschool Numbers",
+		"ageGroup" : "2-5",
+		"description" : "Count like a pro",
+		"imgUri" : "common/promotional_promo/background/preschool_numbers_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "preschool_letters",
+		"title" : "Preschool Letters",
+		"ageGroup" : "2-5",
+		"description" : "    Learning letters has\nnever been so much fun",
+		"imgUri" : "common/promotional_promo/background/preschool_letters_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "shapes_and_colours",
+		"title" : "Shapes And Colors",
+		"ageGroup" : "2-5",
+		"description" : "Welcome to land of colorful shapes",
+		"imgUri" : "common/promotional_promo/background/shapes_and_colours_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "toddler_games",
+		"title" : "Toddler Games",
+		"ageGroup" : "2-5",
+		"description" : "Fun learning for young minds",
+		"imgUri" : "common/promotional_promo/background/toddler_games_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "math_games",
+		"title" : "Learn Basic Math",
+		"ageGroup" : "4-7",
+		"description" : "Learning math is really fun",
+		"imgUri" : "common/promotional_promo/background/math_games_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "word_games",
+		"title" : "Word Games",
+		"ageGroup" : "4-7",
+		"description" : "Ready to read sure to lead",
+		"imgUri" : "common/promotional_promo/background/word_games_background.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	}
+]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "matter_states_set1_large",
+    "type": "liquid",
+    "suffix": "matter_states_set1_large_",
+    "objectList": [
+				{
+                    "objectId": "matter_states_set1_large_coffee",
+                    "name": "word_coffee",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_large/matter_states_set1_large_coffee.png",
+                    "w": 82.11,
+                    "h": 65.854,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_large_juice",
+                    "name": "word_juice",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_large/matter_states_set1_large_juice.png",
+                    "w": 47.932,
+                    "h": 82.526,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_large_juice1",
+                    "name": "word_juice",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_large/matter_states_set1_large_juice1.png",
+                    "w": 77.942,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_large_milk",
+                    "name": "word_milk",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_large/matter_states_set1_large_milk.png",
+                    "w": 31.677,
+                    "h": 82.526,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_large_soup",
+                    "name": "word_soup",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_large/matter_states_set1_large_soup.png",
+                    "w": 82.943,
+                    "h": 62.52,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_large_water",
+                    "name": "word_water",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_large/matter_states_set1_large_water.png",
+                    "w": 29.176,
+                    "h": 82.526,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

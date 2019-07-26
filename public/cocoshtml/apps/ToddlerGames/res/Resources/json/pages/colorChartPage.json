@@ -1,0 +1,18 @@
+{
+	"id": "colorsChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+            {
+				"name": "colorsChartCluster",
+                "title": "Colors Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/colorChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "name": "sea_animal_set8_large",
+    "type": "sea",
+    "suffix": "sea_animal_set8_large_",
+    "objectList": [
+        {
+            "objectId": "sea_animal_set8_large_crab",
+            "name": "sea_crab",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_crab.png",
+            "w": 83.36,
+            "h": 54.601,
+            "audioId": "animal_crab",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_eel",
+            "name": "sea_eel",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_eel.png",
+            "w": 83.36,
+            "h": 26.675,
+            "audioId": "animal_eel",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_fish",
+            "name": "sea_fish",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_fish.png",
+            "w": 82.943,
+            "h": 54.601,
+            "audioId": "animal_fish",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_jellyfish",
+            "name": "sea_jellyfish",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_jellyfish.png",
+            "w": 53.35,
+            "h": 82.943,
+            "audioId": "animal_jellyfish",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_lobster",
+            "name": "sea_lobster",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_lobster.png",
+            "w": 82.943,
+            "h": 75.024,
+            "audioId": "animal_lobster",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_octopus",
+            "name": "sea_octopus",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_octopus.png",
+            "w": 82.943,
+            "h": 78.358,
+            "audioId": "animal_octopus",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_prawns",
+            "name": "sea_prawns",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_prawns.png",
+            "w": 82.943,
+            "h": 77.525,
+            "audioId": "animal_prawn",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_seahorse",
+            "name": "sea_seahorse",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_seahorse.png",
+            "w": 68.772,
+            "h": 82.943,
+            "audioId": "animal_sea_horse",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_starfish",
+            "name": "sea_starfish",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_starfish.png",
+            "w": 80.859,
+            "h": 82.943,
+            "audioId": "animal_starfish",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set8_large_turtle",
+            "name": "sea_turtle",
+            "imageUri": "common/sea_animals/sea_animal_set8/sea_animal_set8_large/sea_animal_set8_large_turtle.png",
+            "w": 82.943,
+            "h": 75.441,
+            "audioId": "animal_turtle",
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

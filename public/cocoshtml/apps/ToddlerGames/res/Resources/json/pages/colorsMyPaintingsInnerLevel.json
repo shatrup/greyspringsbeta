@@ -1,0 +1,19 @@
+{
+    "id": "AnimalsCluster",
+    "title": "Color Images",
+    "type": "MyPaintingsClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+				
+				{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "ms-resource:MyPaintings_Title"
+					}
+				}
+            ]
+        }
+    ]
+}

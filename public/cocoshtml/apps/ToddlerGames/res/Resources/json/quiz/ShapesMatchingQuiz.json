@@ -1,0 +1,19 @@
+{
+    "id": "ShapesMatchingQuiz",
+    "type": "ShapesMatchingQuiz",
+    "complexity": "medium",
+    "qsBgColor": "647687",
+    "bgImg": "common/backgrounds/background_fullbleed/sea_scape.png",
+    "sets": [
+    {
+      "id": "shapes",
+      "type": "shapes",
+      "bgMusic": "caption_touch_same_shape_shelly_hand",
+      "question": "caption_touch_same_shape_shelly_hand",      
+      "objectSrc": "realworld_set_shape_set15_xx_large",
+      "customKey1": "shape",
+      "customKey2": "realworld_set_shape_set16_xx_large",
+      "isFullBleed":true
+    }
+  ] 
+}

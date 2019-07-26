@@ -1,0 +1,187 @@
+{
+	"name": "christmas_set1_xx_large",
+	"type": "christmas_set",
+	"suffix": "christmas_set1_xx_large_",
+	"objectList": [
+		{
+			"objectId": "christmas_set1_xx_large_object_1",
+			"name": "_1",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_1.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_2",
+			"name": "_2",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_2.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_3",
+			"name": "_3",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_3.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_4",
+			"name": "_4",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_4.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_5",
+			"name": "_5",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_5.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_6",
+			"name": "_6",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_6.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_7",
+			"name": "_7",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_7.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_8",
+			"name": "_8",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_8.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_9",
+			"name": "_9",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_9.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_10",
+			"name": "_10",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_10.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_11",
+			"name": "_11",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_11.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_12",
+			"name": "_12",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_12.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_13",
+			"name": "_13",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_13.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_14",
+			"name": "_14",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_14.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_15",
+			"name": "_15",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_15.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_16",
+			"name": "_16",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_16.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_17",
+			"name": "_17",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_17.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_18",
+			"name": "_18",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_18.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_19",
+			"name": "_19",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_19.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "christmas_set1_xx_large_object_20",
+			"name": "_20",
+			"imageUri": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_object_20.png",
+			"w": 118.788,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

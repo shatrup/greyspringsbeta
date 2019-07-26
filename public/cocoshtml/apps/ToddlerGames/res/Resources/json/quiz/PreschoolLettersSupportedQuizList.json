@@ -1,0 +1,77 @@
+{
+    "quizList": [
+    {
+        "id": "LearnToWriteV2",
+        "sets": ["small_alphabets", "english"],
+        "unlockConstraint": "none",
+        "networkConstraint": true
+    },
+ 	{
+        "id": "MatchTheShadow",
+        "unlockConstraint": "none",
+		"sets":["alphabet_set_with_anim"]
+    },	
+    {
+        "id": "MatchTheShadowActivity",
+        "unlockConstraint": "none"
+    },  
+    {
+        "id": "TrickyMaze",
+         "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+ 	{
+        "id": "JigsawV2Quiz",
+        "unlockConstraint": "none",
+		"sets":["alphabet_2"]
+    },
+    {
+        "id": "ConnectTheDots",
+        "unlockConstraint": "none",
+		"sets": ["alphabet"]
+    },	
+	{
+        "id": "ColorBallsQuiz",
+        "unlockConstraint": "none",
+		"sets": ["basic_english_alphabets"]
+    },		
+    {
+        "id": "BalloonPopQuiz",
+        "unlockConstraint": "none",
+        "sets": ["bubble_alphabet"]
+    },
+    {
+        "id": "SequenceCrawlQuiz",
+        "unlockConstraint": "none"
+    },	
+    {
+        "id": "BingoQuiz",
+        "unlockConstraint": "none",
+		"sets": ["alphabet_name"]
+    },	
+    {
+        "id": "OddInGroupQuiz",
+        "unlockConstraint": "none",
+        "sets": ["alphabet_name"]
+    },	
+    {
+        "id": "HopQuiz",
+        "unlockConstraint": "none",
+		"sets": ["frog_alphabet"]
+    },	
+    {
+        "id": "BubbleSequenceQuiz",
+        "unlockConstraint": "none",
+        "sets": ["bubble_alphabet"]
+    },
+    {
+        "id": "MatchItemsGridQuiz",
+        "unlockConstraint": "none"
+    },
+    {
+        "id": "HelloPhoneticsQuiz",
+        "unlockConstraint": "none"
+    }	
+    ]
+}
+

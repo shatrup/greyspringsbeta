@@ -1,0 +1,57 @@
+{
+    "id": "playgroundItemsCluster",
+    "title": "Playground",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+						"image": "kindergarten8/common/images/balloonQuiz.png",
+						"title": "ms-resource:GameTileTitle_BurstBalloons",
+						"clicktarget": "approtocol://page?id=PlayGroundPage&type=balloon",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+						"image": "kindergarten8/common/images/memoryGame.png",
+						"title": "ms-resource:GameTileTitle_SolveMemoryGame",
+						"clicktarget": "approtocol://page?id=PlayGroundPage&type=memory",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+						"image": "kindergarten8/common/images/oddOneOutQuiz.png",
+						"title": "ms-resource:GameTileTitle_CompareObjects",
+						"clicktarget" : "appprotocol://page?id=PlayGroundPage&type=oddOneOut",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+						"image": "kindergarten8/common/images/jigsawPuzzle.png",
+						"title": "ms-resource:GameTileTitle_JigsawPuzzle",
+						"clicktarget": "approtocol://page?id=PlayGroundPage&type=jigsaw",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+						"image": "kindergarten8/common/images/shadowMatching.png",
+						"title": "ms-resource:GameTileTitle_MatchObjects",
+						"clicktarget" : "appprotocol://page?id=PlayGroundPage&type=shadow",
+						"backgroundColor": "F2F2F2"
+                    }
+                }
+            ]
+        }
+    ]
+}

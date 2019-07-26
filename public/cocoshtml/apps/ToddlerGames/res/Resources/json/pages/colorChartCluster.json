@@ -1,0 +1,102 @@
+{
+	"id": "ColorsChartCluster",
+    "title": "Colors Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_ColorsChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/black.png",
+						"text": "black",
+						"clicktarget" : "ms-audio://data/colors/audio/black.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/blue.png",
+						"text": "blue",
+						"clicktarget" : "ms-audio://data/colors/audio/blue.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/brown.png",
+						"text": "brown",
+						"clicktarget" : "ms-audio://data/colors/audio/brown.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/green.png",
+						"text": "green",
+						"clicktarget" : "ms-audio://data/colors/audio/green.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/grey.png",
+						"text": "grey",
+						"clicktarget" : "ms-audio://data/colors/audio/grey.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/orange.png",
+						"text": "orange",
+						"clicktarget" : "ms-audio://data/colors/audio/orange.mp3"
+					}
+				},
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/pink.png",
+						"text": "pink",
+						"clicktarget" : "ms-audio://data/colors/audio/pink.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/purple.png",
+						"text": "purple",
+						"clicktarget" : "ms-audio://data/colors/audio/purple.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/red.png",
+						"text": "red",
+						"clicktarget" : "ms-audio://data/colors/audio/red.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/colors/images/chart/yellow.png",
+						"text": "yellow",
+						"clicktarget" : "ms-audio://data/colors/audio/yellow.mp3"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"id": "alphabetChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+            {
+				"name": "alphabetChartCluster",
+                "title": "Vegetable Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/householdChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

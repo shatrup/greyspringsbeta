@@ -1,0 +1,61 @@
+{
+    "name": "jigsaw_mask_pieces",
+    "type": "",
+    "suffix": "jigsaw_mask_piece_",
+    "objectList": [
+        {
+            "objectId": "jigsaw_mask_piece1",
+            "name": "jigsaw_piece1",
+            "imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_piece1.png",
+            "w": 73.357,
+            "h": 125.04,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "jigsaw_mask_piece2",
+            "name": "jigsaw_piece2",
+            "imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_piece2.png",
+            "w": 73.357,
+            "h": 109.202,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "jigsaw_mask_piece3",
+            "name": "jigsaw_piece3",
+            "imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_piece3.png",
+            "w": 73.357,
+            "h": 109.618,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "jigsaw_mask_piece4",
+            "name": "jigsaw_piece4",
+            "imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_piece4.png",
+            "w": 70.439,
+            "h": 122.539,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "jigsaw_mask_piece5",
+            "name": "jigsaw_piece5",
+            "imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_piece5.png",
+            "w": 70.439,
+            "h": 106.284,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "jigsaw_mask_piece6",
+            "name": "jigsaw_piece6",
+            "imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_piece6.png",
+            "w": 70.439,
+            "h": 106.284,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

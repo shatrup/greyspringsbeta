@@ -1,0 +1,133 @@
+{
+	"name": "shape_set22",
+	"type": "shape",
+	"suffix": "shape_set22_",
+	"objectList": [
+		{
+			"objectId": "shape_set22_xx_large_circle_cookie",
+			"name": "shape_circle",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_circle_cookie.png",
+			"w": 108.368,
+			"h": 108.368,
+			"shape": "circle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_cresent_cookie",
+			"name": "shape_crescent",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_cresent_cookie.png",
+			"w": 66.688,
+			"h": 96.281,
+			"shape": "crescent",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_diamond_cookie",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_diamond_cookie.png",
+			"w": 132.959,
+			"h": 132.959,
+			"shape": "diamond",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_heart_cookie",
+			"name": "shape_heart",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_heart_cookie.png",
+			"w": 127.124,
+			"h": 120.038,
+			"shape": "heart",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_hexagon_cookie",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_hexagon_cookie.png",
+			"w": 122.956,
+			"h": 107.951,
+			"shape": "hexagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_moon_cookie",
+			"name": "shape_semicircle",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_moon_cookie.png",
+			"w": 118.788,
+			"h": 60.853,
+			"shape": "semicircle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_oval_cookie",
+			"name": "shape_oval",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_oval_cookie.png",
+			"w": 104.2,
+			"h": 132.542,
+			"shape": "oval",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_parallel_cookie",
+			"name": "shape_parallelogram",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_parallel_cookie.png",
+			"w": 163.802,
+			"h": 85.861,
+			"shape": "parallelogram",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_pentagon_cookie",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_pentagon_cookie.png",
+			"w": 139.628,
+			"h": 133.376,
+			"shape": "pentagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_rectangle_cookie",
+			"name": "shape_rectangle",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_rectangle_cookie.png",
+			"w": 141.712,
+			"h": 89.612,
+			"shape": "rectangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_square_cookie",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_square_cookie.png",
+			"w": 111.702,
+			"h": 111.702,
+			"shape": "square",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_star_cookie",
+			"name": "shape_star",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_star_cookie.png",
+			"w": 130.875,
+			"h": 125.457,
+			"shape": "star",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_trapazium_cookie",
+			"name": "shape_trapezium",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_trapazium_cookie.png",
+			"w": 150.465,
+			"h": 96.281,
+			"shape": "trapezium",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set22_xx_large_triangle_cookie",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set22/shape_set22_xx_large/shape_set22_xx_large_triangle_cookie.png",
+			"w": 112.953,
+			"h": 100.032,
+			"shape": "triangle",
+			"color": ""
+		}
+	]
+}

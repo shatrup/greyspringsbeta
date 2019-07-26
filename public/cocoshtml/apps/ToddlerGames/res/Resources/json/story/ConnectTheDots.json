@@ -1,0 +1,194 @@
+{
+    "id" : "ConnectTheDots",
+    "majorversion": 1,
+    "minorversion": 1,
+    "milestones": [{
+      "id": "milestone0",
+      "title" : "",
+      "goldCoins" : 100,
+      "nStickers" : 5,
+      "nQuizPerSticker": 5,
+      "minStarPerSticker" : 1,
+      "quizSet": ["any"]
+    }, {
+      "id": "milestone1",
+      "title" : "",
+      "goldCoins" : 200,
+      "nStickers" : 5,
+      "nQuizPerSticker": 5,
+      "minStarPerSticker" : 1,
+      "quizSet": ["any"]
+    },
+      {
+        "id": "milestone2",
+        "title" : "",
+        "goldCoins" : 300,
+        "nStickers" : 5,
+        "nQuizPerSticker": 5,
+        "minStarPerSticker" : 1,
+        "quizSet": ["any"]
+      },
+      {
+        "id": "milestone3",
+        "title" : "",
+        "goldCoins" : 400,
+        "nStickers" : 5,
+        "nQuizPerSticker": 5,
+        "minStarPerSticker" : 1,
+        "quizSet": ["any"]
+      },
+      {
+      "id": "milestone4",
+      "title" : "",
+      "goldCoins" : 500,
+      "nStickers" : 5,
+      "nQuizPerSticker": 5,
+      "minStarPerSticker" : 1,
+      "quizSet": ["any"]
+    }, {
+      "id": "milestone5",
+      "title" : "",
+      "goldCoins" : 600,
+      "nStickers" : 5,
+      "nQuizPerSticker": 5,
+      "minStarPerSticker" : 1,
+      "quizSet": ["any"]
+    },
+      {
+        "id": "milestone6",
+        "title" : "",
+        "goldCoins" : 700,
+        "nStickers" : 5,
+        "nQuizPerSticker": 5,
+        "minStarPerSticker" : 1,
+        "quizSet": ["any"]
+      },
+      {
+        "id": "milestone7",
+        "title" : "",
+        "goldCoins" : 1000,
+        "nStickers" : 5,
+        "nQuizPerSticker": 5,
+        "minStarPerSticker" : 1,
+        "quizSet": ["any"]
+      },
+      {
+        "id": "milestone8",
+        "title" : "",
+        "goldCoins" : 1500,
+        "nStickers" : 5,
+        "nQuizPerSticker": 5,
+        "minStarPerSticker" : 2,
+        "quizSet": ["any"]
+      }, {
+        "id": "milestone9",
+        "title" : "",
+        "goldCoins" : 1500,
+        "nStickers" : 5,
+        "nQuizPerSticker": 5,
+        "minStarPerSticker" : 2,
+        "quizSet": ["any"]
+      },
+        {
+          "id": "milestone10",
+          "title" : "",
+          "goldCoins" : 1500,
+          "nStickers" : 5,
+          "nQuizPerSticker": 5,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone11",
+          "title" : "",
+          "goldCoins" : 2000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone12",
+          "title" : "",
+          "goldCoins" : 2000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone13",
+          "title" : "",
+          "goldCoins" : 2500,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone14",
+          "title" : "",
+          "goldCoins" : 3000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone15",
+          "title" : "",
+          "goldCoins" : 3000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone16",
+          "title" : "",
+          "goldCoins" : 4000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone17",
+          "title" : "",
+          "goldCoins" : 4000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 2,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone18",
+          "title" : "",
+          "goldCoins" : 4500,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 3,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone19",
+          "title" : "",
+          "goldCoins" : 5000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 6,
+          "minStarPerSticker" : 3,
+          "quizSet": ["any"]
+        },
+        {
+          "id": "milestone20",
+          "title" : "",
+          "goldCoins" : 10000,
+          "nStickers" : 5,
+          "nQuizPerSticker": 8,
+          "minStarPerSticker" : 3,
+          "quizSet": ["any"]
+        }
+        ]
+}
+
+

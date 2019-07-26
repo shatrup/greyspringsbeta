@@ -1,0 +1,13 @@
+{
+	"tileType" : "PanoAppHomePagePromoTile",
+	"appId" : "ToddlerGames",
+	"tileId" : "PromotionalTile_1", 
+	"version" :  "1.0",
+	"title" : "Kindergarten Kids Learning",
+	"ageGroup" : "2-5",
+	"description" : "Fun beginning for young learners",
+	"logoUri" : "common/promotional_promo/round_icons/preschool_basics_icon.png",
+	"backgroundUri" : "common/promotional_promo/background/preschool_basics_background.png",
+	"buttonImgUri" : "common/promotional_promo/common/android_download_button.png",
+	"targetUri" : "https://play.google.com/store/apps/details?id=com.greysprings.kindergarten8&referrer=utm_source%3Dtoddlergames_homepage_crosspromotion%26utm_medium%3Dtileclick%26utm_campaign%3Dinternal_android_crosspromotion"	
+}

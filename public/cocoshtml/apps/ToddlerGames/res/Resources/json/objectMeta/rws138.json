@@ -1,0 +1,115 @@
+{
+    "name": "rws139",
+    "type": "",
+    "suffix": "rws139",
+    "objectList": [
+			{
+                    "objectId": "rws138_background",
+                    "name": "_background",
+                    "imageUri": "common/scenes/scene138/rws138_background.png",
+                    "w": 569.349,
+                    "h": 284.674,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_container_empty",
+                    "name": "_empty",
+                    "imageUri": "common/scenes/scene138/rws138_container_empty.png",
+                    "w": 83.777,
+                    "h": 66.688,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_container_full",
+                    "name": "_full",
+                    "imageUri": "common/scenes/scene138/rws138_container_full.png",
+                    "w": 90.029,
+                    "h": 71.273,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_signal_box",
+                    "name": "_box",
+                    "imageUri": "common/scenes/scene138/rws138_signal_box.png",
+                    "w": 33.761,
+                    "h": 57.518,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_signal_green",
+                    "name": "_green",
+                    "imageUri": "common/scenes/scene138/rws138_signal_green.png",
+                    "w": 48.766,
+                    "h": 48.766,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_signal_off",
+                    "name": "_off",
+                    "imageUri": "common/scenes/scene138/rws138_signal_off.png",
+                    "w": 21.257,
+                    "h": 21.257,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_signal_red",
+                    "name": "_red",
+                    "imageUri": "common/scenes/scene138/rws138_signal_red.png",
+                    "w": 47.932,
+                    "h": 47.932,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_strips",
+                    "name": "_strips",
+                    "imageUri": "common/scenes/scene138/rws138_strips.png",
+                    "w": 570.182,
+                    "h": 34.594,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_strips_1",
+                    "name": "_1",
+                    "imageUri": "common/scenes/scene138/rws138_strips_1.png",
+                    "w": 59.186,
+                    "h": 23.758,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_tire",
+                    "name": "_tire",
+                    "imageUri": "common/scenes/scene138/rws138_tire.png",
+                    "w": 42.93,
+                    "h": 42.93,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_trail",
+                    "name": "_trail",
+                    "imageUri": "common/scenes/scene138/rws138_trail.png",
+                    "w": 569.349,
+                    "h": 43.764,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "rws138_truck",
+                    "name": "_truck",
+                    "imageUri": "common/scenes/scene138/rws138_truck.png",
+                    "w": 325.521,
+                    "h": 119.622,
+                    "shape": "",
+                    "color": ""
+                }
+		]
+}

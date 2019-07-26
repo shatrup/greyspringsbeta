@@ -1,0 +1,54 @@
+{
+    "id": "AnimalsCluster",
+    "title": "Color Images",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+				
+				
+           {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/67.png",
+                        "title": "Toucan",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=67&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/68.png",
+                        "title": "Crane",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=68&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/69.png",
+                        "title": "Duck",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=69&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/70.png",
+                        "title": "Owl",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=70&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/71.png",
+                        "title": "Parrot",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=71&layout=vertical"
+                    }
+                }
+            ]
+        }
+    ]
+}

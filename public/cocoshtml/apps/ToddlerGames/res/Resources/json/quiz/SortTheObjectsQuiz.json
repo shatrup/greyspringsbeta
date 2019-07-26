@@ -1,0 +1,25 @@
+{
+    "id": "SortTheObjectsQuiz",
+    "type": "SortTheObjectsQuiz",
+    "complexity": "medium",
+    "bgImg" : "common/chrome/sort_the_objects/background.png",
+	"question": "caption_sort_objects",
+	"isFullBleed": true,
+	"sets": [
+    {
+	  "id": "set_1",
+	  "bgMusic": "caption_sort_object_shapes",
+	  "type": "shape"
+    },
+	{
+	  "id": "set_2",
+	  "bgMusic": "caption_sort_object_size",
+	  "type": "size"	
+	},
+	{
+	  "id": "set_3",
+	  "bgMusic": "caption_sort_object_color",
+	  "type": "color"	
+	}
+	]
+}

@@ -1,0 +1,141 @@
+{
+	"id": "TrickyMaze",
+	"typt": "TrickyMaze",
+	"bgMusic": "caption_navigate_maze",
+	"question": "caption_navigate_maze",
+    "complexity": "high",
+    "qsBgColor": "34B5D8",
+	"isFullBleed": true,
+	"sets": [
+		{
+			"id": "TrickyMazeQuiz_set1",
+            "customKey1": "a",
+            "customKey2": "effect_crunch"
+		},
+		{
+			"id": "TrickyMazeQuiz_set2",
+            "customKey1": "b",
+            "customKey2": "effect_object_drop"
+		},
+		{
+			"id": "TrickyMazeQuiz_set3",
+            "customKey1": "c",
+            "customKey2": "effect_crunch"
+		},
+		{
+			"id": "TrickyMazeQuiz_set4",
+            "customKey1": "d",
+            "customKey2": "positive_ding_1"
+		},
+		{
+			"id": "TrickyMazeQuiz_set5",
+            "customKey1": "e",
+            "customKey2": "effect_sparkle"
+		},
+		{
+			"id": "TrickyMazeQuiz_set6",
+            "customKey1": "f",
+            "customKey2": "water_splash"
+		},
+		{
+			"id": "TrickyMazeQuiz_set7",
+            "customKey1": "g",
+            "customKey2": "effect_music"
+		},
+		{
+			"id": "TrickyMazeQuiz_set8",
+            "customKey1": "h",
+            "customKey2": "effect_cartoon_ascent"
+		},
+		{
+			"id": "TrickyMazeQuiz_set9",
+            "customKey1": "i",
+            "customKey2": "effect_slurp"
+		},
+		{
+			"id": "TrickyMazeQuiz_set10",
+            "customKey1": "j",
+            "customKey2": "effect_twinkle2"
+		},
+		{
+			"id": "TrickyMazeQuiz_set11",
+            "customKey1": "k",
+            "customKey2": "effect_twinkle1"
+		},
+		{
+			"id": "TrickyMazeQuiz_set12",
+            "customKey1": "l",
+            "customKey2": "effect_slurp"
+		},
+		{
+			"id": "TrickyMazeQuiz_set13",
+            "customKey1": "m",
+            "customKey2": "effect_slurp"
+		},
+		{
+			"id": "TrickyMazeQuiz_set14",
+            "customKey1": "n",
+            "customKey2": "effect_sparkle"
+		},
+		{
+			"id": "TrickyMazeQuiz_set15",
+            "customKey1": "o",
+            "customKey2": "effect_bubble_0"
+		},
+		{
+			"id": "TrickyMazeQuiz_set16",
+            "customKey1": "p",
+            "customKey2": "water_splash"
+		},
+		{
+			"id": "TrickyMazeQuiz_set17",
+            "customKey1": "q",
+            "customKey2": "effect_sparkle"
+		},
+		{
+			"id": "TrickyMazeQuiz_set18",
+            "customKey1": "r",
+            "customKey2": "positive_ding_1"
+		},
+		{
+			"id": "TrickyMazeQuiz_set19",
+            "customKey1": "s",
+            "customKey2": "effect_sparkle"
+		},
+		{
+			"id": "TrickyMazeQuiz_set20",
+            "customKey1": "t",
+            "customKey2": "effect_tiger"
+		},
+		{
+			"id": "TrickyMazeQuiz_set21",
+            "customKey1": "u",
+            "customKey2": "effect_rain"
+		},
+		{
+			"id": "TrickyMazeQuiz_set22",
+            "customKey1": "v",
+            "customKey2": "effect_car"
+		},
+		{
+			"id": "TrickyMazeQuiz_set23",
+            "customKey1": "w",
+            "customKey2": "effect_piece_flip"
+		},
+		{
+			"id": "TrickyMazeQuiz_set24",
+            "customKey1": "x",
+            "customKey2": "effect_music"
+		},
+		{
+			"id": "TrickyMazeQuiz_set25",
+            "customKey1": "y",
+            "customKey2": "effect_whoosh"
+		},
+		{
+			"id": "TrickyMazeQuiz_set26",
+            "customKey1": "z",
+            "customKey2": "efect_pop_0"
+		}
+	]
+}

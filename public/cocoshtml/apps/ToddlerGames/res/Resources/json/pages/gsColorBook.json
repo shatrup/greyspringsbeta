@@ -1,0 +1,90 @@
+{
+	"id": "kindergarten8",
+    "title": "ms-resource:gsKidsPaintAndLearn_HomePage",
+	"bgAudio": "/audio/colorbookomeAudio.mp3",
+    "panel": {
+        "clusters": [
+            
+			{
+				"name": "MyPaintingsCluster",
+                "title": "MyPaintingsCluster",
+                "type": "MyPaintingsClusterControl",
+                 "requestUri": "/data/pageJson/colorbookMyPaintingCluster.json"
+			},
+			{
+				"name": "AlphabetsCluster",
+                "title": "AlphabetsCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorbookAlphabetsCluster.json"
+			},
+			
+			{
+				"name": "NumbersCluster",
+                "title": "NumbersCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorbookNumbersCluster.json"
+			},
+			{
+			    "name": "adsCluster",
+                "title": "Ads",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/adsCluster.json",
+				 "requestParams": {
+					"adsName" : "GSPPaint_300x600_HomePage_First"
+				 }
+			},
+			{
+				"name": "ShapesCluster",
+                "title": "ShapesCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorbookShapesCluster.json"
+			},
+			
+			{
+				"name": "FruitsCluster",
+                "title": "FruitsCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorbookFruitsCluster.json"
+			},
+			{
+				"name": "AnimalsCluster",
+                "title": "AnimalsCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorbookAnimalCluster.json"
+			},
+			{
+			    "name": "adsCluster",
+                "title": "Ads",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/adsCluster.json",
+				 "requestParams": {
+					"adsName" : "GSPPaint_300x600_HomePage_Second"
+				 }
+			},
+			{
+				"name": "BirdsCluster",
+                "title": "BirdsCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorbookBirdsCluster.json"
+			},
+			
+			{
+				"name": "OtherCluster",
+                "title": "OtherCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorbookOtherCluster.json"
+			},
+
+			{
+			    "name": "adsCluster",
+                "title": "Ads",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/adsCluster.json",
+				 "requestParams": {
+					"adsName" : "GSPPaint_300x600_HomePage_AtEnd"
+				 }
+			}
+			
+			]
+    }
+}

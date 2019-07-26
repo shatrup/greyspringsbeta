@@ -1,0 +1,16 @@
+{
+    "name": "rws135_apple",
+    "type": "fruit",
+    "suffix": "rws135_apple",
+    "objectList": [
+        {
+            "objectId": "rws135_apple",
+            "name": "color_apple",
+            "imageUri": "common/scenes/scene135/rws135_apple.png",
+            "w": 46.265,
+            "h": 47.932,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "EvenOddHopQuiz",
+    "type": "EvenOddHopQuiz",
+    "complexity": "medium",
+    "qsBgColor": "229FC8",
+    "isFullBleed": true,
+    "bgImg" : "common/backgrounds/background_fullbleed/background_water_fullbleed.png",      
+    "bgMusic": "caption_take_frog_to_flag_through_{0}_numbers",
+    "question": "caption_take_frog_to_flag_through_{0}_numbers",      
+	"sets": [
+    {
+      "id": "set0",
+      "objectSrc": "realworld_set_number_set20_medium",
+	  "excludeObjectIds": ["number_set20_medium_0"]
+    }
+  ] 
+}

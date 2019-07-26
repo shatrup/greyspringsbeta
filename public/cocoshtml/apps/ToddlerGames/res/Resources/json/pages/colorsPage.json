@@ -1,0 +1,26 @@
+{
+	"id": "animalsPage",
+    "title": "ms-resource:Caption_Colors",
+    "panel": {
+        "clusters": [
+			  {
+				"name": "colorBookCluster",
+                "title": "Color Image Holder",
+                "type": "ClusterControl",
+                "requestUri": "/data/pageJson/colorsClusterInnerLevel.json",
+				"options": {
+					"isBleed": false
+				}
+            },
+			{
+			    "name": "adsCluster",
+                "title": "Ads",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/adsCluster.json",
+				 "requestParams": {
+					"adsName" : "KG8_160x600_ColorbookHolder_AtEnd"
+				 }
+			}
+		]
+    }
+}

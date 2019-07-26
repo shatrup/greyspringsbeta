@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_balloon_set0",
+    "type": "",
+    "suffix": "alphabet_balloon_set0_",
+    "objectList": [
+        {
+            "objectId": "alphabet_balloon_set0_a",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=a&color=60A917",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_b",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=b&color=F89F1B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_c",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=c&color=FFF124",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_d",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=d&color=EF3F6B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_e",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=e&color=9B298B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_f",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=f&color=AC1C45",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_g",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=g&color=EB1C24",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_h",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=h&color=0071B4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_i",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=i&color=0029B4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_j",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=j&color=007945",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_k",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=k&color=60A917",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_l",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=l&color=F89F1B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_m",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=m&color=FFF124",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_n",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=n&color=F89F1B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_o",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=o&color=FFF124",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_p",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=p&color=EF3F6B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_q",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=q&color=FFF124",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_r",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=r&color=F89F1B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_s",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=s&color=FFF124",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_t",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=t&color=F89F1B",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_u",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=u&color=60A917",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_v",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=v&color=007945",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_w",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=w&color=0029B4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_x",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=x&color=0071B4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_y",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=y&color=EB1C24",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_balloon_set0_z",
+            "name": "",
+            "imageUri": "potsprite://balloon_alphabet/?alphabet=z&color=AC1C45",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

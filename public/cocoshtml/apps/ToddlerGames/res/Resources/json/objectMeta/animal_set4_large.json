@@ -1,0 +1,117 @@
+        {
+			"name": "animal_set4_large",
+            "type": "animal",
+            "suffix": "animal_set4_large_",
+            "objectList": [
+                {
+                    "objectId": "animal_set4_large_bull",
+                    "name": "animal_bull",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_bull.png",
+                    "w": 67.522,
+                    "h": 82.943,
+					"audioId": "animal_bull",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_giraffe",
+                    "name": "animal_giraffe",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_giraffe.png",
+                    "w": 70.022,
+                    "h": 82.943,
+					 "audioId": "animal_giraffe",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_cat",
+                    "name": "animal_cat",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_cat.png",
+                    "w": 82.943,
+                    "h": 70.856,
+					"audioId": "animal_cat",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_cow",
+                    "name": "animal_cow",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_cow.png",
+                    "w": 82.943,
+                    "h": 53.35,
+					 "audioId": "animal_cow",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_dog",
+                    "name": "animal_dog",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_dog.png",
+                    "w": 82.943,
+                    "h": 60.436,
+					 "audioId": "animal_dog",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_elephant",
+                    "name": "animal_elephant",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_elephant.png",
+                    "w": 82.943,
+                    "h": 65.021,
+					 "audioId": "animal_elephant",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_horse",
+                    "name": "animal_horse",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_horse.png",
+                    "w": 82.943,
+                    "h": 73.357,
+					 "audioId": "animal_horse",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_lion",
+                    "name": "animal_lion",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_lion.png",
+                    "w": 66.688,
+                    "h": 82.943,
+					 "audioId": "animal_lion",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_pig",
+                    "name": "animal_pig",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_pig.png",
+                    "w": 82.943,
+                    "h": 59.602,
+					"audioId": "animal_pig",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_rabbit",
+                    "name": "animal_rabbit",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_rabbit.png",
+                    "w": 82.526,
+                    "h": 63.354,
+					 "audioId": "animal_rabbit",
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "animal_set4_large_sheep",
+                    "name": "animal_sheep",
+                    "imageUri": "common/animals/animal_set4/animal_set4_large/animal_set4_large_sheep.png",
+                    "w": 82.943,
+                    "h": 71.69,
+					 "audioId": "animal_sheep",
+                    "shape": "",
+                    "color": ""
+                }
+            ]
+        }

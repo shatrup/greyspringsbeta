@@ -1,0 +1,199 @@
+{
+    "title": "Games Book",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "GSPGHomeTilesListViewBlock",
+            "data": [
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWrite",
+                    "title": "tiletitle_PreschoolLetters_ColoringPano",
+                    "data": {
+                        "image": "common/tiles/tile_alphabets/color_fun_tile.png",
+                        "titleImg":"common/tiles/tile_alphabets/color_fun_tile_name.png",
+                        "clicktarget": "appprotocol://scene/?id=PanoramaApp.ColoringStoryPano&panoId=ColoringStoryPanoramaObjectsComplexScene",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWrite",
+                    "title": "tiletitle_PreschoolGames_LearnToWrite",
+                    "data": {
+                        "image": "common/tiles/tile_alphabets/alphabet_activity_tile.png",
+                        "titleImg":"common/tiles/tile_alphabets/alphabet_activity_tile_name.png",
+                        "clicktarget": "appprotocol://scene/?id=ActivityCommon.AlphabetShadowActivityLayer",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWrite",
+                    "title": "tiletitle_PreschoolGames_LearnToWrite",
+                    "data": {
+                        "image": "common/tiles/tile_gspg/tracing_quiz_tile.png",
+                        "titleImg":"common/tiles/tile_gspg/tracing_quiz_tile_name.png",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV2}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "MatchTheShadow",
+                    "title": "tiletitle_PreschoolLetters_MatchTheShadow",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=MatchTheShadow,setname=set_2}&q2={id=MatchTheShadow,setname=set_2}&q3={id=MatchTheShadow,setname=set_2}&q4={id=MatchTheShadow,setname=set_2}&q5={id=MatchTheShadowActivity}",
+                        "titleImg": "common/tiles/tile_alphabets/shadow_matching_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/shadow_matching_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "ColorBallsQuiz",
+                    "title": "tiletitle_PreschoolLetters_ColorBallsQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ColorBallsQuiz}",
+                        "titleImg": "common/tiles/tile_alphabets/color_ball_letters_app_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/color_ball_letters_app_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "TrickyMaze",
+                    "title": "tiletitle_PreschoolLetters_TrickyMaze",
+                    "data": {
+                        "image": "common/tiles/tile_gspg/tricky_maze_tile.png",
+                        "titleImg":"common/tiles/tile_gspg/tricky_maze_tile_name.png",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=TrickyMaze}",
+                        "backgroundColor": "006738"
+                    }
+                },
+                {
+                    "name": "BalloonPopQuiz",
+                    "title": "tiletitle_PreschoolLetters_BalloonPopQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BalloonPopQuiz,setname=bubble_alphabet}",
+                        "titleImg": "common/tiles/tile_alphabets/bubbly_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/bubbly_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "BubbleSequenceQuiz",
+                    "title": "tiletitle_PreschoolLetters_BubbleSequenceQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BubbleSequenceQuiz,setname=bubble_alphabet}",
+                        "titleImg": "common/tiles/tile_alphabets/sequential_shell_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/sequential_shell_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_PreschoolLetters_ConnectTheDots",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDots}",
+                        "titleImg": "common/tiles/tile_alphabets/dot_to_dot_letters_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/dot_to_dot_letters_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "JigsawV2Quiz",
+                    "title": "tiletitle_PreschoolLetters_JigsawV2Quiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=JigsawV2Quiz,setname=alphabet}",
+                        "titleImg": "common/tiles/tile_alphabets/jigsaw_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/jigsaw_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "BingoQuiz",
+                    "title": "tiletitle_PreschoolLetters_BingoQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BingoQuiz}",
+                        "titleImg": "common/tiles/tile_alphabets/bingo_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/bingo_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "OddInGroupQuiz",
+                    "title": "tiletitle_PreschoolLetters_OddInGroupQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=OddInGroupQuiz,setname=alphabet_name}",
+                        "titleImg": "common/tiles/tile_alphabets/odd_in_group_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/odd_in_group_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "SequenceCrawlQuiz",
+                    "title": "tiletitle_PreschoolLetters_SequenceCrawlQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=SequenceCrawlQuiz}",
+                        "titleImg": "common/tiles/tile_alphabets/sequence_crawl_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/sequence_crawl_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "HopQuiz",
+                    "title": "tiletitle_PreschoolLetters_HopQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HopQuiz}",
+                        "titleImg": "common/tiles/tile_alphabets/hopping_frog_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/hopping_frog_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "HelloPhoneticsQuiz",
+                    "title": "tiletitle_PreschoolLetters_HelloPhoneticsQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HelloPhoneticsQuiz}",
+                        "titleImg": "common/tiles/tile_alphabets/hello_phonetics_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/hello_phonetics_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "MatchItemsGridQuiz",
+                    "title": "tiletitle_PreschoolLetters_MatchItemsGridQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=MatchItemsGridQuiz}",
+                        "titleImg": "common/tiles/tile_alphabets/first_letter_alphabets_tile_name.png",
+                        "image": "common/tiles/tile_alphabets/first_letter_alphabets_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "LearnToTrace",
+                    "title": "tiletitle_PreschoolLetters_LearnToTrace",
+                    "type": "promoTileTemplate",
+                    "data": {
+                        "clicktarget": "promocluster://tile/?appId=PreschoolLetter&tileId=HomePage_PromotionTile_2",
+                        "titleImg": "common/tiles/tile_games/tracing_quiz_tile_name.png",
+                        "image": "common/tiles/tile_games/tracing_quiz_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                }
+            ]
+        }
+    ],
+    "id": "GamesHolderCluster"
+}

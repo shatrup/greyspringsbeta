@@ -1,0 +1,117 @@
+{
+    "name": "fruit_set30_large",
+    "type": "fruit",
+    "suffix": "fruit_set30_large_",
+    "objectList": [
+        {
+            "objectId": "fruit_set30_large_apple",
+            "name": "fruit_apple",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_apple.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_red",
+            "shape": "",
+            "color": "color_red"
+        },
+        {
+            "objectId": "fruit_set30_large_banana",
+            "name": "fruit_banana",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_banana.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_yellow",
+            "shape": "",
+            "color": "color_yellow"
+        },
+        {
+            "objectId": "fruit_set30_large_cherry",
+            "name": "fruit_cherry",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_cherry.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_red",
+            "shape": "",
+            "color": "color_red"
+        },
+        {
+            "objectId": "fruit_set30_large_grapes",
+            "name": "fruit_grapes",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_grapes.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_green",
+            "shape": "",
+            "color": "color_green"
+        },
+        {
+            "objectId": "fruit_set30_large_lemon",
+            "name": "fruit_lemon",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_lemon.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_yellow",
+            "shape": "",
+            "color": "color_yellow"
+        },
+        {
+            "objectId": "fruit_set30_large_orange",
+            "name": "fruit_orange",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_orange.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_orange",
+            "shape": "",
+            "color": "color_orange"
+        },
+        {
+            "objectId": "fruit_set30_large_pear",
+            "name": "fruit_pear",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_pear.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_green",
+            "shape": "",
+            "color": "color_green"
+        },
+        {
+            "objectId": "fruit_set30_large_pineapple",
+            "name": "fruit_pineapple",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_pineapple.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_yellow",
+            "shape": "",
+            "color": "color_yellow"
+        },
+        {
+            "objectId": "fruit_set30_large_pomegranate",
+            "name": "fruit_pomegranate",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_pomegranate.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_red",
+            "shape": "",
+            "color": "color_red"
+        },
+        {
+            "objectId": "fruit_set30_large_strawberry",
+            "name": "fruit_strawberry",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_strawberry.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_red",
+            "shape": "",
+            "color": "color_red"
+        },
+        {
+            "objectId": "fruit_set30_large_watermelon",
+            "name": "fruit_watermelon",
+            "imageUri": "common/fruits/fruit_set30/fruit_set30_large/fruit_set30_large_watermelon.png",
+            "w": 82.943,
+            "h": 82.943,
+            "color": "color_green",
+            "shape": "",
+            "color": "color_green"
+        }
+    ]
+}

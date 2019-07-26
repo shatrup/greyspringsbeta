@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="utf-8"?><xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="fr-FR">
+		<body>
+			<group id="Games">
+				<trans-unit id="appdesc_PreschoolGames" space="preserve" translate="yes">
+					<source>A beautiful app, designed for kids in the age range 3-6, to foster their learning, imagination and free play</source>
+					<target state="new" state-qualifier="mt-suggestion">Um belo aplicativo, projetado para crianças na faixa etária de 3-6, para promover a sua aprendizagem, imaginação e folga</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Preschool Games&quot;</note>
+				</trans-unit>
+				<trans-unit id="appdesc_PreschoolBasics" space="preserve" translate="yes">
+					<source>App covering preschool basics. Featuring Alphabets, Numbers, Colorbook, Rhymes, Charts</source>
+					<target state="translated">Aplicação abrangendo noções básicas de pré-escola. Com o alfabeto, números, cores, rimas, Charts</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Preschool Basics&quot;</note>
+				</trans-unit>
+				<trans-unit id="appdesc_PreschoolNumbers" space="preserve" translate="yes">
+					<source>Experiential learning for young minds to help them learn math in early childhood</source>
+					<target state="new" state-qualifier="mt-suggestion">A aprendizagem experiencial para as mentes dos jovens para ajudá-los a aprender matemática na primeira infância</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Preschool Numbers&quot;</note>
+				</trans-unit>
+				<trans-unit id="appdesc_MathGames" space="preserve" translate="yes">
+					<source>Mental workout for kids using place value, fraction, add, subtract and lot more.</source>
+					<target state="new" state-qualifier="mt-suggestion">Treino mental para crianças usando o valor de lugar, fração, adicionar, subtrair e muito mais.</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Math Games&quot;</note>
+				</trans-unit>
+				<trans-unit id="appdesc_PreschoolLetters" space="preserve" translate="yes">
+					<source>Fun activities to help kids learn structured English</source>
+					<target state="new" state-qualifier="mt-suggestion">Atividades divertidas para ajudar as crianças a aprender Inglês estruturado</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Preschool Letters&quot;</note>
+				</trans-unit>
+				<trans-unit id="appdesc_ShapesAndColors" space="preserve" translate="yes">
+					<source>Shapes N Colors activities for kids to build motor skills and hand eye coordination</source>
+					<target state="new" state-qualifier="mt-suggestion">Formas e Cores atividades para crianças a desenvolver habilidades motoras e coordenação olho-mão</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Shapes &amp; Colors&quot;</note>
+				</trans-unit>
+				<trans-unit id="appdesc_WordGames" space="preserve" translate="yes">
+					<source>Fun games for children to learn basic phonic concepts, word formation, rhyming words</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos divertidos para as crianças aprenderem conceitos básicos fônicos, formação de palavra, rimando palavras</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Word Games&quot;</note>
+				</trans-unit>
+				<trans-unit id="appdesc_ArcticAlphas" space="preserve" translate="yes">
+				  <source>An interactive learning app to teach word formation.</source>
+				  <target state="new" state-qualifier="mt-suggestion">Um aplicativo de aprendizagem interativa para ensinar formação de palavras.</target>
+				  <note annotates="source" from="Arctic Alphas" priority="2">This is short description for &quot;Arctic Alphas&quot;</note>
+				</trans-unit>
+				<trans-unit id="apptag_PreschoolGames" space="preserve" translate="yes">
+					<source>Kids learning games designed to teach numbers, alphabets, shapes and colors. Helps early childhood education</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos infantis projetados para ensinar números, alfabetos , formas e cores . Ajuda a educação infantil</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;PreschoolGames&quot;</note>
+				</trans-unit>
+				<trans-unit id="apptag_PreschoolBasics" space="preserve" translate="yes">
+					<source>Application designed to teach numbers, alphabets, shapes and colors precepts. Helps early childhood education</source>
+					<target state="new" state-qualifier="mt-suggestion">Aplicativo desenvolvido para ensinar números, alfabetos, formas e cores preceitos. Ajuda a educação infantil</target>
+					<note annotates="source" from="App name" priority="2">This is short description for PreschoolBasics</note>
+				</trans-unit>
+				<trans-unit id="apptag_PreschoolLetters" space="preserve" translate="yes">
+					<source>Kids learning games designed to teach basic english concepts. Helps early childhood education</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos infantis projetados para ensinar Inglês básico . Ajuda a educação infantil</target>
+					<note annotates="source" from="App name" priority="2">This is short description for PreschoolLetters</note>
+				</trans-unit>
+				<trans-unit id="apptag_PreschoolNumbers" space="preserve" translate="yes">
+					<source>Kids learning games designed to teach basic mathematics concepts. Helps early childhood education</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos infantis projetados para ensinar conceitos básicos de matemática . Ajuda a educação infantil</target>
+					<note annotates="source" from="App name" priority="2">This is short description for PreschoolNumbers</note>
+				</trans-unit>
+				<trans-unit id="apptag_ShapesAndColors" space="preserve" translate="yes">
+					<source>Kids learning games designed to teach basic shapes and colors concepts. Helps early childhood education</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos infantis destinados a ensinar formas e conceitos básicos de cores. Ajuda a educação infantil</target>
+					<note annotates="source" from="App name" priority="2">This is short description for PreschoolNumbers</note>
+				</trans-unit>
+				<trans-unit id="apptag_WordGames" space="preserve" translate="yes">
+					<source>Learn basic phonic concepts, word formation, rhyming words etc providing support to parents who want their child getting ready to read</source>
+					<target state="new" state-qualifier="mt-suggestion">Aprenda conceitos básicos de fônica, formação de palavras, palavras rimadas, etc., fornecendo apoio aos pais que querem que seu filho se prepare para ler</target>
+					<note annotates="source" from="App name" priority="2">This is short description for WordGames</note>
+				</trans-unit>
+				<trans-unit id="apptag_MathGames" space="preserve" translate="yes">
+					<source>Maths Learning activities for kids passing preschool (Age 4-8 years).To teach math concepts like numbers, addition, Subtraction, Fraction, place value etc. The fun way of learning is best to nurture kids learning abilities.</source>
+					<target state="new" state-qualifier="mt-suggestion">Matemática atividades para as crianças que passam pré-escolar (4-8 anos de idade) a aprendizagem .Para ensinar conceitos de matemática, como números, adição, subtração, fração, valor lugar etc. A maneira divertida de aprender é melhor para nutrir as crianças habilidades de aprendizagem.</target>
+					<note annotates="source" from="App name" priority="2">This is short description for MathGames</note>
+				</trans-unit>
+				<trans-unit id="appfeature_header" space="preserve" translate="yes">
+					<source>Features</source>
+					<target state="new" state-qualifier="mt-suggestion">Características</target>
+					<note annotates="source" from="App name" priority="2">This is app feature header</note>
+				</trans-unit>
+				<trans-unit id="appfeature_common1" space="preserve" translate="yes">
+					<source>Colorful games to teach kids learning basics</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos coloridos para ensinar as crianças</target>
+					<note annotates="source" from="App name" priority="2">This is common app feature</note>
+				</trans-unit>
+				<trans-unit id="appfeature_common2" space="preserve" translate="yes">
+					<source>Frequent repetition to help children learn</source>
+					<target state="new" state-qualifier="mt-suggestion">Repetição freqüente para ajudar as crianças a aprender</target>
+					<note annotates="source" from="App name" priority="2">This is common app feature</note>
+				</trans-unit>
+				<trans-unit id="appfeature_common3" space="preserve" translate="yes">
+					<source>Easy to use. Kids friendly interface</source>
+					<target state="new" state-qualifier="mt-suggestion">Fácil de usar. Crianças de interface amigável</target>
+					<note annotates="source" from="App name" priority="2">This is common app feature</note>
+				</trans-unit>
+				<trans-unit id="appfeature_common4" space="preserve" translate="yes">
+					<source>Beautiful stickers to earn</source>
+					<target state="new" state-qualifier="mt-suggestion">Etiquetas bonitas para ganhar</target>
+					<note annotates="source" from="App name" priority="2">This is common app feature</note>
+				</trans-unit>
+				<trans-unit id="appfeature_common5" space="preserve" translate="yes">
+					<source>Free play</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogo grátis</target>
+					<note annotates="source" from="App name" priority="2">This is common app feature</note>
+				</trans-unit>
+				<trans-unit id="appskill_header" space="preserve" translate="yes">
+					<source>Games are designed to enhance following skills</source>
+					<target state="new" state-qualifier="mt-suggestion">Os jogos são projetados para melhorar seguintes habilidades</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolGames_1" space="preserve" translate="yes">
+					<source>Basic mathematics</source>
+					<target state="new" state-qualifier="mt-suggestion">Matemática Básica</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolGames_2" space="preserve" translate="yes">
+					<source>Numbers recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">Reconhecimento Números</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolGames_3" space="preserve" translate="yes">
+					<source>Basic english</source>
+					<target state="new" state-qualifier="mt-suggestion">Inglês Básico</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolGames_4" space="preserve" translate="yes">
+					<source>Letter recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">O reconhecimento da letra</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolGames_5" space="preserve" translate="yes">
+					<source>Shapes and colors recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">Formas e cores reconhecimento</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolLetters_1" space="preserve" translate="yes">
+					<source>Basic english</source>
+					<target state="new" state-qualifier="mt-suggestion">Inglês Básico</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolLetters_2" space="preserve" translate="yes">
+					<source>Letter recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">O reconhecimento da letra</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolNumbers_1" space="preserve" translate="yes">
+					<source>Basic math</source>
+					<target state="new" state-qualifier="mt-suggestion">Matemática básica</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_PreschoolNumbers_2" space="preserve" translate="yes">
+					<source>Number recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">Reconhecimento de números</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_ShapesAndColors_1" space="preserve" translate="yes">
+					<source>Shape recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">O reconhecimento de</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_ShapesAndColors_2" space="preserve" translate="yes">
+					<source>Color recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">Reconhecimento Cor</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_WordGames_1" space="preserve" translate="yes">
+					<source>Basic english</source>
+					<target state="new" state-qualifier="mt-suggestion">Inglês Básico</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_WordGames_2" space="preserve" translate="yes">
+					<source>Letter recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">O reconhecimento da letra</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_WordGames_3" space="preserve" translate="yes">
+					<source>Word recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">reconhecimento de palavras</target>
+					<note annotates="source" from="App name" priority="2">This is app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common1" space="preserve" translate="yes">
+					<source>Hand-eye coordination</source>
+					<target state="new" state-qualifier="mt-suggestion">Coordenação olho-mão</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common2" space="preserve" translate="yes">
+					<source>Concentration</source>
+					<target state="new" state-qualifier="mt-suggestion">Concentração</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common3" space="preserve" translate="yes">
+					<source>Visual perception</source>
+					<target state="new" state-qualifier="mt-suggestion">A percepção visual</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common4" space="preserve" translate="yes">
+					<source>Vocabulary</source>
+					<target state="new" state-qualifier="mt-suggestion">Vocabulário</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common5" space="preserve" translate="yes">
+					<source>Classification</source>
+					<target state="new" state-qualifier="mt-suggestion">Classificação</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common6" space="preserve" translate="yes">
+					<source>Symmetry</source>
+					<target state="new" state-qualifier="mt-suggestion">Simetria</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common7" space="preserve" translate="yes">
+					<source>Organizing</source>
+					<target state="new" state-qualifier="mt-suggestion">Organizar</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common8" space="preserve" translate="yes">
+					<source>Memory</source>
+					<target state="new" state-qualifier="mt-suggestion">Memória</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common9" space="preserve" translate="yes">
+					<source>Matching</source>
+					<target state="new" state-qualifier="mt-suggestion">Matching</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_common10" space="preserve" translate="yes">
+					<source>Attention to detail</source>
+					<target state="new" state-qualifier="mt-suggestion">Atenção aos detalhes</target>
+					<note annotates="source" from="App name" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_MathGames_1" space="preserve" translate="yes">
+					<source>Basic mathematics</source>
+					<target state="new" state-qualifier="mt-suggestion">matemática básica</target>
+					<note annotates="source" from="Math Games" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_MathGames_2" space="preserve" translate="yes">
+					<source>Numbers recognition</source>
+					<target state="new" state-qualifier="mt-suggestion">Número reconhecendo</target>
+					<note annotates="source" from="Math Games" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_MathGames_3" space="preserve" translate="yes">
+					<source>Concept of Fractions</source>
+					<target state="new" state-qualifier="mt-suggestion">Conceito de Frações</target>
+					<note annotates="source" from="Math Games" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_MathGames_4" space="preserve" translate="yes">
+					<source>Abacus counting</source>
+					<target state="new" state-qualifier="mt-suggestion">Abacus contagem</target>
+					<note annotates="source" from="Math Games" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_MathGames_5" space="preserve" translate="yes">
+					<source>Clock  Reading</source>
+					<target state="new" state-qualifier="mt-suggestion">Leitura do Relógio</target>
+					<note annotates="source" from="Math Games" priority="2">This is common app skill</note>
+				</trans-unit>
+				<trans-unit id="appdesc_about_header" space="preserve" translate="yes">
+					<source>About Greysprings</source>
+					<target state="new" state-qualifier="mt-suggestion">Sobre Greysprings</target>
+					<note annotates="source" from="App name" priority="2">This is header for about section in description</note>
+				</trans-unit>
+				<trans-unit id="appdesc_gameslist_header" space="preserve" translate="yes">
+					<source>List of games</source>
+					<target state="new" state-qualifier="mt-suggestion">Lista de jogos</target>
+					<note annotates="source" from="App name" priority="2">This is header for list of games section in description</note>
+				</trans-unit>
+				<trans-unit id="appdesc_about_line1" space="preserve" translate="yes">
+					<source>Visit us at www.greysprings.com</source>
+					<target state="new" state-qualifier="mt-suggestion">Visite-nos em www.greysprings.com</target>
+					<note annotates="source" from="App name" priority="2">This is content for about section in description</note>
+				</trans-unit>
+				<trans-unit id="appdesc_about_line2" space="preserve" translate="yes">
+					<source>Contact us: contact@greysprings.com</source>
+					<target state="new" state-qualifier="mt-suggestion">Contacte-nos: contact@greysprings.com</target>
+					<note annotates="source" from="App name" priority="2">This is content for about section in description</note>
+				</trans-unit>
+				<trans-unit id="appdesc_appsuite_header" space="preserve" translate="yes">
+					<source>Applications from Greysprings</source>
+					<target state="new" state-qualifier="mt-suggestion">As candidaturas de Greysprings</target>
+					<note annotates="source" from="App name" priority="2">This is content for about section in description</note>
+				</trans-unit>
+				<trans-unit id="appdesc_privacy_header" space="preserve" translate="yes">
+					<source>Privacy</source>
+					<target state="new" state-qualifier="mt-suggestion">Privacidade</target>
+					<note annotates="source" from="App name" priority="2">This is header for Privacy section in description</note>
+				</trans-unit>
+				<trans-unit id="appdesc_privacy_line1" space="preserve" translate="yes">
+					<source>Privacy policy: http://www.greysprings.com/privacy.php</source>
+					<target state="new" state-qualifier="mt-suggestion">Política de privacidade: http://www.greysprings.com/privacy.php</target>
+					<note annotates="source" from="App name" priority="2">This is line for Privacy section in description</note>
+				</trans-unit>
+				<trans-unit id="appdesc_privacy_line2" space="preserve" translate="yes">
+					<source>We do not collect any personal information about kids</source>
+					<target state="new" state-qualifier="mt-suggestion">Nós não coletamos informações pessoais sobre crianças</target>
+					<note annotates="source" from="App name" priority="2">This is line for Privacy section in description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_1" space="preserve" translate="yes">
+					<source>Kids</source>
+					<target state="new" state-qualifier="mt-suggestion">Crianças</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_2" space="preserve" translate="yes">
+					<source>toddler</source>
+					<target state="new" state-qualifier="mt-suggestion">criança</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_3" space="preserve" translate="yes">
+					<source>Free</source>
+					<target state="new" state-qualifier="mt-suggestion">Grátis</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_4" space="preserve" translate="yes">
+					<source>Games</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_5" space="preserve" translate="yes">
+					<source>Preschool</source>
+					<target state="new" state-qualifier="mt-suggestion">Pré-escolar</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_6" space="preserve" translate="yes">
+					<source>educational</source>
+					<target state="new" state-qualifier="mt-suggestion">educacional</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_7" space="preserve" translate="yes">
+					<source>play</source>
+					<target state="new" state-qualifier="mt-suggestion">jogar</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_common_8" space="preserve" translate="yes">
+					<source>fun</source>
+					<target state="new" state-qualifier="mt-suggestion">diversão</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_1" space="preserve" translate="yes">
+					<source>Puzzles</source>
+					<target state="new" state-qualifier="mt-suggestion">Puzzles</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_2" space="preserve" translate="yes">
+					<source>Spot difference</source>
+					<target state="new" state-qualifier="mt-suggestion">Diferença local</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_3" space="preserve" translate="yes">
+					<source>Color</source>
+					<target state="new" state-qualifier="mt-suggestion">Cor</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_4" space="preserve" translate="yes">
+					<source>Shapes</source>
+					<target state="new" state-qualifier="mt-suggestion">Shapes</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_5" space="preserve" translate="yes">
+					<source>counting</source>
+					<target state="new" state-qualifier="mt-suggestion">contando</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_6" space="preserve" translate="yes">
+					<source>Teach</source>
+					<target state="new" state-qualifier="mt-suggestion">dar aula</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_7" space="preserve" translate="yes">
+					<source>abc</source>
+					<target state="new" state-qualifier="mt-suggestion">abc</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_8" space="preserve" translate="yes">
+					<source>Numbers</source>
+					<target state="new" state-qualifier="mt-suggestion">números</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_9" space="preserve" translate="yes">
+					<source>Education</source>
+					<target state="new" state-qualifier="mt-suggestion">educação</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_10" space="preserve" translate="yes">
+					<source>Free</source>
+					<target state="new" state-qualifier="mt-suggestion">livre</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_11" space="preserve" translate="yes">
+					<source>Kids</source>
+					<target state="new" state-qualifier="mt-suggestion">crianças</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_12" space="preserve" translate="yes">
+					<source>Fun</source>
+					<target state="new" state-qualifier="mt-suggestion">diversão</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_13" space="preserve" translate="yes">
+					<source>Grade</source>
+					<target state="new" state-qualifier="mt-suggestion">grau</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_14" space="preserve" translate="yes">
+					<source>Learn</source>
+					<target state="new" state-qualifier="mt-suggestion">aprender</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_15" space="preserve" translate="yes">
+					<source>Kiddo</source>
+					<target state="new" state-qualifier="mt-suggestion">bebê</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_16" space="preserve" translate="yes">
+					<source>Best</source>
+					<target state="new" state-qualifier="mt-suggestion">o melhor</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_17" space="preserve" translate="yes">
+					<source>Child</source>
+					<target state="new" state-qualifier="mt-suggestion">criança</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_18" space="preserve" translate="yes">
+					<source>Games</source>
+					<target state="new" state-qualifier="mt-suggestion">jogos</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_19" space="preserve" translate="yes">
+					<source>Great</source>
+					<target state="new" state-qualifier="mt-suggestion">q ótimo</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_20" space="preserve" translate="yes">
+					<source>Nursery</source>
+					<target state="new" state-qualifier="mt-suggestion">berçário</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_21" space="preserve" translate="yes">
+					<source>Nurture</source>
+					<target state="new" state-qualifier="mt-suggestion">nutrir</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_22" space="preserve" translate="yes">
+					<source>Puzzles</source>
+					<target state="new" state-qualifier="mt-suggestion">quebra cabeça</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_23" space="preserve" translate="yes">
+					<source>Age</source>
+					<target state="new" state-qualifier="mt-suggestion">idade</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_24" space="preserve" translate="yes">
+					<source>Activities</source>
+					<target state="new" state-qualifier="mt-suggestion">atividades</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_25" space="preserve" translate="yes">
+					<source>Basic</source>
+					<target state="new" state-qualifier="mt-suggestion">básico</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_26" space="preserve" translate="yes">
+					<source>Learning</source>
+					<target state="new" state-qualifier="mt-suggestion">aprendizagem</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_27" space="preserve" translate="yes">
+					<source>Montessori</source>
+					<target state="new" state-qualifier="mt-suggestion">escola</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_28" space="preserve" translate="yes">
+					<source>Numeral</source>
+					<target state="new" state-qualifier="mt-suggestion">Numeral</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_29" space="preserve" translate="yes">
+					<source>Schooling</source>
+					<target state="new" state-qualifier="mt-suggestion">educação escolar</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_30" space="preserve" translate="yes">
+					<source>Toddler</source>
+					<target state="new" state-qualifier="mt-suggestion">criança</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_31" space="preserve" translate="yes">
+					<source>Teaching</source>
+					<target state="new" state-qualifier="mt-suggestion">ensino</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_32" space="preserve" translate="yes">
+					<source>Kiddie</source>
+					<target state="new" state-qualifier="mt-suggestion">criança</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_33" space="preserve" translate="yes">
+					<source>Alphabets</source>
+					<target state="new" state-qualifier="mt-suggestion">alfabetos</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolGames_34" space="preserve" translate="yes">
+					<source>Playground</source>
+					<target state="new" state-qualifier="mt-suggestion">recreio</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_1" space="preserve" translate="yes">
+					<source>English</source>
+					<target state="new" state-qualifier="mt-suggestion">Inglês</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_2" space="preserve" translate="yes">
+					<source>Alphabets</source>
+					<target state="new" state-qualifier="mt-suggestion">Alfabetos</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_3" space="preserve" translate="yes">
+					<source>ABC</source>
+					<target state="new" state-qualifier="mt-suggestion">começo</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_4" space="preserve" translate="yes">
+					<source>Letters</source>
+					<target state="new" state-qualifier="mt-suggestion">letras</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_5" space="preserve" translate="yes">
+					<source>Phonics</source>
+					<target state="new" state-qualifier="mt-suggestion">acústica</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_6" space="preserve" translate="yes">
+					<source>Phonetics</source>
+					<target state="new" state-qualifier="mt-suggestion">fonética</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_7" space="preserve" translate="yes">
+					<source>Learning</source>
+					<target state="new" state-qualifier="mt-suggestion">aprendizagem</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_8" space="preserve" translate="yes">
+					<source>Teach</source>
+					<target state="new" state-qualifier="mt-suggestion">ensinar</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_9" space="preserve" translate="yes">
+					<source>Kids</source>
+					<target state="new" state-qualifier="mt-suggestion">crianças</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_10" space="preserve" translate="yes">
+					<source>Preschool</source>
+					<target state="new" state-qualifier="mt-suggestion">pré-escolar</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_11" space="preserve" translate="yes">
+					<source>Kindergarten</source>
+					<target state="new" state-qualifier="mt-suggestion">jardim de infância</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_12" space="preserve" translate="yes">
+					<source>Montessori</source>
+					<target state="new" state-qualifier="mt-suggestion">escola</target>
+					<note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolLetters_13" space="preserve" translate="yes">
+          <source>ABCD</source>
+          <target state="new" state-qualifier="mt-suggestion">ABCD</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolLetters_14" space="preserve" translate="yes">
+          <source>kiddo</source>
+          <target state="new" state-qualifier="mt-suggestion">garoto</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolLetters_15" space="preserve" translate="yes">
+          <source>kinder</source>
+          <target state="new" state-qualifier="mt-suggestion">crianças</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolLetters_16" space="preserve" translate="yes">
+          <source>read</source>
+          <target state="new" state-qualifier="mt-suggestion">ler</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app description</note>
+        </trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_1" space="preserve" translate="yes">
+					<source>Mathematics</source>
+					<target state="new" state-qualifier="mt_suggestion">Matemática</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_2" space="preserve" translate="yes">
+					<source>Numbers</source>
+					<target state="new" state-qualifier="mt_suggestion">Números</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_3" space="preserve" translate="yes">
+					<source>Education</source>
+					<target state="new" state-qualifier="mt_suggestion">Educação</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_4" space="preserve" translate="yes">
+					<source>Children</source>
+					<target state="new" state-qualifier="mt_suggestion">Crianças</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_5" space="preserve" translate="yes">
+					<source>counting</source>
+					<target state="new" state-qualifier="mt_suggestion">contando</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_6" space="preserve" translate="yes">
+					<source>Compare</source>
+					<target state="new" state-qualifier="mt_suggestion">Comparar</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_7" space="preserve" translate="yes">
+					<source>baby</source>
+					<target state="new" state-qualifier="mt_suggestion">bebê</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_8" space="preserve" translate="yes">
+					<source>count</source>
+					<target state="new" state-qualifier="mt_suggestion">contar</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_9" space="preserve" translate="yes">
+					<source>sum</source>
+					<target state="new" state-qualifier="mt_suggestion">soma</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_10" space="preserve" translate="yes">
+					<source>great</source>
+					<target state="new" state-qualifier="mt_suggestion">q ótimo</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_11" space="preserve" translate="yes">
+					<source>learn</source>
+					<target state="new" state-qualifier="mt_suggestion">aprender</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_12" space="preserve" translate="yes">
+					<source>Fun</source>
+					<target state="new" state-qualifier="mt_suggestion">Diversão</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_13" space="preserve" translate="yes">
+					<source>123</source>
+					<target state="new" state-qualifier="mt_suggestion">123</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_14" space="preserve" translate="yes">
+					<source>learning</source>
+					<target state="new" state-qualifier="mt_suggestion">aprendizagem</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_15" space="preserve" translate="yes">
+					<source>puzzles</source>
+					<target state="new" state-qualifier="mt_suggestion">quebra-cabeças</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_16" space="preserve" translate="yes">
+					<source>Age</source>
+					<target state="new" state-qualifier="mt_suggestion">Idade</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_17" space="preserve" translate="yes">
+					<source>basic</source>
+					<target state="new" state-qualifier="mt_suggestion">básico</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_18" space="preserve" translate="yes">
+					<source>amazing</source>
+					<target state="new" state-qualifier="mt_suggestion">que incrivel</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_19" space="preserve" translate="yes">
+					<source>free</source>
+					<target state="new" state-qualifier="mt_suggestion">livre</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_20" space="preserve" translate="yes">
+					<source>Sequence</source>
+					<target state="new" state-qualifier="mt_suggestion">Seqüência</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_21" space="preserve" translate="yes">
+					<source>primary</source>
+					<target state="new" state-qualifier="mt_suggestion">primário</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_22" space="preserve" translate="yes">
+					<source>games</source>
+					<target state="new" state-qualifier="mt_suggestion">jogos</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_23" space="preserve" translate="yes">
+					<source>Activities</source>
+					<target state="new" state-qualifier="mt_suggestion">Atividades</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_24" space="preserve" translate="yes">
+					<source>teach</source>
+					<target state="new" state-qualifier="mt_suggestion">dar aula</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_25" space="preserve" translate="yes">
+					<source>Kids</source>
+					<target state="new" state-qualifier="mt_suggestion">Crianças</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_26" space="preserve" translate="yes">
+					<source>Preschool</source>
+					<target state="new" state-qualifier="mt_suggestion">Pré-escolar</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_27" space="preserve" translate="yes">
+					<source>Easy</source>
+					<target state="new" state-qualifier="mt_suggestion">Fácil</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_28" space="preserve" translate="yes">
+					<source>educative</source>
+					<target state="new" state-qualifier="mt_suggestion">educativo</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_29" space="preserve" translate="yes">
+					<source>awesome</source>
+					<target state="new" state-qualifier="mt_suggestion">impressionante</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_30" space="preserve" translate="yes">
+					<source>Years</source>
+					<target state="new" state-qualifier="mt_suggestion">Anos</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_31" space="preserve" translate="yes">
+					<source>Second</source>
+					<target state="new" state-qualifier="mt_suggestion">Segundo</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_32" space="preserve" translate="yes">
+					<source>Kindergarten</source>
+					<target state="new" state-qualifier="mt_suggestion">Escola Infantil</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_33" space="preserve" translate="yes">
+					<source>Toddler</source>
+					<target state="new" state-qualifier="mt_suggestion">Criança</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_34" space="preserve" translate="yes">
+					<source>Greater than</source>
+					<target state="new" state-qualifier="mt_suggestion">Maior que</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_35" space="preserve" translate="yes">
+					<source>Kiddo</source>
+					<target state="new" state-qualifier="mt_suggestion">Kiddo</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_36" space="preserve" translate="yes">
+					<source>math</source>
+					<target state="new" state-qualifier="mt_suggestion">matemática</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_37" space="preserve" translate="yes">
+					<source>Sums</source>
+					<target state="new" state-qualifier="mt_suggestion">Somas</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_PreschoolNumbers_38" space="preserve" translate="yes">
+					<source>Montessori</source>
+					<target state="new" state-qualifier="mt_suggestion">Montessori</target>
+					<note annotates="source" from="Preschool Numbers" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_1" space="preserve" translate="yes">
+					<source>Free kids games</source>
+					<target state="new" state-qualifier="mt-suggestion">Jogos infantis grátis</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_2" space="preserve" translate="yes">
+					<source>Learning</source>
+					<target state="new" state-qualifier="mt-suggestion">aprendizagem</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_3" space="preserve" translate="yes">
+					<source>Shape</source>
+					<target state="new" state-qualifier="mt-suggestion">forma</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_4" space="preserve" translate="yes">
+					<source>Color</source>
+					<target state="new" state-qualifier="mt-suggestion">cor</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_5" space="preserve" translate="yes">
+					<source>Toddler</source>
+					<target state="new" state-qualifier="mt-suggestion">criança</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_6" space="preserve" translate="yes">
+					<source>Kiddie</source>
+					<target state="new" state-qualifier="mt-suggestion">Kiddie</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_7" space="preserve" translate="yes">
+					<source>primary</source>
+					<target state="new" state-qualifier="mt-suggestion">primário</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				<trans-unit id="appkeyword_ShapesAndColors_8" space="preserve" translate="yes">
+					<source>Kindergarten</source>
+					<target state="new" state-qualifier="mt-suggestion">jardim de infância</target>
+					<note annotates="source" from="Shapes And Colors" priority="2">This is keyword for app description</note>
+				</trans-unit>
+				 <trans-unit id="appkeyword_ShapesAndColors_9" space="preserve" translate="yes">
+          <source>learning apps</source>
+          <target state="new" state-qualifier="mt-suggestion">apps de aprendizagem</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_10" space="preserve" translate="yes">
+          <source>school</source>
+          <target state="new" state-qualifier="mt-suggestion">escola</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_11" space="preserve" translate="yes">
+          <source>educational </source>
+          <target state="new" state-qualifier="mt-suggestion">educacionais </target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_12" space="preserve" translate="yes">
+          <source>Montessori</source>
+          <target state="new" state-qualifier="mt-suggestion">Montessori</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_13" space="preserve" translate="yes">
+          <source>for</source>
+          <target state="new" state-qualifier="mt-suggestion">para</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_14" space="preserve" translate="yes">
+          <source>learn</source>
+          <target state="new" state-qualifier="mt-suggestion">Aprenda</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_15" space="preserve" translate="yes">
+          <source>color</source>
+          <target state="new" state-qualifier="mt-suggestion">Cor</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_16" space="preserve" translate="yes">
+          <source>jigsaw</source>
+          <target state="new" state-qualifier="mt-suggestion">quebra-cabeça</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_17" space="preserve" translate="yes">
+          <source>elementary</source>
+          <target state="new" state-qualifier="mt-suggestion">escola primária</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_18" space="preserve" translate="yes">
+          <source>teach</source>
+          <target state="new" state-qualifier="mt-suggestion">ensinar</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_19" space="preserve" translate="yes">
+          <source>children</source>
+          <target state="new" state-qualifier="mt-suggestion">crianças</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ShapesAndColors_20" space="preserve" translate="yes">
+          <source>preschoolers</source>
+          <target state="new" state-qualifier="mt-suggestion">crianças pré-escolares</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+				<trans-unit id="appkeyword_MathGames_1" space="preserve" translate="yes">
+          <source>Place</source>
+          <target state="new" state-qualifier="mt-suggestion">Lugar</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_2" space="preserve" translate="yes">
+          <source>value</source>
+          <target state="new" state-qualifier="mt-suggestion">value</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_3" space="preserve" translate="yes">
+          <source>addition</source>
+          <target state="new" state-qualifier="mt-suggestion">adição</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_4" space="preserve" translate="yes">
+          <source>subtraction</source>
+          <target state="new" state-qualifier="mt-suggestion">subtração</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_5" space="preserve" translate="yes">
+          <source>fraction</source>
+          <target state="new" state-qualifier="mt-suggestion">fração</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_6" space="preserve" translate="yes">
+          <source>Best</source>
+          <target state="new" state-qualifier="mt-suggestion">Melhor</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_7" space="preserve" translate="yes">
+          <source>apps</source>
+          <target state="new" state-qualifier="mt-suggestion">apps</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_8" space="preserve" translate="yes">
+          <source>top</source>
+          <target state="new" state-qualifier="mt-suggestion">Início</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_9" space="preserve" translate="yes">
+          <source>family</source>
+          <target state="new" state-qualifier="mt-suggestion">família</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_10" space="preserve" translate="yes">
+          <source>activities</source>
+          <target state="new" state-qualifier="mt-suggestion">atividades</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_11" space="preserve" translate="yes">
+          <source>free</source>
+          <target state="new" state-qualifier="mt-suggestion">grátis</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_12" space="preserve" translate="yes">
+          <source>for</source>
+          <target state="new" state-qualifier="mt-suggestion">para</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_13" space="preserve" translate="yes">
+          <source>preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">pré-escolar</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_14" space="preserve" translate="yes">
+          <source>numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">números</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_15" space="preserve" translate="yes">
+          <source>counting</source>
+          <target state="new" state-qualifier="mt-suggestion">contando</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_16" space="preserve" translate="yes">
+          <source>educational</source>
+          <target state="new" state-qualifier="mt-suggestion">educacionais</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_17" space="preserve" translate="yes">
+          <source>toddler</source>
+          <target state="new" state-qualifier="mt-suggestion">criança</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_18" space="preserve" translate="yes">
+          <source>beautiful</source>
+          <target state="new" state-qualifier="mt-suggestion">linda</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_19" space="preserve" translate="yes">
+          <source>awesome</source>
+          <target state="new" state-qualifier="mt-suggestion">impressionante</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_20" space="preserve" translate="yes">
+          <source>teaching</source>
+          <target state="new" state-qualifier="mt-suggestion">ensino</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_21" space="preserve" translate="yes">
+          <source>puzzles</source>
+          <target state="new" state-qualifier="mt-suggestion">quebra-cabeças</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_22" space="preserve" translate="yes">
+          <source>fun</source>
+          <target state="new" state-qualifier="mt-suggestion">diversão</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_23" space="preserve" translate="yes">
+          <source>math</source>
+          <target state="new" state-qualifier="mt-suggestion">matemática</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+				<trans-unit id="appkeyword_MathGames_1" space="preserve" translate="yes">
+          <source>English Letters</source>
+          <target state="new" state-qualifier="mt-suggestion">Letras em inglês</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_2" space="preserve" translate="yes">
+          <source>phonics</source>
+          <target state="new" state-qualifier="mt-suggestion">Phonics</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_3" space="preserve" translate="yes">
+          <source>word formation</source>
+          <target state="new" state-qualifier="mt-suggestion">formação de palavra</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_4" space="preserve" translate="yes">
+          <source>rhyming words</source>
+          <target state="new" state-qualifier="mt-suggestion">palavras a rimar</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_5" space="preserve" translate="yes">
+          <source>fraction</source>
+          <target state="new" state-qualifier="mt-suggestion">fração</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_6" space="preserve" translate="yes">
+          <source>Best</source>
+          <target state="new" state-qualifier="mt-suggestion">Melhor</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_7" space="preserve" translate="yes">
+          <source>apps</source>
+          <target state="new" state-qualifier="mt-suggestion">apps</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_8" space="preserve" translate="yes">
+          <source>top</source>
+          <target state="new" state-qualifier="mt-suggestion">Início</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_9" space="preserve" translate="yes">
+          <source>family</source>
+          <target state="new" state-qualifier="mt-suggestion">família</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_10" space="preserve" translate="yes">
+          <source>activities</source>
+          <target state="new" state-qualifier="mt-suggestion">atividades</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_11" space="preserve" translate="yes">
+          <source>free</source>
+          <target state="new" state-qualifier="mt-suggestion">grátis</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_12" space="preserve" translate="yes">
+          <source>for</source>
+          <target state="new" state-qualifier="mt-suggestion">para</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_13" space="preserve" translate="yes">
+          <source>preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">pré-escolar</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_14" space="preserve" translate="yes">
+          <source>numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">números</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_15" space="preserve" translate="yes">
+          <source>counting</source>
+          <target state="new" state-qualifier="mt-suggestion">contando</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_16" space="preserve" translate="yes">
+          <source>educational</source>
+          <target state="new" state-qualifier="mt-suggestion">educacionais</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_17" space="preserve" translate="yes">
+          <source>toddler</source>
+          <target state="new" state-qualifier="mt-suggestion">criança</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_18" space="preserve" translate="yes">
+          <source>beautiful</source>
+          <target state="new" state-qualifier="mt-suggestion">linda</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_19" space="preserve" translate="yes">
+          <source>awesome</source>
+          <target state="new" state-qualifier="mt-suggestion">impressionante</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_20" space="preserve" translate="yes">
+          <source>teaching</source>
+          <target state="new" state-qualifier="mt-suggestion">ensino</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_21" space="preserve" translate="yes">
+          <source>puzzles</source>
+          <target state="new" state-qualifier="mt-suggestion">quebra-cabeças</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_MathGames_22" space="preserve" translate="yes">
+          <source>fun</source>
+          <target state="new" state-qualifier="mt-suggestion">diversão</target>
+          <note annotates="source" from="App name" priority="2">This is keyword for app MathGames</note>
+        </trans-unit>
+				<trans-unit id="appdesc_ToddlerGames" space="preserve" translate="yes">
+					<source>A beautiful app, designed for kids in the age range 2-3, to foster their learning, imagination and free play</source>
+					<target state="new" state-qualifier="mt-suggestion">Um belo aplicativo, projetado para crianças na faixa etária de 2-3, para promover a sua aprendizagem, imaginação e brincadeira livre</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Toddler Games&quot;</note>
+				</trans-unit>
+				<trans-unit id="apptag_ToddlerGames" space="preserve" translate="yes">
+					<source>Kids learning games designed to teach color, shapes, fruits, vegetables, creatures and also numbers and alphabets. Helps early childhood education</source>
+					<target state="new" state-qualifier="mt-suggestion">Crianças jogos projetados para ensinar cores, formas, frutas, legumes, criaturas e também de números e letras de aprendizagem. Ajuda a educação infantil</target>
+					<note annotates="source" from="App name" priority="2">This is short description for &quot;Toddler Games&quot;</note>
+				</trans-unit>
+				<trans-unit id="appskill_ToddlerGames_1" space="preserve" translate="yes">
+					<source>Eight colorful &amp; engaging activities for young minds.</source>
+					<target state="new" state-qualifier="mt-suggestion">Oito atividades variadas e atraentes para as mentes dos jovens</target>
+					<note annotates="source" from="App name" priority="2">This is Toddler Games skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_ToddlerGames_2" space="preserve" translate="yes">
+					<source>Core activities for foundation stage of primary school.</source>
+					<target state="new" state-qualifier="mt-suggestion">Atividades essenciais para a fase fundação da escola primária</target>
+					<note annotates="source" from="App name" priority="2">This is Toddler Games skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_ToddlerGames_3" space="preserve" translate="yes">
+					<source>Helps to develop skills for early learning while keeping kids busy and engaged.</source>
+					<target state="new" state-qualifier="mt-suggestion">Ajuda a desenvolver habilidades para a aprendizagem precoce, mantendo as crianças ocupadas e engajados</target>
+					<note annotates="source" from="App name" priority="2">This is Toddler Games skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_ToddlerGames_4" space="preserve" translate="yes">
+					<source>A common playground for randomly playing all the games.</source>
+					<target state="new" state-qualifier="mt-suggestion">Um parque infantil comum para tocar aleatoriamente todos os jogos</target>
+					<note annotates="source" from="App name" priority="2">This is Toddler Games skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_ToddlerGames_5" space="preserve" translate="yes">
+					<source>Easy and intuitive instructions for the kids.</source>
+					<target state="new" state-qualifier="mt-suggestion">Instruções fáceis e intuitivas para as crianças</target>
+					<note annotates="source" from="App name" priority="2">This is Toddler Games skill</note>
+				</trans-unit>
+				<trans-unit id="appskill_ToddlerGames_6" space="preserve" translate="yes">
+					<source>Bright and colorful stickers are rewarded at the end of each game.</source>
+					<target state="new" state-qualifier="mt-suggestion">Brilhantes e coloridos autocolantes são recompensados no final de cada jogo</target>
+					<note annotates="source" from="App name" priority="2">This is Toddler Games skill</note>
+				</trans-unit>
+       <trans-unit id="appkeyword_ToddlerGames_1" space="preserve" translate="yes">
+          <source>free kids games</source>
+          <target state="new" state-qualifier="mt-suggestion">jogos infantis grátis</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_2" space="preserve" translate="yes">
+          <source>primary</source>
+          <target state="new" state-qualifier="mt-suggestion">primário</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_3" space="preserve" translate="yes">
+          <source>numberss</source>
+          <target state="new" state-qualifier="mt-suggestion">números</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_4" space="preserve" translate="yes">
+          <source>counting</source>
+          <target state="new" state-qualifier="mt-suggestion">contando</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_5" space="preserve" translate="yes">
+          <source>fruits</source>
+          <target state="new" state-qualifier="mt-suggestion">frutas</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_6" space="preserve" translate="yes">
+          <source>vegetables</source>
+          <target state="new" state-qualifier="mt-suggestion">produtos hortícolas</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_7" space="preserve" translate="yes">
+          <source>kindergarten</source>
+          <target state="new" state-qualifier="mt-suggestion">jardim de infância</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_8" space="preserve" translate="yes">
+          <source>shapespreschool</source>
+          <target state="new" state-qualifier="mt-suggestion">formas</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_9" space="preserve" translate="yes">
+          <source>learning apps</source>
+          <target state="new" state-qualifier="mt-suggestion">apps de aprendizagem</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_10" space="preserve" translate="yes">
+          <source>school</source>
+          <target state="new" state-qualifier="mt-suggestion">escola</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_11" space="preserve" translate="yes">
+          <source>educational </source>
+          <target state="new" state-qualifier="mt-suggestion">educacionais </target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_12" space="preserve" translate="yes">
+          <source>Montessori</source>
+          <target state="new" state-qualifier="mt-suggestion">Montessori</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_13" space="preserve" translate="yes">
+          <source>for</source>
+          <target state="new" state-qualifier="mt-suggestion">para</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_14" space="preserve" translate="yes">
+          <source>learn</source>
+          <target state="new" state-qualifier="mt-suggestion">Aprenda</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_15" space="preserve" translate="yes">
+          <source>color</source>
+          <target state="new" state-qualifier="mt-suggestion">Cor</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_16" space="preserve" translate="yes">
+          <source>jigsaw</source>
+          <target state="new" state-qualifier="mt-suggestion">quebra-cabeça</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_17" space="preserve" translate="yes">
+          <source>elementary</source>
+          <target state="new" state-qualifier="mt-suggestion">escola primária</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_18" space="preserve" translate="yes">
+          <source>teach</source>
+          <target state="new" state-qualifier="mt-suggestion">ensinar</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_19" space="preserve" translate="yes">
+          <source>children</source>
+          <target state="new" state-qualifier="mt-suggestion">crianças</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appkeyword_ToddlerGames_20" space="preserve" translate="yes">
+          <source>preschoolers</source>
+          <target state="new" state-qualifier="mt-suggestion">crianças pré-escolares</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_1" space="preserve" translate="yes">
+          <source>kiddo</source>
+          <target state="new" state-qualifier="mt-suggestion">miúdo</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_2" space="preserve" translate="yes">
+          <source>abc</source>
+          <target state="new" state-qualifier="mt-suggestion">alfabeto</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_3" space="preserve" translate="yes">
+          <source>rhymes</source>
+          <target state="new" state-qualifier="mt-suggestion">rimas</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_4" space="preserve" translate="yes">
+          <source>counting</source>
+          <target state="new" state-qualifier="mt-suggestion">contando</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_5" space="preserve" translate="yes">
+          <source>colors</source>
+          <target state="new" state-qualifier="mt-suggestion">cores</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_6" space="preserve" translate="yes">
+          <source>shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">formas</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_7" space="preserve" translate="yes">
+          <source>vegetable</source>
+          <target state="new" state-qualifier="mt-suggestion">vegetal</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_8" space="preserve" translate="yes">
+          <source>fruit</source>
+          <target state="new" state-qualifier="mt-suggestion">fruta</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_9" space="preserve" translate="yes">
+          <source>sports</source>
+          <target state="new" state-qualifier="mt-suggestion">Esportes</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_10" space="preserve" translate="yes">
+          <source>charts</source>
+          <target state="new" state-qualifier="mt-suggestion">gráficos</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_11" space="preserve" translate="yes">
+          <source>Nursery</source>
+          <target state="new" state-qualifier="mt-suggestion">berçário</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_12" space="preserve" translate="yes">
+          <source>preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">pré-escolar</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_13" space="preserve" translate="yes">
+          <source>children</source>
+          <target state="new" state-qualifier="mt-suggestion">crianças</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_14" space="preserve" translate="yes">
+          <source>teach</source>
+          <target state="new" state-qualifier="mt-suggestion">ensinar</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_15" space="preserve" translate="yes">
+          <source>games</source>
+          <target state="new" state-qualifier="mt-suggestion">jogos</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_16" space="preserve" translate="yes">
+          <source>puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">quebra-cabeças</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_17" space="preserve" translate="yes">
+          <source>activities</source>
+          <target state="new" state-qualifier="mt-suggestion">atividades</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_18" space="preserve" translate="yes">
+          <source>kindergarten</source>
+          <target state="new" state-qualifier="mt-suggestion">jardim de infância</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_19" space="preserve" translate="yes">
+          <source>kids</source>
+          <target state="new" state-qualifier="mt-suggestion">crianças</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_PreschoolBasics_20" space="preserve" translate="yes">
+          <source>Learning</source>
+          <target state="new" state-qualifier="mt-suggestion">aprendizagem</target>
+          <note annotates="source" from="Preschool Basics" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appdesc_ScienceGames" space="preserve" translate="yes">
+          <source>Enjoy pre-primary school learning games for kids. Help kids to explore and discover the world through colorful puzzles and cool games. Our educational games let kids understand the structure and behaviour of the natural world through simple and colourful activities designed in such a way that it keeps them engrossed for hours. Animations and graphics add to the rich experience in our fun learning games for boys and girls.</source>
+          <target state="new" state-qualifier="auto_localize">Desfrute de jogos de aprendizagem da escola pré-primária para crianças. Ajude as crianças a explorar e descobrir o mundo através de puzzles coloridos e jogos divertidos. Nossos jogos educativos permitem que as crianças entendam a estrutura e o comportamento do mundo natural por meio de atividades simples e coloridas, projetadas de modo a mantê-las entretidas por horas. Animações e gráficos aumentam a rica experiência em nossos divertidos jogos de aprendizagem para meninos e meninas.</target>
+          <note annotates="source" from="Science Games" priority="2">This is short description for &quot;Science Games&quot;</note>
+        </trans-unit>
+        <trans-unit id="apptag_ScienceGames" space="preserve" translate="yes">
+          <source>Educational app for kids covering basic concepts of natural world.</source>
+          <target state="new" state-qualifier="auto_localize">App educativo para crianças que cobrem conceitos básicos do mundo natural.</target>
+          <note annotates="source" from="Science Games" priority="2">This is short description for &quot;Science Games&quot;</note>
+        </trans-unit>
+        <trans-unit id="appname_ScienceGames" space="preserve" translate="yes">
+          <source>Kids Preschool Learning : Primary School Games</source>
+          <target state="new" state-qualifier="auto_localize">Kids Preschool Learning: Jogos da Escola Primária</target>
+          <note annotates="source" from="Science Games" priority="2">This is short description for &quot;Science Games&quot;</note>
+        </trans-unit>	
+        <trans-unit id="appname_part1_ScienceGames" space="preserve" translate="yes">
+          <source>Kids Preschool Learning</source>
+          <target state="new" state-qualifier="auto_localize">Aprendizagem Pré-Escolar Infantil</target>
+          <note annotates="source" from="Science Games" priority="2">This is short description for &quot;Science Games&quot;</note>
+        </trans-unit>
+        <trans-unit id="appname_part2_ScienceGames" space="preserve" translate="yes">
+          <source>Primary School Games</source>
+          <target state="new" state-qualifier="auto_localize">Jogos da Escola Primária</target>
+          <note annotates="source" from="Science Games" priority="2">This is short description for &quot;Science Games&quot;</note>
+        </trans-unit>
+		<trans-unit id="appskill_ScienceGames_1" space="preserve" translate="yes">
+          <source>Communication</source>
+          <target state="new" state-qualifier="auto_localize">Comunicação</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+        <trans-unit id="appskill_ScienceGames_2" space="preserve" translate="yes">
+          <source>Identification</source>
+          <target state="new" state-qualifier="auto_localize">Identificação</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>		
+		<trans-unit id="appkeyword_ScienceGames_1" space="preserve" translate="yes">
+          <source>mom</source>
+          <target state="new" state-qualifier="auto_localize">mamãe</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_2" space="preserve" translate="yes">
+          <source>baby</source>
+          <target state="new" state-qualifier="auto_localize">bebê</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_3" space="preserve" translate="yes">
+          <source>growth</source>
+          <target state="new" state-qualifier="auto_localize">crescimento</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_4" space="preserve" translate="yes">
+          <source>chart</source>
+          <target state="new" state-qualifier="auto_localize">gráfico</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_5" space="preserve" translate="yes">
+          <source>health</source>
+          <target state="new" state-qualifier="auto_localize">saúde</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_6" space="preserve" translate="yes">
+          <source>floating</source>
+          <target state="new" state-qualifier="auto_localize">flutuando</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_7" space="preserve" translate="yes">
+          <source>water</source>
+          <target state="new" state-qualifier="auto_localize">agua</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_8" space="preserve" translate="yes">
+          <source>experiment</source>
+          <target state="new" state-qualifier="auto_localize">experimentar</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_9" space="preserve" translate="yes">
+          <source>matter</source>
+          <target state="new" state-qualifier="auto_localize">importam</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_10" space="preserve" translate="yes">
+          <source>solid</source>
+          <target state="new" state-qualifier="auto_localize">sólido</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_11" space="preserve" translate="yes">
+          <source>liquid</source>
+          <target state="new" state-qualifier="auto_localize">líquido</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_12" space="preserve" translate="yes">
+          <source>gas</source>
+          <target state="new" state-qualifier="auto_localize">gás</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_13" space="preserve" translate="yes">
+          <source>best</source>
+          <target state="new" state-qualifier="auto_localize">melhor</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_14" space="preserve" translate="yes">
+          <source>apps</source>
+          <target state="new" state-qualifier="auto_localize">aplicativos</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_15" space="preserve" translate="yes">
+          <source>puzzles</source>
+          <target state="new" state-qualifier="auto_localize">puzzles</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_16" space="preserve" translate="yes">
+          <source>top</source>
+          <target state="new" state-qualifier="auto_localize">topo</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_17" space="preserve" translate="yes">
+          <source>family</source>
+          <target state="new" state-qualifier="auto_localize">família</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_18" space="preserve" translate="yes">
+          <source>activities</source>
+          <target state="new" state-qualifier="auto_localize">actividades</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_19" space="preserve" translate="yes">
+          <source>free</source>
+          <target state="new" state-qualifier="auto_localize">livre</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_20" space="preserve" translate="yes">
+          <source>for</source>
+          <target state="new" state-qualifier="auto_localize">para</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_21" space="preserve" translate="yes">
+          <source>children's</source>
+          <target state="new" state-qualifier="auto_localize">infantil</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_22" space="preserve" translate="yes">
+          <source>kindergarten</source>
+          <target state="new" state-qualifier="auto_localize">Jardim da infância</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_23" space="preserve" translate="yes">
+          <source>preschool</source>
+          <target state="new" state-qualifier="auto_localize">pré escola</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_24" space="preserve" translate="yes">
+          <source>teaching</source>
+          <target state="new" state-qualifier="auto_localize">ensino</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_25" space="preserve" translate="yes">
+          <source>fun</source>
+          <target state="new" state-qualifier="auto_localize">Diversão</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_26" space="preserve" translate="yes">
+          <source>educational</source>
+          <target state="new" state-qualifier="auto_localize">educacional</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_27" space="preserve" translate="yes">
+          <source>toddler</source>
+          <target state="new" state-qualifier="auto_localize">criança</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_28" space="preserve" translate="yes">
+          <source>beautiful</source>
+          <target state="new" state-qualifier="auto_localize">bonita</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_29" space="preserve" translate="yes">
+          <source>awesome</source>
+          <target state="new" state-qualifier="auto_localize">impressionante</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_30" space="preserve" translate="yes">
+          <source>kinder</source>
+          <target state="new" state-qualifier="auto_localize">mais gentil</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_31" space="preserve" translate="yes">
+          <source>pre-k</source>
+          <target state="new" state-qualifier="auto_localize">pré-k</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_ScienceGames_32" space="preserve" translate="yes">
+          <source>kiddo</source>
+          <target state="new" state-qualifier="auto_localize">garoto</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+        <trans-unit id="appdesc_TracingApp" space="preserve" translate="yes">
+          <source>A fun filled app to teach kids how to write</source>
+          <target state="new" state-qualifier="mt-suggestion">Um aplicativo cheio de diversão para ensinar as crianças a escrever</target>
+          <note annotates="source" from="Tracing App" priority="2">This is short description for &quot;Tracing App&quot;</note>
+        </trans-unit>		
+        <trans-unit id="apptag_TracingApp" space="preserve" translate="yes">
+          <source>Educational app for kids to help them learn how to write.</source>
+          <target state="new" state-qualifier="mt-suggestion">Aplicação educacional para crianças para ajudá-los a aprender a escrever.</target>
+          <note annotates="source" from="Tracing App" priority="2">This is short description for &quot;Tracing App&quot;</note>
+        </trans-unit>		
+		<trans-unit id="appskill_TracingApp_1" space="preserve" translate="yes">
+          <source>Writing skills</source>
+          <target state="new" state-qualifier="mt-suggestion">Habilidades de escrita</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>	
+		<trans-unit id="appskill_TracingApp_2" space="preserve" translate="yes">
+          <source>Trains memory</source>
+          <target state="new" state-qualifier="mt-suggestion">Memória dos trens</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+		<trans-unit id="appskill_TracingApp_3" space="preserve" translate="yes">
+          <source>Hand-eye coordination</source>
+          <target state="new" state-qualifier="mt-suggestion">Coordenação mão-olho</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+		<trans-unit id="appskill_TracingApp_4" space="preserve" translate="yes">
+          <source>Concentration</source>
+          <target state="new" state-qualifier="mt-suggestion">Concentração</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+		<trans-unit id="appskill_TracingApp_5" space="preserve" translate="yes">
+          <source>Visual perception</source>
+          <target state="new" state-qualifier="mt-suggestion">Percepção visual</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+		<trans-unit id="appskill_TracingApp_6" space="preserve" translate="yes">
+          <source>Attention to details</source>
+          <target state="new" state-qualifier="mt-suggestion">Atenção aos detalhes</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+		<trans-unit id="appskill_TracingApp_7" space="preserve" translate="yes">
+          <source>Fine motor skills</source>
+          <target state="new" state-qualifier="mt-suggestion">Habilidades motoras finas</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+		<trans-unit id="appskill_TracingApp_8" space="preserve" translate="yes">
+          <source>Phonetics and pronunciation</source>
+          <target state="new" state-qualifier="mt-suggestion">Fonética e pronúncia</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>
+		<trans-unit id="appskill_TracingApp_9" space="preserve" translate="yes">
+          <source>Handwriting improvement</source>
+          <target state="new" state-qualifier="mt-suggestion">Melhoria do manuscrito</target>
+          <note annotates="source" from="Science Games" priority="2">This is common app skill</note>
+        </trans-unit>	
+		<trans-unit id="appkeyword_TracingApp_1" space="preserve" translate="yes">
+          <source>ABC numbers tracing</source>
+          <target state="new" state-qualifier="mt-suggestion">Rastreamento de números ABC</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>	
+		<trans-unit id="appkeyword_TracingApp_2" space="preserve" translate="yes">
+          <source>kids writing practice</source>
+          <target state="new" state-qualifier="mt-suggestion">prática de escrita para crianças</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_TracingApp_3" space="preserve" translate="yes">
+          <source>standing sleeping slanting</source>
+          <target state="new" state-qualifier="mt-suggestion">de pé adormecido</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_TracingApp_4" space="preserve" translate="yes">
+          <source>Preschool learning games</source>
+          <target state="new" state-qualifier="mt-suggestion">Jogos de aprendizagem pré-escolar</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_TracingApp_5" space="preserve" translate="yes">
+          <source>cursive writing alphabets</source>
+          <target state="new" state-qualifier="mt-suggestion">alfabetos de escrita cursiva</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>
+		<trans-unit id="appkeyword_TracingApp_6" space="preserve" translate="yes">
+          <source>fun learning games</source>
+          <target state="new" state-qualifier="mt-suggestion">jogos de aprendizagem divertidos</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>		
+		<trans-unit id="appkeyword_TracingApp_7" space="preserve" translate="yes">
+          <source>tracing lines shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">traçando formas de linhas</target>
+          <note annotates="source" from="Science Games" priority="2">This is keyword for app description</note>
+        </trans-unit>		
+		</group>
+		</body>
+	</file>
+</xliff>

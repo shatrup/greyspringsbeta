@@ -1,0 +1,25 @@
+{
+    "name": "rws107",
+    "type": "",
+    "suffix": "rws107_",
+    "objectList": [
+        {
+            "objectId": "rws107_seaanimals_set0_fish_3",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_seaanimals_set0_fish_3_.png",
+            "w": 72.59,
+            "h": 27.56,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "rws107_seaanimals_set0_fish_4",
+            "name": "",
+            "imageUri": "common/scenes/scene107/rws107_seaanimals_set0_fish_4_.png",
+            "w": 63.7,
+            "h": 37.04,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

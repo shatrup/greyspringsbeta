@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_bubble_set1",
+    "type": "",
+    "suffix": "alphabet_bubble_set1_",
+    "objectList": [
+        {
+            "objectId": "alphabet_bubble_set1_a",
+            "name": "alphabet_a",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=a&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_b",
+            "name": "alphabet_b",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=b&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_c",
+            "name": "alphabet_c",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=c&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_d",
+            "name": "alphabet_d",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=d&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_e",
+            "name": "alphabet_e",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=e&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_f",
+            "name": "alphabet_f",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=f&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_g",
+            "name": "alphabet_g",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=g&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_h",
+            "name": "alphabet_h",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=h&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_i",
+            "name": "alphabet_i",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=i&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_j",
+            "name": "alphabet_j",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=j&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_k",
+            "name": "alphabet_k",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=k&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_l",
+            "name": "alphabet_l",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=l&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_m",
+            "name": "alphabet_m",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=m&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_n",
+            "name": "alphabet_n",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=n&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_o",
+            "name": "alphabet_o",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=o&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_p",
+            "name": "alphabet_p",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=p&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_q",
+            "name": "alphabet_q",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=q&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_r",
+            "name": "alphabet_r",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=r&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_s",
+            "name": "alphabet_s",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=s&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_t",
+            "name": "alphabet_t",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=t&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_u",
+            "name": "alphabet_u",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=u&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_v",
+            "name": "alphabet_v",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=v&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_w",
+            "name": "alphabet_w",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=w&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_x",
+            "name": "alphabet_x",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=x&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_y",
+            "name": "alphabet_y",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=y&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set1_z",
+            "name": "alphabet_z",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=z&bubbleRWOId=quizchrome_set1_bubble_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

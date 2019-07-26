@@ -1,0 +1,19 @@
+{
+    "id": "HelloPhoneticsQuiz",
+    "type": "HelloPhoneticsQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+  	"isFullBleed": true,
+    "sets": [
+    {
+      "id": "alphabet1",
+      "type": "alphabet",
+      "bgMusic": "caption_touch_word_starts_{0}",
+      "question": "caption_touch_word_starts_format",      
+      "objectSrc": "realworld_set_alphabet_set24",
+      "bgImg": "common/backgrounds/background_fullbleed/hello_phonetics_background.png",
+  	  "customKey1": "alphabet_set2",
+  	  "customKey2": "alphabet"
+    }
+  ] 
+}

@@ -1,0 +1,279 @@
+{
+	"name": "professions_animated_set1",
+	"type": "professions",
+	"suffix": "professions_animated_set1_",
+	"objectList": [
+		{
+			"objectId": "professions_animated_set1_astronaut_1",
+			"name": "astronaut",
+			"imageUri": "common/professions/animated_professions_set1/astronaut_2.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_astronaut",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/astronaut_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_chef_1",
+			"name": "chef",
+			"imageUri": "common/professions/animated_professions_set1/chef_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_chef",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/chef_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_courier_1",
+			"name": "courier_boy",
+			"imageUri": "common/professions/animated_professions_set1/courier_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_courier_boy",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/courier_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_detective_1",
+			"name": "detective",
+			"imageUri": "common/professions/animated_professions_set1/detective_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_detective",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/detective_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_doctor_1",
+			"name": "doctor",
+			"imageUri": "common/professions/animated_professions_set1/doctor_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_doctor",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/doctor_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_electrician_1",
+			"name": "electrician",
+			"imageUri": "common/professions/animated_professions_set1/electrician_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_electrician",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/electrician_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_engineer_1",
+			"name": "engineer",
+			"imageUri": "common/professions/animated_professions_set1/engineer_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_engineer",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/engineer_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_farmer_1",
+			"name": "farmer",
+			"imageUri": "common/professions/animated_professions_set1/farmer_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_farmer",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/farmer_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_fireman_1",
+			"name": "fireman",
+			"imageUri": "common/professions/animated_professions_set1/fireman_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_fireman",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/fireman_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_gardener_1",
+			"name": "gardener",
+			"imageUri": "common/professions/animated_professions_set1/gardener_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_gardener",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/gardener_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_karate_instructor_1",
+			"name": "karate_instructor",
+			"imageUri": "common/professions/animated_professions_set1/karate_instructor_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_karate_instructor",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/karate_instructor_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_soldier_1",
+			"name": "soldier",
+			"imageUri": "common/professions/animated_professions_set1/soldier_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_soldier",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/soldier_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_tailor_1",
+			"name": "tailor",
+			"imageUri": "common/professions/animated_professions_set1/tailor_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_tailor",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/tailor_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_teacher_1",
+			"name": "teacher",
+			"imageUri": "common/professions/animated_professions_set1/teacher_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_teacher",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/teacher_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_traffic_police_1",
+			"name": "traffic_police",
+			"imageUri": "common/professions/animated_professions_set1/traffic_police_2.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_traffic_police",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/traffic_police_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_vet_1",
+			"name": "vet",
+			"imageUri": "common/professions/animated_professions_set1/vet_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_veterinary_doctor",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/vet_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "professions_animated_set1_waiter_1",
+			"name": "waiter",
+			"imageUri": "common/professions/animated_professions_set1/waiter_1.png",
+			"w": 237.159,
+			"h": 237.159,
+			"audioId": "profession_waiter",
+			"noofframes": 2,
+			"frameformat": "common/professions/animated_professions_set1/waiter_{0}.png",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		}
+	]
+}

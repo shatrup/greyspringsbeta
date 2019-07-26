@@ -1,0 +1,245 @@
+{
+	"name": "shape_animated_set1",
+	"type": "shape",
+	"suffix": "shape_animated_set1_",
+	"objectList": [
+		{
+			"objectId": "shape_animated_set1_circle",
+			"name": "shape_circle",
+			"imageUri" : "common/shapes/animated_shapes_set1/circle_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "circle",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/circle_{0}.png",
+            "audioId": "shape_circle",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_triangle",
+			"name": "shape_triangle",
+			"imageUri" : "common/shapes/animated_shapes_set1/triangle_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "triangle",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/triangle_{0}.png",
+            "audioId": "shape_triangle",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_rectangle",
+			"name": "shape_rectangle",
+			"imageUri" : "common/shapes/animated_shapes_set1/rectangle_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "rectangle",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/rectangle_{0}.png",
+            "audioId": "shape_rectangle",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_square",
+			"name": "shape_square",
+			"imageUri" : "common/shapes/animated_shapes_set1/square_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "square",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/square_{0}.png",
+            "audioId": "shape_square",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_pentagon",
+			"name": "shape_pentagon",
+			"imageUri" : "common/shapes/animated_shapes_set1/pentagon_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "pentagon",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/pentagon_{0}.png",
+            "audioId": "shape_pentagon",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_hexagon",
+			"name": "shape_hexagon",
+			"imageUri" : "common/shapes/animated_shapes_set1/hexagon_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "hexagon",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/hexagon_{0}.png",
+            "audioId": "shape_hexagon",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_octagon",
+			"name": "shape_octagon",
+			"imageUri" : "common/shapes/animated_shapes_set1/octagon_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "octagon",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/octagon_{0}.png",
+            "audioId": "shape_octagon",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_star",
+			"name": "shape_star",
+			"imageUri" : "common/shapes/animated_shapes_set1/star_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "star",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/star_{0}.png",
+            "audioId": "shape_star",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_heart",
+			"name": "shape_heart",
+			"imageUri" : "common/shapes/animated_shapes_set1/heart_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "heart",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/heart_{0}.png",
+            "audioId": "shape_heart",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_diamond",
+			"name": "shape_diamond",
+			"imageUri" : "common/shapes/animated_shapes_set1/diamond_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "diamond",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/diamond_{0}.png",
+            "audioId": "shape_diamond",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_oval",
+			"name": "shape_oval",
+			"imageUri" : "common/shapes/animated_shapes_set1/oval_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "oval",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/oval_{0}.png",
+            "audioId": "shape_oval",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_semicircle",
+			"name": "shape_semicircle",
+			"imageUri" : "common/shapes/animated_shapes_set1/semicircle_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "semicircle",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/semicircle_{0}.png",
+            "audioId": "shape_semicircle",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_crescent",
+			"name": "shape_crescent",
+			"imageUri" : "common/shapes/animated_shapes_set1/crescent_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "crescent",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/crescent_{0}.png",
+            "audioId": "shape_crescent",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		},
+		{
+			"objectId": "shape_animated_set1_trapezium",
+			"name": "shape_trapezium",
+			"imageUri" : "common/shapes/animated_shapes_set1/trapezium_1.png",
+			"w": 249.246,
+			"h": 249.246,
+			"shape": "trapezium",
+			"noofframes": 4,
+			"frameformat": "common/shapes/animated_shapes_set1/trapezium_{0}.png",
+            "audioId": "shape_trapezium",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "frameAnimation"
+				}
+			]
+		}
+	]
+}

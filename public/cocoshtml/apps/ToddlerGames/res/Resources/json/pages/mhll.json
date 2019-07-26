@@ -1,0 +1,86 @@
+{
+	"title": "Mary had a little lamb",
+	"bgaudio": "kindergarten8/rhymes/audio/mhll/mhll.mp3",
+	"bgimage": "kindergarten8/rhymes/images/mhll/background.png",
+	"lyrics": "Mary had a little lamb, \n Little lamb, little lamb, \n Mary had a little lamb, \n Its fleece was white as snow \n Everywhere that Mary went, \n Mary went, Mary went, \n Everywhere that Mary went \n The lamb was sure to go.",
+	"objects": [
+		{
+			"x": 363,
+			"y": 55,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "birds.png",
+			"sound": "kindergarten8/rhymes/audio/common/crow.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 807,
+			"y": 10,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "sun.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 175,
+			"y": 130,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 526,
+			"y": 77,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude2.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1074,
+			"y": 40,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 357,
+			"y": 322,
+			"dir": "kindergarten8/rhymes/images/mhll/",
+			"image": "mary.png",
+			"sound": "kindergarten8/rhymes/audio/common/laugh.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 495,
+			"y": 492,
+			"dir": "kindergarten8/rhymes/images/mhll/",
+			"image": "lamb.png",
+			"sound": "kindergarten8/rhymes/audio/common/sheep.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 581,
+			"y": 504,
+			"dir": "kindergarten8/rhymes/images/mhll/",
+			"image": "hand1.png",
+			"position": "absolute",
+			"animation": "none"
+		},
+		{
+			"x": 520,
+			"y": 548,
+			"dir": "kindergarten8/rhymes/images/mhll/",
+			"image": "hand2.png",
+			"position": "absolute",
+			"animation": "none"
+		}
+	]	
+}

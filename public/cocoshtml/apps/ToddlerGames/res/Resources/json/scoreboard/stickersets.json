@@ -1,0 +1,550 @@
+{
+    "sets": [
+        {
+            "category": "Animals",
+            "completeness": 0,
+            "stickers": [
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/animals/sticker_1.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/animals/sticker_2.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/animals/sticker_3.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/animals/sticker_4.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/animals/sticker_5.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/animals/sticker_6.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/animals/sticker_7.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/animals/sticker_8.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/animals/sticker_9.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/animals/sticker_10.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/animals/sticker_11.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/animals/sticker_12.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/animals/sticker_13.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/animals/sticker_14.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/animals/sticker_15.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/animals/sticker_16.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/animals/sticker_17.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/animals/sticker_18.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/animals/sticker_19.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/animals/sticker_20.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/animals/sticker_21.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/animals/sticker_22.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/animals/sticker_23.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/animals/sticker_24.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/animals/sticker_25.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/animals/sticker_26.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/animals/sticker_27.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/animals/sticker_28.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/animals/sticker_29.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/animals/sticker_30.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/animals/sticker_31.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/animals/sticker_32.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/animals/sticker_33.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/animals/sticker_34.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/animals/sticker_35.png",
+                    "isearned": false
+                }
+            ],
+            "earnedstickers": []
+        },
+        {
+            "category": "Birds",
+            "completeness": 0,
+            "stickers": [
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/birds/sticker_1.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/birds/sticker_2.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/birds/sticker_3.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/birds/sticker_4.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/birds/sticker_5.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/birds/sticker_6.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/birds/sticker_7.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/birds/sticker_8.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/birds/sticker_9.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/birds/sticker_10.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/birds/sticker_11.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/birds/sticker_12.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/birds/sticker_13.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/birds/sticker_14.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/birds/sticker_15.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/birds/sticker_16.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/birds/sticker_17.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/birds/sticker_18.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/birds/sticker_19.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/birds/sticker_20.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/birds/sticker_21.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/birds/sticker_22.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/birds/sticker_23.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/birds/sticker_24.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/birds/sticker_25.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/birds/sticker_26.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/birds/sticker_27.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/birds/sticker_28.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/birds/sticker_29.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/birds/sticker_30.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/birds/sticker_31.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/birds/sticker_32.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/birds/sticker_33.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/birds/sticker_34.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/birds/sticker_35.png",
+                    "isearned": false
+                }
+            ],
+            "earnedstickers": []
+        },
+        {
+            "category": "Candies",
+            "completeness": 0,
+            "stickers": [
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/candies/sticker_1.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/candies/sticker_2.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/candies/sticker_3.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/candies/sticker_4.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/candies/sticker_5.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/candies/sticker_6.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/candies/sticker_7.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/candies/sticker_8.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/candies/sticker_9.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/candies/sticker_10.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/candies/sticker_11.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/candies/sticker_12.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/candies/sticker_13.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/candies/sticker_14.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/candies/sticker_15.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/candies/sticker_16.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/candies/sticker_17.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/candies/sticker_18.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/candies/sticker_19.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/candies/sticker_20.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/blue.png",
+                    "sticker": "common/stickers/candies/sticker_21.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/darkpink.png",
+                    "sticker": "common/stickers/candies/sticker_22.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/green.png",
+                    "sticker": "common/stickers/candies/sticker_23.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/khakhi.png",
+                    "sticker": "common/stickers/candies/sticker_24.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/lightblue.png",
+                    "sticker": "common/stickers/candies/sticker_25.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/candies/sticker_26.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/candies/sticker_27.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/candies/sticker_28.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/candies/sticker_29.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/candies/sticker_30.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/orange.png",
+                    "sticker": "common/stickers/candies/sticker_31.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/peacock.png",
+                    "sticker": "common/stickers/candies/sticker_32.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/pink.png",
+                    "sticker": "common/stickers/candies/sticker_33.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/red.png",
+                    "sticker": "common/stickers/candies/sticker_34.png",
+                    "isearned": false
+                },
+                {
+                    "bg": "common/chrome/stickerboard/yellow.png",
+                    "sticker": "common/stickers/candies/sticker_35.png",
+                    "isearned": false
+                }
+            ],
+            "earnedstickers": []
+        }
+    ]
+}

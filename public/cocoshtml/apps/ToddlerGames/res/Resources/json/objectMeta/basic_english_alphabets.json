@@ -1,0 +1,241 @@
+{
+    "name": "basic_english_alphabets",
+    "type": "word",
+    "suffix": "basic_english_alphabets_",
+    "objectList": [
+        {
+            "objectId": "basic_english_alphabets_A",
+            "name": "word_A",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=ED1164&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=A&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "a",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_B",
+            "name": "word_B",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=B2D235&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=B&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "b",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_C",
+            "name": "word_C",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=F9A01B&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=C&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "c",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_D",
+            "name": "word_D",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00FFCE&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=D&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "d",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_E",
+            "name": "word_E",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=CD00FF&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=E&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "e",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_F",
+            "name": "word_F",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00EDFF&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=F&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "f",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_G",
+            "name": "word_G",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FF5408&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=G&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "g",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_H",
+            "name": "word_H",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=ED1164&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=H&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "h",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_I",
+            "name": "word_I",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=B2D235&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=I&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "i",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_J",
+            "name": "word_J",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FFC60B&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=J&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "j",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_K",
+            "name": "word_K",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=F9A01B&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=K&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "k",
+            "color": ""
+        },
+		{
+            "objectId": "basic_english_alphabets_L",
+            "name": "word_L",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00FFCE&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=L&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "l",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_M",
+            "name": "word_M",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=CD00FF&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=M&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "m",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_N",
+            "name": "word_N",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00EDFF&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=N&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "n",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_O",
+            "name": "word_O",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FF5408&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=O&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "o",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_P",
+            "name": "word_P",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=ED1164&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=P&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "p",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_Q",
+            "name": "word_Q",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=B2D235&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=Q&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "q",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_R",
+            "name": "word_R",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FFC60B&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=R&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "r",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_S",
+            "name": "word_S",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=F9A01B&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=S&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "s",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_T",
+            "name": "word_T",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00FFCE&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=T&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "t",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_U",
+            "name": "word_U",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=CD00FF&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=U&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "u",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_V",
+            "name": "word_V",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00EDFF&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=V&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "v",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_W",
+            "name": "word_W",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FF5408&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=W&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "w",
+            "color": ""
+        },
+		 {
+            "objectId": "basic_english_alphabets_X",
+            "name": "word_X",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=ED1164&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=X&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "x",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_Y",
+            "name": "word_Y",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=B2D235&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=Y&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "y",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_alphabets_Z",
+            "name": "word_Z",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FFC60B&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=Z&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "text": "z",
+            "color": ""
+        }
+    ]
+}

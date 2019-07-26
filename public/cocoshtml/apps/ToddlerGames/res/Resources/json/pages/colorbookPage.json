@@ -1,0 +1,18 @@
+{
+	"id": "rhymesHolderPage",
+    "title": "ms-resource:Caption_Colorbook",
+	"bgAudio": "/audio/canvasBGMusic.mp3",
+    "panel": {
+        "clusters": [
+			  {
+				"name": "ColorBookClusterControl",
+                "title": "Colorbook",
+                "type": "ColorBookClusterControl",
+                "requestUri": "/data/pageJson/colorBookCluster.json",
+				"options": {
+					"isBleed": true
+				}
+            }
+        ]
+    }
+}

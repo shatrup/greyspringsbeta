@@ -1,0 +1,39 @@
+{
+	"id": "kindergarten8",
+    "title": "ms-resource:PageTitle_Kindergarten8",
+	"bgAudio": "/audio/home.mp3",
+    "panel": {
+        "clusters": [
+            {
+				"name": "alphabetCluster",
+                "title": "Alphabets",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/alphabetCluster.json"
+            },
+			{
+				"name":"numberCluster",
+                "title": "numberCluster",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/numberCluster.json"
+			},
+			{
+			    "name": "rhymesCluster",
+                "title": "rhymesCluster",
+                "type": "ClusterControl",
+                 "requestUri": "pageJson/rhymesCluster.json"
+			},
+			{
+			    "name": "playCluster",
+                "title": "playCluster",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/playCluster.json"
+			},
+			{
+			    "name": "chartsCluster",
+                "title": "chartsCluster",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/chartsCluster.json"
+			}
+        ]
+    }
+}

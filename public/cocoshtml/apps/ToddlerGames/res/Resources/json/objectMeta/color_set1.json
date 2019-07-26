@@ -1,0 +1,97 @@
+{
+    "name": "color_set1",
+    "type": "color",
+    "suffix": "color_set1_",
+    "objectList": [
+        {
+            "objectId": "color_set1_black",
+            "name": "color_black",
+            "imageUri": "common/colors/color_set1/color_set1_black.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_blue",
+            "name": "color_blue",
+            "imageUri": "common/colors/color_set1/color_set1_blue.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_brown",
+            "name": "color_brown",
+            "imageUri": "common/colors/color_set1/color_set1_brown.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_green",
+            "name": "color_black",
+            "imageUri": "common/colors/color_set1/color_set1_green.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_grey",
+            "name": "color_grey",
+            "imageUri": "common/colors/color_set1/color_set1_grey.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_orange",
+            "name": "color_orange",
+            "imageUri": "common/colors/color_set1/color_set1_orange.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_pink",
+            "name": "color_pink",
+            "imageUri": "common/colors/color_set1/color_set1_pink.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_purple",
+            "name": "color_purple",
+            "imageUri": "common/colors/color_set1/color_set1_purple.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_red",
+            "name": "color_red",
+            "imageUri": "common/colors/color_set1/color_set1_red.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_set1_yellow",
+            "name": "color_yellow",
+            "imageUri": "common/colors/color_set1/color_set1_yellow.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

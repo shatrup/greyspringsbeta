@@ -1,0 +1,133 @@
+{
+    "id": "NumberCountQuiz",
+    "type": "NumberCountQuiz",
+    "bgMusic": "caption_count_objects",
+    "question": "caption_count_format",
+    "complexity": "low",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "id": "set_1",
+      "bgImg" : "common/scenes/scene168/baby_burger_backbground.png",
+	  "objectSrc": "common/scenes/scene168/baby_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+	{
+      "id": "set_2",
+      "bgImg" : "common/scenes/scene168/baby_burger_backbground.png",
+	  "objectSrc": "common/scenes/scene168/burger_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_3",
+      "bgImg" : "common/scenes/scene168/blue_background.png",
+	  "objectSrc": "common/scenes/scene168/igloo_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_4",
+      "bgImg" : "common/scenes/scene168/blue_background.png",
+	  "objectSrc": "common/scenes/scene168/rat_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_5",
+      "bgImg" : "common/scenes/scene168/yellow_background.png",
+	  "objectSrc": "common/scenes/scene168/mushroom_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_6",
+      "bgImg" : "common/scenes/scene168/yellow_background.png",
+	  "objectSrc": "common/scenes/scene168/tortoise_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_7",
+      "bgImg" : "common/scenes/scene168/green_background.png",
+	  "objectSrc": "common/scenes/scene168/sun_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_8",
+      "bgImg" : "common/scenes/scene168/green_background.png",
+	  "objectSrc": "common/scenes/scene168/lime_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_9",
+      "bgImg" : "common/scenes/scene168/purple_background.png",
+	  "objectSrc": "common/scenes/scene168/peacock_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_10",
+      "bgImg" : "common/scenes/scene168/purple_background.png",
+	  "objectSrc": "common/scenes/scene168/porcupine_frame_{0}.png",
+	  "customKey1": "max_count_10"
+    },
+    {
+      "id": "set_11",
+      "bgImg" : "common/scenes/scene168/brown_background.png",
+	  "objectSrc": "common/scenes/scene168/rainbow_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_12",
+      "bgImg" : "common/scenes/scene168/brown_background.png",
+	  "objectSrc": "common/scenes/scene168/lamp_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_13",
+      "bgImg" : "common/scenes/scene168/lightgreen_background.png",
+	  "objectSrc": "common/scenes/scene168/watermelon_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_14",
+      "bgImg" : "common/scenes/scene168/lightgreen_background.png",
+	  "objectSrc": "common/scenes/scene168/fruits_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_15",
+      "bgImg" : "common/scenes/scene168/lightgreen_background.png",
+	  "objectSrc": "common/scenes/scene168/cake_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_16",
+      "bgImg" : "common/scenes/scene168/lightgreen_background.png",
+	  "objectSrc": "common/scenes/scene168/pig_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_17",
+      "bgImg" : "common/scenes/scene168/darkgreen_background.png",
+	  "objectSrc": "common/scenes/scene168/monster_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_18",
+      "bgImg" : "common/scenes/scene168/darkgreen_background.png",
+	  "objectSrc": "common/scenes/scene168/umbrella_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_19",
+      "bgImg" : "common/scenes/scene168/blue_background.png",
+	  "objectSrc": "common/scenes/scene168/octopus_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    },
+    {
+      "id": "set_20",
+      "bgImg" : "common/scenes/scene168/blue_background.png",
+	  "objectSrc": "common/scenes/scene168/crab_frame_{0}.png",
+	  "customKey1": "max_count_20"
+    }
+    ] 
+}
+
+
+

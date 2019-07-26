@@ -1,0 +1,43 @@
+{
+    "name": "crayon_set5",
+    "type": "crayon",
+    "suffix": "crayon_set5_",
+    "objectList": [
+        {
+            "objectId": "crayon_set5_crayon_1",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/base_crayons.png",
+			"w": 14.171,
+			"h": 91.696,
+            "shape": "",
+            "color": "4"
+        },
+        {
+            "objectId": "crayon_set5_crayon_2",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/base_crayons.png",
+			"w": 14.171,
+			"h": 91.696,
+            "shape": "",
+            "color": "2"
+        },
+        {
+            "objectId": "crayon_set5_crayon_3",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/base_crayons.png",
+			"w": 14.171,
+			"h": 91.696,
+            "shape": "",
+            "color": "9"
+        },
+        {
+            "objectId": "crayon_set5_crayon_4",
+            "name": "crayon",
+            "imageUri": "common/chrome/quiz/base_crayons.png",
+			"w": 14.171,
+			"h": 91.696,
+            "shape": "",
+            "color": "0"
+        }
+    ]
+}

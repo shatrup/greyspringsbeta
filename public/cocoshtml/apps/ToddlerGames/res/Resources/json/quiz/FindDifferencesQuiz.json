@@ -1,0 +1,625 @@
+{
+	"question": "caption_spot_two_pictures",
+    "bgMusic": "caption_spot_two_pictures",
+    "directory": "playground/find_four_differences",
+    "titleBGColor": "727AA1",
+	"isFullBleed": true,
+    "sets": [
+		{
+            "name": "set_31",
+            "background": "/set_31/background_31.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 80,
+                    "y": 76,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 175,
+                    "y": 117,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 230,
+                    "y": 120,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 170,
+                    "y": 245,
+                    "size": "small",
+                    "order": 10
+                },
+                {
+                    "name": "object_5.png",
+                    "x": 120,
+                    "y": 285,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_6.png",
+                    "x": 0,
+                    "y": 158,
+                    "size": "small",
+                    "order": 10
+                }		
+            ]
+        },
+		{
+            "name": "set_32",
+            "background": "/set_32/background_32.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 132,
+                    "y": 50,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 19,
+                    "y": 130,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 180,
+                    "y": 264,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 113,
+                    "y": 263,
+                    "size": "small",
+                    "order": 10
+                }		
+            ]
+        },
+		{
+            "name": "set_21",
+            "background": "/set_21/background_21.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 198,
+                    "y": 140,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 20,
+                    "y": 100,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 184,
+                    "y": 76,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 210,
+                    "y": 41,
+                    "size": "small",
+                    "order": 0
+                }		
+            ]
+        },
+		{
+            "name": "set_22",
+            "background": "/set_22/background_22.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 223,
+                    "y": 144,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 115,
+                    "y": 84,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 10,
+                    "y": 129,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 156,
+                    "y": 224,
+                    "size": "small",
+                    "order": 0
+                }		
+            ]
+        },
+		{
+            "name": "set_33",
+            "background": "/set_33/background_33.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 10,
+                    "y": 240,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 5,
+                    "y": 46,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 174,
+                    "y": 46,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 135,
+                    "y": 190,
+                    "size": "small",
+                    "order": 10
+                },
+                {
+                    "name": "object_5.png",
+                    "x": 80,
+                    "y": 122,
+                    "size": "small",
+                    "order": 0
+                }	
+            ]
+        },
+		{
+            "name": "set_23",
+            "background": "/set_23/background_23.png",
+			"maxDifference": 3,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 30,
+                    "y": 73,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 125,
+                    "y": 52,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 180,
+                    "y": 226,
+                    "size": "small",
+                    "order": 0
+                }		
+            ]
+        },
+		{
+            "name": "set_24",
+            "background": "/set_24/background_24.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 120,
+                    "y": 261,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 130,
+                    "y": 105,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 225,
+                    "y": 43,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 10,
+                    "y": 60,
+                    "size": "small",
+                    "order": 0
+                }			
+            ]
+        },
+		{
+            "name": "set_34",
+            "background": "/set_34/background_34.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 180,
+                    "y": 280,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 5,
+                    "y": 275,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 63,
+                    "y": 98,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 170,
+                    "y": 40,
+                    "size": "small",
+                    "order": 10
+                },
+                {
+                    "name": "object_5.png",
+                    "x": 8,
+                    "y": 155,
+                    "size": "small",
+                    "order": 0
+                }	
+            ]
+        },
+		{
+            "name": "set_25",
+            "background": "/set_25/background_25.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 160,
+                    "y": 41,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 10,
+                    "y": 41,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 230,
+                    "y": 41,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 87,
+                    "y": 221,
+                    "size": "small",
+                    "order": 0
+                }			
+            ]
+        },
+		{
+            "name": "set_26",
+            "background": "/set_26/background_26.png",
+			"maxDifference": 2,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 95,
+                    "y": 120,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 118,
+                    "y": 162,
+                    "size": "small",
+                    "order": 2
+                }		
+            ]
+        },
+		{
+            "name": "set_27",
+            "background": "/set_27/background_27.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 78,
+                    "y": 65,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 10,
+                    "y": 50,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 20,
+                    "y": 154,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 200,
+                    "y": 63,
+                    "size": "small",
+                    "order": 2
+                }	
+            ]
+        },
+		{
+            "name": "set_35",
+            "background": "/set_35/background_35.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 90,
+                    "y": 123,
+                    "size": "small",
+                    "order": 10
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 3,
+                    "y": 53,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 180,
+                    "y": 225,
+                    "size": "small",
+                    "order": 0
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 5,
+                    "y": 220,
+                    "size": "small",
+                    "order": 10
+                }
+            ]
+        },
+		{
+            "name": "set_28",
+            "background": "/set_28/background_28.png",
+			"maxDifference": 3,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 224,
+                    "y": 58,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 222,
+                    "y": 141,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 133,
+                    "y": 122,
+                    "size": "small",
+                    "order": 2
+                }
+            ]
+        },
+		{
+            "name": "set_29",
+            "background": "/set_29/background_29.png",
+			"maxDifference": 4,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 169,
+                    "y": 141,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 45,
+                    "y": 192,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 234,
+                    "y": 65,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 63,
+                    "y": 60,
+                    "size": "small",
+                    "order": 2
+                }
+            ]
+        },
+		{
+            "name": "set_30",
+            "background": "/set_30/background_30.png",
+			"maxDifference": 3,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 5,
+                    "y": 100,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 82,
+                    "y": 170,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 165,
+                    "y": 260,
+                    "size": "small",
+                    "order": 2
+                }
+            ]
+        },
+		{
+            "name": "set_36",
+            "background": "/set_36/background_36.png",
+			"maxDifference": 2,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 150,
+                    "y": 138,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 19,
+                    "y": 159,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 18,
+                    "y": 264,
+                    "size": "small",
+                    "order": 2
+                }
+            ]
+        },
+		{
+            "name": "set_37",
+            "background": "/set_37/background_37.png",
+			"maxDifference": 3,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 55,
+                    "y": 70,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 67,
+                    "y": 238,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 115,
+                    "y": 44,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 70,
+                    "y": 153,
+                    "size": "small",
+                    "order": 2
+                }
+            ]
+        },
+		{
+            "name": "set_38",
+            "background": "/set_38/background_38.png",
+			"maxDifference": 3,
+            "objects": [
+                {
+                    "name": "object_1.png",
+                    "x": 8,
+                    "y": 50,
+                    "size": "small",
+                    "order": 1
+                },
+                {
+                    "name": "object_2.png",
+                    "x": 100,
+                    "y": 45,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_3.png",
+                    "x": 4,
+                    "y": 240,
+                    "size": "small",
+                    "order": 2
+                },
+                {
+                    "name": "object_4.png",
+                    "x": 121,
+                    "y": 259,
+                    "size": "small",
+                    "order": 2
+                }
+            ]
+        }
+	]
+}

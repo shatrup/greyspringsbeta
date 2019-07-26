@@ -1,0 +1,41 @@
+{
+    "id": "SeaWonderQuiz",
+    "type": "SeaWonderQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+    "sets": [
+    {
+      "id": "rws163",
+      "type": "color",
+      "bgImg" : "common/scenes/scene163/rws163_background.png",      
+      "bgMusic": "caption_touch_the_sea_animals",
+      "question": "caption_touch_the_sea_animals",
+      "objectSrc": "RealWorldScene_163",
+      "customKey1": "sea_animal_set10_large",
+      "customKey2": "",
+	  "isFullBleed":true
+    },
+	{
+      "id": "rws175",
+      "type": "color",
+      "bgImg" : "common/scenes/scene175/rws175_background.png",      
+      "bgMusic": "caption_touch_the_sea_animals",
+      "question": "caption_touch_the_sea_animals",
+      "objectSrc": "RealWorldScene_175",
+      "customKey1": "sea_animal_set10_large",
+      "customKey2": "",
+	  "isFullBleed":true
+    },
+	{
+      "id": "rws176",
+      "type": "color",
+      "bgImg" : "common/scenes/scene176/rws176_background.png",      
+      "bgMusic": "caption_touch_the_sea_animals",
+      "question": "caption_touch_the_sea_animals",
+      "objectSrc": "RealWorldScene_176",
+      "customKey1": "sea_animal_set10_large",
+      "customKey2": "",
+	  "isFullBleed":true
+    }
+  ] 
+}

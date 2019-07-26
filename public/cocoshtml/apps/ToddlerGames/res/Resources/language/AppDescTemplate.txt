@@ -1,0 +1,85 @@
+@@appname_APPNAME@@
+@@appname_part1_APPNAME@@
+@@appname_part2_APPNAME@@
+@@apptag_APPNAME@@
+@@appdesc_APPNAME@@
+
+** @@appfeature_header@@
+  1. @@appfeature_common1@@
+  2. @@appfeature_common2@@
+  3. @@appfeature_common3@@
+  4. @@appfeature_common4@@
+  5. @@appfeature_common5@@
+
+** @@appskill_header@@
+  1. @@appskill_APPNAME_1@@
+  2. @@appskill_APPNAME_2@@
+  3. @@appskill_common1@@
+  4. @@appskill_common2@@
+  5. @@appskill_common3@@
+  6. @@appskill_common4@@
+  7. @@appskill_common5@@
+  8. @@appskill_common6@@
+  9. @@appskill_common7@@
+ 10. @@appskill_common8@@
+ 11. @@appskill_common9@@
+ 12. @@appskill_common10@@
+
+** @@appdesc_gameslist_header@@
+QUIZLIST
+
+** @@appdesc_about_header@@
+** @@appdesc_about_line1@@
+** @@appdesc_about_line2@@
+** @@appdesc_appsuite_header@@
+ 1. @@apptitle_gskids_PreschoolGames@@
+ 2. @@apptitle_gskids_PreschoolBasics@@
+ 3. @@apptitle_gskids_PreschoolNumbers@@
+ 4. @@apptitle_gskids_PreschoolLetters@@
+ 5. @@apptitle_gskids_ShapesAndColors@@
+ 6. @@apptitle_gskids_ToddlerGames@@
+ 7. @@apptitle_gskids_WordGames@@ 
+ 8. @@apptitle_gskids_MathGames@@ 
+
+** @@appdesc_privacy_header@@
+ 1. @@appdesc_privacy_line1@@
+ 2. @@appdesc_privacy_line2@@ 
+
+** Keywords:
+@@appkeyword_APPNAME_1@@, 
+@@appkeyword_APPNAME_2@@, 
+@@appkeyword_APPNAME_3@@, 
+@@appkeyword_APPNAME_4@@, 
+@@appkeyword_APPNAME_5@@, 
+@@appkeyword_APPNAME_6@@,
+@@appkeyword_APPNAME_8@@, 
+@@appkeyword_APPNAME_9@@, 
+@@appkeyword_APPNAME_10@@, 
+@@appkeyword_APPNAME_11@@, 
+@@appkeyword_APPNAME_12@@,  
+@@appkeyword_APPNAME_13@@, 
+@@appkeyword_APPNAME_14@@, 
+@@appkeyword_APPNAME_15@@, 
+@@appkeyword_APPNAME_16@@, 
+@@appkeyword_APPNAME_17@@, 
+@@appkeyword_APPNAME_18@@, 
+@@appkeyword_APPNAME_19@@, 
+@@appkeyword_APPNAME_20@@,  
+@@appkeyword_APPNAME_21@@, 
+@@appkeyword_APPNAME_22@@,  
+@@appkeyword_APPNAME_23@@, 
+@@appkeyword_APPNAME_24@@, 
+@@appkeyword_APPNAME_25@@, 
+@@appkeyword_APPNAME_26@@, 
+@@appkeyword_APPNAME_27@@, 
+@@appkeyword_APPNAME_28@@, 
+@@appkeyword_APPNAME_29@@, 
+@@appkeyword_APPNAME_30@@, 
+@@appkeyword_APPNAME_31@@, 
+@@appkeyword_APPNAME_32@@, 
+@@appkeyword_common_1@@, 
+@@appkeyword_common_2@@, 
+@@appkeyword_common_3@@, 
+@@appkeyword_common_4@@, 
+@@appkeyword_common_5@@, 
+@@appkeyword_common_6@@

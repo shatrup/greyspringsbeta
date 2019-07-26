@@ -1,0 +1,25 @@
+{
+    "name": "rws125",
+    "type": "",
+    "suffix": "rws125_",
+    "objectList": [
+        {
+            "objectId": "rws125_insects_butterfly_1",
+            "name": "",
+            "imageUri": "common/scenes/scene125/rws125_insects_butterfly_1.png",
+            "w": 58.37,
+            "h": 42.07,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "rws125_insects_snail_0",
+            "name": "",
+            "imageUri": "common/scenes/scene125/rws125_insects_snail_0.png",
+            "w": 52.44,
+            "h": 45.33,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

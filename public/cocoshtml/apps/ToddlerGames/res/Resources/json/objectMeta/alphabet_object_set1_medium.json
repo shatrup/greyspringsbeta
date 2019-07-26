@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_object_set1_medium",
+    "type": "alphabet",
+    "suffix": "alphabet_object_set1_medium_",
+    "objectList": [
+        {
+            "objectId": "alphabet_object_set1_medium_giraffe",
+            "name": "alphabet_giraffe",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_giraffe.png",
+            "w": 23.758,
+            "h": 42.514,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_xiphias",
+            "name": "alphabet_xiphias",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_xiphias.png",
+            "w": 47.515,
+            "h": 12.087,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_cat",
+            "name": "alphabet_cat",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_cat.png",
+            "w": 47.515,
+            "h": 42.514,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_rabbit",
+            "name": "alphabet_rabbit",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_rabbit.png",
+            "w": 23.341,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_penguin",
+            "name": "alphabet_penguin",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_penguin.png",
+            "w": 46.265,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_fox",
+            "name": "alphabet_fox",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_fox.png",
+            "w": 47.098,
+            "h": 42.514,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_snake",
+            "name": "alphabet_snake",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_snake.png",
+            "w": 27.509,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_kangaroo",
+            "name": "alphabet_kangaroo",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_kangaroo.png",
+            "w": 27.509,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_quail",
+            "name": "alphabet_quail",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_quail.png",
+            "w": 47.515,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_yak",
+            "name": "alphabet_yak",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_yak.png",
+            "w": 47.098,
+            "h": 37.929,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_dog",
+            "name": "alphabet_dog",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_dog.png",
+            "w": 47.515,
+            "h": 43.764,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_bee",
+            "name": "alphabet_bee",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_bee.png",
+            "w": 42.93,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_jaguar",
+            "name": "alphabet_jaguar",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_jaguar.png",
+            "w": 47.515,
+            "h": 35.011,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_lion",
+            "name": "alphabet_lion",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_lion.png",
+            "w": 44.598,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_owl",
+            "name": "alphabet_owl",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_owl.png",
+            "w": 43.764,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_tiger",
+            "name": "alphabet_tiger",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_tiger.png",
+            "w": 47.515,
+            "h": 45.431,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_zebra",
+            "name": "alphabet_zebra",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_zebra.png",
+            "w": 45.014,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_ant",
+            "name": "alphabet_ant",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_ant.png",
+            "w": 28.759,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_hippopotamus",
+            "name": "alphabet_hippopotamus",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_hippopotamus.png",
+            "w": 47.098,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_newt",
+            "name": "alphabet_newt",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_newt.png",
+            "w": 32.51,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_unicorn",
+            "name": "alphabet_unicorn",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_unicorn.png",
+            "w": 43.764,
+            "h": 47.098,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_worm",
+            "name": "alphabet_worm",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_worm.png",
+            "w": 47.515,
+            "h": 27.509,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_iguana",
+            "name": "alphabet_iguana",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_iguana.png",
+            "w": 47.098,
+            "h": 42.93,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_elephant",
+            "name": "alphabet_elephant",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_elephant.png",
+            "w": 47.515,
+            "h": 35.428,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_monkey",
+            "name": "alphabet_monkey",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_monkey.png",
+            "w": 47.515,
+            "h": 42.514,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_object_set1_medium_vole",
+            "name": "alphabet_vole",
+            "imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_medium/alphabet_object_set1_medium_vole.png",
+            "w": 47.098,
+            "h": 41.263,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "matter_states_set3_large",
+    "type": "gas",
+    "suffix": "matter_states_set3_large_",
+    "objectList": [
+          {
+                    "objectId": "matter_states_set3_large_smoke",
+                    "name": "smoke",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_large/matter_states_set3_large_smoke.png",
+                    "w": 82.11,
+                    "h": 36.262,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_large_fumes",
+                    "name": "fumes",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_large/matter_states_set3_large_fumes.png",
+                    "w": 45.431,
+                    "h": 80.026,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_large_cloud",
+                    "name": "cloud",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_large/matter_states_set3_large_cloud.png",
+                    "w": 81.693,
+                    "h": 42.514,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_large_steam",
+                    "name": "steam",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_large/matter_states_set3_large_steam.png",
+                    "w": 81.276,
+                    "h": 59.602,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set3_large_hot_air",
+                    "name": "hot air",
+                    "imageUri": "common/matter_states/matter_states_set3/matter_states_set3_large/matter_states_set3_large_hot_air.png",
+                    "w": 79.192,
+                    "h": 81.693,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "HalvesAndDoublesQuiz",
+    "type": "HalvesAndDoublesQuiz",
+    "complexity": "medium",
+    "qsBgColor": "BDCB31",
+    "bgImg" : "common/scenes/scene106/rws106_background_fullbleed.png",
+	"bgMusic": "caption_drag_spots_find_{0}_{1}",
+	"question": "caption_drag_spots_find_{0}_{1}",
+	"isFullBleed": true,
+	"sets": [
+    {
+      "id": "set0",
+      "type": "half",
+	  "objectSrc": "realworld_set_number_set20_medium",
+	  "includeObjectIds": ["number_set20_medium_2","number_set20_medium_4","number_set20_medium_6","number_set20_medium_8","number_set20_medium_10"]
+    },
+	{
+	  "id": "set1",
+	  "type": "double",
+	  "objectSrc": "realworld_set_number_set20_medium",
+	  "includeObjectIds": ["number_set20_medium_1","number_set20_medium_2","number_set20_medium_3","number_set20_medium_4","number_set20_medium_5"]
+	}
+  ] 
+}

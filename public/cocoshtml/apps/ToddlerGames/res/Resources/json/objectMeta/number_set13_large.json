@@ -1,0 +1,107 @@
+{
+    "name": "number_set13_large",
+    "type": "number",
+    "suffix": "number_set13_large_",
+    "objectList": [
+        {
+			"objectId": "number_set13_large_0",
+			"name": "number_0",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_0.png",
+			"w": 64.604,
+			"h": 82.943,
+			"audioId": "number_0",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_1",
+			"name": "number_1",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_1.png",
+			"w": 47.932,
+			"h": 82.943,
+			"audioId": "number_1",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_2",
+			"name": "number_2",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_2.png",
+			"w": 65.438,
+			"h": 83.36,
+			"audioId": "number_2",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_3",
+			"name": "number_3",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_3.png",
+			"w": 55.434,
+			"h": 82.943,
+			"audioId": "number_3",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_4",
+			"name": "number_4",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_4.png",
+			"w": 57.102,
+			"h": 82.943,
+			"audioId": "number_4",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_5",
+			"name": "number_5",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_5.png",
+			"w": 62.103,
+			"h": 83.36,
+			"audioId": "number_5",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_6",
+			"name": "number_6",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_6.png",
+			"w": 55.018,
+			"h": 82.943,
+			"audioId": "number_6",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_7",
+			"name": "number_7",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_7.png",
+			"w": 55.018,
+			"h": 82.943,
+			"audioId": "number_7",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_8",
+			"name": "number_8",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_8.png",
+			"w": 50.016,
+			"h": 82.943,
+			"audioId": "number_8",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_large_9",
+			"name": "number_9",
+			"imageUri": "common/numbers/number_set13/number_set13_large/number_set13_large_9.png",
+			"w": 62.937,
+			"h": 82.943,
+			"audioId": "number_9",
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

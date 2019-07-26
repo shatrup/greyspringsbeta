@@ -1,0 +1,109 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Vegetable Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_ShapesChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/circle.png",
+						"text": "Circle",
+						"clicktarget" : "ms-audio://data/shapes/audio/circle.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/triangle.png",
+						"text": "Triangle",
+						"clicktarget" : "ms-audio://data/shapes/audio/triangle.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/rectangle.png",
+						"text": "Rectangle",
+						"clicktarget" : "ms-audio://data/shapes/audio/rectangle.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/square.png",
+						"text": "Square",
+						"clicktarget" : "ms-audio://data/shapes/audio/square.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/pentagon.png",
+						"text": "Pentagon",
+						"clicktarget" : "ms-audio://data/shapes/audio/pentagon.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/hexagon.png",
+						"text": "Hexagon",
+						"clicktarget" : "ms-audio://data/shapes/audio/hexagon.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/octagon.png",
+						"text": "Octagon",
+						"clicktarget" : "ms-audio://data/shapes/audio/octagon.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/star.png",
+						"text": "Star",
+						"clicktarget" : "ms-audio://data/shapes/audio/star.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/heart.png",
+						"text": "Heart",
+						"clicktarget" : "ms-audio://data/shapes/audio/heart.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/diamond.png",
+						"text": "Diamond",
+						"clicktarget" : "ms-audio://data/shapes/audio/diamond.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/shapes/images/oval.png",
+						"text": "Oval",
+						"clicktarget" : "ms-audio://data/shapes/audio/oval.mp3"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,111 @@
+{
+    "name": "animal_set13",
+    "type": "animal",
+    "suffix": "animal_set13_",
+    "objectList": [
+		{
+			"objectId": "animal_set13_elephant",
+			"name": "elephant",
+			"imageUri": "common/animals/animal_set13/animal_set13_elephant.png",
+			"w": 273.004,
+			"h": 213.402,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveRight"
+				}
+			]
+		},
+		{
+			"objectId": "animal_set13_giraffe",
+			"name": "giraffe",
+			"imageUri": "common/animals/animal_set13/animal_set13_giraffe.png",
+			"w": 225.072,
+			"h": 265.085,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveRight"
+				}
+			]
+		},
+		{
+			"objectId": "animal_set13_lion",
+			"name": "lion",
+			"imageUri": "common/animals/animal_set13/animal_set13_lion.png",
+			"w": 250.914,
+			"h": 270.92,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			]
+		},
+		{
+			"objectId": "animal_set13_monkey",
+			"name": "monkey",
+			"imageUri": "common/animals/animal_set13/animal_set13_monkey.png",
+			"w": 240.91,
+			"h": 207.983,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveRight"
+				}
+			]
+		},
+		{
+			"objectId": "animal_set13_pig",
+			"name": "pig",
+			"imageUri": "common/animals/animal_set13/animal_set13_pig.png",
+			"w": 273.421,
+			"h": 226.322,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			]
+		},
+		{
+			"objectId": "animal_set13_rabbit",
+			"name": "rabbit",
+			"imageUri": "common/animals/animal_set13/animal_set13_rabbit.png",
+			"w": 232.158,
+			"h": 222.571,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			]
+		},
+		{
+			"objectId": "animal_set13_rhino",
+			"name": "rhino",
+			"imageUri": "common/animals/animal_set13/animal_set13_rhino.png",
+			"w": 271.337,
+			"h": 168.387,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			]
+		},
+		{
+			"objectId": "animal_set13_sheep",
+			"name": "sheep",
+			"imageUri": "common/animals/animal_set13/animal_set13_sheep.png",
+			"w": 277.172,
+			"h": 239.66,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "moveLeft"
+				}
+			]
+		}
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "StarPaintQuiz",
+    "type": "StarPaintQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+    "sets": [
+    {
+      "id": "bug_color",
+      "type": "color",
+      "bgImg" : "common/backgrounds/background_fullbleed/background_paintball.png",      
+      "bgMusic": "caption_touch_all_the_stars",
+      "question": "caption_touch_all_the_stars",      
+      "objectSrc": "star_big",
+      "customKey1": "color",
+      "customKey2": ""
+    }
+  ] 
+}

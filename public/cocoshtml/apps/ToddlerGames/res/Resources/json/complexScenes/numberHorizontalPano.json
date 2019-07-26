@@ -1,0 +1,73 @@
+{
+	"id" : "numbers_background_1",
+	"width" : 3976,
+	"height" : 320,
+	"objectsList" : 
+	[
+		{
+			"id" : "backlayer_screen_1",
+			"type" : "decorative",
+			"imgSrc" : "kindergarten8/numbers/background/backlayer_screen_1.png",
+			"x" : 284,
+			"y" : 160,
+			"zIndex" : 0,
+			"componentsList": []
+		},
+		{
+			"id" : "backlayer_screen_2",
+			"type" : "decorative",
+			"imgSrc" : "kindergarten8/numbers/background/backlayer_screen_2.png",
+			"x" : 859,
+			"y" : 160,
+			"zIndex" : 0,
+			"raiseEvents": ["ontouch"],
+                        "ontouch": ["executeAudio", "executeFrameAnimation"]
+			"componentsList": []
+		},
+		{
+			"id" : "backlayer_screen_3",
+			"type" : "decorative",
+			"imgSrc" : "kindergarten8/numbers/background/backlayer_screen_3.png",
+			"x" : 1435,
+			"y" : 160,
+			"zIndex" : 0,
+			"componentsList": []
+		},
+		{
+			"id" : "backlayer_screen_4",
+			"type" : "decorative",
+			"imgSrc" : "kindergarten8/numbers/background/backlayer_screen_4.png",
+			"x" : 2011,
+			"y" : 160,
+			"zIndex" : 0,
+			"componentsList": []
+		},
+		{
+			"id" : "backlayer_screen_5",
+			"type" : "decorative",
+			"imgSrc" : "kindergarten8/numbers/background/backlayer_screen_5.png",
+			"x" : 2587,
+			"y" : 160,
+			"zIndex" : 0,
+			"componentsList": []
+		},
+		{
+			"id" : "backlayer_screen_6",
+			"type" : "decorative",
+			"imgSrc" : "kindergarten8/numbers/background/backlayer_screen_6.png",
+			"x" : 3161,
+			"y" : 160,
+			"zIndex" : 0,
+			"componentsList": []
+		},
+		{
+			"id" : "backlayer_screen_7",
+			"type" : "decorative",
+			"imgSrc" : "kindergarten8/numbers/background/backlayer_screen_7.png",
+			"x" : 3737,
+			"y" : 160,
+			"zIndex" : 0,
+			"componentsList": []
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+    "name": "basic_english_words_set50",
+    "type": "word",
+    "suffix": "basic_english_words_set50_",
+    "objectList": [
+        {
+            "objectId": "basic_english_words_set50_if",
+            "name": "word_if",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=ED1164&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=if&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_is",
+            "name": "word_is",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=B2D235&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=is&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_in",
+            "name": "word_in",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FFC60B&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=in&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_it",
+            "name": "word_it",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=F9A01B&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=it&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_am",
+            "name": "word_am",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00FFCE&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=am&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_an",
+            "name": "word_an",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=CD00FF&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=an&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_at",
+            "name": "word_at",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=00EDFF&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=at&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_as",
+            "name": "word_as",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FF5408&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=as&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_of",
+            "name": "word_of",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=ED1164&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=of&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_on",
+            "name": "word_on",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=B2D235&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=on&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "basic_english_words_set50_or",
+            "name": "word_or",
+            "imageUri": "potsprite://colorballSprite?bgId=quizchrome_set1_ball_large_outer_white&bgColor=FFC60B&boxId=quizchrome_set1_ball_large&foregroundId=quizchrome_set1_ball_large_outer_white_cover&title=or&titleFontSize=48",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

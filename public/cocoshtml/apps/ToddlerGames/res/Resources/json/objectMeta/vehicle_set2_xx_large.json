@@ -1,0 +1,124 @@
+{
+    "name": "vehicle_set2_xx_large",
+    "type": "vehicle",
+    "suffix": "vehicle_set2_xx_large_",
+    "objectList": [
+        {
+            "objectId": "vehicle_set2_xx_large_aeroplane",
+            "name": "vehicle_aeroplane",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_aeroplane.png",
+            "w": 272.17,
+            "h": 195.479,
+            "text": "sky",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_ambulance",
+            "name": "vehicle_ambulance",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_ambulance.png",
+            "w": 271.754,
+            "h": 151.715,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_boat",
+            "name": "vehicle_boat",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_boat.png",
+            "w": 229.24,
+            "h": 271.754,
+            "text": "water",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_bulldozer",
+            "name": "vehicle_bulldozer",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_bulldozer.png",
+            "w": 271.754,
+            "h": 138.378,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_car",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_car.png",
+            "w": 271.754,
+            "h": 170.471,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_crane",
+            "name": "vehicle_crane",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_crane.png",
+            "w": 272.17,
+            "h": 244.662,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_cycle",
+            "name": "vehicle_cycle",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_cycle.png",
+            "w": 273.004,
+            "h": 150.465,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_helicopter",
+            "name": "vehicle_helicopter",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_helicopter.png",
+            "w": 271.754,
+            "h": 217.986,
+            "text": "sky",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_jeep",
+            "name": "vehicle_jeep",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_jeep.png",
+            "w": 272.587,
+            "h": 235.492,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_school_bus",
+            "name": "vehicle_bus",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_school_bus.png",
+            "w": 271.754,
+            "h": 157.967,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_scooter",
+            "name": "vehicle_scooter",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_scooter.png",
+            "w": 273.004,
+            "h": 226.322,
+            "text": "land_1",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_ship",
+            "name": "vehicle_ship",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_ship.png",
+            "w": 272.587,
+            "h": 227.156,
+            "text": "water",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set2_xx_large_truck",
+            "name": "vehicle_truck",
+            "imageUri": "common/vehicles/vehicle_set2/vehicle_set2_xx_large/vehicle_set2_xx_large_truck.png",
+            "w": 273.004,
+            "h": 135.043,
+            "text": "land_1",
+            "color": ""
+        }
+    ]
+}

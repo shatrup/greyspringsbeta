@@ -1,0 +1,142 @@
+{
+	"title": "Games Book",
+	"type": "ClusterControl",
+	"viewBlocks": [{
+		"type": "GSPGHomeTilesListViewBlock",
+		"data": [
+			{
+				"type": "smallTileTemplateV2",
+				"name": "LearnToWriteWords",
+				"title": "tiletitle_WordGames_LearnToWriteWords",
+				"data": {
+					"titleImg": "common/tiles/tile_word_app/word_game_trace_the_words.png",
+					"image": "common/tiles/tile_word_app/shadow_matching_tile.png",
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteWords}",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "SequentialMatchTheShadow",
+				"title": "tiletitle_WordGames_HelloPhoneticsQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=SequentialMatchTheShadow}",
+					"titleImg": "common/tiles/tile_alphabets/shadow_matching_alphabets_tile_name.png",
+					"image": "common/tiles/tile_word_app/sequential_word_formation_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "HelloPhoneticsQuiz",
+				"title": "tiletitle_WordGames_HelloPhoneticsQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HelloPhoneticsQuiz}",
+					"titleImg": "common/tiles/tile_alphabets/hello_phonetics_alphabets_tile_name.png",
+					"image": "common/tiles/tile_alphabets/hello_phonetics_alphabets_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "ColorBallsQuiz",
+				"title": "tiletitle_WordGames_ColorBallsQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ColorBallsQuiz}",
+					"titleImg": "common/tiles/tile_word_app/color_ball_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/color_ball_word_app_tile_2.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "VerticalMatchQuiz",
+				"title": "tiletitle_WordGames_VerticalMatchQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=VerticalMatchQuiz}",
+					"titleImg": "common/tiles/tile_word_app/vertical_match_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/vertical_match_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "ThemeBingoQuiz",
+				"title": "tiletitle_WordGames_ThemeBingoQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ThemeBingoQuiz}",
+					"titleImg": "common/tiles/tile_word_app/bingo_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/bingo_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "OddOneOutV2Quiz",
+				"title": "tiletitle_WordGames_OddOneOutV2Quiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=OddOneOutV2Quiz}",
+					"titleImg": "common/tiles/tile_word_app/odd_one_out_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/odd_one_out_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "BasicCrossWordQuiz",
+				"title": "tiletitle_WordGames_BasicCrossWordQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BasicCrossWordQuiz}",
+					"titleImg": "common/tiles/tile_word_app/crossword_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/crossword_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "MonkeyQuiz",
+				"title": "tiletitle_WordGames_MonkeyQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=MonkeyQuiz}",
+					"titleImg": "common/tiles/tile_word_app/complete_the_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/complete_the_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "RhymingObjectsQuiz",
+				"title": "tiletitle_WordGames_RhymingObjectsQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=RhymingObjectsQuiz}",
+					"titleImg": "common/tiles/tile_word_app/rhyming_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/rhyming_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "MatchItemsGridV2Quiz",
+				"title": "tiletitle_WordGames_MatchItemsGridV2Quiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=MatchItemsGridV2Quiz}",
+					"titleImg": "common/tiles/tile_word_app/letter_grid_word_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/letter_grid_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			},
+			{
+				"name": "WordRecognitionQuiz",
+				"title": "tiletitle_WordGames_WordRecognitionQuiz",
+				"type": "smallTileTemplateV2",
+				"data": {
+					"clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=WordRecognitionQuiz}",
+					"titleImg": "common/tiles/tile_word_app/find_the_rhyme_app_tile_name.png",
+					"image": "common/tiles/tile_word_app/find_the_rhyme_word_app_tile.png",
+					"backgroundColor": "9E1E62"
+				}
+			}
+		]
+	}],
+	"id": "GamesHolderCluster"
+}

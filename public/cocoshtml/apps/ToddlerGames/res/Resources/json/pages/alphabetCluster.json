@@ -1,0 +1,39 @@
+{
+	"id": "Alphabets01",
+    "title": "Alphabets",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "kindergarten8/common/images/alphabet_fullview.png",
+						"title": "ms-resource:GameTileTitle_Alphabets",
+						"clicktarget": "appprotocol://page?id=alphabetBigObjectsListPage&type=alphabets",
+						"backgroundColor": "003366"
+					}
+				},
+		        {
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/alphabet_chart.png",
+						"title": "ms-resource:GameTileTitle_AlphabetChart",
+						"clicktarget": "appprotocol://page?id=alphabetChartPage&type=alphabets",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "kindergarten8/common/images/alphabet_quiz.png",
+						"title": "ms-resource:GameTileTitle_AlphabetBalloonQuiz",
+						"clicktarget": "appprotocol://page?id=PlayGroundPage&type=balloon&subtype=alphabets",
+						"backgroundColor": "F2F2F2"
+					}
+				}				 
+			]
+		}
+	]
+}

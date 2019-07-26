@@ -1,0 +1,70 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/othersTile400x800.jpg",
+						"title": "ms-resource:Others_Tile",
+						"clicktarget" : "appprotocol://page?id=colorsOtherPage",
+						"overlayId": "gsPaintRateUs"
+					}
+				},
+				   {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/72.png",
+                        "title": "ms-resource:Insect_Bee",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=72&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/73.png",
+                        "title": "Umbrella",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=73&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/74.png",
+                        "title": "Mermaid",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=74&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/75.png",
+                        "title": "Fairy",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=75&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/76.png",
+                        "title": "Angel",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=76&layout=vertical"
+                    }
+                },
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsOtherPage",
+						"overlayId": "gsPaintRateUs"
+					}
+				}
+			]
+		}
+	]
+}

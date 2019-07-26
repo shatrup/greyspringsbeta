@@ -1,0 +1,291 @@
+{
+    "id": "numbersChartCluster",
+    "title": "Numbers Chart",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ChartViewBlock",
+            "options": {
+                "layout": ""
+            },
+            "data": [
+                {
+                    "type": "wideHeaderTemplate",
+                    "data": {
+                        "title": "ms-resource:Caption_NumbersChart"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "1",
+                        "alpha": "One",
+                        "clicktarget": "ms-audio://data/numbers/audio/1.mp3",
+                        "color": "009999"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "2",
+                        "alpha": "Two",
+                        "clicktarget": "ms-audio://data/numbers/audio/2.mp3",
+                        "color": "99cc33"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "3",
+                        "alpha": "Three",
+                        "clicktarget": "ms-audio://data/numbers/audio/3.mp3",
+                        "color": "996600"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "4",
+                        "alpha": "Four",
+                        "clicktarget": "ms-audio://data/numbers/audio/4.mp3",
+                        "color": "ff66cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "5",
+                        "alpha": "Five",
+                        "clicktarget": "ms-audio://data/numbers/audio/5.mp3",
+                        "color": "ff9900"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "6",
+                        "alpha": "Six",
+                        "clicktarget": "ms-audio://data/numbers/audio/6.mp3",
+                        "color": "3399cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "7",
+                        "alpha": "Seven",
+                        "clicktarget": "ms-audio://data/numbers/audio/7.mp3",
+                        "color": "ff66cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "8",
+                        "alpha": "Eight",
+                        "clicktarget": "ms-audio://data/numbers/audio/8.mp3",
+                        "color": "339933"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "9",
+                        "alpha": "Nine",
+                        "clicktarget": "ms-audio://data/numbers/audio/9.mp3",
+                        "color": "009999"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "10",
+                        "alpha": "Ten",
+                        "clicktarget": "ms-audio://data/numbers/audio/10.mp3",
+                        "color": "99cc33"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "11",
+                        "alpha": "Eleven",
+                        "clicktarget": "ms-audio://data/numbers/audio/11.mp3",
+                        "color": "996600"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "12",
+                        "alpha": "Twelve",
+                        "clicktarget": "ms-audio://data/numbers/audio/12.mp3",
+                        "color": "ff66cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "13",
+                        "alpha": "Thirteen",
+                        "clicktarget": "ms-audio://data/numbers/audio/13.mp3",
+                        "color": "ff9900"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "14",
+                        "alpha": "Fourteen",
+                        "clicktarget": "ms-audio://data/numbers/audio/14.mp3",
+                        "color": "3399cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "15",
+                        "alpha": "Fifteen",
+                        "clicktarget": "ms-audio://data/numbers/audio/15.mp3",
+                        "color": "ff66cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "16",
+                        "alpha": "Sixteen",
+                        "clicktarget": "ms-audio://data/numbers/audio/16.mp3",
+                        "color": "339933"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "17",
+                        "alpha": "Seventeen",
+                        "clicktarget": "ms-audio://data/numbers/audio/17.mp3",
+                        "color": "009999"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "18",
+                        "alpha": "Eighteen",
+                        "clicktarget": "ms-audio://data/numbers/audio/18.mp3",
+                        "color": "99cc33"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "19",
+                        "alpha": "Ninteen",
+                        "clicktarget": "ms-audio://data/numbers/audio/19.mp3",
+                        "color": "996600"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "20",
+                        "alpha": "Twenty",
+                        "clicktarget": "ms-audio://data/numbers/audio/20.mp3",
+                        "color": "ff66cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "21",
+                        "alpha": "Twenty One",
+                        "clicktarget": "ms-audio://data/numbers/audio/21.mp3",
+                        "color": "ff9900"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "22",
+                        "alpha": "Twenty Two",
+                        "clicktarget": "ms-audio://data/numbers/audio/22.mp3",
+                        "color": "3399cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "23",
+                        "alpha": "Twenty Three",
+                        "clicktarget": "ms-audio://data/numbers/audio/23.mp3",
+                        "color": "339933"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "24",
+                        "alpha": "Twenty Four",
+                        "clicktarget": "ms-audio://data/numbers/audio/24.mp3",
+                        "color": "009999"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "25",
+                        "alpha": "Twenty Five",
+                        "clicktarget": "ms-audio://data/numbers/audio/25.mp3",
+                        "color": "99cc33"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "26",
+                        "alpha": "Twenty Six",
+                        "clicktarget": "ms-audio://data/numbers/audio/26.mp3",
+                        "color": "996600"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "27",
+                        "alpha": "Twenty Seven",
+                        "clicktarget": "ms-audio://data/numbers/audio/27.mp3",
+                        "color": "ff66cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "28",
+                        "alpha": "Twenty Eight",
+                        "clicktarget": "ms-audio://data/numbers/audio/28.mp3",
+                        "color": "ff9900"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "29",
+                        "alpha": "Twenty Nine",
+                        "clicktarget": "ms-audio://data/numbers/audio/29.mp3",
+                        "color": "3399cc"
+                    }
+                },
+                {
+                    "type": "numberChartTemplate",
+                    "data": {
+                        "number": "30",
+                        "alpha": "Thirty",
+                        "clicktarget": "ms-audio://data/numbers/audio/30.mp3",
+                        "color": "339933"
+                    }
+                }
+            ]
+        }
+    ]
+}

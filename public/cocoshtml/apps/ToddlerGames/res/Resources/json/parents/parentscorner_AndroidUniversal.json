@@ -1,0 +1,164 @@
+{
+    "title": "parentszone_parentscorner",
+    "companyName": "Greysprings",
+    "website": "http://www.greysprings.com",
+    "privacyUrl": "http://www.greysprings.com/privacy",
+    "designers": "pthakur@greysprings.com, maharaj@greysprings.com, kangkan@greysprings.com",
+    "sections": [{
+        "id": "actions",
+        "title" : "section_actions",
+        "list": [{
+            "id": "gopremium",
+            "title": "caption_buyfullversion",
+            "imgSrc": "common/chrome/buttons/go_premium_button.png",
+            "target": "appprotocol://parentsgopremium"
+        },
+		{
+            "id": "rateus",
+            "title": "word_rateus",
+            "imgSrc": "common/chrome/buttons/rate_us_button.png",
+            "target": "appprotocol://parents_rateus"
+        },
+		{
+            "id": "promocode",
+            "title": "button_text_redeem_promo_code",
+            "imgSrc": "common/chrome/buttons/go_premium_button.png"
+        },
+        {
+            "id": "sound",
+            "title": "word_sound"
+        },
+        {
+            "id": "music",
+            "title": "word_music"
+        }
+        ]
+    }, {
+        "id": "offers",
+        "title" : "section_offers",
+        "list": [{
+            "id": "rateus",
+            "title": "offer_rateus",
+            "imgSrc": "appprotocol://gopremium",
+            "desc": ""
+        }, {
+            "id": "gopremium",
+            "title": "offer_gopremium",
+            "imgSrc": "appprotocol://rateus",
+            "desc": ""
+        }]
+    }, {
+        "id": "moreapps",
+        "title" : "section_moreapps",
+        "list": [
+		{
+            "id": "ToddlerGames",
+            "title": "apptitle_gskids_ToddlerGames",
+            "imgSrc": "common/chrome/crossapp/ToddlerGames/logo_wide.png",
+            "target": "market://details?id=com.greysprings.kidstoddlergames",
+            "desc": "appdesc_ToddlerGames"
+        },
+		{
+            "id": "PreschoolBasics",
+            "title": "apptitle_gskids_PreschoolBasics",
+            "imgSrc": "common/chrome/crossapp/PreschoolBasics/logo_wide.png",
+            "target": "market://details?id=com.greysprings.kindergarten8",
+            "desc": "appdesc_PreschoolBasics"
+        },
+		{
+            "id": "PreschoolGames",
+            "title": "apptitle_gskids_PreschoolGames",
+            "imgSrc": "common/chrome/crossapp/PreschoolGames/logo_wide.png",
+            "target": "market://details?id=com.greysprings.games",
+            "desc": "appdesc_PreschoolGames"
+        },
+		{
+            "id": "PreschoolLetters",
+            "title": "apptitle_gskids_PreschoolLetters",
+            "imgSrc": "common/chrome/crossapp/PreschoolLetters/logo_wide.png",
+            "target": "market://details?id=com.greysprings.preschoolletters",
+            "desc": "appdesc_PreschoolLetters"
+        },
+		{
+            "id": "PreschoolNumbers",
+            "title": "apptitle_gskids_PreschoolNumbers",
+            "imgSrc": "common/chrome/crossapp/PreschoolNumbers/logo_wide.png",
+            "target": "market://details?id=com.greysprings.preschoolnumbers",
+            "desc": "appdesc_PreschoolNumbers"
+        },
+		{
+            "id": "ShapesAndColors",
+            "title": "apptitle_gskids_ShapesAndColors",
+            "imgSrc": "common/chrome/crossapp/ShapesAndColors/logo_wide.png",
+            "target": "market://details?id=com.greysprings.shapesandcolors",
+            "desc": "appdesc_ShapesAndColors"
+        },
+		{
+            "id": "MathGames",
+            "title": "apptitle_gskids_MathGames",
+            "imgSrc": "common/chrome/crossapp/MathGames/logo_wide.png",
+            "target": "market://details?id=com.greysprings.mathgames",
+            "desc": "appdesc_MathGames"
+        },
+		{
+            "id": "WordGames",
+            "title": "apptitle_gskids_WordGames",
+            "imgSrc": "common/chrome/crossapp/WordGames/logo_wide.png",
+            "target": "market://details?id=com.greysprings.wordgames",
+            "desc": "appdesc_WordGames"
+        },
+		{
+            "id": "JigsawGames",
+            "title": "apptitle_gskids_JigsawGames",
+            "imgSrc": "common/chrome/crossapp/JigsawGames/logo_wide.png",
+            "target": "market://details?id=com.greysprings.jigsawgames",
+            "desc": "appdesc_JigsawGames"
+        }]
+    }, {
+        "id": "social",
+        "title" : "section_followus",
+        "list": [{
+            "id": "facebook",
+            "title": "word_facebook",
+            "imgSrc": "common/chrome/social/icon_facebook.png",
+            "target": "https://www.facebook.com/greysprings"
+        }, {
+            "id": "googleplus",
+            "title": "word_googleplus",
+            "imgSrc": "common/chrome/social/icon_googleplus.png",
+            "target": "https://plus.google.com/111631486877697048983/"
+        }, {
+            "id": "twitter",
+            "title": "word_twitter",
+            "imgSrc": "common/chrome/social/icon_twitter_0.png",
+            "target": "https://twitter.com/Greysprings"
+        }, {
+            "id": "youtube",
+            "title": "word_youtube",
+            "imgSrc": "common/chrome/social/icon_youtube.png",
+            "target": "https://www.youtube.com/channel/UCSWsOyjT6cOLgizVizviMjQ"
+        }]
+    },
+    {
+        "id": "links",
+        "title" : "section_reachus",
+        "list": [{
+            "id": "website",
+            "title": "website_url",
+            "target": "http://www.greysprings.com"
+        }, {
+            "id": "privacy",
+            "title": "text_privacy_policy",
+            "target": "http://www.greysprings.com/privacy"
+        }, {
+            "id": "gsonstore",
+            "title": "text_greysprings_onstore",
+            "target": "samsungapps://search?q=pub:Greysprings"
+        },{
+            "id": "contact",
+            "title": "contact_email",
+            "target": ""
+        }]
+    }
+    ]
+}

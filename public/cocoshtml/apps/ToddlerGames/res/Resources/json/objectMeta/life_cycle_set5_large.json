@@ -1,0 +1,35 @@
+{
+    "name": "life_cycle_set5_large",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set5_large_",
+    "objectList": [
+		
+                {
+                    "objectId": "life_cycle_set5_large_frog_eggs",
+                    "name": "word_eggs",
+                    "imageUri": "common/life_cycle/life_cycle_set5/life_cycle_set5_large/life_cycle_set5_large_frog_eggs.png",
+                    "w": 72.523,
+                    "h": 83.36,
+                    "shape": "",
+                    "color": ""
+                },
+				 {
+                    "objectId": "life_cycle_set5_large_frog",
+                    "name": "word_frog",
+                    "imageUri": "common/life_cycle/life_cycle_set5/life_cycle_set5_large/life_cycle_set5_large_frog.png",
+                    "w": 83.777,
+                    "h": 80.442,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "life_cycle_set5_large_tadpole",
+                    "name": "word_tadpole",
+                    "imageUri": "common/life_cycle/life_cycle_set5/life_cycle_set5_large/life_cycle_set5_large_tadpole.png",
+                    "w": 83.36,
+                    "h": 25.842,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

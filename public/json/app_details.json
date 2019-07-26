@@ -1,0 +1,1395 @@
+{
+	"productDetailsList": [
+		{
+			"name": "Kindergarten Kids Learning",
+			"applicationId": "preschoolbasics",
+			"deepLinkUri": "android-app://com.greysprings.kindergarten8/http/products/preschoolbasics",
+			"video": "https://www.youtube.com/embed/RAWw-PeFR6o",
+			"videoCoverImage": "/images/promo_images/preschool_basics/promo_screen_1.png",
+			"description": {
+				"coverLine": "Learning games/puzzle activities for kindergarten & preschool children.To teach your kiddo abc, rhymes, counting, colors, shapes, vegetable/fruit/sports charts. The interactive learning is a great mode of education as toddlers enter kindergarten as kinesthetic learners(age 2-5 yrs).",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Alphabets charts/quiz",
+						"Numbers charts/quiz",
+						"Rhymes",
+						"Playground",
+						"Educational charts"
+					]
+				},
+				"paragraphs": [],
+				"gamesList": []
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/9226156b-7850-4297-ad17-8d702b9f826d",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kindergarten Kids Learning on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.kindergarten8",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kindergarten Kids Learning on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=3c09b632-714d-4f2c-8f67-d2330e8c45e4",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kindergarten Kids Learning on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/kindergarten-kids-learning/id817306903?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kindergarten Kids Learning on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "http://www.amazon.com/Greysprings-Kindergarten-Kids-Learning/dp/B00HZZZAT4/ref=sr_1_3?s=mobile-apps&ie=UTF8&qid=1453442626&sr=1-3",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kindergarten Kids Learning on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/preschoolbasics_icon.png",
+			"tile": "/images/product_tiles/preschool_basics_tile.png",
+			"rating": "4.27",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/preschoolbasics/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": true,
+				"promotionText": [
+					{
+						"title": "Kindergarten Kids Learning",
+						"tagline": "Learning games/puzzle activities for kindergarten & preschool children.",
+						"image": "/images/promo_images/preschool_basics/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Learn to Write: Toddlers Educational Games",
+			"applicationId": "tracingapp",
+			"deepLinkUri": "android-app://com.greysprings.tracingapp/http/products/tracingapp",
+			"video": "",
+			"videoCoverImage": "/images/promo_images/tracingapp/promo_screen_1.png",
+			"description": {
+				"coverLine": "Preschool and Kindergarten kids learn to write and trace standing/sleeping lines, shapes, ABC, Number, Spanish, Hindi Alphabets. Kids also learn the phonetics of English Alphabets while writing. Let kids learn how to write in a fun and interactive way all while they enjoy playing.",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Lines and curves",
+						"Basic shapes",
+						"Capital English Letters",
+						"Small case English Letters",
+						"Numbers",
+						"Spanish Alphabet",
+						"Hindi Varnamala"
+					]
+				},
+				"paragraphs": [
+					"The app helps enhance hand-eye coordination of toddlers and helps them to learn to draw lines, curves and some basic shapes so that they can be introduced to the concept of writing without overwhelming them. Every kid can learn at their own pace all while having fun. This app is meant for kids of age right from 3 years to 6 years and also helps them to improve their handwriting.",
+					"Pedagogy of the app is specially designed and engineered to teach kids how to write. After extensive feedback from various teachers and institutions that specialize in the same domain, we have come up with this app. It starts with the very basics and goes to complex forms very gradually. Here, the kid begins by understanding how to draw standing, sleeping and slanting lines. Slowly the kid proceeds to more complex shapes like curves, circles, square, etc. at his/her own pace, all while enjoying the experience facilitated by fun-filled animations and guidelines. Once, the kid has mastered the basics, he/she can move to alphabets, the small case as well as the capital case, numbers and even cursive writing.",
+					"The app not only provides English but also Spanish and Hindi letters. The app is packed with lots of audio-visual effects to keep children interested and engaged during the process. Pre-schoolers will quickly and intuitively pick up the shapes, alphabet, and numbers and build memory retention skills while enjoying the interactivity and sound effects associated with each activity."
+				],
+				"gamesList": [
+					"Lines and Curves: Slanting lines, vertical lines, curved lines etc.",
+					"Shapes Tracing: Curve, heart, triangles, square, rectangle, pentagon, hexagon, octagon, semi circle, star etc.",
+					"English Alphabet(Capital)",
+					"English Alphabet(Small)",
+					"Numbers",
+					"Cursive Writing",
+					"Spanish Letters",
+					"Hindi Varnamala"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "https://www.microsoft.com/store/apps/9NL4MGG11RB6",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Learn to Write: Toddlers Educational Games on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.tracingapp",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Learn to Write: Toddlers Educational Games on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "https://www.microsoft.com/store/apps/9NL4MGG11RB6",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Learn to Write: Toddlers Educational Games on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/learn-to-write-trace-abc/id1330689476?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Learn to Write: Toddlers Educational Games on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "https://www.amazon.com/Write-Learn-Toddlers-Educational-Games/dp/B0787V7RDT",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Write and Learn : Toddlers Educational Games on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/tracingapp_icon.png",
+			"tile": "/images/product_tiles/tracingapp_tile.png",
+			"rating": "4.27",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/tracingapp/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": true,
+				"promotionText": [
+					{
+						"title": "Learn to Write: Toddlers Educational Games",
+						"tagline": "Tracing activities for kindergarten & preschool children.",
+						"image": "/images/promo_images/tracingapp/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Preschool Learning Games",
+			"applicationId": "preschoolgames",
+			"deepLinkUri": "android-app://com.greysprings.games/http/products/preschoolgames",
+			"video": "https://www.youtube.com/embed/N1pd-xU5ZLY",
+			"videoCoverImage": "/images/promo_images/preschool_games/promo_screen_1.png",
+			"description": {
+				"coverLine": "Learning puzzle activities for kindergarten and preschool children to teach abc, Counting, Colors, Shapes. The preschool games are great fun and education for toddlers as they enter kindergarten as KINESTHETIC Learners​ (Age 2-6 yrs). (Appreciate touch/ feel/ experience as modes of communication).",
+				"features": {
+					"title": "Features",
+					"list": [
+						"17 colorful & engaging kids games designed to provide preschool learning precepts",
+						"Covers kids games in categories such as Numbers, Alphabets, Shapes, Sizes and Colors",
+						"A common playground for randomly playing through all the games",
+						"Easy and intuitive instructions for the kids",
+						"Stickers at the end of each game",
+						"Amazing audio effects with attractive animations"
+					]
+				},
+				"paragraphs": [
+					"A perfect app designed especially for kids (2-6 age group) to make them learn and develop holistically. Pack of 17 high quality kids games at a single place, with enticing rewards, keeps your kid amused for hours. The 17 colorful educational games aim to lay the groundwork for various skills development, such as spatial reasoning, visual perception, recognition and creativity.",
+					"Different sections such as alphabets, numbers, colors, shapes, puzzles and painting touch on the elementary preschool basics. The games encourage kids to play at their own pace. No winning and no losing keep the kid enchanted with the experience of the game. Rewards and appreciation earned at the end of each game boost the kid’s morale. Adorable stickers can be collected in a box after scoring enough points."
+				],
+				"gamesList": [
+					"Match the shadow",
+					"Count 123",
+					"Scratch to Reveal",
+					"Cow Mania",
+					"Hungry Lizzy",
+					"Tricky maze",
+					"Hide N Seek",
+					"Fill the Colors",
+					"Sort it Out",
+					"Jigsaw Puzzle",
+					"Odd one out",
+					"Bingo fun",
+					"Missing objects",
+					"Find odd items",
+					"Spot the difference",
+					"Learn to Trace"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/626545bb-69b6-45f6-8fa3-331012f8fbcc",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Preschool Learning Games on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.games",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Preschool Learning Games on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=eeb91097-0e4e-4b2b-9038-a55a91b0ae26",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Preschool Learning Games on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/kids-preschool-learning-games/id726944785?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Preschool Learning Games on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "http://www.amazon.com/Kids-Preschool-Games-Kindergarten-Activities/dp/B00GSJ6ZKG/ref=sr_1_2?s=mobile-apps&ie=UTF8&qid=1453446131&sr=1-2",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Preschool Learning Games on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/preschoolgames_icon.png",
+			"tile": "/images/product_tiles/preschool_games_tile.png",
+			"rating": "4.28",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/preschoolgames/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": true,
+				"promotionText": [
+					{
+						"title": "Kids Preschool Learning Games",
+						"tagline": "Learning puzzle activities for kindergarten and preschool children to teach abc, Counting, Colors, Shapes.",
+						"image": "/images/promo_images/preschool_games/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Games Learning Math Basic",
+			"applicationId": "mathgames",
+			"deepLinkUri": "android-app://com.greysprings.mathgames/http/products/mathgames",
+			"video": "https://www.youtube.com/embed/tEbmkvi6Zww",
+			"videoCoverImage": "/images/promo_images/math_games/promo_screen_1.png",
+			"description": {
+				"coverLine": "Maths exercises for kids in KS1 and First Grade (age 5-7 years). Features Addition, Subtraction, Fractions & Splitting, Place value and Time & Clock concepts. Learning numeracy concepts has never been so much fun.",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Fun learning app loved by kids and parents as well",
+						"Excellent game play experience with optimized techniques to help child learn while playing",
+						"Nine learning activities that will help accelerate learning",
+						"An effective and engaging way, meant for preschoolers and toddlers",
+						"Rewards and appreciation to boost our champion’s morale"
+					]
+				},
+				"paragraphs": [
+					"If You looking for free learning games so your child can have fun and learn math at the same time? look no beyond then “Learn Math Educational Games for Toddlers and Kids”. It’s a free education app designed for all ages including kids, girls and boys of age range between 2 to 5 years. This learn math app feature number of education games which teaches your kids multiplication and division games with Addition and Subtraction games all in one app in a fun and learning way.",
+					"Learning basic math concepts at early age is good and an important part of every child’s education. Books are always best way to teach kids math, but in this age of smart devices well-designed leaning educational apps and games is also a good leaning tool for kids. Learning math is fun for Preschoolers, kindergartners, toddlers, and older kids with our kids educational app and funny cool math games for kids. With help of these fun games kids can learn math concepts like counting, addition, subtraction, sorting, comparison, place values, times and clocks and more."
+				],
+				"gamesList": [
+					"Sort it out",
+					"Number Names",
+					"Tens and Ones",
+					"Even Odd",
+					"Fractional Pizza",
+					"Add Me Up",
+					"Cut it Off",
+					"Halves and Doubles",
+					"Tick Tock"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/76f09e5c-3c51-47af-9947-23cbf74f2a92",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Games Learning Math Basic on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.fun.learning.educational.cool.math.games.kids",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Games Learning Math Basic on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=90ea5394-3f29-42e8-9a79-5a64acbcea29",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Games Learning Math Basic on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/kids-games-learn-basic-math/id975978247?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Games Learning Math Basic on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "https://www.amazon.com/Kids-Math-Games-Counting-Subtraction/dp/B07B8G9ST3/ref=sr_1_4?ie=UTF8&qid=1523256277&sr=8-4",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Games Learning Math Basic on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/mathgames_icon.png",
+			"tile": "/images/product_tiles/math_games_tile.png",
+			"rating": "4.5",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/mathgames/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/mathgames/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/mathgames/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/mathgames/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/mathgames/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/mathgames/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/mathgames/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/mathgames/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Kids Learning Math Basic",
+						"tagline": "Features Addition, Subtraction, Fractions & Splitting, Place value and Time & Clock concepts.",
+						"image": "/images/promo_images/math_games/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Toddler Learning Games",
+			"applicationId": "toddlergames",
+			"deepLinkUri": "android-app://com.greysprings.kidstoddlergames/http/products/toddlergames",
+			"video": "https://www.youtube.com/embed/_MYK_mVusmA",
+			"videoCoverImage": "/images/promo_images/toddler_games/promo_screen_1.png",
+			"description": {
+				"coverLine": "Learning games/puzzles for preschool children.To teach your kiddo color,shapes,fruits,vegetables,Alphabet,abc,counting,numbers and  creatures(animals).The interactive learning is a great mode of education as toddlers enter kindergarten as kinesthetic learners (Age 2-4 years).",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Colorful games to teach kids learning basics",
+						"Frequent repetition to help children learn",
+						"Easy to use. Kids friendly interface",
+						"Beautiful stickers to earn",
+						"Free play"
+					]
+				},
+				"paragraphs": [
+					"8 high quality activities at a single place keeps the kid enchanted with the experience of the game. The learning based educational activities are perfect for kids to inculcate inquisitiveness in their early childhood.",
+					"The activities encourage kids to learn at their own pace. No winning and no losing keep the kid amused for hours. Rewards and appreciation earned at the end of each activity boost the kid’s morale. Adorable stickers can be collected in a box after scoring enough points."
+				],
+				"gamesList": [
+					"Hanging fruits",
+					"Sea Wonder",
+					"Floating bubbles",
+					"Hungry frog",
+					"Match the shadow",
+					"Scratch to reveal",
+					"Color Fun",
+					"Underwater catch",
+					"Balloon pop",
+					"Jigsaw Puzzle"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/de14d127-9d59-4bd9-9dba-aae227835ea6",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Toddler Learning Games on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.kidstoddlergames",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Toddler Learning Games on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=ebbb7a4c-1a32-43be-afaf-fe0e820499d6",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Toddler Learning Games on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/kids-toddler-learning-games/id1071362540?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Toddler Learning Games on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "https://www.amazon.com/Greysprings-Toddler-Learning-Games-Kids/dp/B0789H2CZN/ref=sr_1_6?ie=UTF8&qid=1523256277&sr=8-6",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Toddler Learning Games on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/toddlergames_icon.png",
+			"tile": "/images/product_tiles/toddler_games_tile.png",
+			"rating": "4.21",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/toddlergames/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Kids Toddler Learning Games",
+						"tagline": "Teach your kiddo color, shapes, fruits, vegetables, alphabets, counting, numbers and creatures(animals)",
+						"image": "/images/promo_images/toddler_games/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Games Learning Science",
+			"applicationId": "sciencegames",
+			"deepLinkUri": "",
+			"video": "https://www.youtube.com/embed/_h1P-q_AoJY",
+			"videoCoverImage": "/images/promo_images/science_games/promo_screen_1.png",
+			"description": {
+				"coverLine": "Enjoy fun science games for kids while learning more about science. Help kids to explore and discover the world through colourful puzzles. Let kids understand the structure and behaviour of natural world through simple and colourful activities designed in such a way that it keeps them engrossed for hours. Animations and graphics add to the rich experience.",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Healthy eating habits ",
+						"Lifecycle",
+						"Animal and homes",
+						"Easy and intuitive instructions for the kids",
+						"Stickers at the end of each game",
+						"Amazing audio effects with attractive animations"
+					]
+				},
+				"paragraphs": [],
+				"gamesList": [
+					"Health is Wealth",
+					"Growth cycle",
+					"Mum and Baby",
+					"Home Sweet Home",
+					"Float or Sink",
+					"States of Matter",
+					"Know your Senses"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/f575d39d-e62a-47dc-9a15-95afa222eb2f",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Games Learning Science on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.kids.preschool.learning.pre.primary.school.games",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Games Learning Science on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=919469e5-1021-464a-9384-0a4c9a1cc4b1",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Games Learning Science on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/kids-games-learning-science/id1339593324?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Games Learning Science on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "https://www.amazon.com/Greysprings-Science-Games/dp/B07B95LR3M/ref=sr_1_4?ie=UTF8&qid=1523250235&sr=8-4",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Games Learning Science on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/sciencegames_icon.png",
+			"tile": "/images/product_tiles/science_games_tile.png",
+			"rating": "4.4",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/sciencegames/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Kids Games Learning Science",
+						"tagline": "Enjoy fun science games for kids while learning more about science.",
+						"image": "/images/promo_images/science_games/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Learning Shapes & Colors",
+			"applicationId": "shapesandcolors",
+			"deepLinkUri": "android-app://com.greysprings.shapesandcolors/http/products/shapesandcolors",
+			"video": "https://www.youtube.com/embed/e16YymAWqVs",
+			"videoCoverImage": "/images/promo_images/shapes_and_colors/promo_screen_1.png",
+			"description": {
+				"coverLine": "Learning games for kindergarten & preschool children to teach Shapes and Colors.The fun games are a great mode of education for toddlers entering kindergarten as KINESTHETIC Learners​.(Appreciate touch/ feel/experience as modes of communication).",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Ten learning activities that will help initiate the child in Shapes & Colors concepts",
+						"An effective and engaging way, meant for preschoolers and toddlers",
+						"Excellent game play experience with optimized techniques to help child learn while playing",
+						"Rewards and appreciation to boost our champion’s morale"
+					]
+				},
+				"paragraphs": [
+					"The interactive learning methodology help kids to build motor skills and hand eye coordination as well.",
+					"Shapes & Colors Nursery games is a fusion of fun and education that kids would love to play with, again and again. The activities do not force timed completion, and hence encourage the kid to learn at his/her own pace. Kids are enchanted with the experience of the game as there is no winning and no losing."
+				],
+				"gamesList": [
+					"Hungry frog",
+					"Fill the colors",
+					"Dots to dots",
+					"Color Ball",
+					"Scratch to reveal",
+					"Match the shapes",
+					"Broken shapes",
+					"Build the toys",
+					"Match the colors",
+					"Odd one out",
+					"Honey bee",
+					"Bingo fun"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/dedc76d0-a21e-4bc1-9a3b-3a45ed593c99",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Learning Shapes & Colors on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.shapesandcolors",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Learning Shapes & Colors on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=0fcf9465-1e5e-4994-8fa9-8399cdb78c5b",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Learning Shapes & Colors on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/gs-kids!-shapes-and-colors/id897800852?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Learning Shapes & Colors on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "http://www.amazon.com/Shapes-Colors-Kindergarten-Preschool-Games-/dp/B00NHQCC4Q/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1453448293&sr=1-1",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Learning Shapes & Colors on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/shapesandcolors_icon.png",
+			"tile": "/images/product_tiles/shapes_and_colors_tile.png",
+			"rating": "4.3",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/shapesandcolors/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Toddlers Learn Shapes & Colors",
+						"tagline": "Learning games for kindergarten & preschool children to teach Shapes and Colors.",
+						"image": "/images/promo_images/shapes_and_colors/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Preschool Learn Letters",
+			"applicationId": "preschoolletters",
+			"deepLinkUri": "android-app://com.greysprings.preschoolletters/http/products/preschoolletters",
+			"video": "https://www.youtube.com/embed/pnzjWYDF1sU",
+			"videoCoverImage": "/images/promo_images/preschool_letters/promo_screen_1.png",
+			"description": {
+				"coverLine": "An English learning app to teach ABC Letters and phonics to Kindergarten & Preschool  children.Fun way  to encourage child to learn letters/Alphabets and English Phonics while playing games.",
+				"features": {
+					"title": "Features",
+					"list": [
+						"13 simple & colorful games designed to help young kids learn basics of English. ",
+						"An effective and engaging way, designed especially for kindergarten and preschoolers.",
+						"Covers preliminary English precepts such as alphabet recognition, phonics, and simple words.",
+						"Core activities for foundation stage of primary school.",
+						"A common playground for randomly playing all the games.",
+						"Easy and intuitive instructions for the young brains.",
+						"Rewards and appreciation to boost our champion’s morale."
+					]
+				},
+				"paragraphs": [
+					"The first app in our English learning series, designed especially for young kids (2-4 age group), to lay the groundwork for learning basic skills with the help of fun activities. 10 high quality activities at a single place, each focusing on a key precept of elementary English. Funny and enticing rewards keep our young learner amused for hours while introducing them to the language. The unique interactive activities are perfect for preschoolers to help them learn the language in a structured way. The activities also help build their hand-eye coordination, motor skills and concentration.",
+					"The activities do not force timed completion, and therefore encourage the kid to learn at his/her own pace. Kids are enchanted with the experience of the game as there is no winning and no losing. Appreciation and stars can be earned at the end of each activity. Adorable stickers can be collected after scoring enough points."
+				],
+				"gamesList": [
+					"Shadow matching",
+					"Color ball",
+					"Scratch to Reveal",
+					"Jigsaw alphabets",
+					"Bubbly alphabets",
+					"Bingo alphabets",
+					"Dots to dots",
+					"Odd one out",
+					"Sequence crawl",
+					"Letter hop",
+					"Sequencial shell",
+					"Hello phonics",
+					"First letter"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/28081159-2331-4d0d-ac2f-1b1f160fa3de",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Preschool Learn Letters on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.preschoolletters",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Preschool Learn Letters on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=0aa74861-a6bb-4b51-891e-2b2d7d216722",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Preschool Learn Letters on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/kids-preschool-learn-letters/id919899621?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Preschool Learn Letters on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "http://www.amazon.com/Letters-Alphabets-Preschool-Nursery-Phonics/dp/B00NHPDGLK/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1453448293&sr=1-4",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Preschool Learn Letters on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/preschoolletters_icon.png",
+			"tile": "/images/product_tiles/preschool_letters_tile.png",
+			"rating": "4.27",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/preschoolletters/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Kids Preschool Learn Letters",
+						"tagline": "An English learning app to teach ABC Letters and phonics to Kindergarten & Preschool children.",
+						"image": "/images/promo_images/preschool_letters/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Preschool Numbers & Math",
+			"applicationId": "preschoolnumbers",
+			"deepLinkUri": "android-app://com.greysprings.preschoolnumbers/http/products/preschoolnumbers",
+			"video": "https://www.youtube.com/embed/o6YFsOY9otY",
+			"videoCoverImage": "/images/promo_images/preschool_numbers/promo_screen_1.png",
+			"description": {
+				"coverLine": "Learning Number games for kids in Nursery and Montessori. Teach your preschool kids about Numbers, Number Line, Counting, Addition, Subtraction, Sorting and Matching. Learning numbers can be fun and make math easy for kids.",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Covers math topics in categories such as sorting, addition and subtraction",
+						"Twelve colorful & engaging math educational games designed to provide basic number concepts",
+						"Core activities for foundation stage of primary school kids",
+						"A common playground for randomly playing all the games",
+						"Easy and intuitive instructions for the kids",
+						"Reward at the end of each game"
+					]
+				},
+				"paragraphs": [
+					"An app designed especially for kids (2-5 age group) to lay the groundwork for learning basic math skills without losing interest. 12 high quality math activities at a single place, with enticing rewards, keeps your kid amused for hours. Educational based games are perfect for kids to inculcate inquisitiveness for math in their early childhood.",
+					"Different sections such as counting, before/after, ascending /descending, addition and subtraction etc. touch on the elementary math. The activities encourage kids to learn at their own pace. No winning and no losing keep the kid enchanted with the experience of the game. Rewards and appreciation earned at the end of each activity boost the kid’s morale. Adorable stickers can be collected in a box after scoring enough points."
+				],
+				"gamesList": [
+					"Number Fun",
+					"Shoot the Ball",
+					"Scratching Fun",
+					"Bubbly Numbers",
+					"Puzzle Mania",
+					"Dots to Dots",
+					"Hopping Frog",
+					"Same to Same",
+					"Fish Crunch",
+					"Before and After"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/e91f5938-ac7f-4b68-922d-f6b738392358",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Preschool Numbers & Math on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.preschoolnumbers",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Preschool Numbers & Math on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=586b45b2-3968-43d0-a607-a28a36a9612e",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Preschool Numbers & Math on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/kids-preschool-learning-numbers/id892282101?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Preschool Numbers & Math on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "http://www.amazon.com/Kids-Preschool-Numbers-Math-Kindergarten/dp/B00NR3GVWS/ref=sr_1_8?s=mobile-apps&ie=UTF8&qid=1453448293&sr=1-8",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Preschool Numbers & Math on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/preschoolnumbers_icon.png",
+			"tile": "/images/product_tiles/preschool_numbers_tile.png",
+			"rating": "4.22",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/preschoolnumbers/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Kids Preschool Numbers & Math",
+						"tagline": "Learning Number games for kids in Nursery and Montessori. Teach your preschool kids about Numbers, Number Line etc.",
+						"image": "/images/promo_images/preschool_numbers/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Kids Learning Word Games",
+			"applicationId": "wordgames",
+			"deepLinkUri": "android-app://com.greysprings.wordgames/http/products/wordgames",
+			"video": "",
+			"videoCoverImage": "/images/promo_images/word_games/promo_screen_1.png",
+			"description": {
+				"coverLine": "English Learning games for kindergarten & KS1 children to build vocabulary.To teach your kindergartener English Letters, phonics,english word formation,rhyming words. A fun learning app to help child read words.",
+				"features": {
+					"title": "Features",
+					"list": [
+						"A common playground for randomly playing through all the games",
+						"Easy and intuitive instructions for the kids",
+						"Stickers at the end of each game",
+						"Amazing audio effects with attractive animations"
+					]
+				},
+				"paragraphs": [],
+				"gamesList": [
+					"Color Ball",
+					"Vertical match",
+					"Bingo",
+					"Odd one out",
+					"Crossword",
+					"Complete the word",
+					"Rhyming word",
+					"Letter grid",
+					"Find the rhyme"
+				]
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/abc9a1a7-5f36-45bc-b670-166b6f60378e",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Kids Learning Word Games on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.wordgames",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Kids Learning Word Games on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=bfd637d2-9739-41cf-a29d-dcbbd51bd5bc",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Kids Learning Word Games on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Kids Learning Word Games on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "https://www.amazon.com/Kids-Educational-Word-Games-Learning/dp/B07B7MMFB9/ref=sr_1_2?ie=UTF8&qid=1523256277&sr=8-2",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Kids Learning Word Games on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/wordgames_icon.png",
+			"tile": "/images/product_tiles/word_games_tile.png",
+			"rating": "4.49",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/wordgames/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/wordgames/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/wordgames/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/wordgames/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/wordgames/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/wordgames/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/wordgames/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/wordgames/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Kids Learning Word Games",
+						"tagline": "A Learning game for preschool and KS1 children to teach English Letters, phonic concepts, word formation etc.",
+						"image": "/images/promo_images/word_games/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Jigsaw Puzzle Games",
+			"applicationId": "piratejigsaw",
+			"deepLinkUri": "android-app://com.greysprings.jigsawgames/http/products/jigsawgames",
+			"video": "https://www.youtube.com/embed/yCRLtXI_utw",
+			"videoCoverImage": "/images/promo_images/pirate_jigsaw/promo_screen_1.png",
+			"description": {
+				"coverLine": "Jigsaw puzzle games is an awesome adventure to Caribbean island to hunt hidden gold treasure with Captain Hawk & his merry band of Pirates.Join beautiful jigsaw puzzle pieces in your quest to gold.Challenges of bombs and mines on the way makes journey adventurous.",
+				"features": {
+					"title": "Features",
+					"list": [
+						"Story based progression",
+						"TChallenges of time, score and number of attempts",
+						"Increasing complexity",
+						"64 Challenging puzzles",
+						"Attractive aesthetics"
+					]
+				},
+				"paragraphs": [
+					"It’ is a family-friendly jigsaw puzzle game that caters to a wide age group of audience.It lets you relive your fantasy of being a pirate, sailing in the high seas to a Treasure Island. ",
+					"So, buckle yourself for the voyage of a lifetime with the daring Captain Hawk and his merry band of pirates as they embark on a quest to find hidden treasures. On this voyage, you will encounter several intriguing jigsaw puzzles with increasing levels of complexity. You will have to brave your way past a gigantic octopus, humble tribes of nomads and a cheerful dragon before you can eventually lay claim to the greatest treasure of ‘em all! With 64 puzzles waiting to be unlocked, gear up for an exciting experience. You are in for hours and hours of guaranteed fun!"
+				],
+				"gamesList": []
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/73ca3cd8-a3c9-4d86-a5cf-129df34fabd7",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Jigsaw Puzzle Games on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.jigsawgames",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Jigsaw Puzzle Games on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=be5e0615-8994-4824-8095-9c2c6065f520",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Jigsaw Puzzle Games on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "https://itunes.apple.com/us/app/jigsaw-puzzle-games-pirate/id999758651?ls=1&mt=8",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Jigsaw Puzzle Games on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "http://www.amazon.com/Greysprings-Jigsaw-Puzzle-Games/dp/B016BHQX2O/ref=sr_1_22?s=mobile-apps&ie=UTF8&qid=1453443465&sr=1-22&keywords=Jigsaw+Puzzle+Games",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Jigsaw Puzzle Games on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/piratejigsaw_icon.png",
+			"tile": "/images/product_tiles/pirate_jigsaw_tile.png",
+			"rating": "4.6",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_6.png",
+					"caption": "Screenshot 6"
+				},
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_7.png",
+					"caption": "Screenshot 7"
+				},
+				{
+					"image": "/images/screenshots/piratejigsaw/screenshot_8.png",
+					"caption": "Screenshot 8"
+				}
+			],
+			"promotionMeta": {
+				"active": true,
+				"promotionText": [
+					{
+						"title": "Pirate Jigsaw Puzzles",
+						"tagline": "Buckle yourself for the voyage of a lifetime with the daring Captain Hawk.",
+						"image": "/images/promo_images/pirate_jigsaw/promo_screen_1.png"
+					}
+				]
+			}
+		},
+		{
+			"name": "Learn English Words - Vocabulary builder",
+			"applicationId": "arcticalphas",
+			"deepLinkUri": "android-app://com.greysprings.crosswordgames/http/products/arcticalphas",
+			"video": "",
+			"videoCoverImage": "/images/promo_images/arctic_alphas/promo_screen_1.png",
+			"description": {
+				"coverLine": "An interactive learning app to teach word formation. Let your kid have fun and enhance English vocabulary.",
+				"features": {
+					"title": "Features",
+					"list": []
+				},
+				"paragraphs": [],
+				"gamesList": []
+			},
+			"storeMeta": [
+				{
+					"name": "Windows Store",
+					"link": "http://apps.microsoft.com/windows/app/0b6a645a-cec2-40e0-957f-9c40d538ca34",
+					"image": "/images/store_icons/link_windows_store.png",
+					"cssClass": "windows-store",
+					"alt": "Learn English Words on windows"
+				},
+				{
+					"name": "Google Play",
+					"link": "https://play.google.com/store/apps/details?id=com.greysprings.word.search.free.crossword.puzzles.games",
+					"image": "/images/store_icons/link_play_store.png",
+					"cssClass": "google-play-store",
+					"alt": "Learn English Words on Google Play"
+				},
+				{
+					"name": "Windows Phone Store",
+					"link": "http://windowsphone.com/s?appid=6d804ed4-a72c-4283-8461-49ff7f55f660",
+					"image": "/images/store_icons/link_windows_phone_store.png",
+					"cssClass": "windows-phone-store",
+					"alt": "Learn English Words on Windows Phone Store"
+				},
+				{
+					"name": "Apple AppStore",
+					"link": "",
+					"image": "/images/store_icons/link_apple_store.png",
+					"cssClass": "apple-app-store",
+					"alt": "Learn English Words on Apple AppStore"
+				},
+				{
+					"name": "Amazon Store",
+					"link": "",
+					"image": "/images/store_icons/link_amazon_store.png",
+					"cssClass": "amazon-store",
+					"alt": "Learn English Words on Amazon Store"
+				}
+			],
+			"icon": "/images/icons/arcticalpha_icon.png",
+			"tile": "/images/product_tiles/arctic_alphas_tile.png",
+			"rating": "4.8",
+			"screenshots": [
+				{
+					"image": "/images/screenshots/arcticalpha/screenshot_1.png",
+					"caption": "Screenshot 1"
+				},
+				{
+					"image": "/images/screenshots/arcticalpha/screenshot_2.png",
+					"caption": "Screenshot 2"
+				},
+				{
+					"image": "/images/screenshots/arcticalpha/screenshot_3.png",
+					"caption": "Screenshot 3"
+				},
+				{
+					"image": "/images/screenshots/arcticalpha/screenshot_4.png",
+					"caption": "Screenshot 4"
+				},
+				{
+					"image": "/images/screenshots/arcticalpha/screenshot_5.png",
+					"caption": "Screenshot 5"
+				},
+				{
+					"image": "/images/screenshots/arcticalpha/screenshot_6.png",
+					"caption": "Screenshot 6"
+				}
+			],
+			"promotionMeta": {
+				"active": false,
+				"promotionText": [
+					{
+						"title": "Learn English Words",
+						"tagline": "An interactive learning app to teach word formation. Let your kid have fun and enhance English vocabulary.",
+						"image": "/images/promo_images/arctic_alphas/promo_screen_1.png"
+					}
+				]
+			}
+		}
+	]
+}

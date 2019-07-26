@@ -1,0 +1,267 @@
+{
+	"name": "alphabet_set25_large",
+	"type": "alphabet",
+	"suffix": "alphabet_set25_large_",
+	"objectList": [
+		{
+			"objectId": "alphabet_set25_large_a",
+			"name": "alphabet_a",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_a.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_a",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_b",
+			"name": "alphabet_b",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_b.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_b",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_c",
+			"name": "alphabet_c",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_c.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_c",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_d",
+			"name": "alphabet_d",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_d.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_d",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_e",
+			"name": "alphabet_e",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_e.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_e",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_f",
+			"name": "alphabet_f",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_f.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_f",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_g",
+			"name": "alphabet_g",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_g.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_g",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_h",
+			"name": "alphabet_h",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_h.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_h",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_i",
+			"name": "alphabet_i",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_i.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_i",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_j",
+			"name": "alphabet_j",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_j.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_j",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_k",
+			"name": "alphabet_k",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_k.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_k",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_l",
+			"name": "alphabet_l",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_l.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_l",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_m",
+			"name": "alphabet_m",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_m.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_m",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_n",
+			"name": "alphabet_n",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_n.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_n",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_o",
+			"name": "alphabet_o",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_o.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_o",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_p",
+			"name": "alphabet_p",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_p.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_p",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_q",
+			"name": "alphabet_q",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_q.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_q",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_r",
+			"name": "alphabet_r",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_r.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_r",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_s",
+			"name": "alphabet_s",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_s.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_s",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_t",
+			"name": "alphabet_t",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_t.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_t",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_u",
+			"name": "alphabet_u",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_u.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_u",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_v",
+			"name": "alphabet_v",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_v.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_v",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_w",
+			"name": "alphabet_w",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_w.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_w",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_x",
+			"name": "alphabet_x",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_x.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_x",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_y",
+			"name": "alphabet_y",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_y.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_y",
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set25_large_z",
+			"name": "alphabet_z",
+			"imageUri": "common/alphabets/alphabet_set25/alphabet_set25_large/alphabet_set25_large_z.png",
+			"w": 90.446,
+			"h": 90.446,
+			"audioId": "alphabet_z",
+			"shape": "",
+			"color": ""
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "animal_set7_xx_large",
+	"type": "animal",
+	"suffix": "animal_set7_xx_large_",
+	"objectList": [
+		{
+			"objectId": "animal_set7_xx_large_kitten",
+			"name": "animal_kitten",
+			"imageUri": "common/animals/animal_set7/animal_set7_xx_large/animal_set7_xx_large_kitten.png",
+			"w": 267.169,
+			"h": 271.754,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_xx_large_puppy",
+			"name": "animal_puppy",
+			"imageUri": "common/animals/animal_set7/animal_set7_xx_large/animal_set7_xx_large_puppy.png",
+			"w": 272.587,
+			"h": 223.405,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_xx_large_calf",
+			"name": "animal_calf",
+			"imageUri": "common/animals/animal_set7/animal_set7_xx_large/animal_set7_xx_large_calf.png",
+			"w": 272.587,
+			"h": 217.153,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

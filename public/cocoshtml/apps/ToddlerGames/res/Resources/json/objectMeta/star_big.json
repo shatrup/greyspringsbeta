@@ -1,0 +1,16 @@
+{
+    "name": "star_big",
+    "type": "shape",
+    "suffix": "star_big",
+    "objectList": [
+        {
+            "objectId": "star_big",
+            "name": "star_big",
+            "imageUri": "common/chrome/quiz/star_big.png",
+            "w": 102.95,
+            "h": 92.113,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

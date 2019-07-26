@@ -1,0 +1,34 @@
+{
+    "name": "animation_set6",
+    "type": "monkey_animation",
+	"suffix": "animation_set6_",
+	"objectList": [
+		{
+			"objectId": "animation_set6_monkey_pose_1",
+			"name": "animation_set6_monkey_pose_1",
+			"imageUri": "common/chrome/animation/animation_set6/animation_set6_monkey_pose_1.png",
+			"w": 61.27,
+			"h": 64.604,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set6_monkey_pose_2",
+			"name": "animation_set6_monkey_pose_2",
+			"imageUri": "common/chrome/animation/animation_set6/animation_set6_monkey_pose_2.png",
+			"w": 73.357,
+			"h": 35.011,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set6_monkey_pose_3",
+			"name": "animation_set6_monkey_pose_3",
+			"imageUri": "common/chrome/animation/animation_set6/animation_set6_monkey_pose_3.png",
+			"w": 55.851,
+			"h": 69.189,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

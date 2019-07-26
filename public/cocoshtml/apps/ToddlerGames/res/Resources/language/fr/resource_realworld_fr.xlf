@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="fr-FR">
+    <body>
+      <group id="Games">
+        <trans-unit id="word_parents" space="preserved">
+          <source>Parents</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="fr">Parents</target>
+          <note annotates="source" from="Word" priority="2">This is word parents</note>
+        </trans-unit>
+        <trans-unit id="word_sound" space="preserved">
+          <source>Sound</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="fr">Son</target>
+          <note annotates="source" from="Miscellaneous" priority="2">Title for Sound button</note>
+        </trans-unit>
+        <trans-unit id="word_music" space="preserved">
+          <source>Music</source>
+          <target state="translated" state-qualifier="mt-suggestion" xml:lang="fr">Musique</target>
+          <note annotates="source" from="Miscellaneous" priority="2">Title for Music button</note>
+        </trans-unit>
+        <trans-unit id="word_rateus" space="preserve" translate="yes">
+          <source>Rate us</source>
+          <target state="new" state-qualifier="mt-suggestion">Donnez votre avis</target>
+          <note annotates="source" from="Miscellaneous" priority="2">Title for rate us button</note>
+        </trans-unit>
+        <trans-unit id="word_candies" space="preserve" translate="yes">
+          <source>Candies</source>
+          <target state="new" state-qualifier="mt-suggestion">Bonbons</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is word candies</note>
+        </trans-unit>
+        <trans-unit id="animal_birds" space="preserve" translate="yes">
+          <source>Birds</source>
+          <target state="new" state-qualifier="mt-suggestion">Oiseaux</target>
+          <note annotates="source" from="Animal" priority="2">This is animal birds</note>
+        </trans-unit>
+        <trans-unit id="word_animals" space="preserve" translate="yes">
+          <source>Animals</source>
+          <target state="new" state-qualifier="mt-suggestion">Animaux</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is word animals</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

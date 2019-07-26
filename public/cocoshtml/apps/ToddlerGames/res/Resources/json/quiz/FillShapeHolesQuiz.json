@@ -1,0 +1,18 @@
+{
+    "id": "CountingItemsQuiz",
+    "type": "CountingItemsQuiz",
+    "bgMusic": "caption_match_shapes_face_holes_1",
+    "question": "caption_match_shapes_face_holes_1",
+    "complexity": "low",
+    "qsBgColor": "b85749",
+    "sets": [
+      {
+        "name": "set_2",
+        "objectSrc": "realworld_set_shape_set7_large",
+        "bgImg": "common/backgrounds/background_fullbleed/background_wood_1_fullbleed.png",
+        "customKey1": "shape_set7",
+        "customKey2": "shape_set70",
+		"isFullBleed": true
+      } 
+    ] 
+}

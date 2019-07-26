@@ -1,0 +1,151 @@
+{
+    "name": "shape_set4_medium",
+    "type": "shape",
+    "suffix": "shape_set4_medium_",
+    "objectList": [
+        {
+            "objectId": "shape_set4_medium_circle",
+            "name": "shape_circle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_circle.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_crescent",
+            "name": "shape_crescent",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_crescent.png",
+            "w": 33.34,
+            "h": 47.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_diamond",
+            "name": "shape_diamond",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_diamond.png",
+            "w": 36.26,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_heart",
+            "name": "shape_heart",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_heart.png",
+            "w": 47.1,
+            "h": 40.43,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_hexagon",
+            "name": "shape_hexagon",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_hexagon.png",
+            "w": 47.1,
+            "h": 40.85,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_octagon",
+            "name": "shape_octagon",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_octagon.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_oval",
+            "name": "shape_oval",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_oval.png",
+            "w": 36.68,
+            "h": 46.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_pentagon",
+            "name": "shape_pentagon",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_pentagon.png",
+            "w": 47.52,
+            "h": 45.01,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_rectangle",
+            "name": "shape_rectangle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_rectangle.png",
+            "w": 47.1,
+            "h": 27.93,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_semicircle",
+            "name": "shape_semicircle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_semicircle.png",
+            "w": 47.93,
+            "h": 24.17,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_square",
+            "name": "shape_square",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_square.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_star",
+            "name": "shape_star",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_star.png",
+            "w": 47.52,
+            "h": 47.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_trapezium",
+            "name": "shape_trapezium",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_trapezium.png",
+            "w": 47.1,
+            "h": 21.26,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_triangle",
+            "name": "shape_triangle",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_triangle.png",
+            "w": 47.1,
+            "h": 40.85,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_triangle_1",
+            "name": "shape_triangle_1",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_triangle_1.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "shape_set4_medium_triangle_2",
+            "name": "shape_triangle_2",
+            "imageUri": "common/shapes/shape_set4/shape_set4_medium/shape_set4_medium_triangle_2.png",
+            "w": 47.52,
+            "h": 16.26,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

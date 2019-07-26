@@ -1,0 +1,17 @@
+{
+    "id": "NumberFunQuiz",
+    "type": "NumberFunQuiz",
+    "complexity": "medium",
+    "qsBgColor": "78C962",
+    "bgImg" : "common/backgrounds/background_fullbleed/background_number_fun.png",      
+    "bgMusic": "caption_count_keep_fruits_each_box",
+    "question": "caption_count_keep_fruits_each_box",      
+    "sets": [
+    {
+      "id": "set0",
+      "type": "fruits",
+      "objectSrc": "realworld_set_fruit_set1",
+      "excludeObjectIds": ["fruit_set1_banana", "fruit_set1_cherry", "fruit_set1_watermelon"]
+    }
+  ] 
+}

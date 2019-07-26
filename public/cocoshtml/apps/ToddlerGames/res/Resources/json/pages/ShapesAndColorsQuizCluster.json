@@ -1,0 +1,184 @@
+{
+    "title": "Games Book",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "GSPGHomeTilesListViewBlock",
+            "data": [
+                {
+                    "name": "ThemesInteractionQuiz",
+                    "title": "tiletitle_ShapesAndColors_ThemesInteractionQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ThemesInteractionQuiz}",
+                        "titleImg": "common/tiles/tile_shapes_colors/touch_to_light_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/touch_to_light_tile.png"
+                    }
+                },
+                {
+                    "name": "BalloonPopV3Quiz",
+                    "title": "tiletitle_ShapesAndColors_BalloonPopV3Quiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BalloonPopV3Quiz}",
+                        "titleImg": "common/tiles/tile_shapes_colors/balloon_pop_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/balloon_pop_tile.png"
+                    }
+                },
+                {
+                    "name": "HungryFrogV2Quiz",
+                    "title": "tiletitle_ShapesAndColors_HungryFrogV2Quiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HungryFrogV2Quiz}",
+                        "titleImg": "common/tiles/tile_colors/hungry_frog_fly_color_tile_name.png",
+                        "image": "common/tiles/tile_colors/hungry_frog_fly_color_tile.png"
+                    }
+                },
+                {
+                    "name": "ColorTheObjectsQuizV2",
+                    "title": "tiletitle_ShapesAndColors_ColorTheObjectsQuizV2",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&type=ColorTheObjectsQuizV2",
+                        "titleImg": "common/tiles/tile_shapes_colors/fill_the_colors_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/fill_the_colors_tile.png"
+                    }
+                },
+                {
+                    "name": "AlienColorMatchQuiz",
+                    "title": "tiletitle_ShapesAndColors_AlienColorMatchQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=AlienColorMatchQuiz}",
+                        "titleImg": "common/tiles/tile_colors/space_match_colors_tile_name.png",
+                        "image": "common/tiles/tile_colors/space_match_colors_tile.png"
+                    }
+                },
+                {
+                    "name": "ShapesMatchingQuiz",
+                    "title": "tiletitle_ShapesAndColors_ShapesMatchingQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ShapesMatchingQuiz}",
+                        "titleImg": "common/tiles/tile_shapes_colors/color_ball_shape_color_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/shape_matching_shape_color_tile.png"
+                    }
+                },
+                {
+                    "name": "BuildRobotQuiz",
+                    "title": "tiletitle_ShapesAndColors_BuildRobotQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BuildRobotQuiz}",
+                        "titleImg": "common/tiles/tile_shapes_colors/robot_factory_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/robot_factory_tile.png"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV2",
+                    "title": "tiletitle_ShapesAndColors_LearnToWriteV2",
+                    "data": {
+                        "image": "common/tiles/tile_shapes_colors/tracing_quiz_tile_rounded.png",
+	                    "titleImg":"common/tiles/tile_games/tracing_quiz_tile_name.png",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV2}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "name": "CaterpillarMatchQuiz",
+                    "title": "tiletitle_ShapesAndColors_CaterpillarMatchQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=CaterpillarMatchQuiz}",
+                        "titleImg": "common/tiles/tile_colors/caterpillar_match_colors_tile_name.png",
+                        "image": "common/tiles/tile_colors/caterpillar_match_colors_tile.png"
+                    }
+                },
+                {
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ShapesAndColors_ConnectTheDots",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDots}",
+                        "titleImg": "common/tiles/tile_numbers/dot_to_dot_tile_name.png",
+                        "image": "common/tiles/tile_numbers/dot_to_dot_tile.png"
+                    }
+                },
+                {
+                    "name": "ScratchToRevealQuiz",
+                    "title": "tiletitle_ShapesAndColors_ScratchToRevealQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&type=ScratchToRevealQuiz",
+                        "titleImg": "common/tiles/tile_shapes_colors/scratch_reveal_color_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/scratch_reveal_color_tile.png"
+                    }
+                },
+                {
+                    "name": "JoinThePiecesQuiz",
+                    "title": "tiletitle_ShapesAndColors_JoinThePiecesQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=JoinThePiecesQuiz}",
+                        "titleImg": "common/tiles/tile_shapes/broken_shapes_tile_name.png",
+                        "image": "common/tiles/tile_shapes/broken_shapes_tile.png"
+                    }
+                },
+                {
+                    "name": "BuildTheToysQuiz",
+                    "title": "tiletitle_ShapesAndColors_BuildTheToysQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BuildTheToysQuiz}",
+                        "titleImg": "common/tiles/tile_shapes/build_toys_tile_name.png",
+                        "image": "common/tiles/tile_shapes/build_toys_tile.png"
+                    }
+                },
+                {
+                    "name": "OddInGroupQuiz",
+                    "title": "tiletitle_ShapesAndColors_OddInGroupQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=OddInGroupQuiz, setname=shape_name_odd,fruit_color_odd}",
+                        "titleImg": "common/tiles/tile_shapes_colors/odd_in_group_shape_fruit_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/odd_in_group_shape_fruit_tile.png"
+                    }
+                },
+                {
+                    "name": "HopQuiz",
+                    "title": "tiletitle_ShapesAndColors_HopQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HopQuiz}",
+                        "titleImg": "common/tiles/tile_colors/honey_bee_color_tile_name.png",
+                        "image": "common/tiles/tile_colors/honey_bee_color_tile.png"
+                    }
+                },
+                {
+                    "name": "BingoQuiz",
+                    "title": "tiletitle_ShapesAndColors_BingoQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=BingoQuiz}",
+                        "titleImg": "common/tiles/tile_shapes_colors/bingo_shape_color_tile_name.png",
+                        "image": "common/tiles/tile_shapes_colors/bingo_shape_color_tile.png"
+                    }
+                },
+                {
+                    "name": "LearnToTrace",
+                    "title": "tiletitle_ShapesAndColors_LearnToTrace",
+                    "type": "promoTileTemplate",
+                    "data": {
+                        "clicktarget": "promocluster://tile/?appId=ShapesAndColors&tileId=HomePage_PromotionTile_2",
+                        "titleImg": "common/tiles/tile_games/tracing_quiz_tile_name.png",
+                        "image": "common/tiles/tile_games/tracing_quiz_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                }
+            ]
+        }
+    ],
+    "id": "GamesHolderCluster"
+}

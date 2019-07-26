@@ -1,0 +1,37 @@
+{
+    "quizList": [
+    {
+        "id": "ColorBallsQuiz",
+        "premium": false
+    },		
+ 	{
+        "id": "VerticalMatchQuiz",
+        "premium": false	
+    },	
+    {
+        "id": "WordRecognitionQuiz",
+        "premium": false
+    },
+    {
+        "id": "BasicCrossWordQuiz",
+        "premium": false
+    },	
+    {
+        "id": "MatchItemsGridV2Quiz",
+        "premium": false
+    },		
+    {
+        "id": "OddOneOutV2Quiz",
+        "premium": false
+    },	
+    {
+        "id": "RhymingObjectsQuiz",
+        "premium": false
+    },
+    {
+        "id": "ThemeBingoQuiz",
+        "premium": false
+    }	
+    ]
+}
+

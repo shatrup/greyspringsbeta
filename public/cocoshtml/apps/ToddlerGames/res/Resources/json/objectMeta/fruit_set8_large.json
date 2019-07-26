@@ -1,0 +1,106 @@
+{
+    "name": "fruit_set8_large",
+    "type": "",
+    "suffix": "fruit_set8_large_",
+    "objectList": [
+        {
+            "objectId": "fruit_set8_large_apple_0",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_apple_0.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_apple_1",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_apple_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_apricot",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_apricot.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_banana",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_banana.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_black_grapes",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_black_grapes.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_grapes",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_grapes.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_kiwi",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_kiwi.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_orange",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_orange.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_pears",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_pears.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_pineapple",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_pineapple.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set8_large_watermelon",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set8/fruit_set8_large/fruit_set8_large_watermelon.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+	"name": "fruit_set33",
+	"type": "fruit",
+	"suffix": "fruit_set33_",
+	"objectList": [
+		{
+			"objectId": "fruit_set33_apple",
+			"name": "apple",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_apple.png",
+			"w": 107.534,
+			"h": 92.113,
+			"shape": "",
+            "color": "color_red",
+			"audioId": "fruit_apple"
+		},
+		{
+			"objectId": "fruit_set33_banana",
+			"name": "banana",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_banana.png",
+			"w": 97.531,
+			"h": 78.775,
+			"shape": "",
+            "color": "color_yellow",
+			"audioId": "fruit_banana"
+		},
+		{
+			"objectId": "fruit_set33_cherry",
+			"name": "cherry",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_cherry.png",
+			"w": 41.68,
+			"h": 86.694,
+			"shape": "",
+            "color": "color_red",
+			"audioId": "fruit_cherry"
+		},
+		{
+			"objectId": "fruit_set33_mango",
+			"name": "mango",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_mango.png",
+			"w": 67.938,
+			"h": 83.777,
+			"shape": "",
+            "color": "color_yellow",
+			"audioId": "fruit_mango"
+		},
+		{
+			"objectId": "fruit_set33_orange",
+			"name": "orange",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_orange.png",
+			"w": 83.777,
+			"h": 83.777,
+			"shape": "",
+            "color": "color_orange",
+			"audioId": "fruit_orange"
+		},
+		{
+			"objectId": "fruit_set33_pineapple",
+			"name": "pineapple",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_pineapple.png",
+			"w": 67.105,
+			"h": 95.447,
+			"shape": "",
+            "color": "color_yellow",
+			"audioId": "fruit_pineapple"
+		},
+		{
+			"objectId": "fruit_set33_strawberry",
+			"name": "strawberry",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_strawberry.png",
+			"w": 47.515,
+			"h": 75.441,
+			"shape": "",
+            "color": "color_red",
+			"audioId": "fruit_strawberry"
+		},
+		{
+			"objectId": "fruit_set33_watermelon",
+			"name": "watermelon",
+			"imageUri": "common/fruits/fruit_set33/fruit_set33_watermelon.png",
+			"w": 84.61,
+			"h": 71.273,
+			"shape": "",
+            "color": "color_green",
+			"audioId": "fruit_watermelon"
+		}
+	]
+}

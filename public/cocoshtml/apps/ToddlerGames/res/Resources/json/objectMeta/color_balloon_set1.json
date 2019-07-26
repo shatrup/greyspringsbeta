@@ -1,0 +1,88 @@
+{
+    "name": "color_balloon_set1",
+    "type": "",
+    "suffix": "color_balloon_set1_",
+    "objectList": [
+        {
+            "objectId": "color_balloon_set1_1",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=ff1744&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_2",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=f50057&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_3",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=651fff&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_4",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=1de9b6&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_5",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=00e5ff&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_6",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=76ff03&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_7",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=c6ff00&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_8",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=ffff00&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "color_balloon_set1_9",
+            "name": "",
+            "imageUri": "potsprite://balloon_color2/?color=ff3d00&balloon={0}",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

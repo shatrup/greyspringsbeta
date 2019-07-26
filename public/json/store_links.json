@@ -1,0 +1,41 @@
+{
+    "name": "Games available on all leading stores",
+    "icon": "/images/icons/gs_icon.png",
+    "storeMeta": [
+        {
+            "name": "Windows Store",
+            "link": "http://windows.microsoft.com/en-us/windows/search#q=greysprings&s=Store",
+            "image": "/images/store_icons/link_windows_store.png",
+            "cssClass": "windows-store",
+            "alt": "Greysprings on Windows Store"
+        },
+        {
+            "name": "Google Play",
+            "link": "https://play.google.com/store/apps/dev?id=5034930044421076848&hl=en",
+            "image": "/images/store_icons/link_play_store.png",
+            "cssClass": "google-play-store",
+            "alt": "Greysprings on Google Play"
+        },
+        {
+            "name": "Windows Phone Store",
+            "link": "http://www.windowsphone.com/en-us/search?q=greysprings",
+            "image": "/images/store_icons/link_windows_phone_store.png",
+            "cssClass": "windows-phone-store",
+            "alt": "Greysprings on Windows Phone Store"
+        },
+        {
+            "name": "Apple AppStore",
+            "link": "https://itunes.apple.com/us/artist/greysprings-software-solutions/id726944788",
+            "image": "/images/store_icons/link_apple_store.png",
+            "cssClass": "apple-app-store",
+            "alt": "Greysprings on Apple AppStore"
+        },
+        {
+            "name": "Amazon Store",
+            "link": "http://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Greysprings&node=2350149011",
+            "image": "/images/store_icons/link_amazon_store.png",
+            "cssClass": "amazon-store",
+            "alt": "Greysprings on Amazon Store"
+        }
+    ]
+}

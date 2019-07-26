@@ -1,0 +1,70 @@
+{
+    "name": "sea_animal_set3",
+    "type": "",
+    "suffix": "sea_animal_set3_",
+    "objectList": [
+        {
+            "objectId": "sea_animal_set3_fish_1",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set3/sea_animal_set3_fish_1.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set3_fish_2",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set3/sea_animal_set3_fish_2.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set3_fish_3",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set3/sea_animal_set3_fish_3.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set3_fish_4",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set3/sea_animal_set3_fish_4.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set3_fish_5",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set3/sea_animal_set3_fish_5.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set3_fish_6",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set3/sea_animal_set3_fish_6.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set3_fish_7",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set3/sea_animal_set3_fish_7.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

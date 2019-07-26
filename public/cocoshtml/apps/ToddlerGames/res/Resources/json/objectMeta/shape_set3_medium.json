@@ -1,0 +1,151 @@
+{
+    "name": "shape_set3_medium",
+    "type": "shape",
+    "suffix": "shape_set3_medium_",
+    "objectList": [
+        {
+                    "objectId": "shape_set3_medium_circle",
+                    "name": "_circle",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_circle.png",
+                    "w": 47.515,
+                    "h": 47.515,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_crescent",
+                    "name": "_crescent",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_crescent.png",
+                    "w": 33.344,
+                    "h": 47.098,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_diamond",
+                    "name": "_diamond",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_diamond.png",
+                    "w": 47.515,
+                    "h": 47.515,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_heart",
+                    "name": "_heart",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_heart.png",
+                    "w": 47.098,
+                    "h": 40.43,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_hexagon",
+                    "name": "_hexagon",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_hexagon.png",
+                    "w": 47.098,
+                    "h": 40.846,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_octagon",
+                    "name": "_octagon",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_octagon.png",
+                    "w": 47.515,
+                    "h": 47.515,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_oval",
+                    "name": "_oval",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_oval.png",
+                    "w": 36.678,
+                    "h": 46.682,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_pentagon",
+                    "name": "_pentagon",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_pentagon.png",
+                    "w": 47.515,
+                    "h": 45.014,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_rectangle",
+                    "name": "_rectangle",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_rectangle.png",
+                    "w": 47.515,
+                    "h": 27.926,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_semicircle",
+                    "name": "_semicircle",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_semicircle.png",
+                    "w": 47.932,
+                    "h": 24.174,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_square",
+                    "name": "_square",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_square.png",
+                    "w": 47.515,
+                    "h": 47.515,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_star",
+                    "name": "_star",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_star.png",
+                    "w": 47.515,
+                    "h": 47.098,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_trapezium",
+                    "name": "_trapezium",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_trapezium.png",
+                    "w": 47.098,
+                    "h": 21.257,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_triangle",
+                    "name": "_triangle",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_triangle.png",
+                    "w": 47.098,
+                    "h": 40.846,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_triangle_1",
+                    "name": "_1",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_triangle_1.png",
+                    "w": 47.515,
+                    "h": 47.515,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "shape_set3_medium_triangle_2",
+                    "name": "_2",
+                    "imageUri": "common/shapes/shape_set3/shape_set3_medium/shape_set3_medium_triangle_2.png",
+                    "w": 47.515,
+                    "h": 16.255,
+                    "shape": "",
+                    "color": ""
+                }
+		]
+}

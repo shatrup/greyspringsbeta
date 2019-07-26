@@ -1,0 +1,1500 @@
+{
+    "directory": "playground/fill_the_colors/{0}",
+    "titleBGColor": "56C5FF",
+    "sets": [
+        {
+            "quizType": "easySet",
+            "question": "caption_fill_pictures_using_colorpad",
+			"background": "common/backgrounds/background_fullbleed/color_background.png",
+            "bgMusic": "caption_fill_pictures_using_colorpad",
+			"isFullBleed": true,
+            "objects": [
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 65,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": -55,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "13.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": -55,
+                            "r": 250,
+                            "g": 104,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 65,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "14.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": -55,
+                            "r": 250,
+                            "g": 104,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 65,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 65,
+                            "r": 96,
+                            "g": 169,
+                            "b": 23
+                        },
+                        {
+                            "img": "n_4.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": -55,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "15.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 0,
+                            "y": 65,
+                            "r": 250,
+                            "g": 104,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 0,
+                            "y": -30,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 0,
+                            "y": -100,
+                            "r": 96,
+                            "g": 169,
+                            "b": 23
+                        },
+                        {
+                            "img": "16.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": 0,
+                            "r": 96,
+                            "g": 169,
+                            "b": 23
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -95,
+                            "y": 0,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "18.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": 60,
+                            "r": 162,
+                            "g": 0,
+                            "b": 37
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": -50,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "19.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -25,
+                            "y": 10,
+                            "r": 162,
+                            "g": 0,
+                            "b": 37
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 35,
+                            "y": -40,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 85,
+                            "y": -80,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "20.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": -30,
+                            "r": 0,
+                            "g": 80,
+                            "b": 239
+                        },
+                        {
+                            "img": "21.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 96,
+                            "g": 169,
+                            "b": 23
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "22.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -15,
+                            "y": 35,
+                            "r": 162,
+                            "g": 0,
+                            "b": 37
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 15,
+                            "y": -25,
+                            "r": 244,
+                            "g": 114,
+                            "b": 208
+                        },
+                        {
+                            "img": "23.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 0,
+                            "y": -55,
+                            "r": 244,
+                            "g": 114,
+                            "b": 208
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 0,
+                            "y": -55,
+                            "r": 244,
+                            "g": 114,
+                            "b": 208
+                        },
+                        {
+                            "img": "24.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 96,
+                            "g": 169,
+                            "b": 23
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 50,
+                            "r": 250,
+                            "g": 104,
+                            "b": 0
+                        },
+                        {
+                            "img": "25.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": -20,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 30,
+                            "r": 250,
+                            "g": 104,
+                            "b": 0
+                        },
+                        {
+                            "img": "26.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": 20,
+                            "r": 162,
+                            "g": 0,
+                            "b": 37
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": -90,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "27.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": 100,
+                            "r": 162,
+                            "g": 0,
+                            "b": 37
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": 10,
+                            "r": 118,
+                            "g": 96,
+                            "b": 138
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -5,
+                            "y": -100,
+                            "r": 227,
+                            "g": 200,
+                            "b": 0
+                        },
+                        {
+                            "img": "28.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -50,
+                            "y": 90,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "29.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+,                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "30.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "33.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -30,
+                            "y": -60,
+                            "r": 96,
+                            "g": 169,
+                            "b": 23
+                        },
+                        {
+                            "img": "n_4.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 70,
+                            "y": -70,
+                            "r": 244,
+                            "g": 114,
+                            "b": 208
+                        },
+                        {
+                            "img": "35.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 100,
+                            "y": 10,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_4.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 100,
+                            "y": 10,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "37.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "n_4.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "38.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "39.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "40.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "n_3.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -30,
+                            "y": -60,
+                            "r": 96,
+                            "g": 169,
+                            "b": 23
+                        },
+                        {
+                            "img": "41.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+                        {
+                            "img": "42.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+                {
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+						{
+							"img": "n_4.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "43.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "45.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": 65,
+                            "y": 0,
+                            "r": 229,
+                            "g": 20,
+                            "b": 0
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number",
+                            "zIndex": 2000,
+                            "scale": 1,
+                            "x": -65,
+                            "y": 0,
+                            "r": 109,
+                            "g": 135,
+                            "b": 100
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "47.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+						{
+							"img": "n_4.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "49.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "50.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{				
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "53.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "55.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+							"img": "n_3.png",
+                            "type": "number"
+						},
+						{
+							"img": "n_4.png",
+                            "type": "number"
+						},
+                        {
+                            "img": "56.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "57.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "58.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "59.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "60.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "61.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "62.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "65.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "66.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "colorSets": [
+        {
+            "colorCode": 4,
+			"colorValue": "ff5252",
+            "src_img": "common/chrome/quiz/swatch_1.png",
+            "x": 100,
+            "y": 55,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 2,
+			"colorValue": "2979ff",
+            "src_img": "common/chrome/quiz/swatch_1.png",
+            "x": 100,
+            "y": 2,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 9,
+			"colorValue": "ffd600",
+            "src_img": "common/chrome/quiz/swatch_1.png",
+            "x": 100,
+            "y": -50,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 0,
+			"colorValue": "00c853",
+            "src_img": "common/chrome/quiz/swatch_1.png",
+            "x": 100,
+            "y": -102,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        }
+    ]
+}

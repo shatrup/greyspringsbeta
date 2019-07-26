@@ -1,0 +1,15 @@
+{
+	"id": "preschoolgames",
+    "title": "ms-resource:PageTitle_TracingApp",
+	"bgAudio": "/audio/home.mp3",
+    "panel": {
+        "clusters": [		
+			{
+			    "name": "quizCluster",
+                "title": "quizCluster",
+                "type": "ClusterControl",
+                "requestUri": "json/pages/TracingAppQuizCluster.json"
+			}		
+     ]
+    }
+}

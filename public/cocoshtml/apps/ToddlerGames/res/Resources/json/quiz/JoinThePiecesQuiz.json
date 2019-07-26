@@ -1,0 +1,41 @@
+{
+    "id": "CountComparisonQuiz",
+    "type": "CountComparisonQuiz",
+    "complexity": "medium",
+    "qsBgColor": "B7C68B",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "id": "shape_1",
+      "type": "shape",
+      "bgMusic": "caption_put_pieces_back_shape",
+      "question": "caption_put_pieces_back_shape",      
+      "objectSrc": "realworld_set_shape_set22_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/Cookies_fun_background_3.png"
+    },
+    {
+      "id": "shape_2",
+      "type": "shape",
+      "bgMusic": "caption_put_pieces_back_shape",
+      "question": "caption_put_pieces_back_shape",      
+      "objectSrc": "realworld_set_shape_set22_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/Cookies_fun_background_4.png"
+    },
+    {
+      "id": "shape_3",
+      "type": "shape",
+      "bgMusic": "caption_put_pieces_back_shape",
+      "question": "caption_put_pieces_back_shape",      
+      "objectSrc": "realworld_set_shape_set23_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/Cookies_fun_background_3.png"
+    },
+    {
+      "id": "shape_4",
+      "type": "shape",
+      "bgMusic": "caption_put_pieces_back_shape",
+      "question": "caption_put_pieces_back_shape",      
+      "objectSrc": "realworld_set_shape_set23_xx_large",
+      "bgImg": "common/backgrounds/background_fullbleed/Cookies_fun_background_4.png"
+    }
+  ] 
+}

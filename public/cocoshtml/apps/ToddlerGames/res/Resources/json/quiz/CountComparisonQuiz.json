@@ -1,0 +1,16 @@
+{
+    "id": "CountComparisonQuiz",
+    "type": "CountComparisonQuiz",
+    "complexity": "medium",
+    "qsBgColor": "7CB8DE",
+    "bgImg" : "common/backgrounds/background_fullbleed/background_math_grid.png",
+    "sets": [
+    {
+      "id": "set0",
+      "type": "candies",
+      "bgMusic": "caption_touch_correct_answer",
+      "question": "caption_touch_correct_answer",      
+      "objectSrc": "realworld_set_candy_set1"
+    }
+  ] 
+}

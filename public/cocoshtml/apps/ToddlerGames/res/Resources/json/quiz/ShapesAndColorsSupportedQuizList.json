@@ -1,0 +1,75 @@
+{
+    "quizList": [
+		{
+			"id": "ThemesInteractionQuiz",
+			"unlockConstraint": "none",
+			"sets":["set3", "set4"]
+		},	
+		{
+            "id": "BalloonPopV3Quiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "HungryFrogV2Quiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "ColorTheObjectsQuizV2",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "AlienColorMatchQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "ShapesMatchingQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "BuildRobotQuiz",
+            "unlockConstraint": "none"
+        },
+		{
+            "id": "LearnToWriteV2",
+            "unlockConstraint": "none",
+            "sets": ["shapes"]
+        },
+		{
+            "id": "CaterpillarMatchQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "ConnectTheDots",
+            "unlockConstraint": "none",
+            "sets": ["shape_name"]
+        },
+        {
+            "id": "ScratchToRevealQuiz",
+            "unlockConstraint": "none",
+            "sets": ["shape_name_scratch", "color_name_scratch"]
+        },
+        {
+            "id": "JoinThePiecesQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "BuildTheToysQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "OddInGroupQuiz",
+            "unlockConstraint": "none",
+            "sets": ["shape_name_odd", "fruit_color_odd"]
+        },
+        {
+            "id": "HopQuiz",
+            "unlockConstraint": "none",
+            "sets": ["bee_color"]
+        },
+        {
+            "id": "BingoQuiz",
+            "unlockConstraint": "none",
+            "sets": ["shape_name", "fruit_color"]
+        }
+    ]
+}

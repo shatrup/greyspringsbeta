@@ -1,0 +1,6 @@
+{
+    "SignUpSuccessMessage"          : "Thank you for Subscribing.",
+    "SignUpErrorMessage"            : "We apologise for the inconvenience. We couldn't sign you up right now. Please try again later.",
+    "ContactUsSuccessMessage"       : "Thank you for Contacting us. We will get back to you soon.",
+    "ContactUsErrorMessage"         : "We apologise for the inconvenience. We couldn't take your message right now. Please try again later. If the issue persists, please drop us an email on contact (at) graysprings.com"
+}

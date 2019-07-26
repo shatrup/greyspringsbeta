@@ -1,0 +1,43 @@
+{
+	"name": "animation_set3",
+	"type": "frog_animation",
+	"suffix": "animation_set3_",
+	"objectList": [
+        {
+            "objectId": "animation_set3_frog_pose_2",
+            "name": "animation_set3_frog_pose_2",
+            "imageUri": "common/chrome/animation/animation_set3/animation_set3_frog_pose_2.png",
+            "w": 66.688,
+			"h": 80.442,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animation_set3_frog_pose_3",
+            "name": "animation_set3_frog_pose_3",
+            "imageUri": "common/chrome/animation/animation_set3/animation_set3_frog_pose_3.png",
+            "w": 77.942,
+            "h": 38.346,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animation_set3_frog_pose_2",
+            "name": "animation_set3_frog_pose_2",
+            "imageUri": "common/chrome/animation/animation_set3/animation_set3_frog_pose_2.png",
+            "w": 66.688,
+			"h": 80.442,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "animation_set3_frog_pose_1",
+			"name": "animation_set3_frog_pose_1",
+			"imageUri": "common/chrome/animation/animation_set3/animation_set3_frog_pose_1.png",
+			"w": 59.186,
+			"h": 68.355,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

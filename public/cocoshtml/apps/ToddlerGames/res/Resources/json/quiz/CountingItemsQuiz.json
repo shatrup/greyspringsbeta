@@ -1,0 +1,128 @@
+{
+    "id": "CountingItemsQuiz",
+    "type": "CountingItemsQuiz",
+    "bgMusic": "caption_count_{0}",
+    "question": "caption_count_format",
+    "complexity": "low",
+    "qsBgColor": "003366",
+    "sets": [
+    {
+      "name": "set_2",
+      "objectSrc": "RealWorldScene_102",
+      "customKey1": "tortoise",
+      "customKey2": "animal_tortoises",
+      "qsBgColor": "A6CB38"
+    }, {
+      "name": "set_3",
+      "objectSrc": "RealWorldScene_103",
+      "customKey1": "pig",
+      "customKey2": "animal_piglets",
+      "qsBgColor": "A5BE39"
+    },{
+      "name": "set_4",
+      "objectSrc": "RealWorldScene_105",
+      "customKey1": "duckling",
+      "customKey2": "animal_ducklings",
+      "qsBgColor": "ADE3F7"
+    },{
+      "name": "set_4_1",
+      "objectSrc": "RealWorldScene_106",
+      "customKey1": "ant",
+      "customKey2": "animal_ants",
+      "qsBgColor": "B5D336"
+    },{
+      "name": "set_5",
+      "objectSrc": "RealWorldScene_112",
+      "customKey1": "cat",
+      "customKey2": "animal_cats",
+      "qsBgColor": "D6A866"
+    },{
+      "name": "set_5_1",
+      "objectSrc": "RealWorldScene_107",
+      "customKey1": "fish",
+      "customKey2": "animal_fish",
+      "qsBgColor": "4BA7D5"
+    },{
+      "name": "set_5_2",
+      "objectSrc": "RealWorldScene_107",
+      "customKey1": "spider",
+      "customKey2": "animal_spiders",
+      "qsBgColor": "4BA7D5"
+    },{
+      "name": "set_5_3",
+      "objectSrc": "RealWorldScene_107",
+      "customKey1": "beetal",
+      "customKey2": "animal_ladybugs",
+      "qsBgColor": "4BA7D5"
+    },{
+      "name": "set_5_4",
+      "objectSrc": "RealWorldScene_107",
+      "customKey1": "snail",
+      "customKey2": "animal_snails",
+      "qsBgColor": "4BA7D5"
+    },{
+      "name": "set_5_5",
+      "objectSrc": "RealWorldScene_107",
+      "customKey1": "flower",
+      "customKey2": "word_flowers",
+      "qsBgColor": "4BA7D5"
+    },{
+      "name": "set_18",
+      "objectSrc": "RealWorldScene_116",
+      "customKey1": "dog",
+      "customKey2": "animal_dogs",
+      "qsBgColor": "7BAE42"
+    },{
+      "name": "set_19",
+      "objectSrc": "RealWorldScene_117",
+      "customKey1": "duckling",
+      "customKey2": "animal_ducklings",
+      "qsBgColor": "B5C6C1"
+    },{
+      "name": "set_20",
+      "objectSrc": "RealWorldScene_118",
+      "customKey1": "fish",
+      "customKey2": "animal_fish",
+      "qsBgColor": "34B5D8"
+    },{
+      "name": "set_21",
+      "objectSrc": "RealWorldScene_120",
+      "customKey1": "duck",
+      "customKey2": "animal_ducks",
+      "qsBgColor": "5D9CCD",
+      "sceneExclusionList": [
+          {
+              "objectId": "rws120_birds_duck_0"
+          },
+          {
+              "objectId": "rws120_birds_duck_1"
+          },
+          {
+              "objectId": "rws120_birds_duck_2"
+          },
+          {
+              "objectId": "rws120_birds_duck_5"
+          },
+          {
+              "objectId": "rws120_birds_duck_6"
+          }
+      ]
+    },
+    {
+      "name": "set_21_1",
+      "objectSrc": "RealWorldScene_121",
+      "customKey1": "squirrel",
+      "customKey2": "animal_squirrels",
+      "qsBgColor": "A5C239"
+    },{
+      "name": "set_25",
+      "objectSrc": "RealWorldScene_128",
+      "customKey1": "sparrow",
+      "customKey2": "animal_sparrows",
+      "qsBgColor": "92B93E"
+    }
+    ] 
+}
+
+
+

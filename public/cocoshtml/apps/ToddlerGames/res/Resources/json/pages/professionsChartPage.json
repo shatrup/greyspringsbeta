@@ -1,0 +1,18 @@
+{
+	"id": "alphabetChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+            {
+				"name": "alphabetChartCluster",
+                "title": "Professions Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/professionsChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

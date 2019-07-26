@@ -1,0 +1,61 @@
+{
+	"name": "chrome_animation_set4",
+	"type": "animation",
+	"suffix": "chrome_animation_set4_",
+	"objectList": [
+				{
+                    "objectId": "chrome_animation_set4_water_splash_1",
+                    "name": "water_splash_1",
+                    "imageUri": "common/chrome/animation/animation_set4/animation_set4_water_splash_1.png",
+                    "w": 118.788,
+                    "h": 118.788,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_animation_set4_water_splash_2",
+                    "name": "water_splash_2",
+                    "imageUri": "common/chrome/animation/animation_set4/animation_set4_water_splash_2.png",
+                    "w": 118.788,
+                    "h": 118.788,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_animation_set4_water_splash_3",
+                    "name": "water_splash_3",
+                    "imageUri": "common/chrome/animation/animation_set4/animation_set4_water_splash_3.png",
+                    "w": 118.788,
+                    "h": 118.788,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_animation_set4_water_splash_4",
+                    "name": "water_splash_4",
+                    "imageUri": "common/chrome/animation/animation_set4/animation_set4_water_splash_4.png",
+                    "w": 118.788,
+                    "h": 118.788,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_animation_set4_water_splash_5",
+                    "name": "water_splash_5",
+                    "imageUri": "common/chrome/animation/animation_set4/animation_set4_water_splash_5.png",
+                    "w": 118.788,
+                    "h": 118.788,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "chrome_animation_set4_water_splash_6",
+                    "name": "water_splash_6",
+                    "imageUri": "common/chrome/animation/animation_set4/animation_set4_water_splash_6.png",
+                    "w": 118.788,
+                    "h": 118.788,
+                    "shape": "",
+                    "color": ""
+                }
+	]
+}

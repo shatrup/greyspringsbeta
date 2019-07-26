@@ -1,0 +1,132 @@
+{
+    "title": "Games Book",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "HomeTilesListViewBlockV3",
+            "data": [
+                {
+                    "name": "SpaceActivityQuiz",
+                    "title": "tiletitle_ScienceGames_SpaceActivity",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://scene/?id=ActivityCommon.SpaceActivityScene",
+                        "image": "common/tiles/tile_science/space_activity_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },
+                {
+                    "name": "StatesOfMatterQuiz",
+                    "title": "tiletitle_ScienceGames_StatesOfMatterQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=StatesOfMatterQuiz}",
+                        "image": "common/tiles/tile_science/whats_the_matter_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },
+                {
+                    "name": "LifeCycleQuiz",
+                    "title": "tiletitle_ScienceGames_LifeCycleQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LifeCycleQuiz}",
+                        "image": "common/tiles/tile_science/growth_cycle_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },
+                {
+                    "name": "FloatSinkQuiz",
+                    "title": "tiletitle_ScienceGames_FloatSinkQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=FloatSinkQuiz}",
+                        "image": "common/tiles/tile_science/sink_or_float_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },
+                {
+                    "name": "ScratchToRevealQuiz",
+                    "type": "smallTileTemplateV2",
+                    "title": "tiletitle_ScienceGames_ScratchToRevealQuiz",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ScratchToRevealQuiz}",
+                        "image": "common/tiles/tile_science/scratch_to_reveal_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "FiveSensesQuiz",
+                    "title": "tiletitle_ScienceGames_FiveSensesQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=FiveSensesQuiz}",
+                        "image": "common/tiles/tile_science/know_your_senses_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },
+                {
+                    "name": "MumAndBabyQuiz",
+                    "title": "tiletitle_ScienceGames_MumAndBabyQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=MumAndBabyQuiz}",
+                        "image": "common/tiles/tile_science/mum_and_baby_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },
+                {
+                    "name": "HealthIsWealthQuiz",
+                    "title": "tiletitle_ScienceGames_HealthIsWealthQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HealthIsWealthQuiz}",
+                        "image": "common/tiles/tile_science/health_is_wealth_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "TrickyMaze",
+                    "title": "tiletitle_PreschoolGames_TrickyMaze",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=TrickyMaze}",
+                        "image": "common/tiles/tile_science/tricky_maze_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },	
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "MissingObjects",
+                    "title": "tiletitle_PreschoolGames_MissingObjects",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=MissingObjects}",
+						"image": "common/tiles/tile_science/missing_objects_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                },	
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "SpotDifferences",
+                    "title": "tiletitle_PreschoolGames_SpotDifferences",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=SpotDifferences}",
+						"image": "common/tiles/tile_science/spot_the_difference_tile.png",
+                        "backgroundColor": "262261"
+                    }
+                },
+                {
+                    "name": "HomeSweetHomeQuiz",
+                    "title": "tiletitle_ScienceGames_HomeSweetHomeQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HomeSweetHomeQuiz}",
+                        "image": "common/tiles/tile_science/home_sweet_home_tile.png",
+                        "backgroundColor": "91268f"
+                    }
+                }
+            ]
+        }
+    ],
+    "id": "GamesHolderCluster"
+}

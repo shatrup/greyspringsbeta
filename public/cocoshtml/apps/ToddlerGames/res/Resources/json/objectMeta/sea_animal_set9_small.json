@@ -1,0 +1,115 @@
+{
+    "name": "sea_animal_set9_small",
+    "type": "sea_animals",
+    "suffix": "sea_animal_set9_small_",
+    "objectList": [
+        {
+            "objectId": "sea_animal_set9_small_fish_black",
+            "name": "_black",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_black.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_blue",
+            "name": "_blue",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_blue.png",
+            "w": 23.758,
+            "h": 15.422,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_brown",
+            "name": "_brown",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_brown.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_cyan",
+            "name": "_cyan",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_cyan.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_green",
+            "name": "_green",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_green.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_grey",
+            "name": "_grey",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_grey.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_orange",
+            "name": "_orange",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_orange.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_pink",
+            "name": "_pink",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_pink.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_purple",
+            "name": "_purple",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_purple.png",
+            "w": 23.758,
+            "h": 15.422,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_red",
+            "name": "_red",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_red.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_white",
+            "name": "_white",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_white.png",
+            "w": 23.758,
+            "h": 15.005,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_small_fish_yellow",
+            "name": "_yellow",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_small/sea_animal_set9_small_fish_yellow.png",
+            "w": 24.174,
+            "h": 15.422,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

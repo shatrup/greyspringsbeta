@@ -1,0 +1,124 @@
+{
+	"name": "memory_game_set_2",
+	"type": "memory_game_objects",
+	"suffix": "memory_game_set_2_",
+	"objectList": [
+		{
+			"objectId": "memory_game_set_2_ice_cream_1",
+			"name": "ice_cream_1",
+			"imageUri": "common/scenes/scene178/ice_cream_1.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_2",
+			"name": "ice_cream_2",
+			"imageUri": "common/scenes/scene178/ice_cream_2.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_3",
+			"name": "ice_cream_3",
+			"imageUri": "common/scenes/scene178/ice_cream_3.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_4",
+			"name": "ice_cream_4",
+			"imageUri": "common/scenes/scene178/ice_cream_4.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_5",
+			"name": "ice_cream_5",
+			"imageUri": "common/scenes/scene178/ice_cream_5.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_6",
+			"name": "ice_cream_6",
+			"imageUri": "common/scenes/scene178/ice_cream_6.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_7",
+			"name": "ice_cream_7",
+			"imageUri": "common/scenes/scene178/ice_cream_7.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_8",
+			"name": "ice_cream_8",
+			"imageUri": "common/scenes/scene178/ice_cream_8.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_9",
+			"name": "ice_cream_9",
+			"imageUri": "common/scenes/scene178/ice_cream_9.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_10",
+			"name": "ice_cream_10",
+			"imageUri": "common/scenes/scene178/ice_cream_10.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_11",
+			"name": "ice_cream_11",
+			"imageUri": "common/scenes/scene178/ice_cream_11.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_12",
+			"name": "ice_cream_12",
+			"imageUri": "common/scenes/scene178/ice_cream_12.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_2_ice_cream_13",
+			"name": "ice_cream_13",
+			"imageUri": "common/scenes/scene178/ice_cream_13.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

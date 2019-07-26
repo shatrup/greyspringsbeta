@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="en-US">
+    <body>
+      <group id="Games">
+        <trans-unit id="caption_unlocksticker" space="preserve" translate="yes">
+          <source>Unlock your sticker</source>
+          <target state="new" state-qualifier="mt-suggestion">Unlock your sticker</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is used in sticker board</note>
+        </trans-unit>
+        <trans-unit id="caption_gotsticker" space="preserve" translate="yes">
+          <source>You got a sticker</source>
+          <target state="new" state-qualifier="mt-suggestion">You got a sticker</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is used in sticker board</note>
+        </trans-unit>
+        <trans-unit id="caption_choosecandy" space="preserve" translate="yes">
+          <source>Choose a candy</source>
+          <target state="new" state-qualifier="mt-suggestion">Choose a candy</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is used in sticker board</note>
+        </trans-unit>
+        <trans-unit id="caption_choosereward" space="preserve" translate="yes">
+          <source>Choose your reward</source>
+          <target state="new" state-qualifier="mt-suggestion">Choose your reward</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is used in sticker board</note>
+        </trans-unit>
+        <trans-unit id="caption_pleasechoosereward" space="preserve" translate="yes">
+          <source>Please choose your reward</source>
+          <target state="new" state-qualifier="mt-suggestion">Please choose your reward</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is used in sticker board</note>
+        </trans-unit>
+        <trans-unit id="caption_youmade" space="preserve" translate="yes">
+          <source>Wow. You made it</source>
+          <target state="new" state-qualifier="mt-suggestion">Wow. You made it</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is used in sticker board</note>
+        </trans-unit>
+        <trans-unit id="caption_confirmyouareadult" space="preserve" translate="yes">
+          <source>We need to confirm you are an adult</source>
+          <target state="new" state-qualifier="mt-suggestion">We need to confirm you are an adult</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This message used for adult confirmation</note>
+        </trans-unit>
+        <trans-unit id="caption_visitusonweb" space="preserve" translate="yes">
+          <source>Visit us on the web</source>
+          <target state="new" state-qualifier="mt-suggestion">Visit us on the web</target>
+          <note annotates="source" from="Parent’s zone" priority="2">Visit on the web</note>
+        </trans-unit>
+        <trans-unit id="caption_rateitnow" space="preserve" translate="yes">
+          <source>Rate it now</source>
+          <target state="new" state-qualifier="mt-suggestion">Rate it now</target>
+          <note annotates="source" from="Parent’s zone" priority="2">Rate the app on the store</note>
+        </trans-unit>
+        <trans-unit id="caption_holdnseconds" space="preserve" translate="yes">
+          <source>Hold for {0} seconds</source>
+          <target state="new" state-qualifier="mt-suggestion">Hold for {0} seconds</target>
+          <note annotates="source" from="Parent’s zone" priority="2">{0} is seconds such as two seconds, three seconds</note>
+        </trans-unit>
+        <trans-unit id="caption_tapcorrectanswer" space="preserve" translate="yes">
+          <source>Please tap on the correct answer</source>
+          <target state="new" state-qualifier="mt-suggestion">Please tap on the correct answer</target>
+          <note annotates="source" from="Parent’s zone" priority="2">Tap the correct answer</note>
+        </trans-unit>
+        <trans-unit id="caption_wordofmouth" space="preserve" translate="yes">
+          <source>Word of mouth</source>
+          <target state="new" state-qualifier="mt-suggestion">Word of mouth</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is message &quot;word of mouth&quot;</note>
+        </trans-unit>
+        <trans-unit id="caption_sharetounlock" space="preserve" translate="yes">
+          <source>Share the app to unlock all the quizzes for free</source>
+          <target state="new" state-qualifier="mt-suggestion">Share the app to unlock all the quizzes for free</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is message for unlock on facebook share</note>
+        </trans-unit>
+        <trans-unit id="caption_sharetoremoveads" space="preserve" translate="yes">
+          <source>Share the app to remove ads for free</source>
+          <target state="new" state-qualifier="mt-suggestion">Share the app to remove ads for free</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is message for removing ads on facebook share</note>
+        </trans-unit>
+        <trans-unit id="caption_sharetohelp" space="preserve" translate="yes">
+          <source>Help us by sharing the app with your friends</source>
+          <target state="new" state-qualifier="mt-suggestion">Help us by sharing the app with your friends</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is message for facebook share</note>
+        </trans-unit>
+        <trans-unit id="caption_letsrateus" space="preserve" translate="yes">
+          <source>If you like this app, please rate us in store</source>
+          <target state="new" state-qualifier="mt-suggestion">If you like this app, please rate us in store</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to rate on the store</note>
+        </trans-unit>
+        <trans-unit id="caption_upgradefullversion" space="preserve" translate="yes">
+          <source>Upgrade to the full version</source>
+          <target state="new" state-qualifier="mt-suggestion">Upgrade to the full version</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to upgrade app to full version</note>
+        </trans-unit>
+        <trans-unit id="caption_buyfullversion" space="preserve" translate="yes">
+          <source>Buy full version</source>
+          <target state="new" state-qualifier="mt-suggestion">Buy full version</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to buy full version of app</note>
+        </trans-unit>
+        <trans-unit id="caption_restore_purchases" space="preserve" translate="yes">
+          <source>Restore purchases</source>
+          <target state="new" state-qualifier="mt-suggestion">Restore purchases</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to buy full version of app</note>
+        </trans-unit>
+        <trans-unit id="caption_unlock_games" space="preserve" translate="yes">
+          <source>Remove ads and unlock 10 more exciting games</source>
+          <target state="new" state-qualifier="mt-suggestion">Remove ads and unlock 10 more exciting games</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to unlock 10 more games</note>
+        </trans-unit>
+        <trans-unit id="caption_continue_purchase" space="preserve" translate="yes">
+          <source>Choose the right answer to continue with the purchase</source>
+          <target state="new" state-qualifier="mt-suggestion">Choose the right answer to continue with the purchase</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used in purchase</note>
+        </trans-unit>
+        <trans-unit id="caption_keepgoodwork" space="preserve" translate="yes">
+          <source>Keep up the good work</source>
+          <target state="new" state-qualifier="mt-suggestion">Keep up the good work</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message &quot;keep up the good work&quot;</note>
+        </trans-unit>
+        <trans-unit id="caption_youshiningstar" space="preserve" translate="yes">
+          <source>You are a shining star</source>
+          <target state="new" state-qualifier="mt-suggestion">You are a shining star</target>
+          <note annotates="source" from="Appreciation" priority="2">This is appreciation &quot;You are a shining star&quot;</note>
+        </trans-unit>
+        <trans-unit id="caption_youchamp" space="preserve" translate="yes">
+          <source>You are a champ</source>
+          <target state="new" state-qualifier="mt-suggestion">You are a champ</target>
+          <note annotates="source" from="Appreciation" priority="2">This is appreciation &quot;You are a champ&quot;</note>
+        </trans-unit>
+        <trans-unit id="caption_arrange_blocks" space="preserve" translate="yes">
+          <source>Arrange the blocks to solve the puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the blocks to solve the puzzle</target>
+          <note annotates="source" from="Jigsaw puzzle" priority="2">Arrange the blocks</note>
+        </trans-unit>
+        <trans-unit id="caption_put_pieces_back" space="preserve" translate="yes">
+          <source>Put the pieces back to complete the picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Put the pieces back to complete the picture</target>
+          <note annotates="source" from="Jigsaw puzzle" priority="2">Put the pieces back </note>
+        </trans-unit>
+        <trans-unit id="caption_put_pieces_back_shape" space="preserve" translate="yes">
+          <source>Join the pieces to make the shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">Join the pieces to make the shapes</target>
+          <note annotates="source" from="Broken shapes" priority="2">Join the pieces to make the shapes</note>
+        </trans-unit>
+        <trans-unit id="caption_spot_four_pictures" space="preserve" translate="yes">
+          <source>Spot four differences between the pictures</source>
+          <target state="new" state-qualifier="mt-suggestion">Spot four differences between the pictures</target>
+          <note annotates="source" from="Spot the difference" priority="2"> Spot the differences </note>
+        </trans-unit>
+        <trans-unit id="caption_spot_two_pictures" space="preserve" translate="yes">
+          <source>Spot differences between the two pictures</source>
+          <target state="new" state-qualifier="mt-suggestion"> Spot differences between the two pictures</target>
+          <note annotates="source" from="Spot the difference" priority="2"> Spot the differences </note>
+        </trans-unit>
+        <trans-unit id="caption_navigate_maze" space="preserve" translate="yes">
+          <source>Solve the puzzle by navigating the maze</source>
+          <target state="new" state-qualifier="mt-suggestion">Solve the puzzle by navigating the maze</target>
+          <note annotates="source" from="Solve the maze" priority="2">Solve the puzzle</note>
+        </trans-unit>
+        <trans-unit id="caption_colorme_format" space="preserve" translate="yes">
+          <source>Color me by {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Color me by {0}</target>
+          <note annotates="source" from="Fill the Color" priority="2">{0} is numbers, shapes or alphabets (eg-&quot;Color me by numbers&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_build_object_using_shapes" space="preserve" translate="yes">
+          <source>Build the object using the given shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">Build the object using the given shapes</target>
+          <note annotates="source" from="Build using shapes" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_build_truck_using_shapes" space="preserve" translate="yes">
+          <source>Build the truck using the given shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">Build the truck using the given shapes</target>
+          <note annotates="source" from="Build using shapes" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_build_house_using_shapes" space="preserve" translate="yes">
+          <source>Build the house using the given shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">Build the house using the given shapes</target>
+          <note annotates="source" from="Build using shapes" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_fill_pictures_using_format" space="preserve" translate="yes">
+          <source>Fill the picture by using the numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Fill the picture by using the numbers</target>
+          <note annotates="source" from="Fill the Color" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_fill_pictures_using_colorpad" space="preserve" translate="yes">
+          <source>Fill the picture by using the colorpad</source>
+          <target state="new" state-qualifier="mt-suggestion">Fill the picture by using the colorpad</target>
+          <note annotates="source" from="Fill the Color" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_help_x_find_y" space="preserve" translate="yes">
+          <source>Help {0} to find a way to the {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Help {0} to find a way to the {1}</target>
+          <note annotates="source" from="Solve the maze" priority="2">{0} is animal such as fox, bee {1} is home such as stable,jungle  (eg-&quot;Help fox to find a way to the jungle&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_color_flowers_hive_format" space="preserve" translate="yes">
+          <source>Touch {0} flowers in sequence to reach the hive</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch {0} flowers in sequence to reach the hive</target>
+          <note annotates="source" from="Hop quiz" priority="2">Bee hive quiz with flowers, {0} is one of the colors</note>
+        </trans-unit>
+        <trans-unit id="caption_help_animal_navigate_maze" space="preserve" translate="yes">
+          <source>Help animal to navigate the maze</source>
+          <target state="new" state-qualifier="mt-suggestion">Help animal to navigate the maze</target>
+          <note annotates="source" from="Solve the maze" priority="2">Help animal</note>
+        </trans-unit>
+        <trans-unit id="caption_help_animal_cross_maze" space="preserve" translate="yes">
+          <source>Help animal to cross the maze</source>
+          <target state="new" state-qualifier="mt-suggestion">Help animal to cross the maze</target>
+          <note annotates="source" from="Solve the maze" priority="2">Help animal</note>
+        </trans-unit>
+        <trans-unit id="caption_match_cards" space="preserve" translate="yes">
+          <source>Match the cards to complete the memory game</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the cards to complete the memory game</target>
+          <note annotates="source" from="Solve the memory game" priority="2">Match the cards</note>
+        </trans-unit>
+        <trans-unit id="caption_count_format" space="preserve" translate="yes">
+          <source>Count all the {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Count all the {0}</target>
+          <note annotates="source" from="Count the objects" priority="2">{0} is animal such as cat, lion (eg-&quot;Count all the dogs&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_block_format" space="preserve" translate="yes">
+          <source>Touch the block with {0} {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the block with {0} {1}</target>
+          <note annotates="source" from="Touch the blocks" priority="2">{0} is number such as 1, 2, 3 and {1} is noun such as cat, lion (eg-&quot;Touch the block with 4 cats&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_match_shapes_shadows" space="preserve" translate="yes">
+          <source>Match the shapes to their shadows</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the shapes to their shadows</target>
+          <note annotates="source" from="Shadow matching" priority="2">Match the shadows</note>
+        </trans-unit>
+        <trans-unit id="caption_match_shapes_face_holes" space="preserve" translate="yes">
+          <source>Drag the moving shapes to the face holes</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the moving shapes to the face holes</target>
+          <note annotates="source" from="face holes" priority="2">Drag the moving shapes to the face holes</note>
+        </trans-unit>
+        <trans-unit id="caption_match_shapes_face_holes_1" space="preserve" translate="yes">
+          <source>Drag the shapes to the face holes</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the shapes to the face holes</target>
+          <note annotates="source" from="face holes" priority="2">Drag the shapes to the face holes</note>
+        </trans-unit>
+        <trans-unit id="caption_match_picture_right_shadow" space="preserve" translate="yes">
+          <source>Match the picture to the right shadow</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the picture to the right shadow</target>
+          <note annotates="source" from="Shadow matching" priority="2">Match the picture</note>
+        </trans-unit>
+        <trans-unit id="caption_match_picture_shadow" space="preserve" translate="yes">
+          <source>Match the pictures to their shadows</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the pictures to their shadows</target>
+          <note annotates="source" from="Shadow matching" priority="2">Match the picture</note>
+        </trans-unit>
+        <trans-unit id="caption_match_objects_shadow" space="preserve" translate="yes">
+          <source>Match the objects to their shadows</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the objects to their shadows</target>
+          <note annotates="source" from="Shadow matching" priority="2">Match the objects </note>
+        </trans-unit>
+        <trans-unit id="caption_touch_wrong_items_format" space="preserve" translate="yes">
+          <source>Touch {0} items which are wrong with the scene</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch {0} items which are wrong with the scene</target>
+          <note annotates="source" from="Touch wrong items" priority="2">{0} is number such as 1, 2, 3 (eg-&quot;Touch four items which are wrong with the scene&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_wrong_items" space="preserve" translate="yes">
+          <source>Touch the items which are wrong with the scene</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the items which are wrong with the scene</target>
+          <note annotates="source" from="Find odd items" priority="2">Touch the wrong items</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_number_format" space="preserve" translate="yes">
+          <source>Touch the number {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the number {0}</target>
+          <note annotates="source" from="Number balloon quiz" priority="2">{0} is number such as 1, 2, 3 (eg-&quot;Touch the number 1)</note>
+        </trans-unit>
+        <trans-unit id="caption_burst_all_balloons" space="preserve" translate="yes">
+          <source>Burst all the balloons</source>
+          <target state="new" state-qualifier="mt-suggestion">Burst all the balloons</target>
+          <note annotates="source" from="Number balloon quiz" priority="2">Question for Balloon burst quiz where all balloons are to be busted</note>
+        </trans-unit>
+        <trans-unit id="caption_burst_balloons_complete_game" space="preserve" translate="yes">
+          <source>Burst the balloons to complete the game</source>
+          <target state="new" state-qualifier="mt-suggestion">Burst the balloons to complete the game</target>
+          <note annotates="source" from="Number balloon quiz" priority="2">Question for Balloon burst quiz where all balloons are to be busted</note>
+        </trans-unit>
+        <trans-unit id="caption_match_picture_to_shadow" space="preserve" translate="yes">
+          <source>Match the picture to its shadow</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the picture to its shadow</target>
+          <note annotates="source" from="Number balloon quiz" priority="2">Question for Match the shadow where only one image is present</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloon_number_format" space="preserve" translate="yes">
+          <source>Touch the balloon with the number {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the balloon with the number {0}</target>
+          <note annotates="source" from="Number balloon quiz" priority="2">{0} is number such as 1, 2, 3 (eg-&quot;Touch the balloon with the number 1)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloons_number_format" space="preserve" translate="yes">
+          <source>Touch all the balloons with the number {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the balloons with the number {0}</target>
+          <note annotates="source" from="Number balloon quiz" priority="2">{0} is number such as 1, 2, 3 (eg-&quot;Touch all the balloons with the number 1&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloon_format" space="preserve" translate="yes">
+          <source>Touch the {0} balloon</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the {0} balloon</target>
+          <note annotates="source" from="Color balloon quiz" priority="2">{0} is color such as black, brown (eg-&quot;Touch the black balloon&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloons_format" space="preserve" translate="yes">
+          <source>Touch all the {0} balloons</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the {0} balloons</target>
+          <note annotates="source" from="Color balloon quiz" priority="2">{0} is color such as black, brown (eg-&quot;Touch all the black balloons&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloon_color_format" space="preserve" translate="yes">
+          <source>Touch the balloon with the color {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the balloon with the color {0}</target>
+          <note annotates="source" from="Color balloon quiz" priority="2">{0} is color such as black, brown (eg-&quot;Touch the balloon with the color black&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloons_color_format" space="preserve" translate="yes">
+          <source>Touch all the balloons with the color {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the balloons with the color {0}</target>
+          <note annotates="source" from="Color balloon quiz" priority="2">{0} is color such as black, brown (eg-&quot;Touch all the balloons the with color black&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_alphabet_format" space="preserve" translate="yes">
+          <source>Touch the alphabet {0} </source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the alphabet {0} </target>
+          <note annotates="source" from="Alphabet balloon quiz" priority="2">{0} is alphabet such as a, b, c  (eg-&quot;Touch the alphabet a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloon_alphabet_format" space="preserve" translate="yes">
+          <source>Touch the balloon with the alphabet {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the balloon with the alphabet {0}</target>
+          <note annotates="source" from="Alphabet balloon quiz" priority="2">{0} is alphabet such as a, b, c  (eg-&quot;Touch the balloon with the alphabet a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloons_alphabet_format" space="preserve" translate="yes">
+          <source>Touch all the balloons with the alphabet {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the balloons with the alphabet {0}</target>
+          <note annotates="source" from="Alphabet balloon quiz" priority="2">{0} is alphabet such as a, b, c (eg-&quot;Touch all the balloons with the alphabet a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_letter_format" space="preserve" translate="yes">
+          <source>Touch the letter {0} </source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the letter {0} </target>
+          <note annotates="source" from="Letter balloon quiz" priority="2">{0} is letter such as a, b, c  (eg-&quot;Touch the letter a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_balloons_letter_format" space="preserve" translate="yes">
+          <source>Touch all the balloons with the letter {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the balloons with the letter {0}</target>
+          <note annotates="source" from="Letter balloon quiz" priority="2">{0} is letter such as a, b, c (eg-&quot;Touch all the balloons with the letter a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_scratchpaint" space="preserve" translate="yes">
+          <source>Scratch the pad to paint</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch the pad to paint</target>
+          <note annotates="source" from="Scratch the pad to paint" priority="2">Scratch the pad to paint</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_same_objects" space="preserve" translate="yes">
+          <source>Touch all the objects which are the same</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the objects which are the same</target>
+          <note annotates="source" from="Same in group" priority="2">Touch all the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_same_shape" space="preserve" translate="yes">
+          <source>Touch all the objects which are the same shape</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the objects which are the same shape</target>
+          <note annotates="source" from="Same in group" priority="2">Touch all the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_same_shape_shelly_hand" space="preserve" translate="yes">
+          <source>Touch the shapes same as the one in Shelly's hand</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the shapes same as the one in Shelly's hand</target>
+          <note annotates="source" from="Same in group" priority="2">Touch the same objects</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_same_color" space="preserve" translate="yes">
+          <source>Touch all the objects which are the same color</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the objects which are the same color</target>
+          <note annotates="source" from="Same in group" priority="2">Touch all the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_odd_object" space="preserve" translate="yes">
+          <source>Touch the object which doesn't belong to the group</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the object which doesn't belong to the group</target>
+          <note annotates="source" from="Odd in group" priority="2">Caption for odd items quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_odd_color" space="preserve" translate="yes">
+          <source>Touch the color which doesn't belong to the group</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the color which doesn't belong to the group</target>
+          <note annotates="source" from="Odd in group" priority="2">Caption for odd items quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_odd_shape" space="preserve" translate="yes">
+          <source>Touch the shape which doesn't belong to the group</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the shape which doesn't belong to the group</target>
+          <note annotates="source" from="Odd in group" priority="2">Caption for odd items quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_object_not_belong" space="preserve" translate="yes">
+          <source>Which object doesn't belong in the row?</source>
+          <target state="new" state-qualifier="mt-suggestion">Which object doesn't belong in the row?</target>
+          <note annotates="source" from="Compare the objects" priority="2">Object does not belong</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_item_format" space="preserve" translate="yes">
+          <source>Touch the {0} item</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the {0} item</target>
+          <note annotates="source" from="Compare the objects" priority="2">{0} is smallest or largest (eg-&quot;Touch the smallest item&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_block_object_format" space="preserve" translate="yes">
+          <source>Touch the block with {0} object {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the block with {0} object {1}</target>
+          <note annotates="source" from="Correct counting" priority="2">{0} is number such as one, two, three (eg-&quot;Touch the block with one object&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_object_format" space="preserve" translate="yes">
+          <source>Touch the object which is {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the object which is {0}</target>
+          <note annotates="source" from="What is what?" priority="2">{0} is color, shape or animal  (eg-&quot;Touch the object which is circle&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_objects_format" space="preserve" translate="yes">
+          <source>Touch all the objects which are the {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the objects which are the {0}</target>
+          <note annotates="source" from="What is what?" priority="2">{0} is color, shape or animal (eg-&quot;Touch all the objects which are the circles&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_connect_dots_sequence" space="preserve" translate="yes">
+          <source>Connect the dots in sequence to form the picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots in sequence to form the picture</target>
+          <note annotates="source" from="Connect the dots" priority="2">Connect the dots</note>
+        </trans-unit>
+        <trans-unit id="caption_connect_dots_sequence_shape" space="preserve" translate="yes">
+          <source>Connect the dots in sequence to form the shape</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots in sequence to form the shape</target>
+          <note annotates="source" from="Connect the dots" priority="2">Connect the dots</note>
+        </trans-unit>
+        <trans-unit id="caption_connect_dots" space="preserve" translate="yes">
+          <source>Connect the dots to form the picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots to form the picture</target>
+          <note annotates="source" from="Connect the dots" priority="2">Connect the dots</note>
+        </trans-unit>
+        <trans-unit id="caption_connect_dots_picture" space="preserve" translate="yes">
+          <source>Connect the dots to complete the picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots to complete the picture</target>
+          <note annotates="source" from="Connect the dots" priority="2">Connect the dots</note>
+        </trans-unit>
+        <trans-unit id="caption_connect_dots_reveal" space="preserve" translate="yes">
+          <source>Connect the dots to reveal the picture </source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots to reveal the picture </target>
+          <note annotates="source" from="Connect the dots" priority="2">Connect the dots</note>
+        </trans-unit>
+        <trans-unit id="caption_connect_number" space="preserve" translate="yes">
+          <source>Connect the number</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the number</target>
+          <note annotates="source" from="Connect the dots" priority="2">Connect the dots</note>
+        </trans-unit>
+        <trans-unit id="caption_connect_number_format" space="preserve" translate="yes">
+          <source>Connect the numbers {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the numbers {0}</target>
+          <note annotates="source" from="Connect the dots" priority="2">{0} are numbers 1, 2, 3</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_reveal_picture" space="preserve" translate="yes">
+          <source>Scratch the pad to reveal the picture</source>
+          <target state="New" state-qualifier="mt-suggestion">Scratch the pad to reveal the picture</target>
+          <note annotates="source" from="Scratch to reveal" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_reveal_number" space="preserve" translate="yes">
+          <source>Scratch the pad to reveal the number</source>
+          <target state="New" state-qualifier="mt-suggestion">Scratch the pad to reveal the number</target>
+          <note annotates="source" from="Scratch to reveal" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_reveal_fruit" space="preserve" translate="yes">
+          <source>Scratch the pad to reveal the fruit</source>
+          <target state="New" state-qualifier="mt-suggestion">Scratch the pad to reveal the fruit</target>
+          <note annotates="source" from="Scratch to reveal" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_reveal_shape" space="preserve" translate="yes">
+          <source>Scratch the pad to reveal the shape</source>
+          <target state="New" state-qualifier="mt-suggestion">Scratch the pad to reveal the shape</target>
+          <note annotates="source" from="Scratch to reveal" priority="2">None</note>
+        </trans-unit>
+        <trans-unit id="caption_find_objects" space="preserve" translate="yes">
+          <source>Find the given objects in the picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Find the given objects in the picture</target>
+          <note annotates="source" from="Seek and find" priority="2">Find the given objects</note>
+        </trans-unit>
+        <trans-unit id="caption_find_hidden_items" space="preserve" translate="yes">
+          <source>Find hidden items in the picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Find hidden items in the picture</target>
+          <note annotates="source" from="Seek and find" priority="2">Find hidden items </note>
+        </trans-unit>
+        <trans-unit id="caption_touch_find_items" space="preserve" translate="yes">
+          <source>Touch the items as you find them</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the items as you find them</target>
+          <note annotates="source" from="Seek and find" priority="2">Touch the items</note>
+        </trans-unit>
+        <trans-unit id="caption_find_number_format" space="preserve" translate="yes">
+          <source>Find the number {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Find the number {0}</target>
+          <note annotates="source" from="Seek and find" priority="2">{0} is number such as 1, 2, 3 (eg-&quot;Find the number 1&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_find_alphabet_format" space="preserve" translate="yes">
+          <source>Find the alphabet {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Find the alphabet {1}</target>
+          <note annotates="source" from="Seek and find" priority="2">{0} is alphabet such as a, b, c (eg-&quot;Find the alphabet a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_trace_dots_format" space="preserve" translate="yes">
+          <source>Trace the dots to complete the {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Trace the dots to complete the {0}</target>
+          <note annotates="source" from="Trace the lines" priority="2">{0} is shape, alphabet or number (eg-&quot;Trace the dots to complete the shape&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_trace_hidden_number_format" space="preserve" translate="yes">
+          <source>Trace the hidden number {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Trace the hidden number {0}</target>
+          <note annotates="source" from="Trace the lines" priority="2">{0} is number such as 1, 2, 3 (eg-&quot;Trace the hidden number 2&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_trace_hidden_alphabet_format" space="preserve" translate="yes">
+          <source>Trace the hidden alphabet {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Trace the hidden alphabet {0}</target>
+          <note annotates="source" from="Trace the lines" priority="2">{0} is alphabet such as a, b, c (eg-&quot;Trace the hidden alphabet a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_trace_hidden_shape_format" space="preserve" translate="yes">
+          <source>Trace the hidden shape {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Trace the hidden shape {0}</target>
+          <note annotates="source" from="Trace the lines" priority="2">{0} is shape such as circle, star (eg-&quot;Trace the hidden shape circle&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_object_pattern" space="preserve" translate="yes">
+          <source>Drag the object to complete the {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the object to complete the {1}</target>
+          <note annotates="source" from="What comes next?" priority="2"> {1} is pattern (eg-&quot;Drag the object to complete the pattern&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_object_format" space="preserve" translate="yes">
+          <source>Drag the object {0} to complete the {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the {0} to complete the {1}</target>
+          <note annotates="source" from="What comes next?" priority="2">{0} is pattern, {1} is row (eg-&quot;Drag the object to complete the row&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_objects_format" space="preserve" translate="yes">
+          <source>Drag the objects {0} to complete the {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the {0} to complete the {1}</target>
+          <note annotates="source" from="What comes next?" priority="2">{0} is pattern, {1} is row (eg-&quot;Drag the objects to complete the row&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_place_object_position" space="preserve" translate="yes">
+          <source>Place the objects to their respective position</source>
+          <target state="new" state-qualifier="mt-suggestion">Place the objects to their respective position</target>
+          <note annotates="source" from="Clean up the mess" priority="2">Place the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_place_object_format" space="preserve" translate="yes">
+          <source>Arrange the objects to clean up the {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the objects to clean up the {0}</target>
+          <note annotates="source" from="Clean up the mess" priority="2">{0} is picture or mess (eg-&quot;Arrange the objects to complete the picture&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_sort_object_format" space="preserve" translate="yes">
+          <source>Sort the objects by their {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort the objects by their {0}</target>
+          <note annotates="source" from="Sorting objects" priority="2">{0} is color such as black, red or shape such as circle, square (eg-&quot;Sort the objects by their color&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_arrange_object_partition" space="preserve" translate="yes">
+          <source>Arrange the objects in partition</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the objects in partition</target>
+          <note annotates="source" from="Sorting objects" priority="2">Arrange the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_sort_object_partition_format" space="preserve" translate="yes">
+          <source>Sort the objects in {0} partition</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort the objects in {0} partition</target>
+          <note annotates="source" from="Sorting objects" priority="2">{0} is number such as one, two (eg-&quot;Sort the obejcts in two partition&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_arrange_object_blocks_format" space="preserve" translate="yes">
+          <source>Arrange the objects in {0} blocks</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the objects in {0} blocks</target>
+          <note annotates="source" from="Sorting objects" priority="2">{0} is number such as one, two (eg-&quot;Arrange the obejcts in two blocks&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_sort_objects" space="preserve" translate="yes">
+          <source>Sort the objects</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort the objects</target>
+          <note annotates="source" from="Sorting objects" priority="2">Sort the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_sort_items_x_y" space="preserve" translate="yes">
+          <source>Sort the items according to the {0} and {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort the items according to the {0} and {1}</target>
+          <note annotates="source" from="Sorting objects" priority="2">{0} is alphabets such as a, b, c and {1} is number such as 1, 2, 3</note>
+        </trans-unit>
+        <trans-unit id="caption_sort_items_shape" space="preserve" translate="yes">
+          <source>Sort the items according to the matching shape</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort the items according to the matching shape</target>
+          <note annotates="source" from="Sorting objects" priority="2">Sort the items</note>
+        </trans-unit>
+        <trans-unit id="caption_sort_items_color" space="preserve" translate="yes">
+          <source>Sort the items according to their colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort the items according to their colors</target>
+          <note annotates="source" from="Sorting objects" priority="2">Sort the items</note>
+        </trans-unit>
+        <trans-unit id="caption_sort_items_environment" space="preserve" translate="yes">
+          <source>Sort the items according to the matching environment</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort the items according to the matching environment</target>
+          <note annotates="source" from="Sorting objects" priority="2">Sort the items</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_object_match_pairs" space="preserve" translate="yes">
+          <source>Drag the objects to match with the pairs </source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the objects to match with the pairs </target>
+          <note annotates="source" from="Match the objects" priority="2">Drag the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_match_object_pairs" space="preserve" translate="yes">
+          <source>Match the objects to their pairs</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the objects to their pairs</target>
+          <note annotates="source" from="Match the objects" priority="2">Match objects</note>
+        </trans-unit>
+        <trans-unit id="caption_match_object_rows" space="preserve" translate="yes">
+          <source>Match the objects to their rows</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the objects to their rows</target>
+          <note annotates="source" from="Match the objects" priority="2">Match objects</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_objects" space="preserve" translate="yes">
+          <source>Drag the objects to complete the picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the objects to complete the picture</target>
+          <note annotates="source" from="Complete the picture" priority="2">Drag the objects</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_correct_answer" space="preserve" translate="yes">
+          <source>Touch the correct answer</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the correct answer</target>
+          <note annotates="source" from="Math quiz" priority="2">Touch the correct answer.</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_correct_color" space="preserve" translate="yes">
+          <source>Drag the shapes to the correct color</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the shapes to the matching color</target>
+          <note annotates="source" from="Caterpillar color quiz" priority="2">Drag the shapes to the matching color</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_tadpoles_correct_color" space="preserve" translate="yes">
+          <source>Drag the tad poles to the correct color</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the tad poles to the correct color</target>
+          <note annotates="source" from="Caterpillar color quiz" priority="2">Drag the tad poles to the correct color</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_objects_correct_color" space="preserve" translate="yes">
+          <source>Drag the moving objects to the correct color</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the moving objects to the correct color</target>
+          <note annotates="source" from="Caterpillar color quiz" priority="2">Drag the moving objects to the correct color</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_monsters_correct_color" space="preserve" translate="yes">
+          <source>Drag the moving monsters to the correct color</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the moving monsters to the correct color</target>
+          <note annotates="source" from="Caterpillar color quiz" priority="2">Caterpillar colors quiz with monsters</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_block_more_items" space="preserve" translate="yes">
+          <source>Touch the block with more items</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the block with more items</target>
+          <note annotates="source" from="Math quiz" priority="2">Touch the block</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_block_fewer_items" space="preserve" translate="yes">
+          <source>Touch the block with fewer items</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the block with fewer items</target>
+          <note annotates="source" from="Math quiz" priority="2">Touch the block</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_drop_object_equal" space="preserve" translate="yes">
+          <source>Drag and drop the objects to make them equal</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag and drop the objects to make them equal</target>
+          <note annotates="source" from="Math quiz" priority="2">Drag and drop</note>
+        </trans-unit>
+        <trans-unit id="caption_addition_two" space="preserve" translate="yes">
+          <source>What will be the addition of these two?</source>
+          <target state="new" state-qualifier="mt-suggestion">What will be the addition of these two?</target>
+          <note annotates="source" from="Math quiz" priority="2">Addition</note>
+        </trans-unit>
+        <trans-unit id="caption_difference_two" space="preserve" translate="yes">
+          <source>What will be the difference of these two?</source>
+          <target state="new" state-qualifier="mt-suggestion">What will be the difference of these two?</target>
+          <note annotates="source" from="Math quiz" priority="2">Difference</note>
+        </trans-unit>
+        <trans-unit id="caption_addition_two_numbers" space="preserve" translate="yes">
+          <source>What will be the addition of these two numbers?</source>
+          <target state="new" state-qualifier="mt-suggestion">What will be the addition of these two numbers?</target>
+          <note annotates="source" from="Math quiz" priority="2">Addition</note>
+        </trans-unit>
+        <trans-unit id="caption_difference_two_numbers" space="preserve" translate="yes">
+          <source>What will be the difference of these two numbers?</source>
+          <target state="new" state-qualifier="mt-suggestion">What will be the difference of these two numbers?</target>
+          <note annotates="source" from="Math quiz" priority="2">Difference</note>
+        </trans-unit>
+        <trans-unit id="caption_find_sum" space="preserve" translate="yes">
+          <source>Find the sum</source>
+          <target state="new" state-qualifier="mt-suggestion">Find the sum</target>
+          <note annotates="source" from="Math quiz" priority="2">Find the sum</note>
+        </trans-unit>
+        <trans-unit id="caption_find_difference" space="preserve" translate="yes">
+          <source>Find the difference</source>
+          <target state="new" state-qualifier="mt-suggestion">Find the difference</target>
+          <note annotates="source" from="Math quiz" priority="2">Find the difference</note>
+        </trans-unit>
+        <trans-unit id="caption_find_addition_two_numbers" space="preserve" translate="yes">
+          <source>Help us find the addition of two numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Help us find the addition of two numbers</target>
+          <note annotates="source" from="Math quiz" priority="2">Addition</note>
+        </trans-unit>
+        <trans-unit id="caption_find_difference_two_numbers" space="preserve" translate="yes">
+          <source>Help us find the difference of two numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Help us find the difference of two numbers</target>
+          <note annotates="source" from="Math quiz" priority="2">Difference</note>
+        </trans-unit>
+        <trans-unit id="caption_solve_numbers_format" space="preserve" translate="yes">
+          <source>Solve the puzzle by {0} the numbers </source>
+          <target state="new" state-qualifier="mt-suggestion">Solve the puzzle by {0} the numbers </target>
+          <note annotates="source" from="Math quiz" priority="2">{0} is mathematics operation (eg-&quot;Solve the puzzle by adding the numbers&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_solve_using_format" space="preserve" translate="yes">
+          <source>Solve the puzzle using {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Solve the puzzle using {0}</target>
+          <note annotates="source" from="Math quiz" priority="2">{0} is mathematics operation (eg-&quot;Solve the puzzle by using addition&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_solve_math_puzzle" space="preserve" translate="yes">
+          <source>Use your math to solve the puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Use your math to solve the puzzle</target>
+          <note annotates="source" from="Math quiz" priority="2">This is math puzzle</note>
+        </trans-unit>
+        <trans-unit id="caption_trace_maze" space="preserve" translate="yes">
+          <source>Trace the maze without touching its sides</source>
+          <target state="new" state-qualifier="mt-suggestion">Trace the maze without touching its sides</target>
+          <note annotates="source" from="Careful tracing" priority="2">Trace the maize</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_letter_format" space="preserve" translate="yes">
+          <source>Scratch the items that begins with the letter {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch the items that begins with the letter {0}</target>
+          <note annotates="source" from="Scratch the picture" priority="2">{0} is alphabet such as a, b, c  (eg-&quot;Scratch the items that begins with letter a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_color_items_format" space="preserve" translate="yes">
+          <source>Scratch the items which are the color {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch the items which are the color {0}</target>
+          <note annotates="source" from="Scratch the picture" priority="2">{0} is color such as black, red, green (eg-&quot;Scratch the items which are the color green&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_shape_format" space="preserve" translate="yes">
+          <source>Scratch the items which have the shape of {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch the items which have the shape of {0}</target>
+          <note annotates="source" from="Scratch the picture" priority="2">{0} is shape such as square, star  (eg-&quot;Scratch the items which have shape of circle&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_objects_format" space="preserve" translate="yes">
+          <source>Touch the {0} objects</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the {0} objects</target>
+          <note annotates="source" from="Size comparison quiz" priority="2">{0) is height or size  (eg-&quot;Touch the taller object&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_help_frog_reach_pond" space="preserve" translate="yes">
+          <source>Help frog to reach the pond</source>
+          <target state="new" state-qualifier="mt-suggestion">Help frog to reach the pond</target>
+          <note annotates="source" from="Hopping frog" priority="2">Move to pond</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_number_sequence_reach_pond" space="preserve" translate="yes">
+          <source>Touch the numbers in sequence to reach the pond</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch numbers in sequence to reach the pond</target>
+          <note annotates="source" from="Hopping frog" priority="2">Move to pond</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_alphabet_sequence_reach_pond" space="preserve" translate="yes">
+          <source>Touch the alphabets in sequence to reach the pond</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch alphabets in sequence to reach the pond</target>
+          <note annotates="source" from="Hopping frog" priority="2">Move to pond</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_letters_sequence_reach_pond" space="preserve" translate="yes">
+          <source>Touch the letters in sequence to reach the pond</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch letters in sequence to reach the pond</target>
+          <note annotates="source" from="Hopping frog" priority="2">Move to pond</note>
+        </trans-unit>
+        <trans-unit id="caption_match_numbers_pictures" space="preserve" translate="yes">
+          <source>Match the numbers to the related pictures</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the numbers to the related pictures</target>
+          <note annotates="source" from="Matching pictures" priority="2">Match numbers</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_correct_option_solve_problem" space="preserve" translate="yes">
+          <source>Touch the correct option to solve the problem</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the correct option to solve the problem</target>
+          <note annotates="source" from="Count comparison quiz" priority="2">Touch correct option</note>
+        </trans-unit>
+        <trans-unit id="caption_make_equal" space="preserve" translate="yes">
+          <source>Can you make them equal?</source>
+          <target state="new" state-qualifier="mt-suggestion">Can you make them equal?</target>
+          <note annotates="source" from="Same to same" priority="2">Make equal</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_correct_option" space="preserve" translate="yes">
+          <source>Touch on the correct option</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch on the correct option</target>
+          <note annotates="source" from="Compared twosome" priority="2">Touch correct option</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_block_objects_format" space="preserve" translate="yes">
+          <source>Touch the block with {0} objects</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the block with {0} objects</target>
+          <note annotates="source" from="Compared twosome" priority="2">{0} is less or more (eg-&quot;Touch the block with more objects&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_arrange_numbers_order_format" space="preserve" translate="yes">
+          <source>Arrange the numbers in {0} order</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the numbers in {0} order</target>
+          <note annotates="source" from="Go up n down" priority="2">{0} is an order (eg-&quot;Arrange the numbers in ascending order&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_number_line_format" space="preserve" translate="yes">
+          <source>Touch on the number line to {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch on the number line to {0}</target>
+          <note annotates="source" from="Number line" priority="2">{0} is add, subtract (eg-&quot;Touch on the the number line to add&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_numbers_format" space="preserve" translate="yes">
+          <source>{0} the numbers to solve the problem</source>
+          <target state="new" state-qualifier="mt-suggestion">{0} the numbers to solve the problem</target>
+          <note annotates="source" from="Add me up / subtract me" priority="2">{0} is add, subtract (eg-&quot;Add the numbers to solve the problem&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_make_group_format" space="preserve" translate="yes">
+          <source>Can you make a group of {0}?</source>
+          <target state="new" state-qualifier="mt-suggestion">Can you make a group of {0}?</target>
+          <note annotates="source" from="Candy jar" priority="2">{0} is 2, 3, 4 (eg-&quot;Can you make a group of 4?&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_move_x_y" space="preserve" translate="yes">
+          <source>Move the {0} to the {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Move the {0} to the {1}</target>
+          <note annotates="source" from="Juicy grids" priority="2">{0} is fruit such as apple, banana, cherry and {1} is position (eg-&quot;Move the apple to the top left&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_bubbles_complete_sequence" space="preserve" translate="yes">
+          <source>Drag the bubbles to complete the sequence</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the bubbles to complete the sequence</target>
+          <note annotates="source" from="Bubbly alphabets" priority="2">Drag the bubbles</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_caterpillar_find_missing_letters" space="preserve" translate="yes">
+          <source>Touch the caterpillar to find the missing letters</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the caterpillar to find the missing letters</target>
+          <note annotates="source" from="Sequence trail" priority="2">Find missing letters</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_word_starts_format" space="preserve" translate="yes">
+          <source>Touch the word that starts with {0}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the word which starts with letter {0}</target>
+          <note annotates="source" from="Hello phonics" priority="2">{0} is letter such as a, b, c (eg-&quot;Touch the word that starts with letter a&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_correct_picture" space="preserve" translate="yes">
+          <source>Touch the correct picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the correct picture</target>
+          <note annotates="source" from="My first words/ first letter" priority="2">Touch the picture</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_all_correct_pictures" space="preserve" translate="yes">
+          <source>Touch all the correct pictures</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the correct pictures</target>
+          <note annotates="source" from="My first words/ first letter" priority="2">Touch the pictures</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_word_starts_different_letter" space="preserve" translate="yes">
+          <source>Touch the word which starts with a different letter</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the word which starts with a different letter</target>
+          <note annotates="source" from="My first words/ first letter" priority="2">Touch the word</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_object_starts_different_letter" space="preserve" translate="yes">
+          <source>Touch the object which starts with a different letter</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the object which starts with a different letter</target>
+          <note annotates="source" from="My first words/ first letter" priority="2">Touch the object</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_letter_correct_picture" space="preserve" translate="yes">
+          <source>Drag the letter to the correct picture</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the letter to the correct picture</target>
+          <note annotates="source" from="Letter match" priority="2">Drag the letter</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_letters_correct_pictures" space="preserve" translate="yes">
+          <source>Drag the letters to the correct pictures</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the letters to the correct pictures</target>
+          <note annotates="source" from="My first letter" priority="2">Drag the letters</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_all_blocks_object_format" space="preserve" translate="yes">
+          <source>Touch all the blocks with {0} {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the blocks with {0} {1}</target>
+          <note annotates="source" from="Bingo quiz" priority="2">{0} is shape, color, fruit, vegetable, alphabet, number and {1} is oval, blue, apple, carrot, a, 9 (eg-&quot;Touch all the blocks with shape oval&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_all_blocks_property_format" space="preserve" translate="yes">
+          <source>Touch all the blocks with {0} {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the blocks with {0} {1}</target>
+          <note annotates="source" from="Bingo quiz" priority="2">{0} is Property such as yellow, green, oval and {1} is Category name such as fruit, vegetable, item, object (eg-&quot;Touch all the blocks with yellow fruit&quot;)</note>
+        </trans-unit>
+        <trans-unit id="caption_feed_hungry_frog_fly_format" space="preserve" translate="yes">
+          <source>Feed the hungry frog with the {0} fly</source>
+          <target state="new" state-qualifier="mt-suggestion">Feed the hungry frog with the {0} fly</target>
+          <note annotates="source" from="Hungry frog" priority="2">Feed hungry frog</note>
+        </trans-unit>
+        <trans-unit id="caption_color_fly_format" space="preserve" translate="yes">
+          <source>{0} fly</source>
+          <target state="new" state-qualifier="mt-suggestion">{0} fly</target>
+          <note annotates="source" from="Hungry frog" priority="2">Feed hungry lizzy</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_ball_reach_basket" space="preserve" translate="yes">
+          <source>Touch the ball to reach the basket</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the ball to reach the basket</target>
+          <note annotates="source" from="NumberGames::Number Play Quiz" priority="2">This is caption for number games: number play quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_scratch_pad_learn_new_number" space="preserve" translate="yes">
+          <source>Scratch the pad to learn a new number</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch the pad to learn a new number</target>
+          <note annotates="source" from="NumberGames: Scratching Fun Quiz" priority="2">This is caption for number games: scratching quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_count_keep_fruits_each_box" space="preserve" translate="yes">
+          <source>Let us count by keeping the fruits in each box</source>
+          <target state="new" state-qualifier="mt-suggestion">Let us count by keeping the fruits in each box</target>
+          <note annotates="source" from="NumberGames:: Number Fun Quiz" priority="2">This is caption for number games: number fun quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_take_butterfly_as_many_number_flowers" space="preserve" translate="yes">
+          <source>Take the butterfly to as many number of flowers</source>
+          <target state="new" state-qualifier="mt-suggestion">Take the butterfly to as many number of flowers</target>
+          <note annotates="source" from="Math Games" priority="2">This is caption for math games: number names quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_triangles_remove_them" space="preserve" translate="yes">
+          <source>Touch the triangles to remove them</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the triangles to remove them</target>
+          <note annotates="source" from="Math Games" priority="2">This is caption for math games: cut it off quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_circles_remove_them" space="preserve" translate="yes">
+          <source>Touch the circles to remove them</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the circles to remove them</target>
+          <note annotates="source" from="Math Games" priority="2">This is caption for math games: cut it off quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_squares_remove_them" space="preserve" translate="yes">
+          <source>Touch the squares to remove them</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the squares to remove them</target>
+          <note annotates="source" from="Math Games" priority="2">This is caption for math games: cut it off quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_stars_remove_them" space="preserve" translate="yes">
+          <source>Touch the stars to remove them</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the stars to remove them</target>
+          <note annotates="source" from="Math Games" priority="2">This is caption for math games: cut it off quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_pentagons_remove_them" space="preserve" translate="yes">
+          <source>Touch the pentagons to remove them</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the pentagons to remove them</target>
+          <note annotates="source" from="Math Games" priority="2">This is caption for math games: cut it off quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_double_1" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the double of 1</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_double_2" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the double of 2</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_double_3" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the double of 3</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_double_4" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the double of 4</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_double_5" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the double of 5</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_half_2" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the half of 2</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_half_4" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the half of 4</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_half_6" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the half of 6</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_half_8" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the half of 8</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_spots_find_half_10" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the spots to find the half of 10</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: halves and doubles quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_take_frog_to_flag_through_even_numbers" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Take the frog to the flag through even numbers</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: even odd hop quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_take_frog_to_flag_through_odd_numbers" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Take the frog to the flag through odd numbers</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for math games: even odd hop quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_the_group_with_greater_number_of_fishes" space="preserve" translate="yes">
+          <source>GS Kids! Preschool Numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the group with greater number of fishes</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for GS Kids! Preschool Numbers: comparison quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_the_group_with_lesser_number_of_fishes" space="preserve" translate="yes">
+          <source>GS Kids! Preschool Numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the group with lesser number of fishes</target>
+          <note annotates="source" from="NumberGames" priority="2">This is caption for GS Kids! Preschool Numbers: comparison quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_clock_with_correct_time" space="preserve" translate="yes">
+          <source>Touch The Clock With The Correct Time</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch The Clock With The Correct Time</target>
+          <note annotates="source" from="MathsGames" priority="2">This is caption for maths games: Tell the Time quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_tap_the_ball_to_score_a_basket" space="preserve" translate="yes">
+          <source>Tap the ball to score a basket</source>
+          <target state="new" state-qualifier="mt-suggestion">Tap the ball to score a basket</target>
+          <note annotates="source" from="MathsGames" priority="2">This is caption for preschool numbers: Shoot the Ball quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_count_the_sea_folks_and_join_the_puzzle" space="preserve" translate="yes">
+          <source>Count the sea folks and join the puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Count the sea folks and join the puzzle</target>
+          <note annotates="source" from="MathsGames" priority="2">This is caption for preschool numbers: Puzzle Mania quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_join_puzzle_get_new_number" space="preserve" translate="yes">
+          <source>Let us join the puzzle to get a new number</source>
+          <target state="new" state-qualifier="mt-suggestion">Let us join the puzzle to get a new number</target>
+          <note annotates="source" from="NumberGames:: Puzzle Mania Quiz" priority="2">This is caption for number games: Puzzle Mania Quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_number_fishes_format" space="preserve" translate="yes">
+          <source>Touch the {0} number of fishes</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the {0} number of fishes</target>
+          <note annotates="source" from="NumberGames:: More OR Less Quiz" priority="2">This is caption for number games: more or less quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_arrange_numbers_before_after_given_number" space="preserve" translate="yes">
+          <source>Arrange the numbers Before and After the given number</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the numbers Before and After the given number</target>
+          <note annotates="source" from="NumberGames: Before and After Train Quiz" priority="2">This is caption for number games: before and after quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_arrange_numbers_move_train" space="preserve" translate="yes">
+          <source>Arrange the numbers to move the train</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the numbers to move the train</target>
+          <note annotates="source" from="NumberGames:: Before and After Train Quiz" priority="2">This is caption for number games: before and after quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_add_fishes_jar_find_sum" space="preserve" translate="yes">
+          <source>Add the fishes to the jar to find the sum</source>
+          <target state="new" state-qualifier="mt-suggestion">Add the fishes to the jar to find the sum</target>
+          <note annotates="source" from="MathGames:: Aquarium Addition Quiz" priority="2">This is caption for number games: Aquarium Addition Quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_feed_one_half_pizza_monster" space="preserve" translate="yes">
+          <source>Feed one half of the pizza to the monster</source>
+          <target state="new" state-qualifier="mt-suggestion">Feed one half of the pizza to the monster</target>
+          <note annotates="source" from="MathGames:: Fractional Pizza Quiz" priority="2">This is caption for number games: Fractional Pizza Quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_feed_one_quarter_pizza_monster" space="preserve" translate="yes">
+          <source>Feed one quarter of the pizza to monster</source>
+          <target state="new" state-qualifier="mt-suggestion">Feed one quarter of the pizza to monster</target>
+          <note annotates="source" from="MathGames:: Fractional Pizza Quiz" priority="2">This is caption for number games: Fractional Pizza Quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_beads_make_given_number" space="preserve" translate="yes">
+          <source>Drag the beads to make the given number</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the beads to make the given number</target>
+          <note annotates="source" from="MathGames:: Tens and Ones Quiz" priority="2">This is caption for number games: Tens and Ones Quiz</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_words_same_group" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the words that belong to the same group</target>
+          <note annotates="source" from="WordGames" priority="2">Touch all the words that belong to the same group</note>
+        </trans-unit>
+        <trans-unit id="caption_match_rhyming_words" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the rhyming words</target>
+          <note annotates="source" from="WordGames" priority="2">Match the rhyming words</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_words_same" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the words that are same as colored one</target>
+          <note annotates="source" from="WordGames" priority="2">Touch the words that are same as colored one</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_letters_same_color" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the letters that are same as colored one</target>
+          <note annotates="source" from="WordGames" priority="2">Touch the letters that are same as colored one</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_shapes_same" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the shapes that are same as colored one</target>
+          <note annotates="source" from="WordGames" priority="2">Touch the shapes that are same as colored one</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_odd_word_out" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the odd word out</target>
+          <note annotates="source" from="WordGames" priority="2">Touch the odd word out</note>
+        </trans-unit>
+        <trans-unit id="caption_drag_pictures_complete_grid" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Drag the pictures to complete the grid</target>
+          <note annotates="source" from="WordGames" priority="2">Drag the pictures to complete the grid</note>
+        </trans-unit>
+        <trans-unit id="caption_complete_crossword_correct_letters" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Let us complete the crossword with the correct letters</target>
+          <note annotates="source" from="WordGames" priority="2">Let us complete the crossword with the correct letters</note>
+        </trans-unit>
+        <trans-unit id="caption_join_pieces_learn_word" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Join the pieces to learn a new word</target>
+          <note annotates="source" from="WordGames" priority="2">Join the pieces to learn a new word</note>
+        </trans-unit>
+        <trans-unit id="caption_place_letters_complete_word" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Place the correct letters to complete the word</target>
+          <note annotates="source" from="WordGames" priority="2">Place the correct letters to complete the word</note>
+        </trans-unit>
+        <trans-unit id="caption_place_correct_pictures_on_rhyming_truck" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Place the correct pictures on the rhyming truck</target>
+          <note annotates="source" from="WordGames" priority="2">Place the correct pictures on the rhyming truck</note>
+        </trans-unit>
+        <trans-unit id="caption_complete_words_let_monkey_reach_bananas" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Complete the words to let the monkey reach the bananas</target>
+          <note annotates="source" from="WordGames" priority="2">Complete the words to let the monkey reach the bananas</note>
+        </trans-unit>
+        <trans-unit id="caption_feed_the_shark" space="preserve" translate="yes">
+          <source>Feed the shark with the sea animals</source>
+          <target state="new" state-qualifier="mt-suggestion">Feed the shark with the sea animals</target>
+          <note annotates="source" from="Feed the shark" priority="2">Feed the shark</note>
+        </trans-unit>
+		<trans-unit id="caption_touch_the_sea_animals" space="preserve" translate="yes">
+          <source>Touch all the sea animals</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch all the sea animals</target>
+          <note annotates="source" from="Sea Wonder" priority="2">Sea Wonder</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_all_the_fruits" space="preserve" translate="yes">
+          <source>Help the girl collect all the fruits</source>
+          <target state="new" state-qualifier="mt-suggestion">Help the girl collect all the fruits</target>
+          <note annotates="source" from="Hanging fruits" priority="2">Touch the fruits</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_the_clouds" space="preserve" translate="yes">
+          <source>Touch the clouds to grow new flowers</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the clouds to grow new flowers</target>
+          <note annotates="source" from="Color fun" priority="2">Touch the clouds</note>
+        </trans-unit>
+        <trans-unit id="caption_grow_new_flowers" space="preserve" translate="yes">
+          <source>Grow new flowers</source>
+          <target state="new" state-qualifier="mt-suggestion">Grow new flowers</target>
+          <note annotates="source" from="Color fun" priority="2">Touch the clouds</note>
+        </trans-unit>
+        <trans-unit id="caption_catch_the_creatures" space="preserve" translate="yes">
+          <source>Help the kid catch the creatures</source>
+          <target state="new" state-qualifier="mt-suggestion">Help the kid catch the creatures</target>
+          <note annotates="source" from="Underwater catch" priority="2">Catch the numbers</note>
+        </trans-unit>		
+        <trans-unit id="caption_catch_the_numbers_creatures" space="preserve" translate="yes">
+          <source>Help the kid catch the number creatures</source>
+          <target state="new" state-qualifier="mt-suggestion">Help the kid catch the number creatures</target>
+          <note annotates="source" from="Underwater catch" priority="2">Catch the numbers</note>
+        </trans-unit>
+        <trans-unit id="caption_catch_the_alphabets_creatures" space="preserve" translate="yes">
+          <source>Help the kid catch the alphabet creatures</source>
+          <target state="new" state-qualifier="mt-suggestion">Help the kid catch the alphabet creatures</target>
+          <note annotates="source" from="Underwater catch" priority="2">Catch the numbers</note>
+        </trans-unit>
+        <trans-unit id="caption_burst_the_floating_bubbles" space="preserve" translate="yes">
+          <source>Burst the bubbles to collect the vegetables</source>
+          <target state="new" state-qualifier="mt-suggestion">Burst the bubbles to collect the vegetables</target>
+          <note annotates="source" from="Underwater catch" priority="2">Burst the floating bubbles</note>
+        </trans-unit>
+        <trans-unit id="caption_join_the_pieces_to_make_an_animal" space="preserve" translate="yes">
+          <source>Join the pieces to learn a new animal​</source>
+          <target state="new" state-qualifier="mt-suggestion">Join the pieces to learn a new animal​</target>
+          <note annotates="source" from="Underwater catch" priority="2">Join the pieces</note>
+        </trans-unit>
+        <trans-unit id="caption_touch_the_flies_to_feed_the_hungry_frog" space="preserve" translate="yes">
+          <source>Feed the hungry frog by touching the flies​</source>
+          <target state="new" state-qualifier="mt-suggestion">Feed the hungry frog by touching the flies​</target>
+          <note annotates="source" from="Underwater catch" priority="2">Touch the flies</note>
+        </trans-unit>
+		<trans-unit id="caption_arrange_the_pictures_in_life_cycle" space="preserve" translate="yes">
+          <source>Arrange the pictures in life cycle​</source>
+          <target state="new" state-qualifier="mt-suggestion">Arrange the pictures in life cycle​</target>
+          <note annotates="source" from="Growth Cycle" priority="2">This is caption for Growth Cycle Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_help_animal_find_home" space="preserve" translate="yes">
+          <source>Help animal reach its home​</source>
+          <target state="new" state-qualifier="mt-suggestion">Help animal reach its home​</target>
+          <note annotates="source" from="Home Sweet Home" priority="2">This is caption for Home Sweet Home Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_help_baby_find_mum" space="preserve" translate="yes">
+          <source>Help the baby find its mum​</source>
+          <target state="new" state-qualifier="mt-suggestion">Help the baby find its mum​</target>
+          <note annotates="source" from="Mum And Baby" priority="2">This is caption for Mum And Baby Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_know_your_sense" space="preserve" translate="yes">
+          <source>Know your sense​</source>
+          <target state="new" state-qualifier="mt-suggestion">Know your sense</target>
+          <note annotates="source" from="Five Senses" priority="2">This is caption for Five Senses Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_lets_eat_healthy" space="preserve" translate="yes">
+          <source>Lets eat healthy</source>
+          <target state="new" state-qualifier="mt-suggestion">Lets eat healthy​</target>
+          <note annotates="source" from="Health Is Wealth" priority="2">This is caption for Health Is Wealth Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_load_the_van_with_correct_state_of_matter" space="preserve" translate="yes">
+          <source>Load the van with correct state of matter</source>
+          <target state="new" state-qualifier="mt-suggestion">Load the van with correct state of matter</target>
+          <note annotates="source" from="States Of Matter" priority="2">This is caption for States Of Matter Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_match_the_organs_with_their_names" space="preserve" translate="yes">
+          <source>Match the organs with their names​</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the organs with their names​</target>
+          <note annotates="source" from="Body Parts" priority="2">This is caption for Body Parts Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_touch_the_object_that_floats" space="preserve" translate="yes">
+          <source>Touch the object that floats​</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the object that floats​</target>
+          <note annotates="source" from="Float Sink Quiz" priority="2">This is caption for Float Sink Quiz</note>
+        </trans-unit>
+		<trans-unit id="caption_touch_the_object_that_sinks" space="preserve" translate="yes">
+          <source>Touch the object that sinks</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch the object that sinks</target>
+          <note annotates="source" from="Float Sink Quiz" priority="2">This is caption for Float Sink Quiz</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

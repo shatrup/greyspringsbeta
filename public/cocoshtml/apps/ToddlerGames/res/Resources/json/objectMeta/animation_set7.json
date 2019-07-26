@@ -1,0 +1,150 @@
+{
+	"name": "animation_set7_truck1",
+	"type": "animation",
+	"suffix": "animation_set7_truck1_",
+	"objectList": [
+		{
+			"objectId": "animation_set7_truck1_body",
+			"name": "animation_body",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck1/animation_set7_truck1_body.png",
+			"w": 270.503,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set7_truck1_tire",
+			"name": "animation_tire",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck1/animation_set7_truck1_tire.png",
+			"w": 94.197,
+			"h": 93.363,
+			"shape": "",
+			"color": ""
+		}
+	]
+},
+{
+	"name": "animation_set7_truck2",
+	"type": "animation",
+	"suffix": "animation_set7_truck2_",
+	"objectList": [
+		{
+			"objectId": "animation_set7_truck2_body",
+			"name": "animation_body",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck2/animation_set7_truck2_body.png",
+			"w": 468.066,
+			"h": 142.546,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set7_truck2_tire",
+			"name": "animation_tire",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck2/animation_set7_truck2_tire.png",
+			"w": 59.602,
+			"h": 59.186,
+			"shape": "",
+			"color": ""
+		}
+	]
+},
+{
+	"name": "animation_set7_truck3",
+	"type": "animation",
+	"suffix": "animation_set7_truck3_",
+	"objectList": [
+		{
+			"objectId": "animation_set7_truck3_body",
+			"name": "animation_body",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck3/animation_set7_truck3_body.png",
+			"w": 388.874,
+			"h": 142.962,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set7_truck3_tire",
+			"name": "animation_tire",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck3/animation_set7_truck3_tire.png",
+			"w": 40.43,
+			"h": 40.43,
+			"shape": "",
+			"color": ""
+		}
+	]
+},
+{
+	"name": "animation_set7_truck4",
+	"type": "animation",
+	"suffix": "animation_set7_truck4_",
+	"objectList": [
+		{
+			"objectId": "animation_set7_truck4_body",
+			"name": "animation_body",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck4/animation_set7_truck4_body.png",
+			"w": 273.004,
+			"h": 133.793,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set7_truck4_tire",
+			"name": "animation_tire",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck4/animation_set7_truck4_tire.png",
+			"w": 50.433,
+			"h": 50.016,
+			"shape": "",
+			"color": ""
+		}
+	]
+},
+{
+	"name": "animation_set7_truck5",
+	"type": "animation",
+	"suffix": "animation_set7_truck5_",
+	"objectList": [
+		{
+			"objectId": "animation_set7_truck5_body",
+			"name": "animation_body",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck5/animation_set7_truck5_body.png",
+			"w": 270.503,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set7_truck5_tire",
+			"name": "animation_tire",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck5/animation_set7_truck5_tire.png",
+			"w": 45.848,
+			"h": 45.431,
+			"shape": "",
+			"color": ""
+		}
+	]
+},
+{
+	"name": "animation_set7_truck6",
+	"type": "animation",
+	"suffix": "animation_set7_truck6_",
+	"objectList": [
+		{
+			"objectId": "animation_set7_truck6_body",
+			"name": "animation_body",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck6/animation_set7_truck6_body.png",
+			"w": 416.8,
+			"h": 181.308,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set7_truck6_tire",
+			"name": "animation_tire",
+			"imageUri": "common/chrome/animation/animation_set7/animation_set7_truck6/animation_set7_truck6_tire.png",
+			"w": 71.273,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

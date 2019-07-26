@@ -1,0 +1,18 @@
+{
+    "id": "AlienColorMatchQuiz",
+    "type": "AlienColorMatchQuiz",
+    "complexity": "medium",
+    "qsBgColor": "A5D060",
+    "sets": [
+    {
+      "id": "monster_color",
+      "type": "color",
+      "bgImg" : "common/scenes/scene172/background.png",
+      "bgMusic": "caption_drag_monsters_correct_color",
+      "question": "caption_drag_monsters_correct_color",
+      "objectSrc": "realworld_set_alien_set1",
+      "customKey1": "color",
+	  "isFullBleed":true
+    }
+  ] 
+}

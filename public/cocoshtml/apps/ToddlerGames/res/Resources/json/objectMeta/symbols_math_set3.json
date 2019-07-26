@@ -1,0 +1,70 @@
+{
+    "name": "symbols_math_set3",
+    "type": "",
+    "suffix": "symbols_math_set3_",
+    "objectList": [
+        {
+            "objectId": "symbols_math_set3_addition",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set3/symbol_set3_addition.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set3_equal",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set3/symbol_set3_equal.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set3_subtraction",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set3/symbol_set3_subtraction.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "symbols_math_set3_mod",
+			"name": "",
+			"imageUri": "common/symbols/symbol_set3/symbol_set3_mod.png",
+			"w": 20.84,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+        {
+            "objectId": "symbols_math_set3_greater",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set3/symbol_set3_greater_than.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "symbols_math_set3_question_mark",
+			"name": "",
+			"imageUri": "common/symbols/symbol_set3/symbol_set3_question_mark.png",
+			"w": 24.174,
+			"h": 47.098,
+			"shape": "",
+			"color": ""
+        },
+        {
+            "objectId": "symbols_math_set3_less",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set3/symbol_set3_less_than.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

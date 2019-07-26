@@ -1,0 +1,318 @@
+{
+	"name": "word_objects_set1",
+	"type": "words",
+	"suffix": "word_objects_set1_",
+	"objectList": [{
+			"objectId": "winter_object_set1_ant",
+			"name": "word_ant",
+			"text": "animal_ant",
+			"audioId": "alphabet_object_ant",
+			"imageUri": "common/alphabets/alphabet_object_set1/alphabet_object_set1_x_large/alphabet_object_set1_x_large_ant.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_animal_sound_jungle_1.png"
+		},
+		{
+			"objectId": "winter_object_set1_bee",
+			"name": "word_bee",
+			"text": "animal_bee",
+			"audioId": "alphabet_object_bee",
+			"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_x_large/rhyming_object_set1_x_large_bee.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_fruit_garden_3.png"
+		},
+		{
+			"objectId": "winter_object_set1_bus",
+			"name": "word_bus",
+			"text": "word_bus",
+			"audioId": "word_vehicles_bus",
+			"imageUri": "common/vehicles/vehicle_set2/vehicle_set2_x_large/vehicle_set2_x_large_school_bus.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_ele_on_scooter.png"
+		},
+		{
+			"objectId": "winter_object_set1_car",
+			"name": "word_car",
+			"text": "word_car",
+			"audioId": "word_basics_car",
+			"imageUri": "common/alphabets/alphabet_object_set6/alphabet_object_set6_x_large/alphabet_object_set6_x_large_car.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_ele_on_scooter.png"
+		},
+		{
+			"objectId": "winter_object_set1_cat",
+			"name": "word_cat",
+			"text": "animal_cat",
+			"audioId": "alphabet_object_cat",
+			"imageUri": "common/animals/animal_set4/animal_set4_x_large/animal_set4_x_large_cat.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_grassland.png"
+		},
+		{
+			"objectId": "winter_object_set1_cow",
+			"name": "word_cow",
+			"text": "animal_cow",
+			"audioId": "alphabet_object_cow",
+			"imageUri": "common/english_objects/english_object_set1/english_object_set1_x_large/english_object_set1_x_large_cow.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_green_landscape.png"
+		},
+		{
+			"objectId": "winter_object_set1_dog",
+			"name": "word_dog",
+			"text": "animal_dog",
+			"audioId": "alphabet_object_dog",
+			"imageUri": "common/english_objects/english_object_set1/english_object_set1_x_large/english_object_set1_x_large_dog.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_animal_sound_balcony_1.png"
+		},
+		{
+			"objectId": "winter_object_set1_egg",
+			"name": "word_egg",
+			"text": "word_egg",
+			"audioId": "alphabet_object_egg",
+			"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_x_large/rhyming_object_set1_x_large_egg.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_fullbleed.png"
+		},
+		{
+			"objectId": "winter_object_set1_fox",
+			"name": "word_fox",
+			"text": "animal_fox",
+			"audioId": "alphabet_object_fox",
+			"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_x_large/rhyming_object_set1_x_large_fox.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_fruit_garden_4.png"
+		},
+		{
+			"objectId": "winter_object_set1_hat",
+			"name": "word_hat",
+			"text": "word_hat",
+			"audioId": "alphabet_object_hat",
+			"imageUri": "common/alphabets/alphabet_object_set6/alphabet_object_set6_x_large/alphabet_object_set6_x_large_hat.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_summer_2.png"
+		},
+		{
+			"objectId": "winter_object_set1_hen",
+			"name": "word_hen",
+			"text": "animal_hen",
+			"audioId": "alphabet_object_hen",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_hen.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_archery_6.png"
+		},
+		{
+			"objectId": "winter_object_set1_key",
+			"name": "word_key",
+			"text": "word_key",
+			"audioId": "alphabet_object_key",
+			"imageUri": "common/sinking_objects/sinking_object_set1/sinking_object_set1_x_large/sinking_object_set1_x_large_key.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_pink.png"
+		},
+		{
+			"objectId": "winter_object_set1_owl",
+			"name": "word_owl",
+			"text": "animal_owl",
+			"audioId": "alphabet_object_owl",
+			"imageUri": "common/alphabets/alphabet_object_set5/alphabet_object_set5_x_large/alphabet_object_set5_x_large_owl.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_fruit_garden_2.png"
+		},
+		{
+			"objectId": "winter_object_set1_pig",
+			"name": "word_pig",
+			"text": "animal_pig",
+			"audioId": "alphabet_object_pig",
+			"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_x_large/rhyming_object_set1_x_large_pig.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_archery_6.png"
+		},
+		{
+			"objectId": "winter_object_set1_sun",
+			"name": "word_sun",
+			"text": "word_sun",
+			"audioId": "alphabet_object_sun",
+			"imageUri": "common/alphabets/alphabet_object_set8/alphabet_object_set8_x_large/alphabet_object_set8_x_large_sun.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_life_cycle.png"
+		},
+		{
+			"objectId": "winter_object_set1_van",
+			"name": "word_van",
+			"text": "word_van",
+			"audioId": "alphabet_object_van",
+			"imageUri": "common/vehicles/vehicle_set3/vehicle_set3_x_large/vehicle_set3_x_large_van_1.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_ele_on_scooter.png"
+		},
+		{
+			"objectId": "winter_object_set1_yak",
+			"name": "word_yak",
+			"text": "animal_yak",
+			"audioId": "alphabet_object_yak",
+			"imageUri": "common/alphabets/alphabet_object_set7/alphabet_object_set7_x_large/alphabet_object_set7_x_large_yak.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_scenery_fullbleed.png"
+		},
+		{
+			"objectId": "winter_object_set1_ball",
+			"name": "word_ball",
+			"text": "word_ball",
+			"audioId": "word_basics_ball",
+			"imageUri": "common/toys/toy_set1/toy_set1_x_large/toy_set1_x_large_ball_16.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_summer_2.png"
+		},
+		{
+			"objectId": "winter_object_set1_bear",
+			"name": "word_bear",
+			"text": "animal_bear",
+			"audioId": "alphabet_object_bear",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_bear.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_fruit_garden_1.png"
+		},
+		{
+			"objectId": "winter_object_set1_bird",
+			"name": "word_bird",
+			"text": "animal_bird",
+			"audioId": "animal_bird",
+			"imageUri": "common/alphabets/alphabet_object_set4/alphabet_object_set4_x_large/alphabet_object_set4_x_large_bird.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_morning_fullbleed.png"
+		},
+		{
+			"objectId": "winter_object_set1_boat",
+			"name": "word_boat",
+			"text": "word_boat",
+			"audioId": "word_vehicles_boat",
+			"imageUri": "common/vehicles/vehicle_set2/vehicle_set2_x_large/vehicle_set2_x_large_boat.png",
+			"bgImg": "common/backgrounds/background_fullbleed/connect_dots_water.png"
+		},
+		{
+			"objectId": "winter_object_set1_bulb",
+			"name": "word_bulb",
+			"text": "word_bulb",
+			"audioId": "word_bulb",
+			"imageUri": "common/floating_objects/floating_object_set1/floating_object_set1_x_large/floating_object_set1_x_large_bulb.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_lemon_chiffon.png"
+		},
+		{
+			"objectId": "winter_object_set1_crab",
+			"name": "word_crab",
+			"text": "animal_crab",
+			"audioId": "animal_crab",
+			"imageUri": "common/sea_animals/sea_animal_set10/sea_animal_set10_x_large/sea_animal_set10_x_large_crab.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_summer.png"
+		},
+		{
+			"objectId": "winter_object_set1_deer",
+			"name": "word_deer",
+			"text": "animal_deer",
+			"audioId": "animal_deer",
+			"imageUri": "common/alphabets/alphabet_object_set4/alphabet_object_set4_x_large/alphabet_object_set4_x_large_deer.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_fruit_garden_2.png"
+		},
+		{
+			"objectId": "winter_object_set1_drum",
+			"name": "word_drum",
+			"text": "word_drum",
+			"audioId": "word_drum",
+			"imageUri": "common/alphabets/alphabet_object_set6/alphabet_object_set6_x_large/alphabet_object_set6_x_large_drum.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_playground.png"
+		},
+		{
+			"objectId": "winter_object_set1_duck",
+			"name": "word_duck",
+			"text": "animal_duck",
+			"audioId": "alphabet_object_duck",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_duck.png",
+			"bgImg": "common/backgrounds/background_fullbleed/match_the_shadow_background_pond.png"
+		},
+		{
+			"objectId": "winter_object_set1_eyes",
+			"name": "word_eyes",
+			"text": "word_eyes",
+			"audioId": "word_eyes",
+			"imageUri": "common/alphabets/alphabet_object_set5/alphabet_object_set5_x_large/alphabet_object_set5_x_large_eye.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_yellow_1.png"
+		},
+		{
+			"objectId": "winter_object_set1_fish",
+			"name": "word_fish",
+			"text": "animal_fish",
+			"audioId": "alphabet_object_fish",
+			"imageUri": "common/alphabets/alphabet_object_set5/alphabet_object_set5_x_large/alphabet_object_set5_x_large_fish.png",
+			"bgImg": "common/backgrounds/background_fullbleed/sea_scape.png"
+		},
+		{
+			"objectId": "winter_object_set1_flag",
+			"name": "word_flag",
+			"text": "word_flag",
+			"audioId": "alphabet_object_flag",
+			"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_x_large/rhyming_object_set1_x_large_flag.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_puzzle_mania_1.png"
+		},
+		{
+			"objectId": "winter_object_set1_frog",
+			"name": "word_frog",
+			"text": "animal_frog",
+			"audioId": "alphabet_object_frog",
+			"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_x_large/rhyming_object_set1_x_large_frog.png",
+			"bgImg": "common/backgrounds/background_fullbleed/match_the_shadow_background_pond.png"
+		},
+		{
+			"objectId": "winter_object_set1_kite",
+			"name": "word_kite",
+			"text": "word_kite",
+			"audioId": "alphabet_object_kite",
+			"imageUri": "common/alphabets/alphabet_object_set8/alphabet_object_set8_x_large/alphabet_object_set8_x_large_kite.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_clouds.png"
+		},
+		{
+			"objectId": "winter_object_set1_lamp",
+			"name": "word_lamp",
+			"text": "word_lamp",
+			"audioId": "alphabet_object_lamp",
+			"imageUri": "common/alphabets/alphabet_object_set5/alphabet_object_set5_x_large/alphabet_object_set5_x_large_lamp.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_time_quiz.png"
+		},
+		{
+			"objectId": "winter_object_set1_lion",
+			"name": "word_lion",
+			"text": "animal_lion",
+			"audioId": "alphabet_object_lion",
+			"imageUri": "common/animals/animal_set4/animal_set4_x_large/animal_set4_x_large_lion.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_fruit_garden_3.png"
+		},
+		{
+			"objectId": "winter_object_set1_moon",
+			"name": "word_moon",
+			"text": "word_moon",
+			"audioId": "alphabet_object_moon",
+			"imageUri": "common/alphabets/alphabet_object_set6/alphabet_object_set6_x_large/alphabet_object_set6_x_large_moon.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_crossword.png"
+		},
+		{
+			"objectId": "winter_object_set1_nest",
+			"name": "word_nest",
+			"text": "word_nest",
+			"audioId": "alphabet_object_nest",
+			"imageUri": "common/alphabets/alphabet_object_set7/alphabet_object_set7_x_large/alphabet_object_set7_x_large_nest.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_archery_2.png"
+		},
+		{
+			"objectId": "winter_object_set1_rose",
+			"name": "word_rose",
+			"text": "word_rose",
+			"audioId": "alphabet_object_rose",
+			"imageUri": "common/alphabets/alphabet_object_set8/alphabet_object_set8_x_large/alphabet_object_set8_x_large_rose.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_grassland.png"
+		},
+		{
+			"objectId": "winter_object_set1_star",
+			"name": "word_star",
+			"text": "word_star",
+			"audioId": "alphabet_object_star",
+			"imageUri": "common/alphabets/alphabet_object_set6/alphabet_object_set6_x_large/alphabet_object_set6_x_large_star.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_crossword.png"
+		},
+		{
+			"objectId": "winter_object_set1_tree",
+			"name": "word_tree",
+			"text": "word_tree",
+			"audioId": "word_basics_tree",
+			"imageUri": "playground/connecting_dots/tree.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_green_landscape.png"
+		},
+		{
+			"objectId": "winter_object_set1_worm",
+			"name": "word_worm",
+			"text": "animal_worm",
+			"audioId": "alphabet_object_worm",
+			"imageUri": "common/alphabets/alphabet_object_set8/alphabet_object_set8_x_large/alphabet_object_set8_x_large_worm.png",
+			"bgImg": "common/backgrounds/background_fullbleed/background_habitat.png"
+		}
+	]
+}

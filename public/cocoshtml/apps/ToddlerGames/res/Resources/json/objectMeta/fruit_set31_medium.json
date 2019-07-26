@@ -1,0 +1,87 @@
+{
+    "name": "fruit_set31_medium",
+    "type": "fruit",
+    "suffix": "fruit_set31_medium_",
+    "objectList": [
+        {
+			"objectId": "fruit_set31_medium_apple",
+			"name": "_apple",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_apple.png",
+			"w": 47.515,
+			"h": 47.515,
+			"audioId": "fruit_apple"
+		},
+		{
+			"objectId": "fruit_set31_medium_banana",
+			"name": "_banana",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_banana.png",
+			"w": 39.596,
+			"h": 60.436,
+			"audioId": "fruit_banana"
+		},
+		{
+			"objectId": "fruit_set31_medium_cherry",
+			"name": "_cherry",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_cherry.png",
+			"w": 38.346,
+			"h": 53.767,
+			"audioId": "fruit_cherry"
+		},
+		{
+			"objectId": "fruit_set31_medium_grapes",
+			"name": "_grapes",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_grapes.png",
+			"w": 70.022,
+			"h": 61.27,
+			"audioId": "fruit_grapes"
+		},
+		{
+			"objectId": "fruit_set31_medium_mango",
+			"name": "_mango",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_mango.png",
+			"w": 43.764,
+			"h": 55.018,
+			"audioId": "fruit_mango"
+		},
+		{
+			"objectId": "fruit_set31_medium_orange",
+			"name": "_orange",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_orange.png",
+			"w": 53.767,
+			"h": 53.767,
+			"audioId": "fruit_orange"
+		},
+		{
+			"objectId": "fruit_set31_medium_pear",
+			"name": "_pear",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_pear.png",
+			"w": 44.598,
+			"h": 59.602,
+			"audioId": "fruit_pear"
+		},
+		{
+			"objectId": "fruit_set31_medium_pineapple",
+			"name": "_pineapple",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_pineapple.png",
+			"w": 35.011,
+			"h": 75.024,
+			"audioId": "fruit_pineapple"
+		},
+		{
+			"objectId": "fruit_set31_medium_plum",
+			"name": "_plum",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_plum.png",
+			"w": 58.769,
+			"h": 55.434,
+			"audioId": "fruit_plum"
+		},
+		{
+			"objectId": "fruit_set31_medium_pomegranate",
+			"name": "_pomegranate",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_medium/fruit_set31_medium_pomegranate.png",
+			"w": 55.018,
+			"h": 55.851,
+			"audioId": "fruit_pomegranate"
+		}
+    ]
+}

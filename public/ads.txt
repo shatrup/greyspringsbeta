@@ -1,0 +1,8 @@
+####################################################################
+# Greysprings COPPA Ads.txt file v1.0 - 8th April, 2019
+# Created by Atin
+####################################################################
+
+# SuperAwesome
+rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807 
+Appnexus.com, 3584, RESELLER

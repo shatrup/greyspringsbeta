@@ -1,0 +1,41 @@
+﻿{
+  "heading": "Play your favourite games now",
+  "playGamesList": [
+    {
+      "id": "ArcheryActivity",
+      "name": "Archery",
+      "tileUri": "/images/website_flyer/tile_activity_archery.png",
+      "uri": "/cocoshtml/apps/ToddlerGames/?id=ArcheryActivityLayer"
+    },
+    {
+      "id": "BasketballActivity",
+      "name": "Basketball",
+      "tileUri": "/images/website_flyer/tile_activity_basketball.png",
+      "uri": "/cocoshtml/apps/ToddlerGames/?id=BasketballActivityLayer"
+    },
+    {
+      "id": "CarActivity",
+      "name": "Build Car",
+      "tileUri": "/images/website_flyer/tile_activity_car_assembling.png",
+      "uri": "/cocoshtml/apps/ToddlerGames/?id=CarPartsAssemblingActivityLayer"
+    },
+    {
+      "id": "HurdleJumpActivity",
+      "name": "Hurdle Jump",
+      "tileUri": "/images/website_flyer/tile_activity_hurdle_jump.png",
+      "uri": "/cocoshtml/apps/ToddlerGames/?id=HurdleJumpActivityLayer"
+    },
+    {
+      "id": "RushLanesActivity",
+      "name": "Rush Lane",
+      "tileUri": "/images/website_flyer/tile_activity_elephant.png",
+      "uri": "/cocoshtml/apps/ToddlerGames/?id=RushLanesActivityLayer"
+    },
+    {
+      "id": "RushLanesActivity",
+      "name": "Runner Fox",
+      "tileUri": "/images/website_flyer/tile_activity_fox_run.png",
+      "uri": "/cocoshtml/apps/ToddlerGames/?id=RunnerFoxActivityLayer"
+    }
+  ]
+}

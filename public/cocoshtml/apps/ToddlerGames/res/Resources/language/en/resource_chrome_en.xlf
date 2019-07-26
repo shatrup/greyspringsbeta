@@ -1,0 +1,1999 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="en-US">
+    <body>
+      <group id="Games">
+        <trans-unit id="apptitle_gskids_PreschoolGames" space="preserve" translate="yes">
+          <source>Kids Preschool Learning Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Preschool Learning Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Learning Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_PreschoolBasics" space="preserve" translate="yes">
+          <source>Kindergarten Kids Learning</source>
+          <target state="new" state-qualifier="mt-suggestion">Kindergarten Kids Learning</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kindergarten Kids Learning"</note>
+        </trans-unit>
+		    <trans-unit translate="yes" id="apptitle_part1_Kindergarten" space="preserve">
+          <source>Kindergarten</source>
+          <target state="new" state-qualifier="mt-suggestion">Kindergarten</target>
+          <note from="Kindergarten8" annotates="source" priority="2">This is first half of app title Kindergarten8</note>
+        </trans-unit>
+        <trans-unit translate="yes" id="apptitle_part2_Kindergarten" space="preserve">
+          <source>Kids Learning</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Learning</target>
+          <note from="Kindergarten8" annotates="source" priority="2">This is second half of app title Kindergarten8</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_PreschoolNumbers" space="preserve" translate="yes">
+          <source>Kids Preschool Numbers and Math</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Preschool Numbers and Math</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Numbers and Math"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_PreschoolLetters" space="preserve" translate="yes">
+          <source>Kids Preschool Learn Letters</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Preschool Learn Letters</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Learn Letters"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_ShapesAndColors" space="preserve" translate="yes">
+          <source>Shapes and Colors Nursery Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Shapes and Colors Nursery Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Shapes and Colors Nursery Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_WordGames" space="preserve" translate="yes">
+          <source>Kids Learning Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Learning Word Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Learning Word Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_MathGames" space="preserve" translate="yes">
+          <source>Kids Games Learning Math Basic</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Games Learning Math Basic</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Games Learning Math Basic"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_TracingApp" space="preserve" translate="yes">
+          <source>Kids Games Learn to Write</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Games Learn to Write</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Games Learn to Write"</note>
+        </trans-unit>
+		<trans-unit id="apptitle_gskids_ToddlerGames" space="preserve" translate="yes">
+          <source>Kids Toddler Learning Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Toddler Learning Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Toddler Learning Games"</note>
+        </trans-unit>
+		<trans-unit id="apptitle_gskids_JigsawGames" space="preserve" translate="yes">
+          <source>Jigsaw Puzzle Games - Treasure Hunt</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw Puzzle Games - Treasure Hunt</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Pirate Jigsaw Puzzles - Treasure Hunt"</note>
+        </trans-unit>
+		<trans-unit id="apptitle_gskids_ScienceGames" space="preserve" translate="yes">
+          <source>Kids Learning Science Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Learning Science Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Learning Science Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_PreschoolGames" space="preserve" translate="yes">
+          <source>Preschool Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Preschool Games"</note>
+        </trans-unit>
+        <trans-unit id="bundletitle_30percent_off" space="preserve" translate="yes">
+          <source>Learning pack of 3 games</source>
+          <target state="new" state-qualifier="mt-suggestion">Learning pack of 3 games</target>
+          <note annotates="source" from="App name" priority="2">This is bundle title for &quot;Learning pack of 3 games&quot;</note>
+        </trans-unit>
+        <trans-unit id="bundletitle_50percent_off" space="preserve" translate="yes">
+          <source>Learning pack of 5 games</source>
+          <target state="new" state-qualifier="mt-suggestion">Learning pack of 5 games</target>
+          <note annotates="source" from="App name" priority="2">This is app title &quot;Learning pack of 5 games&quot;</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_PreschoolGames" space="preserve" translate="yes">
+          <source>Preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title Preschool Games;</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_PreschoolGames" space="preserve" translate="yes">
+          <source>Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Games</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title Preschool Games</note>
+        </trans-unit>
+        <trans-unit id="apptitle_gskids_PreschoolActivities" space="preserve" translate="yes">
+          <source>Kids Preschool Interactive Activities</source>
+          <target state="new" state-qualifier="mt-suggestion">Kids Preschool Interactive Activities</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Kids Preschool Interactive Activities"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_PreschoolActivities" space="preserve" translate="yes">
+          <source>Preschool Activities</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool Activities</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Preschool Activities"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_PreschoolActivities" space="preserve" translate="yes">
+          <source>Preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title Preschool Activities;</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_PreschoolActivities" space="preserve" translate="yes">
+          <source>Activities</source>
+          <target state="new" state-qualifier="mt-suggestion">Activities</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title Preschool Activities</note>
+        </trans-unit>
+        <trans-unit id="apptitle_ScienceGames" space="preserve" translate="yes">
+          <source>Science Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Science Games</target>
+          <note annotates="source" from="Science Games" priority="2">This is app title for Science Games;</note>
+        </trans-unit>
+		<trans-unit translate="yes" id="apptitle_part1_ScienceGames" space="preserve">
+          <source>Science</source>
+          <target state="new" state-qualifier="mt-suggestion">Science</target>
+          <note from="Science Games" annotates="source" priority="2">This is first half of app title Science Games</note>
+        </trans-unit>
+        <trans-unit translate="yes" id="apptitle_part2_ScienceGames" space="preserve">
+          <source>Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Games</target>
+          <note from="Science Games" annotates="source" priority="2">This is second half of app title Science Games</note>
+        </trans-unit>
+        <trans-unit id="apptitle_PreschoolBasics" space="preserve" translate="yes">
+          <source>Preschool Basics</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool Basics</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Preschool Basics"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_PreschoolBasics" space="preserve" translate="yes">
+          <source>Preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Basics"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_PreschoolBasics" space="preserve" translate="yes">
+          <source>Basics</source>
+          <target state="new" state-qualifier="mt-suggestion">Basics</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Basics"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_ArcticAlphas" space="preserve" translate="yes">
+          <source>Arctic Alphas</source>
+          <target state="new" state-qualifier="mt-suggestion">Arctic Alphas</target>
+          <note annotates="source" from="Arctic Alphas" priority="2">This is app title "Arctic Alphas"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_ArcticAlphas" space="preserve" translate="yes">
+          <source>Arctic</source>
+          <target state="new" state-qualifier="mt-suggestion">Arctic</target>
+          <note annotates="source" from="Arctic Alphas" priority="2">This is first half of app title "Arctic Alphas"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_ArcticAlphas" space="preserve" translate="yes">
+          <source>Alphas</source>
+          <target state="new" state-qualifier="mt-suggestion">Alphas</target>
+          <note annotates="source" from="Arctic Alphas" priority="2">This is second half of app title "Arctic Alphas"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_PreschoolNumbers" space="preserve" translate="yes">
+          <source>Preschool Numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool Numbers</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Preschool Numbers"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_PreschoolNumbers" space="preserve" translate="yes">
+          <source>Preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Numbers"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_PreschoolNumbers" space="preserve" translate="yes">
+          <source>Numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Numbers</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Numbers"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_PreschoolLetters" space="preserve" translate="yes">
+          <source>Preschool Letters</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool Letters</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Preschool Letters"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_MathGames" space="preserve" translate="yes">
+          <source>Math Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Math Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Math Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_MathGames" space="preserve" translate="yes">
+          <source>Math</source>
+          <target state="new" state-qualifier="mt-suggestion">Math</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title "Math Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_MathGames" space="preserve" translate="yes">
+          <source>Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Games</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title "Math Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_TracingApp" space="preserve" translate="yes">
+          <source>Learn to Write</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to Write</target>
+          <note annotates="source" from="Tracing App" priority="2">This is app title "Learn to Write"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_TracingApp" space="preserve" translate="yes">
+          <source>Writing</source>
+          <target state="new" state-qualifier="mt-suggestion">Writing</target>
+          <note annotates="source" from="Writing Fun" priority="2">This is first half of app title "Writing Fun"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_TracingApp" space="preserve" translate="yes">
+          <source>Fun</source>
+          <target state="new" state-qualifier="mt-suggestion">Fun</target>
+          <note annotates="source" from="Writing Fun" priority="2">This is second half of app title "Writing Fun"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_PreschoolLetters" space="preserve" translate="yes">
+          <source>Preschool</source>
+          <target state="new" state-qualifier="mt-suggestion">Preschool</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title "Preschool Letters"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_PreschoolLetters" space="preserve" translate="yes">
+          <source>Letters</source>
+          <target state="new" state-qualifier="mt-suggestion">Letters</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title "Preschool Letters"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_ShapesAndColors" space="preserve" translate="yes">
+          <source>Shapes &amp; Colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Shapes &amp; Colors</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Shapes &amp; Colors"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_ShapesAndColors" space="preserve" translate="yes">
+          <source>Shapes N</source>
+          <target state="new" state-qualifier="mt-suggestion">Shapes N</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title "Shapes And Colors"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_ShapesAndColors" space="preserve" translate="yes">
+          <source>Colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Colors</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title "Shapes And Colors"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_WordGames" space="preserve" translate="yes">
+          <source>Word Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Word Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Word Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_WordGames" space="preserve" translate="yes">
+          <source>Word</source>
+          <target state="new" state-qualifier="mt-suggestion">Word</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title "Word Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_WordGames" space="preserve" translate="yes">
+          <source>Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Games</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title "Word Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_JigsawGames" space="preserve" translate="yes">
+          <source>Jigsaw Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw Games</target>
+          <note annotates="source" from="App name" priority="2">This is app title "Jigsaw Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_JigsawGames" space="preserve" translate="yes">
+          <source>Jigsaw</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw</target>
+          <note annotates="source" from="App name" priority="2">This is first half of app title "Jigsaw Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_JigsawGames" space="preserve" translate="yes">
+          <source>Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Games</target>
+          <note annotates="source" from="App name" priority="2">This is second half of app title "Jigsaw Games"</note>
+        </trans-unit>
+        <trans-unit id="buttontile_home" space="preserve" translate="yes">
+          <source>Home </source>
+          <target state="new" state-qualifier="mt-suggestion">Home </target>
+          <note annotates="source" from="Chrome" priority="2">This is button home</note>
+        </trans-unit>
+        <trans-unit id="buttontile_skip" space="preserve" translate="yes">
+          <source>Skip</source>
+          <target state="new" state-qualifier="mt-suggestion">Skip</target>
+          <note annotates="source" from="Chrome" priority="2">This is button skip</note>
+        </trans-unit>
+        <trans-unit id="tilelock_rateus" space="preserve" translate="yes">
+          <source>Rate us to unlock</source>
+          <target state="new" state-qualifier="mt-suggestion">Rate us</target>
+          <note annotates="source" from="Chrome" priority="2">Text for unlocking games by providing ratings on store</note>
+        </trans-unit>
+        <trans-unit id="tilelock_socialshare" space="preserve" translate="yes">
+          <source>Share to unlock</source>
+          <target state="new" state-qualifier="mt-suggestion">Share to unlock</target>
+          <note annotates="source" from="Chrome" priority="2">Text for unlocking games by sharing app on social media</note>
+        </trans-unit>
+        <trans-unit id="tilelock_premium" space="preserve" translate="yes">
+          <source>Buy to unlock</source>
+          <target state="new" state-qualifier="mt-suggestion">Unlock</target>
+          <note annotates="source" from="Chrome" priority="2">Text for unlocking games by purchasing from store</note>
+        </trans-unit>
+        <trans-unit id="adsdata_title_goadsfree" space="preserve" translate="yes">
+          <source>Go ads free </source>
+          <target state="new" state-qualifier="mt-suggestion">Go ads free </target>
+          <note annotates="source" from="Chrome" priority="2">This is ads data title used for go ads free</note>
+        </trans-unit>
+        <trans-unit id="adsdata_title_moregames" space="preserve" translate="yes">
+          <source>More games</source>
+          <target state="new" state-qualifier="mt-suggestion">More games</target>
+          <note annotates="source" from="Chrome" priority="2">This is ads data title used for more games</note>
+        </trans-unit>
+        <trans-unit id="button_next" space="preserve" translate="yes">
+          <source>Next</source>
+          <target state="new" state-qualifier="mt-suggestion">Next</target>
+          <note annotates="source" from="Chrome" priority="2">This is button next</note>
+        </trans-unit>
+        <trans-unit id="button_previous" space="preserve" translate="yes">
+          <source>Previous</source>
+          <target state="new" state-qualifier="mt-suggestion">Previous</target>
+          <note annotates="source" from="Chrome" priority="2">This is button previous</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_JigsawWordQuiz" space="preserve" translate="yes">
+          <source>Jigsaw Words</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw Words</target>
+          <note annotates="source" from="Word Games" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_JigsawJumbleQuiz" space="preserve" translate="yes">
+          <source>Jigsaw puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw puzzle</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>		
+        <trans-unit id="tiletitle_JigsawV2Quiz" space="preserve" translate="yes">
+          <source>Jigsaw puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw puzzle</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>		
+        <trans-unit id="tiletitle_ComparisonQuiz" space="preserve" translate="yes">
+          <source>Equal or Unequal</source>
+          <target state="new" state-qualifier="mt-suggestion">Equal or Unequal</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>			
+		<trans-unit id="tiletitle_PreschoolGames_CarPartsAssemblingActivityLayer" space="preserved">
+			<source>Make your Car</source>
+			<target state="new" state-qualifier="mt-suggestion" xml:lang="en">Make your own Car</target>
+			<note annotates="source" from="Chrome" priority="2">Tile title on home page for Car assembling Activity</note>
+		</trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_MemoryGame" space="preserve" translate="yes">
+          <source>Flip and Match</source>
+          <target state="new" state-qualifier="mt-suggestion">Flip and Match</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_ConnectTheDots" space="preserve" translate="yes">
+          <source>Connect the dots</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots</target>
+          <note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ConnectTheDots_ConnectTheDotsV2" space="preserve" translate="yes">
+          <source>Connect the dots</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots</target>
+          <note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_DragToMatchQuiz" space="preserve" translate="yes">
+          <source>Match the numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the numbers</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_JigsawPuzzleV3" space="preserve" translate="yes">
+          <source>Jigsaw Puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw Puzzle</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_JuicyGridQuiz" space="preserve" translate="yes">
+          <source>Juicy grid</source>
+          <target state="new" state-qualifier="mt-suggestion">Juicy grid</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_AscendingDescendingQuiz" space="preserve" translate="yes">
+          <source>Sort it out</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort it out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_NumberLineQuiz" space="preserve" translate="yes">
+          <source>Number line</source>
+          <target state="new" state-qualifier="mt-suggestion">Number line</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_NumberPlayQuiz" space="preserve" translate="yes">
+          <source>Number Play</source>
+          <target state="new" state-qualifier="mt-suggestion">Number Play</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page for number play quiz</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MatchItemsGridQuiz" space="preserve" translate="yes">
+          <source>First Letter</source>
+          <target state="new" state-qualifier="mt-suggestion">First Letter</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_AlphabetChart" space="preserve" translate="yes">
+          <source>Alphabet Chart</source>
+          <target state="new" state-qualifier="mt-suggestion">Alphabet Chart</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		    <trans-unit id="tiletitle_AlphabetQuiz" space="preserve" translate="yes">
+          <source>Alphabet Quiz</source>
+          <target state="new" state-qualifier="mt-suggestion">Alphabet Quiz</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		    <trans-unit id="tiletitle_Vegetableschart" space="preserved">
+			    <source>Vegetables chart</source>
+			    <target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Vegetables chart</target>
+			    <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+	     	</trans-unit>
+    		<trans-unit id="tiletitle_Fruitschart" space="preserved">
+    			<source>Fruits chart</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Fruits chart</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Animalschart" space="preserved">
+    			<source>Animals chart</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Animals chart</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Sportschart" space="preserved">
+    			<source>Sports chart</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Sports chart</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_SolarSystem" space="preserved">
+    			<source>Solar System</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Solar System</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+			<trans-unit id="tiletitle_BodyParts" space="preserved">
+				<source>Body Parts</source>
+				<target state="pending" state-qualifier="mt-suggestion" xml:lang="de">Body Parts</target>
+				<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>
+    		<trans-unit id="tiletitle_Shapeschart" space="preserved">
+    			<source>Shapes chart</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Shapes chart</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Householdschart" space="preserved">
+    			<source>Households chart</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Households chart</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Numberschart" space="preserved">
+    			<source>Numbers chart</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Numbers chart</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Professionschart" space="preserved">
+    			<source>Professions chart</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Professions chart</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Numberquiz" space="preserved">
+    			<source>Number quiz</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Number quiz</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+			<trans-unit id="tiletitle_NumberPaint" space="preserved">
+			  <source>Colorful Numbers</source>
+			  <target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Colorful Numbers</target>
+			  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>
+			<trans-unit id="tiletitle_AlphabetPaint" space="preserve" translate="yes">
+			  <source>Colorful Alphabets</source>
+			  <target state="new" state-qualifier="mt-suggestion">Colorful Alphabets</target>
+			  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>
+			<trans-unit id="tiletitle_FruitPaint" space="preserve" translate="yes">
+			  <source>Colorful Fruits</source>
+			  <target state="new" state-qualifier="mt-suggestion">Colorful Fruits</target>
+			  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>
+			<trans-unit id="tiletitle_VegetablePaint" space="preserve" translate="yes">
+			  <source>Colorful Vegetables</source>
+			  <target state="new" state-qualifier="mt-suggestion">Colorful Vegetables</target>
+			  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>
+			<trans-unit id="tiletitle_ProfessionPaint" space="preserve" translate="yes">
+			  <source>Colorful Professions</source>
+			  <target state="new" state-qualifier="mt-suggestion">Colorful Professions</target>
+			  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>
+			<trans-unit id="tiletitle_ActivityPaint" space="preserve" translate="yes">
+			  <source>Colorful Activities</source>
+			  <target state="new" state-qualifier="mt-suggestion">Colorful Activities</target>
+			  <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>	
+			<trans-unit id="tiletitle_Hotcrossbuns" space="preserved">
+    			<source>Hot cross buns</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Hot cross buns</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Twinkletwinkle" space="preserved">
+    			<source>Twinkle twinkle</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Twinkle twinkle</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_OldMcdonald" space="preserved">
+    			<source>Old Mcdonald</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Old Mcdonald</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Baabaablacksheep" space="preserved">
+    			<source>Baa baa black sheep</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Baa baa black sheep</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Incywincyspider" space="preserved">
+    			<source>Incy wincy spider</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Incy wincy spider</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Maryhadalittlelamb" space="preserved">
+    			<source>Mary had a little lamb</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Mary had a little lamb</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Humptydumpty" space="preserved">
+    			<source>Humpty dumpty</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Humpty Dumpty</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Jackandjill" space="preserved">
+    			<source>Jack and jill</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Jack and Jill</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="tiletitle_Wheelsonthebus" space="preserved">
+    			<source>Wheels on the bus</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Wheels on the bus</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Alphabets" space="preserved">
+    			<source>Alphabets</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Alphabets</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Activities" space="preserved">
+    			<source>Activities</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Activities</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>			
+    		<trans-unit id="charttitle_Animals" space="preserved">
+    			<source>Animals</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Animals</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Charts" space="preserved">
+    			<source>Charts</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Charts</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit> 
+    		<trans-unit id="charttitle_Gallery" space="preserved">
+    			<source>My Paintings</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">My Paintings</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Quizzes" space="preserved">
+    			<source>Quizzes</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Quizzes</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Rhymes" space="preserved">
+    			<source>Rhymes</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Rhymes</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Fruits" space="preserved">
+    			<source>Fruits</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Fruits</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Fruits_And_Vegetables" space="preserved">
+    			<source>Fruits And Vegetables</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Fruits And Vegetables</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>	
+			<trans-unit id="charttitle_Greetings" space="preserved">
+				<source>Greetings</source>
+				<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Greetings</target>
+				<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+			</trans-unit>										
+    		<trans-unit id="charttitle_Households" space="preserved">
+    			<source>Households</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Households</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Numbers" space="preserved">
+    			<source>Numbers</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Numbers</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Professions" space="preserved">
+    			<source>Professions</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Professions</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Shapes" space="preserved">
+    			<source>Shapes</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Shapes</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Sports" space="preserved">
+    			<source>Sports</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Sports</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+    		<trans-unit id="charttitle_Vegetables" space="preserved">
+    			<source>Vegetables</source>
+    			<target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Vegetables</target>
+    			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    		</trans-unit>
+        <trans-unit id="clustertitle_Alphabets" space="preserved">
+          <source>Alphabets</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="en"> A L P H A B E T S </target>
+          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+        </trans-unit>
+        <trans-unit id="clustertitle_Numbers" space="preserved">
+          <source>Numbers</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="en"> N U M B E R S </target>
+          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+        </trans-unit>
+        <trans-unit id="clustertitle_Paint" space="preserved">
+          <source>Paint</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="en"> P A I N T </target>
+          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+        </trans-unit>
+        <trans-unit id="clustertitle_Rhymes" space="preserved">
+          <source>Rhymes</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="en"> R H Y M E S </target>
+          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+        </trans-unit>
+        <trans-unit id="clustertitle_Playground" space="preserved">
+          <source>Playground</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="en"> P L A Y G R O U N D </target>
+          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+        </trans-unit>
+        <trans-unit id="clustertitle_Charts" space="preserved">
+          <source>Charts</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="en"> C H A R T S </target>
+          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+        </trans-unit>
+        <trans-unit id="clustertitle_ShapesAndColors" space="preserved">
+          <source>Shapes and Colors</source>
+          <target state="pending" state-qualifier="mt-suggestion" xml:lang="en">Shapes and Colors</target>
+          <note annotates="source" from="Chrome" priority="2">Cluster title on home page</note>
+        </trans-unit>
+        <trans-unit id="flyout_browser_title" space="preserve" translate="yes">
+          <source>Web browser</source>
+          <target state="new" state-qualifier="mt-suggestion">Web browser</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for flyout title for external communication</note>
+        </trans-unit>
+        <trans-unit id="flyout_browser_msg" space="preserve" translate="yes">
+          <source>We are taking you to the web browser. Please confirm</source>
+          <target state="new" state-qualifier="mt-suggestion">We are taking you to the web browser. Please confirm</target>
+          <note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming external communication</note>
+        </trans-unit>
+        <trans-unit id="flyout_rateus_title" space="preserve" translate="yes">
+          <source>Rate us</source>
+          <target state="new" state-qualifier="mt-suggestion">Rate us</target>
+          <note annotates="source" from="Score Board" priority="2"/>
+        </trans-unit>
+        <trans-unit id="flyout_rateus_msg" space="preserve" translate="yes">
+          <source>Please take a moment to rate the app. Thank you so much!</source>
+          <target state="new" state-qualifier="mt-suggestion">Please take a moment to rate the app. Thank you so much!</target>
+          <note annotates="source" from="Score Board" priority="2">Rate us message</note>
+        </trans-unit>
+        <trans-unit id="flyout_social_share_title" space="preserve" translate="yes">
+          <source>Facebook share</source>
+          <target state="new" state-qualifier="mt-suggestion">Facebook share</target>
+          <note annotates="source" from="Homepage" priority="2"/>
+        </trans-unit>
+        <trans-unit id="flyout_social_share_msg" space="preserve" translate="yes">
+          <source>Please take a moment to share the app. Thank you so much!</source>
+          <target state="new" state-qualifier="mt-suggestion">Please take a moment to share the app. Thank you so much!</target>
+          <note annotates="source" from="Homepage" priority="2"/>
+        </trans-unit>
+        <trans-unit id="flyout_premium_user_title" space="preserve" translate="yes">
+          <source>Premium user</source>
+          <target state="new" state-qualifier="mt-suggestion">Premium user</target>
+          <note annotates="source" from="Score Board" priority="2"/>
+        </trans-unit>
+        <trans-unit id="flyout_premium_user_msg" space="preserve" translate="yes">
+          <source>You are already a premium user. Thanks for purchasing the app</source>
+          <target state="new" state-qualifier="mt-suggestion">You are already a premium user. Thanks for purchasing the app</target>
+          <note annotates="source" from="Score Board" priority="2">Premium user note</note>
+        </trans-unit>
+        <trans-unit id="flyout_goadsfree_title" space="preserve" translate="yes">
+          <source>Go ads free</source>
+          <target state="new" state-qualifier="mt-suggestion">Go ads free</target>
+          <note annotates="source" from="Score Board" priority="2"/>
+        </trans-unit>
+        <trans-unit id="flyout_goadsfree_msg" space="preserve" translate="yes">
+          <source>Go premium to remove ads and give your child an ads free experience</source>
+          <target state="new" state-qualifier="mt-suggestion">Go premium to remove ads and give your child an ads free experience</target>
+          <note annotates="source" from="Score Board" priority="2">Go ads free note</note>
+        </trans-unit>
+        <trans-unit id="flyout_gopremium_title" space="preserve" translate="yes">
+          <source>Go premium</source>
+          <target state="new" state-qualifier="mt-suggestion">Go premium</target>
+          <note annotates="source" from="Score Board" priority="2"/>
+        </trans-unit>
+        <trans-unit id="flyout_gopremium_msg" space="preserve" translate="yes">
+          <source>Go premium to remove ads and unlock more exciting games</source>
+          <target state="new" state-qualifier="mt-suggestion">Go premium to remove ads and unlock more exciting games</target>
+          <note annotates="source" from="Score Board" priority="2">Premium user note</note>
+        </trans-unit>
+        <trans-unit id="flyout_store_title" space="preserve" translate="yes">
+          <source>Visit store</source>
+          <target state="new" state-qualifier="mt-suggestion">Visit store</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for flyout title for store communication</note>
+        </trans-unit>
+        <trans-unit id="flyout_store_msg" space="preserve" translate="yes">
+          <source>We are taking you to the store. Please confirm</source>
+          <target state="new" state-qualifier="mt-suggestion">We are taking you to the store. Please confirm</target>
+          <note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming store communication</note>
+        </trans-unit>
+        <trans-unit id="flyout_leave_app_title" space="preserve" translate="yes">
+          <source>Leave app</source>
+          <target state="new" state-qualifier="mt-suggestion">Leave app</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for flyout title for leaving app.</note>
+        </trans-unit>
+        <trans-unit id="flyout_leave_app_msg" space="preserve" translate="yes">
+          <source>We are taking you outside the app. Please confirm.</source>
+          <target state="new" state-qualifier="mt-suggestion">We are taking you outside the app. Please confirm.</target>
+          <note annotates="source" from="Score Board" priority="2">This is desc used for flyout confirming leaving application</note>
+        </trans-unit>
+        <trans-unit id="flyout_parental_title" space="preserve" translate="yes">
+          <source>Parents only</source>
+          <target state="new" state-qualifier="mt-suggestion">Parents only</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for flyout title for parental control</note>
+        </trans-unit>
+        <trans-unit id="flyout_parental_msg" space="preserve" translate="yes">
+          <source>Choose the right answer to continue</source>
+          <target state="new" state-qualifier="mt-suggestion">Choose the right answer to continue</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for flyout msg for parental control</note>
+        </trans-unit>
+        <trans-unit id="flyout_restore_purchases_title" space="preserve" translate="yes">
+          <source>Restore my purchases</source>
+          <target state="new" state-qualifier="mt-suggestion">Restore my purchases</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+        </trans-unit>
+        <trans-unit id="flyout_restore_purchases_message" space="preserve" translate="yes">
+          <source>Restore previously purchased products.</source>
+          <target state="new" state-qualifier="mt-suggestion">Restore previously purchased products.</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+        </trans-unit>
+        <trans-unit id="flyout_restore_purchases_error_message" space="preserve" translate="yes">
+          <source>We cannot restore your purchases at this time.</source>
+          <target state="new" state-qualifier="mt-suggestion">We cannot restore your purchases at this time.</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+        </trans-unit>
+        <trans-unit id="text_newhighscore" space="preserve" translate="yes">
+          <source>New high score</source>
+          <target state="new" state-qualifier="mt-suggestion">New high score</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for new high score</note>
+        </trans-unit>
+        <trans-unit id="text_goodjob" space="preserve" translate="yes">
+          <source>Good job</source>
+          <target state="new" state-qualifier="mt-suggestion">Good job</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for good job</note>
+        </trans-unit>
+        <trans-unit id="text_greatjob" space="preserve" translate="yes">
+          <source>Great job</source>
+          <target state="new" state-qualifier="mt-suggestion">Great job</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for great job</note>
+        </trans-unit>
+        <trans-unit id="text_superjob" space="preserve" translate="yes">
+          <source>Super job</source>
+          <target state="new" state-qualifier="mt-suggestion">Super job</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for super job</note>
+        </trans-unit>
+        <trans-unit id="text_welldone" space="preserve" translate="yes">
+          <source>Well done</source>
+          <target state="new" state-qualifier="mt-suggestion">Well done</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for Well done</note>
+        </trans-unit>
+        <trans-unit id="text_youdidit" space="preserve" translate="yes">
+          <source>You did it</source>
+          <target state="new" state-qualifier="mt-suggestion">You did it</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for You did it</note>
+        </trans-unit>
+        <trans-unit id="text_champ" space="preserve" translate="yes">
+          <source>Champ</source>
+          <target state="new" state-qualifier="mt-suggestion">Champ</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for Champ</note>
+        </trans-unit>
+        <trans-unit id="text_goodtry" space="preserve" translate="yes">
+          <source>Good try</source>
+          <target state="new" state-qualifier="mt-suggestion">Good try</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for good try</note>
+        </trans-unit>
+        <trans-unit id="text_tryagain" space="preserve" translate="yes">
+          <source>Try again</source>
+          <target state="new" state-qualifier="mt-suggestion">Try again</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for try again</note>
+        </trans-unit>
+        <trans-unit id="text_bravo" space="preserve" translate="yes">
+          <source>Bravo</source>
+          <target state="new" state-qualifier="mt-suggestion">Bravo</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for bravo</note>
+        </trans-unit>
+        <trans-unit id="text_brilliant" space="preserve" translate="yes">
+          <source>Brilliant</source>
+          <target state="new" state-qualifier="mt-suggestion">Brilliant</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for try again</note>
+        </trans-unit>
+        <trans-unit id="text_intelligent" space="preserve" translate="yes">
+          <source>Intelligent</source>
+          <target state="new" state-qualifier="mt-suggestion">Intelligent</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for intelligent</note>
+        </trans-unit>
+        <trans-unit id="text_terrific" space="preserve" translate="yes">
+          <source>Terrific</source>
+          <target state="new" state-qualifier="mt-suggestion">Terrific</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for terrific</note>
+        </trans-unit>
+        <trans-unit id="text_excellent" space="preserve" translate="yes">
+          <source>Excellent</source>
+          <target state="new" state-qualifier="mt-suggestion">Excellent</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for excellent</note>
+        </trans-unit>
+        <trans-unit id="text_phenomenal" space="preserve" translate="yes">
+          <source>Phenomenal</source>
+          <target state="new" state-qualifier="mt-suggestion">Phenomenal</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for phenomenal</note>
+        </trans-unit>
+        <trans-unit id="text_score" space="preserve" translate="yes">
+          <source>Score </source>
+          <target state="new" state-qualifier="mt-suggestion">Score </target>
+          <note annotates="source" from="Score Board" priority="2">This is text used for score</note>
+        </trans-unit>
+        <trans-unit id="text_yourscore" space="preserve" translate="yes">
+          <source>Your score</source>
+          <target state="new" state-qualifier="mt-suggestion">Your score</target>
+          <note annotates="source" from="Score Board" priority="2">This is text used to show your score</note>
+        </trans-unit>
+        <trans-unit id="section_actions" space="preserve" translate="yes">
+          <source>Actions</source>
+          <target state="new" state-qualifier="mt-suggestion">Actions</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is title Actions section in parental control</note>
+        </trans-unit>
+        <trans-unit id="section_offers" space="preserve" translate="yes">
+          <source>Offers</source>
+          <target state="new" state-qualifier="mt-suggestion">Offers</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is title Offers section in parental control</note>
+        </trans-unit>
+        <trans-unit id="section_moreapps" space="preserve" translate="yes">
+          <source>More Apps</source>
+          <target state="new" state-qualifier="mt-suggestion">More Apps</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is title More apps section in parental control</note>
+        </trans-unit>
+        <trans-unit id="section_followus" space="preserve" translate="yes">
+          <source>Follow us</source>
+          <target state="new" state-qualifier="mt-suggestion">Follow us</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is title Follow us section in parental control</note>
+        </trans-unit>
+        <trans-unit id="section_reachus" space="preserve" translate="yes">
+          <source>Reach us</source>
+          <target state="new" state-qualifier="mt-suggestion">Reach us</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is title Reach us section in parental control</note>
+        </trans-unit>
+        <trans-unit id="website_url" space="preserve" translate="no">
+          <source>www.greysprings.com</source>
+          <target state="new" state-qualifier="mt-suggestion">www.greysprings.com</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is Greysprings website url</note>
+        </trans-unit>
+        <trans-unit id="contact_email" space="preserve" translate="no">
+          <source>contact@greysprings.com</source>
+          <target state="new" state-qualifier="mt-suggestion">contact@greysprings.com</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is Greysprings contact email address</note>
+        </trans-unit>
+        <trans-unit id="text_greysprings_onstore" space="preserve" translate="yes">
+          <source>Greysprings on store</source>
+          <target state="new" state-qualifier="mt-suggestion">Greysprings on store</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is text title for Greysprings on store</note>
+        </trans-unit>
+        <trans-unit id="text_privacy_policy" space="preserve" translate="yes">
+          <source>Privacy policy</source>
+          <target state="new" state-qualifier="mt-suggestion">Privacy policy</target>
+          <note annotates="source" from="Sticker Board" priority="2">This is text title for privacy policy</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_parentzone" space="preserve" translate="yes">
+          <source>This is the parent’s zone. </source>
+          <target state="new" state-qualifier="mt-suggestion">This is the parent’s zone. </target>
+          <note annotates="source" from="In-App purchase" priority="2">This is parents zone in app purchase</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_holdplease" space="preserve" translate="yes">
+          <source>Please hold for {0} seconds to {1}</source>
+          <target state="new" state-qualifier="mt-suggestion">Please hold for {0} seconds to {1}</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to hold for a while</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_continue" space="preserve" translate="yes">
+          <source>continue</source>
+          <target state="new" state-qualifier="mt-suggestion">continue</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to continue</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_viewdemo" space="preserve" translate="yes">
+          <source>view demo</source>
+          <target state="new" state-qualifier="mt-suggestion">view demo</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to view app demo</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_upgradefullversion" space="preserve" translate="yes">
+          <source>Upgrade to the full version</source>
+          <target state="new" state-qualifier="mt-suggestion">Upgrade to the full version</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to upgrade app to full version</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_buynow" space="preserve" translate="yes">
+          <source>Buy now </source>
+          <target state="new" state-qualifier="mt-suggestion">Buy now </target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to buy app </note>
+        </trans-unit>
+        <trans-unit id="apppurchase_later" space="preserve" translate="yes">
+          <source>Later</source>
+          <target state="new" state-qualifier="mt-suggestion">Later</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to buy app later</note>
+        </trans-unit>
+        <trans-unit id="parentszone_parentscorner" space="preserve" translate="yes">
+          <source>Parent’s corner</source>
+          <target state="new" state-qualifier="mt-suggestion">Parent’s corner</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is parents corner in parents zone</note>
+        </trans-unit>
+        <trans-unit id="text_download_free" space="preserve" translate="yes">
+          <source>Download free</source>
+          <target state="new" state-qualifier="mt-suggestion">Download free</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for suggesting free downloads</note>
+        </trans-unit>
+        <trans-unit id="text_help" space="preserve" translate="yes">
+          <source>Help</source>
+          <target state="new" state-qualifier="mt-suggestion">Help</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for help</note>
+        </trans-unit>
+        <trans-unit id="text_aboutus" space="preserve" translate="yes">
+          <source>About us </source>
+          <target state="new" state-qualifier="mt-suggestion">About us </target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used to tell about us</note>
+        </trans-unit>
+        <trans-unit id="text_about" space="preserve" translate="yes">
+          <source>About</source>
+          <target state="new" state-qualifier="mt-suggestion">About</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used to tell about us</note>
+        </trans-unit>		
+        <trans-unit id="text_language" space="preserve" translate="yes">
+          <source>Language</source>
+          <target state="new" state-qualifier="mt-suggestion">Language</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for language change</note>
+        </trans-unit>
+        <trans-unit id="text_credits" space="preserve" translate="yes">
+          <source>Credits</source>
+          <target state="new" state-qualifier="mt-suggestion">Credits</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for credits</note>
+        </trans-unit>
+        <trans-unit id="text_moreapps" space="preserve" translate="yes">
+          <source>More apps</source>
+          <target state="new" state-qualifier="mt-suggestion">More apps</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for more apps</note>
+        </trans-unit>
+        <trans-unit id="text_sound" space="preserve" translate="yes">
+          <source>Sound</source>
+          <target state="new" state-qualifier="mt-suggestion">Voice</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for sound</note>
+        </trans-unit>
+        <trans-unit id="text_music" space="preserve" translate="yes">
+          <source>Music</source>
+          <target state="new" state-qualifier="mt-suggestion">Music</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for music</note>
+        </trans-unit>
+        <trans-unit id="text_settings" space="preserve" translate="yes">
+          <source>Settings</source>
+          <target state="new" state-qualifier="mt-suggestion">Settings</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used for settings</note>
+        </trans-unit>
+        <trans-unit id="text_share" space="preserve" translate="yes">
+          <source>Share</source>
+          <target state="new" state-qualifier="mt-suggestion">Share</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used to share</note>
+        </trans-unit>
+        <trans-unit id="text_emailus" space="preserve" translate="yes">
+          <source>Email Us</source>
+          <target state="new" state-qualifier="mt-suggestion">Email Us</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used to email</note>
+        </trans-unit>
+        <trans-unit id="text_gopremium" space="preserve" translate="yes">
+          <source>Go premium</source>
+          <target state="new" state-qualifier="mt-suggestion">Go premium</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is text used to go premium version</note>
+        </trans-unit>
+        <trans-unit id="message_ok" space="preserve" translate="yes">
+          <source>OK</source>
+          <target state="new" state-qualifier="mt-suggestion">OK</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to ok</note>
+        </trans-unit>
+        <trans-unit id="text_no" space="preserve" translate="yes">
+          <source>No</source>
+          <target state="new" state-qualifier="mt-suggestion">No</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is text used to no</note>
+        </trans-unit>
+        <trans-unit id="text_nope" space="preserve" translate="yes">
+          <source>Nope</source>
+          <target state="new" state-qualifier="mt-suggestion">Nope</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is text used to Nope</note>
+        </trans-unit>
+        <trans-unit id="message_later" space="preserve" translate="yes">
+          <source>Later</source>
+          <target state="new" state-qualifier="mt-suggestion">Later</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is message used as later</note>
+        </trans-unit>
+        <trans-unit id="message_feedback" space="preserve" translate="yes">
+          <source>Feedback</source>
+          <target state="new" state-qualifier="mt-suggestion">Feedback</target>
+          <note annotates="source" from="Parent’s zone" priority="2">This is message used to feedback</note>
+        </trans-unit>
+        <trans-unit id="message_close" space="preserve" translate="yes">
+          <source>Close</source>
+          <target state="new" state-qualifier="mt-suggestion">Close</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to close</note>
+        </trans-unit>
+        <trans-unit id="message_buy" space="preserve" translate="yes">
+          <source>Buy</source>
+          <target state="new" state-qualifier="mt-suggestion">Buy</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to buy on the store</note>
+        </trans-unit>
+        <trans-unit id="message_goadsfree" space="preserve" translate="yes">
+          <source>Remove ads</source>
+          <target state="new" state-qualifier="mt-suggestion">Remove ads</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message for removing ads</note>
+        </trans-unit>
+        <trans-unit id="message_maybelater" space="preserve" translate="yes">
+          <source>May be later</source>
+          <target state="new" state-qualifier="mt-suggestion">May be later</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message "May be later"</note>
+        </trans-unit>
+        <trans-unit id="message_ratenow" space="preserve" translate="yes">
+          <source>Rate now </source>
+          <target state="new" state-qualifier="mt-suggestion">Rate now </target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to rate the app</note>
+        </trans-unit>
+        <trans-unit id="message_thanks" space="preserve" translate="yes">
+          <source>Thanks</source>
+          <target state="new" state-qualifier="mt-suggestion">Thanks</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to thanks</note>
+        </trans-unit>
+        <trans-unit id="message_thanksforsupport" space="preserve" translate="yes">
+          <source>Thanks for your support</source>
+          <target state="new" state-qualifier="mt-suggestion">Thanks for your support</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to thanks for support</note>
+        </trans-unit>
+        <trans-unit id="message_rateus" space="preserve" translate="yes">
+          <source>Would you like to rate us?</source>
+          <target state="new" state-qualifier="mt-suggestion">Would you like to rate us?</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to rate us on the store</note>
+        </trans-unit>
+        <trans-unit id="message_likeus" space="preserve" translate="yes">
+          <source>Like us!</source>
+          <target state="new" state-qualifier="mt-suggestion">Like us!</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to like us on the store</note>
+        </trans-unit>
+        <trans-unit id="message_letsgotostore" space="preserve" translate="yes">
+          <source>We are taking you to store. </source>
+          <target state="new" state-qualifier="mt-suggestion">We are taking you to store. </target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to taking to the store</note>
+        </trans-unit>
+        <trans-unit id="message_proceed" space="preserve" translate="yes">
+          <source>Proceed</source>
+          <target state="new" state-qualifier="mt-suggestion">Proceed</target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to proceed</note>
+        </trans-unit>
+        <trans-unit id="message_cancel" space="preserve" translate="yes">
+          <source>Cancel </source>
+          <target state="new" state-qualifier="mt-suggestion">Cancel </target>
+          <note annotates="source" from="Message/Alerts" priority="2">This is message used to cancel</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_restore" space="preserve" translate="yes">
+          <source>Restore</source>
+          <target state="new" state-qualifier="mt-suggestion">Restore</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+        </trans-unit>
+        <trans-unit id="apppurchase_restore_purchases_confirmation_text" space="preserve" translate="yes">
+          <source>Congratulations, Your purchases are successfully restored.</source>
+          <target state="new" state-qualifier="mt-suggestion">Congratulations, Your purchases are successfully restored.</target>
+          <note annotates="source" from="In-App purchase" priority="2">This is used in app purchase to restore previous transactions.</note>
+        </trans-unit>
+        <trans-unit id="position_top_left" space="preserve" translate="yes">
+          <source>Top left</source>
+          <target state="new" state-qualifier="mt-suggestion">Top left</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position top left</note>
+        </trans-unit>
+        <trans-unit id="position_top_right" space="preserve" translate="yes">
+          <source>Top right</source>
+          <target state="new" state-qualifier="mt-suggestion">Top right</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position top right</note>
+        </trans-unit>
+        <trans-unit id="position_top_center" space="preserve" translate="yes">
+          <source>Top center</source>
+          <target state="new" state-qualifier="mt-suggestion">Top center</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position top center</note>
+        </trans-unit>
+        <trans-unit id="position_bottom_left" space="preserve" translate="yes">
+          <source>Bottom left</source>
+          <target state="new" state-qualifier="mt-suggestion">Bottom left</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position bottom left</note>
+        </trans-unit>
+        <trans-unit id="position_bottom_right" space="preserve" translate="yes">
+          <source>Bottom right</source>
+          <target state="new" state-qualifier="mt-suggestion">Bottom right</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position bottom right</note>
+        </trans-unit>
+        <trans-unit id="position_bottom_center" space="preserve" translate="yes">
+          <source>Bottom center</source>
+          <target state="new" state-qualifier="mt-suggestion">Bottom center</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position bottom center</note>
+        </trans-unit>
+        <trans-unit id="position_center" space="preserve" translate="yes">
+          <source>Center</source>
+          <target state="new" state-qualifier="mt-suggestion">Center</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position center</note>
+        </trans-unit>
+        <trans-unit id="position_left_center" space="preserve" translate="yes">
+          <source>Left center</source>
+          <target state="new" state-qualifier="mt-suggestion">Left center</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position left center</note>
+        </trans-unit>
+        <trans-unit id="position_right_center" space="preserve" translate="yes">
+          <source>Right center</source>
+          <target state="new" state-qualifier="mt-suggestion">Right center</target>
+          <note annotates="source" from="Miscellaneous" priority="2">This is position right center</note>
+        </trans-unit>
+        <trans-unit id="apptitle_ToddlerGames" space="preserve" translate="yes">
+          <source>Toddler Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Toddler Games</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is app title "Toddler Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part1_ToddlerGames" space="preserve" translate="yes">
+          <source>Toddler</source>
+          <target state="new" state-qualifier="mt-suggestion">Toddler</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is first half of app title "Toddler Games"</note>
+        </trans-unit>
+        <trans-unit id="apptitle_part2_ToddlerGames" space="preserve" translate="yes">
+          <source>Games</source>
+          <target state="new" state-qualifier="mt-suggestion">Games</target>
+          <note annotates="source" from="Toddler Games" priority="2">This is second half of app title "Toddler Games"</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_HungryFrogV2Quiz" space="preserve" translate="yes">
+          <source>Hungry frog</source>
+          <target state="new" state-qualifier="mt-suggestion">Hungry frog</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_FeedTheSharkQuiz" space="preserve" translate="yes">
+          <source>Feed the shark</source>
+          <target state="new" state-qualifier="mt-suggestion">Same to same</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		<trans-unit id="tiletitle_BodyPartsQuiz" space="preserve" translate="yes">
+          <source>Body Parts</source>
+          <target state="new" state-qualifier="mt-suggestion">Body Parts</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="text_the_end" space="preserve" translate="yes">
+          <source>The end</source>
+          <target state="new" state-qualifier="mt-suggestion">The end</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="text_good_luck" space="preserve" translate="yes">
+          <source>good luck</source>
+          <target state="new" state-qualifier="mt-suggestion">good luck</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="text_find_the_key" space="preserve" translate="yes">
+          <source>Find the key</source>
+          <target state="new" state-qualifier="mt-suggestion">Find the key</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Pirate Jigsaw story page dialogues</note>
+        </trans-unit>
+        <trans-unit id="text_sound" space="preserve" translate="yes">
+          <source>Sound</source>
+          <target state="new" state-qualifier="mt-suggestion">Sound</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Sound</note>
+        </trans-unit>
+        <trans-unit id="text_music" space="preserve" translate="yes">
+          <source>Music</source>
+          <target state="new" state-qualifier="mt-suggestion">Music</target>
+          <note annotates="source" from="Pirate Jigsaw" priority="2">Music</note>
+        </trans-unit>		
+        <trans-unit id="subscriber_request_error_invalid_promo_code" space="preserve" translate="yes">
+          <source>Request Failed!</source>
+          <target state="new" state-qualifier="mt-suggestion">Request Failed!</target>
+          <note annotates="source" from="promo code" priority="2">Request Failed!</note>
+        </trans-unit>
+        <trans-unit id="subscriber_request_error_invalid_email" space="preserve" translate="yes">
+          <source>Invalid Email!</source>
+          <target state="new" state-qualifier="mt-suggestion">Invalid Email!</target>
+          <note annotates="source" from="promo code" priority="2">Invalid Email!</note>
+        </trans-unit>
+        <trans-unit id="subscriber_request_successfull" space="preserve" translate="yes">
+          <source>Success! Check your email for promo code.</source>
+          <target state="new" state-qualifier="mt-suggestion">Success! Check your email for promo code.</target>
+          <note annotates="source" from="promo code" priority="2">Success! Check your email for promo code.</note>
+        </trans-unit>
+        <trans-unit id="subscriber_request_error_queue_failure" space="preserve" translate="yes">
+          <source>Request Failed!</source>
+          <target state="new" state-qualifier="mt-suggestion">Request Failed!</target>
+          <note annotates="source" from="promo code" priority="2">Request Failed!</note>
+        </trans-unit>
+        <trans-unit id="subscriber_request_error_invalid_params" space="preserve" translate="yes">
+          <source>Request Failed!</source>
+          <target state="new" state-qualifier="mt-suggestion">Request Failed!</target>
+          <note annotates="source" from="promo code" priority="2">Request Failed!</note>
+        </trans-unit>
+        <trans-unit id="subscriber_request_network_error" space="preserve" translate="yes">
+          <source>Network error!</source>
+          <target state="new" state-qualifier="mt-suggestion">Network error!</target>
+          <note annotates="source" from="promo code" priority="2">Network error!</note>
+        </trans-unit>
+        <trans-unit id="consumer_request_valid_promocode" space="preserve" translate="yes">
+          <source>Code Redeem Successfully!</source>
+          <target state="new" state-qualifier="mt-suggestion">Code Redeem Successfully!</target>
+          <note annotates="source" from="promo code" priority="2">Code Redeem Successfully!</note>
+        </trans-unit>
+        <trans-unit id="consumer_request_invalid_promocode" space="preserve" translate="yes">
+          <source>Invalid promo code!</source>
+          <target state="new" state-qualifier="mt-suggestion">Invalid promo code!</target>
+          <note annotates="source" from="promo code" priority="2">Invalid promo code!</note>
+        </trans-unit>
+        <trans-unit id="consumer_request_invalid_params" space="preserve" translate="yes">
+          <source>Request Failed!</source>
+          <target state="new" state-qualifier="mt-suggestion">Request Failed!</target>
+          <note annotates="source" from="promo code" priority="2">Request Failed!</note>
+        </trans-unit>
+        <trans-unit id="consumer_request_network_error" space="preserve" translate="yes">
+          <source>Network error!</source>
+          <target state="new" state-qualifier="mt-suggestion">Network error!</target>
+          <note annotates="source" from="promo code" priority="2">Network error!</note>
+        </trans-unit>
+        <trans-unit id="consumer_request_promocode_expired" space="preserve" translate="yes">
+          <source>Promo code expired!</source>
+          <target state="new" state-qualifier="mt-suggestion">Promo code expired!</target>
+          <note annotates="source" from="promo code" priority="2">Promo code expired!</note>
+        </trans-unit>		
+        <trans-unit id="text_subscribe" space="preserve" translate="yes">
+          <source>Subscribe</source>
+          <target state="new" state-qualifier="mt-suggestion">Subscribe</target>
+          <note annotates="source" from="promo code" priority="2">Subscribe</note>
+        </trans-unit>
+        <trans-unit id="text_box_name" space="preserve" translate="yes">
+          <source>Enter your name</source>
+          <target state="new" state-qualifier="mt-suggestion">Enter your name</target>
+          <note annotates="source" from="promo code" priority="2">Enter your name</note>
+        </trans-unit>
+        <trans-unit id="text_box_email" space="preserve" translate="yes">
+          <source>Enter your email id</source>
+          <target state="new" state-qualifier="mt-suggestion">Enter your email id</target>
+          <note annotates="source" from="promo code" priority="2">Enter your email id</note>
+        </trans-unit>		
+        <trans-unit id="text_box_promo_code" space="preserve" translate="yes">
+          <source>Enter your promo code</source>
+          <target state="new" state-qualifier="mt-suggestion">Enter your promo code</target>
+          <note annotates="source" from="promo code" priority="2">Enter your promo code</note>
+        </trans-unit>
+        <trans-unit id="button_text_cancel" space="preserve" translate="yes">
+          <source>Cancel</source>
+          <target state="new" state-qualifier="mt-suggestion">Cancel</target>
+          <note annotates="source" from="promo code" priority="2">Cancel</note>
+        </trans-unit>
+        <trans-unit id="button_text_submit" space="preserve" translate="yes">
+          <source>Submit</source>
+          <target state="new" state-qualifier="mt-suggestion">Submit</target>
+          <note annotates="source" from="promo code" priority="2">Submit</note>
+        </trans-unit>
+        <trans-unit id="button_text_exit" space="preserve" translate="yes">
+          <source>Exit</source>
+          <target state="new" state-qualifier="mt-suggestion">Exit</target>
+          <note annotates="source" from="promo code" priority="2">Exit</note>
+        </trans-unit>
+        <trans-unit id="button_text_resubmit" space="preserve" translate="yes">
+          <source>Resubmit</source>
+          <target state="new" state-qualifier="mt-suggestion">Resubmit</target>
+          <note annotates="source" from="promo code" priority="2">Resubmit</note>
+        </trans-unit>		
+        <trans-unit id="button_text_apply_promo_code" space="preserve" translate="yes">
+          <source>Redeem</source>
+          <target state="new" state-qualifier="mt-suggestion">Redeem</target>
+          <note annotates="source" from="promo code" priority="2">Redeem</note>
+        </trans-unit>	
+        <trans-unit id="button_text_redeem_promo_code" space="preserve" translate="yes">
+          <source>Redeem Code</source>
+          <target state="new" state-qualifier="mt-suggestion">Redeem Code</target>
+          <note annotates="source" from="promo code" priority="2">Redeem</note>
+        </trans-unit>
+        <trans-unit id="rating_message_dialog_title" space="preserve" translate="yes">
+          <source>Rate Us</source>
+          <target state="new" state-qualifier="mt-suggestion">Rate Us</target>
+          <note annotates="source" from="promo code" priority="2">Rate Us</note>
+        </trans-unit>
+        <trans-unit id="rating_message_dialog_message" space="preserve" translate="yes">
+          <source>If you enjoy playing this app, would you mind taking a moment to rate it?</source>
+          <target state="new" state-qualifier="mt-suggestion">If you enjoy playing this app, would you mind taking a moment to rate it?</target>
+          <note annotates="source" from="promo code" priority="2">If you enjoy playing this app, would you mind taking a moment to rate it?</note>
+        </trans-unit>		
+        <trans-unit id="rating_feedback_messagebox_message" space="preserve" translate="yes">
+          <source>How's the app for you?</source>
+          <target state="new" state-qualifier="mt-suggestion">How's the app for you?</target>
+          <note annotates="source" from="promo code" priority="2">How's the app for you?</note>
+        </trans-unit>		
+        <trans-unit id="rating_apprater_messagebox_message" space="preserve" translate="yes">
+          <source>Would you like to leave us a review?</source>
+          <target state="new" state-qualifier="mt-suggestion">Would you like to leave us a review?</target>
+          <note annotates="source" from="promo code" priority="2">Would you like to leave us a review?</note>
+        </trans-unit>
+        <trans-unit id="contact_feedback_messagebox_message_1" space="preserve" translate="yes">
+          <source>Can we make it better?</source>
+          <target state="new" state-qualifier="mt-suggestion">Can we make it better?</target>
+          <note annotates="source" from="promo code" priority="2">Can we make it better?</note>
+        </trans-unit>		
+        <trans-unit id="contact_feedback_messagebox_message_2" space="preserve" translate="yes">
+          <source>Please send your feedback to contact@greysprings.com</source>
+          <target state="new" state-qualifier="mt-suggestion">Please send your feedback to contact@greysprings.com</target>
+          <note annotates="source" from="promo code" priority="2">Please send your feedback to contact@greysprings.com</note>
+        </trans-unit>		
+        <trans-unit id="button_text_great" space="preserve" translate="yes">
+          <source>Great</source>
+          <target state="new" state-qualifier="mt-suggestion">Great</target>
+          <note annotates="source" from="promo code" priority="2">Great</note>
+        </trans-unit>	
+        <trans-unit id="button_text_notgreat" space="preserve" translate="yes">
+          <source>Not great</source>
+          <target state="new" state-qualifier="mt-suggestion">Not great</target>
+          <note annotates="source" from="promo code" priority="2">Not great</note>
+        </trans-unit>	
+        <trans-unit id="button_text_oksure" space="preserve" translate="yes">
+          <source>Ok Sure</source>
+          <target state="new" state-qualifier="mt-suggestion">Ok Sure</target>
+          <note annotates="source" from="promo code" priority="2">Ok Sure</note>
+        </trans-unit>	
+        <trans-unit id="button_text_nothanks" space="preserve" translate="yes">
+          <source>No Thanks</source>
+          <target state="new" state-qualifier="mt-suggestion">No Thanks</target>
+          <note annotates="source" from="promo code" priority="2">No Thanks</note>
+        </trans-unit>		
+        <trans-unit id="tiletitle_MathGames_AscendingDescendingQuiz" space="preserve" translate="yes">
+          <source>Sort it out</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort it out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+       <trans-unit id="tiletitle_MathGames_NumberNamesQuiz" space="preserve" translate="yes">
+          <source>Number Names</source>
+          <target state="new" state-qualifier="mt-suggestion">Number Names</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_EvenOddHopQuiz" space="preserve" translate="yes">
+          <source>Even Odd</source>
+          <target state="new" state-qualifier="mt-suggestion">Even Odd</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_FractionalPizzaQuiz" space="preserve" translate="yes">
+          <source>Fractional Pizza</source>
+          <target state="new" state-qualifier="mt-suggestion">Fractional Pizza</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_TickTockQuiz" space="preserve" translate="yes">
+          <source>Tick Tock</source>
+          <target state="new" state-qualifier="mt-suggestion">Tick Tock</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_TensAndOnesQuiz" space="preserve" translate="yes">
+          <source>Tens and Ones</source>
+          <target state="new" state-qualifier="mt-suggestion">Tens and Ones</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_AquariumNumberAddQuiz" space="preserve" translate="yes">
+          <source>Add Me Up</source>
+          <target state="new" state-qualifier="mt-suggestion">Add Me Up</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_CutItOffQuiz" space="preserve" translate="yes">
+          <source>Cut it Off</source>
+          <target state="new" state-qualifier="mt-suggestion">Cut it Off</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_HalvesAndDoublesQuiz" space="preserve" translate="yes">
+          <source>Halves and Doubles</source>
+          <target state="new" state-qualifier="mt-suggestion">Halves and Doubles</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_MathGames_LearnToTrace" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_MusicInstrumentV2Quiz" space="preserve" translate="yes">
+          <source>Music Time</source>
+          <target state="new" state-qualifier="mt-suggestion">Music Time</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_MatchTheShadow" space="preserve" translate="yes">
+          <source>Match the shadow</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the shadow</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_NumberCountQuiz" space="preserve" translate="yes">
+          <source>Count 123</source>
+          <target state="new" state-qualifier="mt-suggestion">Count 123</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_ScratchPad" space="preserve" translate="yes">
+          <source>Scratch to reveal</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch to reveal</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_ScratchToRevealQuiz" space="preserve" translate="yes">
+          <source>Scratch to reveal</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch to reveal</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_BalloonPopQuiz" space="preserved">
+      <source>Cow Mania</source>
+      <target state="pending" state-qualifier="mt-suggestion">Cow Mania</target>
+      <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_BalloonPopQuiz2" space="preserved">
+      <source>Space Gnome</source>
+      <target state="pending" state-qualifier="mt-suggestion">Space Gnome</target>
+      <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    </trans-unit>
+    <trans-unit id="tiletitle_PreschoolNumbers_BalloonPopQuiz" space="preserved">
+      <source>Space Gnome</source>
+      <target state="pending" state-qualifier="mt-suggestion">Space Gnome</target>
+      <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    </trans-unit>
+    <trans-unit id="tiletitle_PreschoolGames_HungryFrogQuiz" space="preserved">
+      <source>Hungry Lizzy</source>
+      <target state="pending" state-qualifier="mt-suggestion">Hungry Lizzy</target>
+      <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+    </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_TrickyMaze" space="preserve" translate="yes">
+          <source>Tricky maze</source>
+          <target state="new" state-qualifier="mt-suggestion">Tricky maze</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_HideAndSeekQuiz" space="preserve" translate="yes">
+          <source>Hide And Seek</source>
+          <target state="new" state-qualifier="auto_localize">Hide And Seek</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_ColorTheObjects" space="preserve" translate="yes">
+          <source>Fill the colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Fill the colors</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_SortTheObjectsQuiz" space="preserve" translate="yes">
+          <source>Sort it out</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort it out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		<trans-unit id="tiletitle_PreschoolGames_LearnToWrite" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		<trans-unit id="tiletitle_PreschoolGames_LearnToWriteV2" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_LearnToWriteV4" space="preserve" translate="yes">
+          <source>Cursive Tracing</source>
+          <target state="new" state-qualifier="mt-suggestion">Cursive Tracing</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_LearnToWriteV6" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_LearnToWriteV6" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		<trans-unit id="tiletitle_WordGames_LearnToWriteWords" space="preserved">
+			<source>Trace the Words</source>
+			<target state="pending" state-qualifier="mt-suggestion">Trace the Words</target>
+			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		</trans-unit>
+		<trans-unit id="tiletitle_ShapesAndColors_ThemesInteractionQuiz" space="preserve" translate="yes">
+          <source>Touch to Light</source>
+          <target state="new" state-qualifier="mt-suggestion">Touch to Light</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+    <trans-unit id="tiletitle_ShapesAndColors_LearnToWriteV2" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_OddInGroupQuiz" space="preserve" translate="yes">
+          <source>Odd one out</source>
+          <target state="new" state-qualifier="mt-suggestion">Odd one out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_BingoQuizV2" space="preserve" translate="yes">
+          <source>Bingo fun</source>
+          <target state="new" state-qualifier="mt-suggestion">Bingo fun</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_MissingObjects" space="preserve" translate="yes">
+          <source>Missing objects</source>
+          <target state="new" state-qualifier="mt-suggestion">Missing objects</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_OddItems" space="preserve" translate="yes">
+          <source>Find odd items</source>
+          <target state="new" state-qualifier="mt-suggestion">Find odd items</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_SpotDifferences" space="preserve" translate="yes">
+          <source>Spot the difference</source>
+          <target state="new" state-qualifier="mt-suggestion">Spot the difference</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolGames_JigsawJumbleQuiz" space="preserve" translate="yes">
+          <source>Jigsaw puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw puzzle</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_MatchTheShadow" space="preserve" translate="yes">
+          <source>Match the shadow</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the shadow</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_MatchTheShadowActivity" space="preserve" translate="yes">
+          <source>Match the Shadow</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the Shadow</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_TrickyMaze" space="preserve" translate="yes">
+          <source>Tricky Maze</source>
+          <target state="new" state-qualifier="mt-suggestion">Tricky Maze</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_MatchItemsGridQuiz" space="preserve" translate="yes">
+          <source>First Letter</source>
+          <target state="new" state-qualifier="mt-suggestion">First Letter</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_ColorBallsQuiz" space="preserve" translate="yes">
+          <source>Color balls</source>
+          <target state="new" state-qualifier="mt-suggestion">Color balls</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_JigsawV2Quiz" space="preserve" translate="yes">
+          <source>Jigsaw Alphabets</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw Alphabets</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_BalloonPopQuiz" space="preserve" translate="yes">
+          <source>Bubbly Alphabets</source>
+          <target state="new" state-qualifier="mt-suggestion">Bubbly Alphabets</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_BingoQuiz" space="preserve" translate="yes">
+          <source>Bingo Alphabets</source>
+          <target state="new" state-qualifier="mt-suggestion">Bingo Alphabets</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_ConnectTheDots" space="preserve" translate="yes">
+          <source>Connect the dots</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots</target>
+          <note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_OddInGroupQuiz" space="preserve" translate="yes">
+          <source>Odd one out</source>
+          <target state="new" state-qualifier="mt-suggestion">Odd one out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_SequenceCrawlQuiz" space="preserve" translate="yes">
+          <source>Sequence Crawl</source>
+          <target state="new" state-qualifier="mt-suggestion">Sequence Crawl</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_HopQuiz" space="preserve" translate="yes">
+          <source>Letter Hop</source>
+          <target state="new" state-qualifier="mt-suggestion">Letter Hop</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_BubbleSequenceQuiz" space="preserve" translate="yes">
+          <source>Sequential Shells</source>
+          <target state="new" state-qualifier="mt-suggestion">Sequential Shells</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_HelloPhoneticsQuiz" space="preserve" translate="yes">
+          <source>Hello Phonics</source>
+          <target state="new" state-qualifier="mt-suggestion">Hello Phonics</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolLetters_LearnToTrace" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>		
+        <trans-unit id="tiletitle_PreschoolNumbers_AscendingDescendingQuiz" space="preserve" translate="yes">
+          <source>Sort it out</source>
+          <target state="new" state-qualifier="mt-suggestion">Sort it out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+       <trans-unit id="tiletitle_PreschoolNumbers_NumberNamesQuiz" space="preserve" translate="yes">
+          <source>Number Names</source>
+          <target state="new" state-qualifier="mt-suggestion">Number Names</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_EvenOddHopQuiz" space="preserve" translate="yes">
+          <source>Even Odd</source>
+          <target state="new" state-qualifier="mt-suggestion">Even Odd</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_FractionalPizzaQuiz" space="preserve" translate="yes">
+          <source>Fractional Pizza</source>
+          <target state="new" state-qualifier="mt-suggestion">Fractional Pizza</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_AquariumNumberAddQuiz" space="preserve" translate="yes">
+          <source>Add Me Up</source>
+          <target state="new" state-qualifier="mt-suggestion">Add Me Up</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_CutItOffQuiz" space="preserve" translate="yes">
+          <source>Cut it Off</source>
+          <target state="new" state-qualifier="mt-suggestion">Cut it Off</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_HalvesAndDoublesQuiz" space="preserve" translate="yes">
+          <source>Halves and Doubles</source>
+          <target state="new" state-qualifier="mt-suggestion">Halves and Doubles</target>
+          <note annotates="source" from="MathGames" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_UnderwaterCatchQuiz" space="preserve" translate="yes">
+          <source>Underwater catch</source>
+          <target state="new" state-qualifier="mt-suggestion">Underwater catch</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_NumberFunQuiz" space="preserve" translate="yes">
+          <source>Number Fun</source>
+          <target state="new" state-qualifier="mt-suggestion">Number Fun</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page for number fun quiz</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_NumberPlayQuiz" space="preserve" translate="yes">
+          <source>Shoot The Ball</source>
+          <target state="new" state-qualifier="mt-suggestion">Shoot The Ball</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page for shoot the ball quiz</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_ScratchToRevealQuiz" space="preserve" translate="yes">
+          <source>Scratching Fun</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratching Fun</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page for scratching fun quiz</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_BalloonPopQuiz" space="preserve" translate="yes">
+          <source>Bubbly Numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Bubbly Numbers</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_FloatingBubblesQuiz" space="preserve" translate="yes">
+          <source>Bubbly Numbers</source>
+          <target state="new" state-qualifier="mt-suggestion">Bubbly Numbers</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_PuzzleManiaQuiz" space="preserve" translate="yes">
+          <source>Puzzle Mania</source>
+          <target state="new" state-qualifier="mt-suggestion">Puzzle Mania</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page for Puzzle Mania quiz</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_ConnectTheDots" space="preserve" translate="yes">
+          <source>Connect the dots</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots</target>
+          <note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_HopQuiz" space="preserve" translate="yes">
+          <source>Hopping frog</source>
+          <target state="new" state-qualifier="mt-suggestion">Hopping frog</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_BalanceQuiz" space="preserve" translate="yes">
+          <source>Same to same</source>
+          <target state="new" state-qualifier="mt-suggestion">Same to same</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_ComparisonQuiz" space="preserve" translate="yes">
+          <source>Compare twosome</source>
+          <target state="new" state-qualifier="mt-suggestion">Compare twosome</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_PreschoolNumbers_BeforeAfterNumberQuiz" space="preserve" translate="yes">
+          <source>Before and After</source>
+          <target state="new" state-qualifier="mt-suggestion">Before and After</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page for Before and After quiz</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_ScratchToRevealQuiz" space="preserve" translate="yes">
+          <source>Scratch to reveal</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch to reveal</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_LifeCycleQuiz" space="preserve" translate="yes">
+          <source>Growth Cycle</source>
+          <target state="new" state-qualifier="mt-suggestion">Growth Cycle</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_MumAndBabyQuiz" space="preserve" translate="yes">
+          <source>Mum And Baby</source>
+          <target state="new" state-qualifier="mt-suggestion">Mum And Baby</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_FloatSinkQuiz" space="preserve" translate="yes">
+          <source>Sink or Float</source>
+          <target state="new" state-qualifier="mt-suggestion">Sink or Float</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_FiveSensesQuiz" space="preserve" translate="yes">
+          <source>Know Your Senses</source>
+          <target state="new" state-qualifier="mt-suggestion">Know Your Senses</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_StatesOfMatterQuiz" space="preserve" translate="yes">
+          <source>What's the Matter</source>
+          <target state="new" state-qualifier="mt-suggestion">What's the Matter</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_HomeSweetHomeQuiz" space="preserve" translate="yes">
+          <source>Home Sweet Home</source>
+          <target state="new" state-qualifier="mt-suggestion">Home Sweet Home</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ScienceGames_HealthIsWealthQuiz" space="preserve" translate="yes">
+          <source>Health Is Wealth</source>
+          <target state="new" state-qualifier="mt-suggestion">Health Is Wealth</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_HungryFrogV2Quiz" space="preserve" translate="yes">
+          <source>Hungry frog</source>
+          <target state="new" state-qualifier="mt-suggestion">Hungry frog</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_BalloonPopV3Quiz" space="preserve" translate="yes">
+          <source>Balloon pop</source>
+          <target state="new" state-qualifier="mt-suggestion">Balloon pop</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_ColorTheObjects" space="preserve" translate="yes">
+          <source>Fill the colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Fill the colors</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_ColorTheObjectsQuizV2" space="preserve" translate="yes">
+          <source>Fill the colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Fill the colors</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_ConnectTheDots" space="preserve" translate="yes">
+          <source>Connect the dots</source>
+          <target state="new" state-qualifier="mt-suggestion">Connect the dots</target>
+          <note annotates="source" from="PreschoolNumbers" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_ShapesMatchingQuiz" space="preserve" translate="yes">
+          <source>Choose Correct Shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">Choose Correct Shapes</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_ColorBallsQuiz" space="preserve" translate="yes">
+          <source>Color balls</source>
+          <target state="new" state-qualifier="mt-suggestion">Color balls</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_ScratchToRevealQuiz" space="preserve" translate="yes">
+          <source>Scratch to reveal</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch to reveal</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_FillShapeHolesQuiz" space="preserve" translate="yes">
+          <source>Match the shapes</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the shapes</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		<trans-unit id="tiletitle_ShapesAndColors_BuildRobotQuiz" space="preserved">
+			<source>Robot Factory</source>
+			<target state="pending" state-qualifier="mt-suggestion">Robot Factory</target>
+			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		</trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_JoinThePiecesQuiz" space="preserve" translate="yes">
+          <source>Join the pieces</source>
+          <target state="new" state-qualifier="mt-suggestion">Join the pieces</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_BuildTheToysQuiz" space="preserve" translate="yes">
+          <source>Build the toys</source>
+          <target state="new" state-qualifier="mt-suggestion">Build the toys</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_CaterpillarMatchQuiz" space="preserve" translate="yes">
+          <source>Match the colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the colors</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		<trans-unit id="tiletitle_ShapesAndColors_AlienColorMatchQuiz" space="preserved">
+			<source>Space Jump</source>
+			<target state="pending" state-qualifier="mt-suggestion" >Space Jump</target>
+			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		</trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_OddInGroupQuiz" space="preserve" translate="yes">
+          <source>Odd one out</source>
+          <target state="new" state-qualifier="mt-suggestion">Odd one out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_HopQuiz" space="preserve" translate="yes">
+          <source>Honey bee</source>
+          <target state="new" state-qualifier="mt-suggestion">Honey bee</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_BingoQuiz" space="preserve" translate="yes">
+          <source>Bingo fun</source>
+          <target state="new" state-qualifier="mt-suggestion">Bingo fun</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ShapesAndColors_LearnToTrace" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+		<trans-unit id="tiletitle_ToddlerGames_HalloweenQuiz" space="preserved">
+			<source>Halloween Pumpkin</source>
+			<target state="pending" state-qualifier="mt-suggestion">Halloween Pumpkin</target>
+			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		</trans-unit>
+		<trans-unit id="tiletitle_PreschoolGames_HalloweenQuiz" space="preserved">
+			<source>Halloween Pumpkin</source>
+			<target state="pending" state-qualifier="mt-suggestion">Halloween Pumpkin</target>
+			<note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+		</trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_ThemesInteractionQuiz" space="preserve" translate="yes">
+          <source>Count the Items</source>
+          <target state="new" state-qualifier="mt-suggestion">Count the Items</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_ColorTheObjectsQuizV3" space="preserve" translate="yes">
+          <source>Fill the colors</source>
+          <target state="new" state-qualifier="mt-suggestion">Fill the colors</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_HangingFruitsQuiz" space="preserve" translate="yes">
+          <source>Hanging fruits</source>
+          <target state="new" state-qualifier="mt-suggestion">Hanging fruits</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_SeaWonderQuiz" space="preserve" translate="yes">
+          <source>Sea Wonder</source>
+          <target state="new" state-qualifier="mt-suggestion">Sea Wonder</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_BubbleCatchQuiz" space="preserve" translate="yes">
+          <source>Floating bubbles</source>
+          <target state="new" state-qualifier="mt-suggestion">Floating bubbles</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_HungryFrogV2Quiz" space="preserve" translate="yes">
+          <source>Hungry frog</source>
+          <target state="new" state-qualifier="mt-suggestion">Hungry frog</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_HungryFrogV3Quiz" space="preserve" translate="yes">
+          <source>Hungry frog</source>
+          <target state="new" state-qualifier="mt-suggestion">Hungry frog</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_LearnToWriteV3" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_MatchTheShadow" space="preserve" translate="yes">
+          <source>Match the shadow</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the shadow</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_ScratchToRevealQuiz" space="preserve" translate="yes">
+          <source>Scratch to reveal</source>
+          <target state="new" state-qualifier="mt-suggestion">Scratch to reveal</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_ColorFunQuiz" space="preserve" translate="yes">
+          <source>Color fun</source>
+          <target state="new" state-qualifier="mt-suggestion">Color fun</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_UnderwaterCatchQuiz" space="preserve" translate="yes">
+          <source>Underwater catch</source>
+          <target state="new" state-qualifier="mt-suggestion">Underwater catch</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_BalloonPopQuiz" space="preserve" translate="yes">
+          <source>Balloon pop</source>
+          <target state="new" state-qualifier="mt-suggestion">Balloon pop</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_BalloonPopV2Quiz" space="preserve" translate="yes">
+          <source>Balloon pop</source>
+          <target state="new" state-qualifier="mt-suggestion">Balloon pop</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_BalloonPopUnlimitedQuiz" space="preserve" translate="yes">
+          <source>Balloon fun</source>
+          <target state="new" state-qualifier="mt-suggestion">Balloon fun</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_MusicInstrumentQuiz" space="preserve" translate="yes">
+          <source>Toddlers Piano</source>
+          <target state="new" state-qualifier="mt-suggestion">Toddlers Piano</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>		
+        <trans-unit id="tiletitle_ToddlerGames_JigsawV2Quiz" space="preserve" translate="yes">
+          <source>Jigsaw puzzle</source>
+          <target state="new" state-qualifier="mt-suggestion">Jigsaw puzzle</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_ToddlerGames_LearnToTrace" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_SequentialMatchTheShadow" space="preserve" translate="yes">
+          <source>Match the shadow</source>
+          <target state="new" state-qualifier="mt-suggestion">Match the shadow</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_HelloPhoneticsQuiz" space="preserve" translate="yes">
+          <source>Hello Phonics</source>
+          <target state="new" state-qualifier="mt-suggestion">Hello Phonics</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_ColorBallsQuiz" space="preserve" translate="yes">
+          <source>Color balls</source>
+          <target state="new" state-qualifier="mt-suggestion">Color balls</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_VerticalMatchQuiz" space="preserve" translate="yes">
+          <source>Vertical match</source>
+          <target state="new" state-qualifier="mt-suggestion">Vertical match</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_ThemeBingoQuiz" space="preserve" translate="yes">
+          <source>Bingo</source>
+          <target state="new" state-qualifier="mt-suggestion">Bingo</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_OddOneOutV2Quiz" space="preserve" translate="yes">
+          <source>Odd one out</source>
+          <target state="new" state-qualifier="mt-suggestion">Odd one out</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_BasicCrossWordQuiz" space="preserve" translate="yes">
+          <source>Crossword</source>
+          <target state="new" state-qualifier="mt-suggestion">Crossword</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_MonkeyQuiz" space="preserve" translate="yes">
+          <source>Monkey Quiz</source>
+          <target state="new" state-qualifier="mt-suggestion">Complete The Words</target>
+          <note annotates="source" from="Word Games" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_RhymingObjectsQuiz" space="preserve" translate="yes">
+          <source>Rhyming words</source>
+          <target state="new" state-qualifier="mt-suggestion">Rhyming words</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_MatchItemsGridV2Quiz" space="preserve" translate="yes">
+          <source>Letter grid</source>
+          <target state="new" state-qualifier="mt-suggestion">Letter grid</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_WordRecognitionQuiz" space="preserve" translate="yes">
+          <source>Word recognition</source>
+          <target state="new" state-qualifier="mt-suggestion">Word recognition</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="tiletitle_WordGames_LearnToTrace" space="preserve" translate="yes">
+          <source>Learn to trace</source>
+          <target state="new" state-qualifier="mt-suggestion">Learn to trace</target>
+          <note annotates="source" from="Chrome" priority="2">Tile title on home page</note>
+        </trans-unit>
+        <trans-unit id="no_internet_label_text" space="preserve" translate="yes">
+          <source>No Internet</source>
+          <target state="new" state-qualifier="mt-suggestion">No Internet</target>
+          <note annotates="source" from="Chrome" priority="2">Main label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_sublabel1_text" space="preserve" translate="yes">
+          <source>App could not connect to internet.</source>
+          <target state="new" state-qualifier="mt-suggestion">App could not connect to internet.</target>
+          <note annotates="source" from="Chrome" priority="2">First sub label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_sublabel2_text" space="preserve" translate="yes">
+          <source>Please reconnect to play.</source>
+          <target state="new" state-qualifier="mt-suggestion">Please reconnect to play.</target>
+          <note annotates="source" from="Chrome" priority="2">Second sub label for network requirement dialog.</note>
+        </trans-unit>
+        <trans-unit id="no_internet_bottom_label_text" space="preserve" translate="yes">
+          <source>Waiting to reconnect .......</source>
+          <target state="new" state-qualifier="mt-suggestion">Waiting to reconnect .......</target>
+          <note annotates="source" from="Chrome" priority="2">Bottom sub label for network requirement dialog.</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

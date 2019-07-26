@@ -1,0 +1,87 @@
+{
+    "name": "fruit_set31_x_large",
+    "type": "fruit",
+    "suffix": "fruit_set31_x_large_",
+    "objectList": [
+        {
+			"objectId": "fruit_set31_x_large_apple",
+			"name": "_apple",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_apple.png",
+			"w": 133.376,
+			"h": 133.376,
+			"audioId": "fruit_apple"
+		},
+		{
+			"objectId": "fruit_set31_x_large_banana",
+			"name": "_banana",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_banana.png",
+			"w": 111.702,
+			"h": 169.221,
+			"audioId": "fruit_banana"
+		},
+		{
+			"objectId": "fruit_set31_x_large_cherry",
+			"name": "_cherry",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_cherry.png",
+			"w": 107.951,
+			"h": 151.298,
+			"audioId": "fruit_cherry"
+		},
+		{
+			"objectId": "fruit_set31_x_large_grapes",
+			"name": "_grapes",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_grapes.png",
+			"w": 196.73,
+			"h": 172.138,
+			"audioId": "fruit_grapes"
+		},
+		{
+			"objectId": "fruit_set31_x_large_mango",
+			"name": "_mango",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_mango.png",
+			"w": 122.539,
+			"h": 154.216,
+			"audioId": "fruit_mango"
+		},
+		{
+			"objectId": "fruit_set31_x_large_orange",
+			"name": "_orange",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_orange.png",
+			"w": 151.715,
+			"h": 151.715,
+			"audioId": "fruit_orange"
+		},
+		{
+			"objectId": "fruit_set31_x_large_pear",
+			"name": "_pear",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_pear.png",
+			"w": 125.874,
+			"h": 167.554,
+			"audioId": "fruit_pear"
+		},
+		{
+			"objectId": "fruit_set31_x_large_pineapple",
+			"name": "_pineapple",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_pineapple.png",
+			"w": 98.782,
+			"h": 210.901,
+			"audioId": "fruit_pineapple"
+		},
+		{
+			"objectId": "fruit_set31_x_large_plum",
+			"name": "_plum",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_plum.png",
+			"w": 165.47,
+			"h": 155.883,
+			"audioId": "fruit_plum"
+		},
+		{
+			"objectId": "fruit_set31_x_large_pomegranate",
+			"name": "_pomegranate",
+			"imageUri": "common/fruits/fruit_set31/fruit_set31_x_large/fruit_set31_x_large_pomegranate.png",
+			"w": 154.216,
+			"h": 157.55,
+			"audioId": "fruit_pomegranate"
+		}
+    ]
+}

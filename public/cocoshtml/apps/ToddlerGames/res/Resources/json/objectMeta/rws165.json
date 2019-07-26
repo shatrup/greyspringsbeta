@@ -1,0 +1,43 @@
+{
+    "name": "rws165",
+    "type": "",
+    "suffix": "rws165",
+    "objectList": [
+        {
+            "objectId": "rws165_cloud",
+            "name": "",
+            "imageUri": "common/scenes/scene165/rws165_cloud.png",
+            "w": 151,
+            "h": 100,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "rws165_watercan_1",
+			"name": "scene165_1",
+			"imageUri": "common/scenes/scene165/rws165_watercan_1.png",
+			"w": 139.628,
+			"h": 107.951,
+			"shape": "",
+			"color": ""
+		},
+        {
+            "objectId": "rws165_rain_drop",
+            "name": "",
+            "imageUri": "common/scenes/scene165/rws132_rain_frame_1.png",
+            "w": 16,
+            "h": 25,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "rws165_seed_1",
+            "name": "",
+            "imageUri": "common/scenes/scene165/rws165_seed_1.png",
+            "w": 63,
+            "h": 39,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

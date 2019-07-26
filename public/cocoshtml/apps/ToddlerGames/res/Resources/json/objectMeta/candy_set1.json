@@ -1,0 +1,79 @@
+{
+    "name": "candy_set1",
+    "type": "",
+    "suffix": "candy_set1_",
+    "objectList": [
+        {
+            "objectId": "candy_set1_blue",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_blue.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candy_set1_dark_green",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_dark_green.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candy_set1_green",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_green.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candy_set1_orange",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_orange.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candy_set1_pink",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_pink.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candy_set1_red",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_red.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candy_set1_sky_blue",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_sky_blue.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "candy_set1_yellow",
+            "name": "",
+            "imageUri": "common/candies/candy_set1/candy_set1_yellow.png",
+            "w": 105.45,
+            "h": 62.1,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

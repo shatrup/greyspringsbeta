@@ -1,0 +1,2564 @@
+{
+    "name": "quizchrome_set1",
+    "type": "",
+    "suffix": "quizchrome_set1_",
+    "objectList":
+	[
+		{
+			"objectId": "quizchrome_set1_arrow",
+			"name": "_arrow",
+			"imageUri": "common/chrome/quiz/arrow.png",
+			"w": 71.273,
+			"h": 24.174,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_arrow_1_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/arrow_1_0.png",
+			"w": 71.273,
+			"h": 60.019,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_arrow_1_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/arrow_1_1.png",
+			"w": 67.522,
+			"h": 60.853,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_arrow_2_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/arrow_2_0.png",
+			"w": 71.273,
+			"h": 60.019,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_arrow_2_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/arrow_2_1.png",
+			"w": 67.522,
+			"h": 60.853,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_arrow_head_number_line",
+			"name": "_line",
+			"imageUri": "common/chrome/quiz/arrow_head_number_line.png",
+			"w": 23.758,
+			"h": 23.758,
+			"shape": "",
+			"color": ""
+		},
+		{
+            "objectId": "quizchrome_set1_balloon",
+            "name": "_balloon",
+            "imageUri": "common/chrome/quiz/balloon.png",
+            "w": 55.851,
+            "h": 90.029,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "quizchrome_set1_balloon_blast",
+			"name": "_blast",
+			"imageUri": "common/chrome/quiz/balloon_blast.png",
+			"w": 57.935,
+			"h": 76.691,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ball_large",
+			"name": "_large",
+			"imageUri": "common/chrome/quiz/ball_large.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ball_large_outer",
+			"name": "_outer",
+			"imageUri": "common/chrome/quiz/ball_large_outer.png",
+			"w": 91.279,
+			"h": 91.279,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ball_large_outer_white",
+			"name": "_outer",
+			"imageUri": "common/chrome/quiz/ball_large_outer_white.png",
+			"w": 91.279,
+			"h": 91.279,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "ball_large_outer_white_selected",
+			"name": "_outer",
+			"imageUri": "common/chrome/quiz/ball_large_outer_white_selected.png",
+			"w": 91.279,
+			"h": 91.279,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ball_large_outer_white_cover",
+			"name": "_outer",
+			"imageUri": "common/chrome/quiz/ball_large_outer_white_cover.png",
+			"w": 91.279,
+			"h": 91.279,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ball_medium",
+			"name": "_medium",
+			"imageUri": "common/chrome/quiz/ball_medium.png",
+			"w": 47.515,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_basketball_hoop",
+			"name": "_hoop",
+			"imageUri": "common/chrome/quiz/basketball_hoop.png",
+			"w": 86.694,
+			"h": 100.866,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_basketball_hoop_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/basketball_hoop_1.png",
+			"w": 117.954,
+			"h": 236.326,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_basketball_pole",
+			"name": "_pole",
+			"imageUri": "common/chrome/quiz/basketball_pole.png",
+			"w": 81.276,
+			"h": 264.251,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_blured_box",
+			"name": "_box",
+			"imageUri": "common/chrome/quiz/blured_box.png",
+			"w": 154.633,
+			"h": 154.633,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_blured_circle",
+			"name": "_circle",
+			"imageUri": "common/chrome/quiz/blured_circle.png",
+			"w": 117.954,
+			"h": 117.954,
+			"shape": "",
+			"color": ""
+		},
+		{
+            "objectId": "quizchrome_set1_blured_circle_innerbox",
+            "name": "",
+            "imageUri": "common/chrome/quiz/box_rhyming_1.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+		{
+            "objectId": "quizchrome_set1_blured_box_innerbox",
+            "name": "",
+            "imageUri": "common/chrome/quiz/box_rhyming.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "quizchrome_set1_blured_ellipse",
+			"name": "_ellipse",
+			"imageUri": "common/chrome/quiz/blured_ellipse.png",
+			"w": 190.894,
+			"h": 197.563,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_blured_ellipse_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/blured_ellipse_1.png",
+			"w": 190.894,
+			"h": 197.563,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_board",
+			"name": "_board",
+			"imageUri": "common/chrome/quiz/board.png",
+			"w": 427.22,
+			"h": 283.007,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_body_parts_rectangle",
+			"name": "_rectangle",
+			"imageUri": "common/chrome/quiz/body_parts_rectangle.png",
+			"w": 101.699,
+			"h": 44.181,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_body_parts_strip",
+			"name": "_strip",
+			"imageUri": "common/chrome/quiz/body_parts_strip.png",
+			"w": 115.454,
+			"h": 284.674,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_box_bingo",
+			"name": "_bingo",
+			"imageUri": "common/chrome/quiz/box_bingo.png",
+			"w": 70.439,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_box_full",
+			"name": "_full",
+			"imageUri": "common/chrome/quiz/box_full.png",
+			"w": 83.36,
+			"h": 73.357,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_box_rhyming",
+			"name": "_rhyming",
+			"imageUri": "common/chrome/quiz/box_rhyming.png",
+			"w": 132.959,
+			"h": 108.368,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_box_rhyming_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/box_rhyming_1.png",
+			"w": 69.189,
+			"h": 69.189,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_brush_demo_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/brush_demo_1.png",
+			"w": 16.672,
+			"h": 16.672,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_bubble",
+			"name": "_bubble",
+			"imageUri": "common/chrome/quiz/bubble.png",
+			"w": 93.363,
+			"h": 93.363,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_bubble_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/bubble_1.png",
+			"w": 93.363,
+			"h": 93.363,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_chrome_bubble_2",
+			"name": "bubble_2",
+			"imageUri": "common/chrome/quiz/bubble_2.png",
+			"w": 93.363,
+			"h": 93.363,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_bubble_popped_up",
+			"name": "_up",
+			"imageUri": "common/chrome/quiz/bubble_popped_up.png",
+			"w": 128.791,
+			"h": 116.287,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_bug_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/bug_0.png",
+			"w": 74.607,
+			"h": 69.189,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_bug_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/bug_1.png",
+			"w": 74.607,
+			"h": 69.189,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_bug_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/bug_2.png",
+			"w": 74.607,
+			"h": 69.189,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_butterfly",
+			"name": "_butterfly",
+			"imageUri": "common/chrome/quiz/butterfly.png",
+			"w": 110.869,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_candy_monster",
+			"name": "_monster",
+			"imageUri": "common/chrome/quiz/candy_monster.png",
+			"w": 158.384,
+			"h": 170.471,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_card",
+			"name": "_card",
+			"imageUri": "common/chrome/quiz/card.png",
+			"w": 131.292,
+			"h": 125.874,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_caterpillar_body",
+			"name": "_body",
+			"imageUri": "common/chrome/quiz/caterpillar_body.png",
+			"w": 93.78,
+			"h": 104.2,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_caterpillar_face",
+			"name": "_face",
+			"imageUri": "common/chrome/quiz/caterpillar_face.png",
+			"w": 112.119,
+			"h": 128.791,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_caterpillar_tail",
+			"name": "_tail",
+			"imageUri": "common/chrome/quiz/caterpillar_tail.png",
+			"w": 52.1,
+			"h": 61.27,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_caterpiller_shadow",
+			"name": "_shadow",
+			"imageUri": "common/chrome/quiz/caterpiller_shadow.png",
+			"w": 382.206,
+			"h": 9.17,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_circle_lifecycle",
+			"name": "_lifecycle",
+			"imageUri": "common/chrome/quiz/circle_lifecycle.png",
+			"w": 235.909,
+			"h": 235.909,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_circle_mumbaby_quiz",
+			"name": "_quiz",
+			"imageUri": "common/chrome/quiz/circle_mumbaby_quiz.png",
+			"w": 107.534,
+			"h": 89.195,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_circle_purple",
+			"name": "_purple",
+			"imageUri": "common/chrome/quiz/circle_purple.png",
+			"w": 65.438,
+			"h": 60.853,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_circle_small_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/circle_small_0.png",
+			"w": 31.677,
+			"h": 32.094,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_circular_ring",
+			"name": "_ring",
+			"imageUri": "common/chrome/quiz/circular_ring.png",
+			"w": 41.68,
+			"h": 41.68,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_clip_masking_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/clip_masking_0.png",
+			"w": 273.004,
+			"h": 176.723,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_clip_masking_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/clip_masking_1.png",
+			"w": 273.004,
+			"h": 136.294,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_cloud",
+			"name": "_cloud",
+			"imageUri": "common/chrome/quiz/cloud.png",
+			"w": 137.544,
+			"h": 73.774,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_colorbg",
+			"name": "_colorbg",
+			"imageUri": "common/chrome/quiz/colorbg.png",
+			"w": 39.596,
+			"h": 39.596,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_container_full",
+			"name": "_full",
+			"imageUri": "common/chrome/quiz/container_full.png",
+			"w": 90.029,
+			"h": 71.273,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/crayon_0.png",
+			"w": 31.677,
+			"h": 301.763,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crossword_strip",
+			"name": "_strip",
+			"imageUri": "common/chrome/quiz/crossword_strip.png",
+			"w": 64.604,
+			"h": 284.674,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crossword_tile",
+			"name": "_tile",
+			"imageUri": "common/chrome/quiz/crossword_tile.png",
+			"w": 48.349,
+			"h": 48.349,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crossword_tile_border",
+			"name": "_border",
+			"imageUri": "common/chrome/quiz/crossword_tile_border.png",
+			"w": 50.85,
+			"h": 50.85,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_cross_line",
+			"name": "_line",
+			"imageUri": "common/chrome/quiz/cross_line.png",
+			"w": 42.514,
+			"h": 27.092,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_cross_set_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/cross_set_0.png",
+			"w": 65.438,
+			"h": 65.438,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_curved_botton",
+			"name": "_botton",
+			"imageUri": "common/chrome/quiz/curved_botton.png",
+			"w": 170.054,
+			"h": 50.85,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_design",
+			"name": "_design",
+			"imageUri": "common/chrome/quiz/design.png",
+			"w": 542.257,
+			"h": 24.174,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_doted_circle",
+			"name": "_circle",
+			"imageUri": "common/chrome/quiz/doted_circle.png",
+			"w": 238.41,
+			"h": 246.329,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_dotted_line",
+			"name": "_line",
+			"imageUri": "common/chrome/quiz/dotted_line.png",
+			"w": 2.501,
+			"h": 287.175,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_dot_dark_big",
+			"name": "_big",
+			"imageUri": "common/chrome/quiz/dot_dark_big.png",
+			"w": 48.349,
+			"h": 48.349,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_dot_dark_small",
+			"name": "_small",
+			"imageUri": "common/chrome/quiz/dot_dark_small.png",
+			"w": 27.509,
+			"h": 27.509,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_dot_transparent_big",
+			"name": "_big",
+			"imageUri": "common/chrome/quiz/dot_transparent_big.png",
+			"w": 48.766,
+			"h": 48.766,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_dot_transparent_small",
+			"name": "_small",
+			"imageUri": "common/chrome/quiz/dot_transparent_small.png",
+			"w": 27.509,
+			"h": 27.509,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_empty_box",
+			"name": "_box",
+			"imageUri": "common/chrome/quiz/empty_box.png",
+			"w": 83.36,
+			"h": 73.357,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_finish_flag",
+			"name": "_flag",
+			"imageUri": "common/chrome/quiz/finish_flag.png",
+			"w": 35.011,
+			"h": 61.686,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flag",
+			"name": "_flag",
+			"imageUri": "common/chrome/quiz/flag.png",
+			"w": 54.601,
+			"h": 59.186,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flag_jump_effect",
+			"name": "_effect",
+			"imageUri": "common/chrome/quiz/flag_jump_effect.png",
+			"w": 32.51,
+			"h": 48.766,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flower",
+			"name": "_flower",
+			"imageUri": "common/chrome/quiz/flower.png",
+			"w": 106.701,
+			"h": 109.202,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flowers_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/flowers_1.png",
+			"w": 18.756,
+			"h": 19.173,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flowers_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/flowers_2.png",
+			"w": 18.756,
+			"h": 50.016,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flowers_3",
+			"name": "_3",
+			"imageUri": "common/chrome/quiz/flowers_3.png",
+			"w": 45.848,
+			"h": 43.764,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flowers_4",
+			"name": "_4",
+			"imageUri": "common/chrome/quiz/flowers_4.png",
+			"w": 45.848,
+			"h": 42.514,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flowers_5",
+			"name": "_5",
+			"imageUri": "common/chrome/quiz/flowers_5.png",
+			"w": 47.932,
+			"h": 49.599,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flower_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/flower_0.png",
+			"w": 32.51,
+			"h": 34.594,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flower_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/flower_1.png",
+			"w": 45.848,
+			"h": 35.428,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flower_base_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/flower_base_0.png",
+			"w": 36.678,
+			"h": 35.011,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_flower_small",
+			"name": "_small",
+			"imageUri": "common/chrome/quiz/flower_small.png",
+			"w": 18.756,
+			"h": 19.173,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_food_holder",
+			"name": "_holder",
+			"imageUri": "common/chrome/quiz/food_holder.png",
+			"w": 76.274,
+			"h": 76.274,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_food_tray",
+			"name": "_tray",
+			"imageUri": "common/chrome/quiz/food_tray.png",
+			"w": 36.262,
+			"h": 42.514,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_footstep",
+			"name": "_footstep",
+			"imageUri": "common/chrome/quiz/footstep.png",
+			"w": 14.588,
+			"h": 26.675,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_frame_big",
+			"name": "_big",
+			"imageUri": "common/chrome/quiz/frame_big.png",
+			"w": 256.332,
+			"h": 235.492,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_frame_set_0",
+			"name": "_0",
+			"imageUri": "common/chrome/quiz/frame_set_0.png",
+			"w": 158.384,
+			"h": 135.043,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_frame_set_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/frame_set_1.png",
+			"w": 177.14,
+			"h": 167.97,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_frame_small",
+			"name": "_small",
+			"imageUri": "common/chrome/quiz/frame_small.png",
+			"w": 125.874,
+			"h": 115.454,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_frame_yellow",
+			"name": "_yellow",
+			"imageUri": "common/chrome/quiz/frame_yellow.png",
+			"w": 87.111,
+			"h": 87.111,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_frog",
+			"name": "_frog",
+			"imageUri": "common/chrome/quiz/frog.png",
+			"w": 52.517,
+			"h": 69.189,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_hand",
+			"name": "_hand",
+			"imageUri": "common/chrome/quiz/hand.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_human_organs",
+			"name": "_organs",
+			"imageUri": "common/chrome/quiz/human_organs.png",
+			"w": 132.959,
+			"h": 261.75,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_inner_card",
+			"name": "_card",
+			"imageUri": "common/chrome/quiz/inner_card.png",
+			"w": 109.618,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jar_set0_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/jar_set0_1.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_box",
+			"name": "_box",
+			"imageUri": "common/chrome/quiz/jigsaw_box.png",
+			"w": 324.687,
+			"h": 221.321,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_box_mask",
+			"name": "_mask",
+			"imageUri": "common/chrome/quiz/jigsaw_box_mask.png",
+			"w": 318.435,
+			"h": 215.486,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_mask",
+			"name": "_mask",
+			"imageUri": "common/chrome/quiz/jigsaw_mask.png",
+			"w": 315.101,
+			"h": 230.074,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_shadow",
+			"name": "_shadow",
+			"imageUri": "common/chrome/quiz/jigsaw_shadow.png",
+			"w": 78.775,
+			"h": 53.767,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_strip",
+			"name": "_strip",
+			"imageUri": "common/chrome/quiz/jigsaw_strip.png",
+			"w": 94.614,
+			"h": 284.674,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_swap_box",
+			"name": "_box",
+			"imageUri": "common/chrome/quiz/jigsaw_swap_box.png",
+			"w": 307.182,
+			"h": 247.996,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_tile",
+			"name": "_tile",
+			"imageUri": "common/chrome/quiz/jigsaw_tile.png",
+			"w": 98.365,
+			"h": 238.41,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_kid1",
+			"name": "_kid1",
+			"imageUri": "common/chrome/quiz/kid1.png",
+			"w": 113.37,
+			"h": 105.867,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_kid2",
+			"name": "_kid2",
+			"imageUri": "common/chrome/quiz/kid2.png",
+			"w": 113.37,
+			"h": 106.701,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_kid3",
+			"name": "_kid3",
+			"imageUri": "common/chrome/quiz/kid3.png",
+			"w": 113.37,
+			"h": 102.116,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_kid4",
+			"name": "_kid4",
+			"imageUri": "common/chrome/quiz/kid4.png",
+			"w": 113.37,
+			"h": 102.116,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ladybug_face",
+			"name": "_face",
+			"imageUri": "common/chrome/quiz/ladybug_face.png",
+			"w": 95.864,
+			"h": 127.958,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ladybug_leftpart",
+			"name": "_leftpart",
+			"imageUri": "common/chrome/quiz/ladybug_leftpart.png",
+			"w": 114.62,
+			"h": 187.977,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ladybug_rightpart",
+			"name": "_rightpart",
+			"imageUri": "common/chrome/quiz/ladybug_rightpart.png",
+			"w": 112.119,
+			"h": 187.977,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_letter_grid_black",
+			"name": "_black",
+			"imageUri": "common/chrome/quiz/letter_grid_black.png",
+			"w": 271.754,
+			"h": 259.666,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_letter_grid_button",
+			"name": "_button",
+			"imageUri": "common/chrome/quiz/letter_grid_button.png",
+			"w": 87.945,
+			"h": 80.859,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_lotus_leaf_big",
+			"name": "_big",
+			"imageUri": "common/chrome/quiz/lotus_leaf_big.png",
+			"w": 109.618,
+			"h": 86.694,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_lotus_leaf_small",
+			"name": "_small",
+			"imageUri": "common/chrome/quiz/lotus_leaf_small.png",
+			"w": 75.858,
+			"h": 72.106,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_main_bar",
+			"name": "_bar",
+			"imageUri": "common/chrome/quiz/main_bar.png",
+			"w": 569.349,
+			"h": 42.514,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_main_bar_shadow",
+			"name": "_shadow",
+			"imageUri": "common/chrome/quiz/main_bar_shadow.png",
+			"w": 569.349,
+			"h": 53.767,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_mask_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/mask_1.png",
+			"w": 120.455,
+			"h": 76.691,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_mask_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/mask_2.png",
+			"w": 100.449,
+			"h": 76.691,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_mask_3",
+			"name": "_3",
+			"imageUri": "common/chrome/quiz/mask_3.png",
+			"w": 205.066,
+			"h": 80.442,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_mask_border_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/mask_border_1.png",
+			"w": 122.956,
+			"h": 79.609,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_mask_border_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/mask_border_2.png",
+			"w": 103.783,
+			"h": 79.609,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_mask_tile",
+			"name": "_tile",
+			"imageUri": "common/chrome/quiz/mask_tile.png",
+			"w": 97.948,
+			"h": 238.41,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_math_symbols_background_set0_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/math_symbols_background_set0_1.png",
+			"w": 78.775,
+			"h": 79.609,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_math_symbols_background_set0_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/math_symbols_background_set0_2.png",
+			"w": 78.775,
+			"h": 79.609,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_new_jigsaw_mask",
+			"name": "_mask",
+			"imageUri": "common/chrome/quiz/new_jigsaw_mask.png",
+			"w": 158.801,
+			"h": 107.118,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ones_bead",
+			"name": "_bead",
+			"imageUri": "common/chrome/quiz/ones_bead.png",
+			"w": 22.09,
+			"h": 15.422,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ones_beads_darkhole",
+			"name": "_darkhole",
+			"imageUri": "common/chrome/quiz/ones_beads_darkhole.png",
+			"w": 24.174,
+			"h": 169.221,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ones_bead_background",
+			"name": "_background",
+			"imageUri": "common/chrome/quiz/ones_bead_background.png",
+			"w": 24.174,
+			"h": 17.089,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ones_bead_backstrip",
+			"name": "_backstrip",
+			"imageUri": "common/chrome/quiz/ones_bead_backstrip.png",
+			"w": 24.174,
+			"h": 17.089,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_outter_box_bingo",
+			"name": "_bingo",
+			"imageUri": "common/chrome/quiz/outter_box_bingo.png",
+			"w": 75.858,
+			"h": 77.942,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_paperball",
+			"name": "_paperball",
+			"imageUri": "common/chrome/quiz/paperball.png",
+			"w": 43.764,
+			"h": 40.43,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_paper_sticker",
+			"name": "_sticker",
+			"imageUri": "common/chrome/quiz/paper_sticker.png",
+			"w": 101.699,
+			"h": 106.284,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_parashute",
+			"name": "_parashute",
+			"imageUri": "common/chrome/quiz/parashute.png",
+			"w": 70.439,
+			"h": 76.691,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_path_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/path_1.png",
+			"w": 346.361,
+			"h": 51.266,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_path_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/path_2.png",
+			"w": 383.039,
+			"h": 88.778,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_path_3",
+			"name": "_3",
+			"imageUri": "common/chrome/quiz/path_3.png",
+			"w": 445.559,
+			"h": 141.295,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_path_habitat",
+			"name": "_habitat",
+			"imageUri": "common/chrome/quiz/path_habitat.png",
+			"w": 570.182,
+			"h": 285.091,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_plant",
+			"name": "_plant",
+			"imageUri": "common/chrome/quiz/plant.png",
+			"w": 98.365,
+			"h": 263.418,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_pugmark_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/pugmark_1.png",
+			"w": 342.61,
+			"h": 50.85,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_pugmark_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/pugmark_2.png",
+			"w": 343.86,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_pugmark_3",
+			"name": "_3",
+			"imageUri": "common/chrome/quiz/pugmark_3.png",
+			"w": 440.974,
+			"h": 139.628,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_question_bang",
+			"name": "_bang",
+			"imageUri": "common/chrome/quiz/question_bang.png",
+			"w": 38.346,
+			"h": 38.346,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_question_bar",
+			"name": "_bar",
+			"imageUri": "common/chrome/quiz/question_bar.png",
+			"w": 410.965,
+			"h": 26.258,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_question_bar_short",
+			"name": "_short",
+			"imageUri": "common/chrome/quiz/question_bar_short.png",
+			"w": 308.432,
+			"h": 26.258,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_question_base",
+			"name": "_base",
+			"imageUri": "common/chrome/quiz/question_base.png",
+			"w": 38.346,
+			"h": 38.346,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_question_mark",
+			"name": "_mark",
+			"imageUri": "common/chrome/quiz/question_mark.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_quiz_title_box",
+			"name": "_box",
+			"imageUri": "common/chrome/quiz/quiz_title_box.png",
+			"w": 205.482,
+			"h": 26.258,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_rectangle_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/rectangle_1.png",
+			"w": 165.47,
+			"h": 121.289,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_rectangle_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/rectangle_2.png",
+			"w": 247.162,
+			"h": 122.122,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_round_edge_rectangle",
+			"name": "_rectangle",
+			"imageUri": "common/chrome/quiz/round_edge_rectangle.png",
+			"w": 74.19,
+			"h": 85.861,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_ruler",
+			"name": "_ruler",
+			"imageUri": "common/chrome/quiz/ruler.png",
+			"w": 569.349,
+			"h": 30.843,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_score_star",
+			"name": "_star",
+			"imageUri": "common/chrome/quiz/score_star.png",
+			"w": 24.174,
+			"h": 25.425,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_scratcher",
+			"name": "_scratcher",
+			"imageUri": "common/chrome/quiz/scratcher.png",
+			"w": 59.186,
+			"h": 59.186,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_semicircle_habitat1",
+			"name": "_habitat1",
+			"imageUri": "common/chrome/quiz/semicircle_habitat1.png",
+			"w": 138.794,
+			"h": 114.203,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_semicircle_habitat2",
+			"name": "_habitat2",
+			"imageUri": "common/chrome/quiz/semicircle_habitat2.png",
+			"w": 138.794,
+			"h": 117.538,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_semicircle_habitat3",
+			"name": "_habitat3",
+			"imageUri": "common/chrome/quiz/semicircle_habitat3.png",
+			"w": 151.715,
+			"h": 284.674,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_semi_circle",
+			"name": "_circle",
+			"imageUri": "common/chrome/quiz/semi_circle.png",
+			"w": 141.295,
+			"h": 137.127,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_shadow_animals",
+			"name": "_animals",
+			"imageUri": "common/chrome/quiz/shadow_animals.png",
+			"w": 175.056,
+			"h": 22.924,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_shed_bottom",
+			"name": "_bottom",
+			"imageUri": "common/chrome/quiz/shed_bottom.png",
+			"w": 115.454,
+			"h": 92.53,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_shed_center",
+			"name": "_center",
+			"imageUri": "common/chrome/quiz/shed_center.png",
+			"w": 108.785,
+			"h": 95.03,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_shed_top",
+			"name": "_top",
+			"imageUri": "common/chrome/quiz/shed_top.png",
+			"w": 115.454,
+			"h": 92.53,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_shell",
+			"name": "_shell",
+			"imageUri": "common/chrome/quiz/shell.png",
+			"w": 100.866,
+			"h": 89.195,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_shell_inner",
+			"name": "_inner",
+			"imageUri": "common/chrome/quiz/shell_inner.png",
+			"w": 79.192,
+			"h": 69.606,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_soccernet",
+			"name": "_soccernet",
+			"imageUri": "common/chrome/quiz/soccernet.png",
+			"w": 258.416,
+			"h": 172.138,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_square_frame",
+			"name": "_frame",
+			"imageUri": "common/chrome/quiz/square_frame.png",
+			"w": 271.754,
+			"h": 237.993,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_star_big",
+			"name": "_big",
+			"imageUri": "common/chrome/quiz/star_big.png",
+			"w": 102.95,
+			"h": 92.113,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_star_small",
+			"name": "_small",
+			"imageUri": "common/chrome/quiz/star_small.png",
+			"w": 33.761,
+			"h": 30.426,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_strike",
+			"name": "_strike",
+			"imageUri": "common/chrome/quiz/strike.png",
+			"w": 44.598,
+			"h": 44.598,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_strip",
+			"name": "_strip",
+			"imageUri": "common/chrome/quiz/strip.png",
+			"w": 85.027,
+			"h": 284.674,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_tens_bead",
+			"name": "_bead",
+			"imageUri": "common/chrome/quiz/tens_bead.png",
+			"w": 212.568,
+			"h": 15.422,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_tens_beads_darkhole",
+			"name": "_darkhole",
+			"imageUri": "common/chrome/quiz/tens_beads_darkhole.png",
+			"w": 215.069,
+			"h": 169.221,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_tens_bead_background",
+			"name": "_background",
+			"imageUri": "common/chrome/quiz/tens_bead_background.png",
+			"w": 215.069,
+			"h": 17.089,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_tens_bead_backstrip",
+			"name": "_backstrip",
+			"imageUri": "common/chrome/quiz/tens_bead_backstrip.png",
+			"w": 215.069,
+			"h": 17.089,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_tile_frame",
+			"name": "_frame",
+			"imageUri": "common/chrome/quiz/tile_frame.png",
+			"w": 228.823,
+			"h": 228.823,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_top_bar_pan_0",
+			"name": "_pan",
+			"imageUri": "common/chrome/quiz/top_bar_pan.png",
+			"w": 138.378,
+			"h": 67.522,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_watch_circle",
+			"name": "_circle",
+			"imageUri": "common/chrome/quiz/watch_circle.png",
+			"w": 7.919,
+			"h": 7.919,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_watch",
+			"name": "_dial",
+			"imageUri": "common/chrome/quiz/watch_dial.png",
+			"w": 96.281,
+			"h": 96.281,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_watch_hour_hand",
+			"name": "_hand",
+			"imageUri": "common/chrome/quiz/watch_hour_hand.png",
+			"w": 8.753,
+			"h": 26.258,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_watch_minute_hand",
+			"name": "_hand",
+			"imageUri": "common/chrome/quiz/watch_minute_hand.png",
+			"w": 6.669,
+			"h": 38.762,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_watch_orange_flower",
+			"name": "_flower",
+			"imageUri": "common/chrome/quiz/watch_orange_flower.png",
+			"w": 129.208,
+			"h": 127.958,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_watch_rectangle",
+			"name": "_rectangle",
+			"imageUri": "common/chrome/quiz/watch_rectangle.png",
+			"w": 197.98,
+			"h": 56.268,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_wave_1",
+			"name": "_1",
+			"imageUri": "common/chrome/quiz/wave_1.png",
+			"w": 569.766,
+			"h": 135.043,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_wave_2",
+			"name": "_2",
+			"imageUri": "common/chrome/quiz/wave_2.png",
+			"w": 569.766,
+			"h": 147.964,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_wave_3",
+			"name": "_3",
+			"imageUri": "common/chrome/quiz/wave_3.png",
+			"w": 569.766,
+			"h": 164.636,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_weighing_machine",
+			"name": "_machine",
+			"imageUri": "common/chrome/quiz/weighing_machine.png",
+			"w": 478.486,
+			"h": 96.281,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_weighing_machine_bottom_part",
+			"name": "_part",
+			"imageUri": "common/chrome/quiz/weighing_machine_bottom_part.png",
+			"w": 127.124,
+			"h": 87.111,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_weighing_machine_middle_rod",
+			"name": "_rod",
+			"imageUri": "common/chrome/quiz/weighing_machine_middle_rod.png",
+			"w": 321.353,
+			"h": 30.426,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_weighing_machine_top_left",
+			"name": "_left",
+			"imageUri": "common/chrome/quiz/weighing_machine_top_left.png",
+			"w": 213.818,
+			"h": 25.008,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_weighing_machine_top_right",
+			"name": "_right",
+			"imageUri": "common/chrome/quiz/weighing_machine_top_right.png",
+			"w": 216.736,
+			"h": 25.008,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_wood_log",
+			"name": "_log",
+			"imageUri": "common/chrome/quiz/wood_log.png",
+			"w": 52.1,
+			"h": 71.69,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_yellow_ring_locked",
+			"name": "_locked",
+			"imageUri": "common/chrome/quiz/yellow_ring_locked.png",
+			"w": 42.514,
+			"h": 42.514,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_yellow_ring_unlocked",
+			"name": "_unlocked",
+			"imageUri": "common/chrome/quiz/yellow_ring_unlocked.png",
+			"w": 42.514,
+			"h": 42.514,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_mask_set1_0_0",
+			"name": "jigsaw_0",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set1/jigsaw_mask_set1_0_0.png",
+			"w": 141.712,
+			"h": 199.647,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_mask_set1_0_0_border",
+			"name": "jigsaw_border",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set1/jigsaw_mask_set1_0_0_border.png",
+			"w": 144.213,
+			"h": 202.982,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_mask_set1_0_1",
+			"name": "jigsaw_1",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set1/jigsaw_mask_set1_0_1.png",
+			"w": 179.641,
+			"h": 199.647,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_mask_set1_0_1_border",
+			"name": "jigsaw_border",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set1/jigsaw_mask_set1_0_1_border.png",
+			"w": 182.558,
+			"h": 202.982,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsaw_mask_set1_frame",
+			"name": "jigsaw_frame",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set1/jigsaw_mask_set1_frame.png",
+			"w": 288.426,
+			"h": 202.982,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsawmask_0_0",
+			"name": "",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set2/jigsaw_mask_set2_0_0.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsawmask_0_1",
+			"name": "",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set2/jigsaw_mask_set2_0_1.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsawmask_0_0_border",
+			"name": "",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set2/jigsaw_mask_set2_0_0_border.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_jigsawmask_0_1_border",
+			"name": "",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set2/jigsaw_mask_set2_0_1_border.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_vertical_match_bg",
+			"name": "",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set2/jigsaw_mask_set2_frame.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_vertical_match_frame",
+			"name": "",
+			"imageUri": "common/chrome/jigsaw_mask/jigsaw_mask_set2/jigsaw_mask_set2_frame.png",
+			"w": 5,
+			"h": 5,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_hint_floating",
+			"name": "floating",
+			"imageUri": "common/chrome/quiz/hint_floating.png",
+			"w": 44.598,
+			"h": 44.598,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_hint_sinking",
+			"name": "sinking",
+			"imageUri": "common/chrome/quiz/hint_sinking.png",
+			"w": 44.598,
+			"h": 44.598,
+			"shape": "",
+			"color": ""
+		},
+        {
+            "objectId": "quizchrome_set1_curved_button_0",
+            "name": "",
+            "imageUri": "common/chrome/quiz/curved_botton.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "quizchrome_set1_jigsaw_strip_2",
+			"name": "jigsaw_strip_2",
+			"imageUri": "common/chrome/quiz/jigsaw_strip_2.png",
+			"w": 94.614,
+			"h": 320.102,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_small_alphabets",
+			"name": "button_lowercase",
+			"imageUri": "common/chrome/quiz/button_lowercase.png",
+			"w": 39.596,
+			"h": 40.013,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_numbers",
+			"name": "button_number",
+			"imageUri": "common/chrome/quiz/button_number.png",
+			"w": 39.596,
+			"h": 40.013,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_shapes",
+			"name": "button_shape",
+			"imageUri": "common/chrome/quiz/button_shape.png",
+			"w": 39.596,
+			"h": 40.013,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_capital_alphabets",
+			"name": "button_uppercase",
+			"imageUri": "common/chrome/quiz/button_uppercase.png",
+			"w": 39.596,
+			"h": 40.013,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_1",
+			"name": "crayon_1",
+			"imageUri": "common/chrome/quiz/crayon_1.png",
+			"w": 23.758,
+			"h": 94.614,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_swipe_left",
+			"name": "swipe_left",
+			"imageUri": "common/chrome/quiz/swipe_left.png",
+			"w": 17.089,
+			"h": 39.596,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_swipe_right",
+			"name": "swipe_right",
+			"imageUri": "common/chrome/quiz/swipe_right.png",
+			"w": 17.089,
+			"h": 39.596,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_brush_1",
+			"name": "brush_1",
+			"imageUri": "common/chrome/quiz/brush_1.png",
+			"w": 59.186,
+			"h": 59.186,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_press_small_alphabets",
+			"name": "button_press_lowercase",
+			"imageUri": "common/chrome/quiz/button_press_lowercase.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_press_numbers",
+			"name": "button_press_number",
+			"imageUri": "common/chrome/quiz/button_press_number.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_press_shapes",
+			"name": "button_press_shape",
+			"imageUri": "common/chrome/quiz/button_press_shape.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_press_capital_alphabets",
+			"name": "button_press_uppercase",
+			"imageUri": "common/chrome/quiz/button_press_uppercase.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_hindi",
+			"name": "button_hindi",
+			"imageUri": "common/chrome/quiz/button_hindi.png",
+			"w": 39.596,
+			"h": 40.013,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_press_hindi",
+			"name": "button_press_hindi",
+			"imageUri": "common/chrome/quiz/button_press_hindi.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_blue",
+			"name": "crayon_blue",
+			"imageUri": "common/chrome/quiz/crayon_blue.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_green",
+			"name": "crayon_green",
+			"imageUri": "common/chrome/quiz/crayon_green.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_orange",
+			"name": "crayon_orange",
+			"imageUri": "common/chrome/quiz/crayon_orange.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_purple",
+			"name": "crayon_purple",
+			"imageUri": "common/chrome/quiz/crayon_purple.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_red",
+			"name": "crayon_red",
+			"imageUri": "common/chrome/quiz/crayon_red.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_white",
+			"name": "crayon_blue",
+			"imageUri": "common/chrome/quiz/crayon_white.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_selected_highlight",
+			"name": "crayon_selected_highlight",
+			"imageUri": "common/chrome/quiz/crayon_selected_highlight.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_selected_shadow",
+			"name": "crayon_selected_shadow",
+			"imageUri": "common/chrome/quiz/crayon_selected_shadow.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_crayon_yellow",
+			"name": "crayon_yellow",
+			"imageUri": "common/chrome/quiz/crayon_yellow.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_canvas",
+			"name": "canvas",
+			"imageUri": "common/chrome/quiz/canvas.png",
+			"w": 352.613,
+			"h": 309.266,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_LearnToWriteV3_blackboard",
+			"name": "LearnToWriteV3_blackboard",
+			"imageUri": "common/chrome/quiz/blackboard.png",
+			"w": 380.122,
+			"h": 267.586,
+			"shape": "",
+			"color": ""
+		},		
+		{
+			"objectId": "quizchrome_set1_LearnToWriteV3_blackboard_1",
+			"name": "LearnToWriteV3_blackboard_1",
+			"imageUri": "common/chrome/quiz/blackboard_1.png",
+			"w": 380.122,
+			"h": 267.586,
+			"shape": "",
+			"color": ""
+		},		
+		{
+			"objectId": "quizchrome_set1_crayon_cover",
+			"name": "cover",
+			"imageUri": "common/chrome/quiz/crayon_cover.png",
+			"w": 98.365,
+			"h": 32.51,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_basket",
+			"name": "quiz_basket",
+			"imageUri": "common/chrome/quiz/basket.png",
+			"w": 118.371,
+			"h": 59.602,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_cart",
+			"name": "quiz_cart",
+			"imageUri": "common/chrome/quiz/cart.png",
+			"w": 162.552,
+			"h": 94.197,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_cart_wheel",
+			"name": "quiz_wheel",
+			"imageUri": "common/chrome/quiz/cart_wheel.png",
+			"w": 27.509,
+			"h": 27.509,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_character_boy",
+			"name": "quiz_boy",
+			"imageUri": "common/chrome/quiz/character_boy.png",
+			"w": 126.707,
+			"h": 163.802,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_character_girl",
+			"name": "quiz_girl",
+			"imageUri": "common/chrome/quiz/character_girl.png",
+			"w": 139.628,
+			"h": 157.134,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_character_monster",
+			"name": "quiz_monster",
+			"imageUri": "common/chrome/quiz/character_monster.png",
+			"w": 112.536,
+			"h": 135.043,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_container",
+			"name": "quiz_container",
+			"imageUri": "common/chrome/quiz/container.png",
+			"w": 137.544,
+			"h": 118.788,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_glass",
+			"name": "glass",
+			"imageUri": "common/scenes/scene171/glass.png",
+			"w": 78.775,
+			"h": 80.442,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_juicer",
+			"name": "juicer",
+			"imageUri": "common/scenes/scene171/juicer.png",
+			"w": 161.302,
+			"h": 173.806,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_straw",
+			"name": "straw",
+			"imageUri": "common/scenes/scene171/straw.png",
+			"w": 43.764,
+			"h": 127.958,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_alien_blue_1",
+			"name": "scene172_1",
+			"imageUri": "common/scenes/scene172/alien_blue_1.png",
+			"w": 85.861,
+			"h": 69.606,
+			"shape": "",
+			"color": "blue"
+		},
+		{
+			"objectId": "quizchrome_set1_alien_green_1",
+			"name": "scene172_1",
+			"imageUri": "common/scenes/scene172/alien_green_1.png",
+			"w": 80.442,
+			"h": 69.606,
+			"shape": "",
+			"color": "green"
+		},
+		{
+			"objectId": "quizchrome_set1_alien_pink_1",
+			"name": "scene172_1",
+			"imageUri": "common/scenes/scene172/alien_pink_1.png",
+			"w": 86.278,
+			"h": 77.525,
+			"shape": "",
+			"color": "pink"
+		},
+		{
+			"objectId": "quizchrome_set1_alien_red_1",
+			"name": "scene172_1",
+			"imageUri": "common/scenes/scene172/alien_red_1.png",
+			"w": 89.612,
+			"h": 69.606,
+			"shape": "",
+			"color": "red"
+		},
+		{
+			"objectId": "quizchrome_set1_alien_yellow_1",
+			"name": "scene172_1",
+			"imageUri": "common/scenes/scene172/alien_yellow_1.png",
+			"w": 85.027,
+			"h": 84.61,
+			"shape": "",
+			"color": "yellow"
+		},
+		{
+			"objectId": "quizchrome_set1_bubble_2",
+			"name": "scene172_bubble",
+			"imageUri": "common/scenes/scene172/bubble.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_spaceship",
+			"name": "scene172_spaceship",
+			"imageUri": "common/scenes/scene172/spaceship.png",
+			"w": 181.308,
+			"h": 202.148,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_spaceship_beam",
+			"name": "scene172_beam",
+			"imageUri": "common/scenes/scene172/spaceship_beam.png",
+			"w": 181.308,
+			"h": 202.148,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_spaceship_light_frame_1",
+			"name": "scene172_1",
+			"imageUri": "common/scenes/scene172/spaceship_light_frame_1.png",
+			"w": 181.308,
+			"h": 202.148,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_splash",
+			"name": "splash",
+			"imageUri": "common/chrome/quiz/splash.png",
+			"w": 83.777,
+			"h": 81.693,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_swatch_round",
+			"name": "swatch_round",
+			"imageUri": "common/chrome/quiz/swatch_round.png",
+			"w": 35.428,
+			"h": 35.428,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_swatch_round_circle",
+			"name": "swatch_round_circle",
+			"imageUri": "common/chrome/quiz/swatch_round_circle.png",
+			"w": 46.265,
+			"h": 46.265,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_tortoise_frame_1",
+			"name": "quiz_1",
+			"imageUri": "common/chrome/quiz/tortoise_frame_1.png",
+			"w": 102.116,
+			"h": 153.382,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_tortoise_frame_2",
+			"name": "quiz_2",
+			"imageUri": "common/chrome/quiz/tortoise_frame_2.png",
+			"w": 102.116,
+			"h": 153.382,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_treasure_box",
+			"name": "quiz_box",
+			"imageUri": "common/chrome/quiz/treasure_box.png",
+			"w": 97.114,
+			"h": 88.362,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_background_night_star",
+			"name": "quiz_star",
+			"imageUri": "common/chrome/quiz/background_night_star.png",
+			"w": 19.173,
+			"h": 19.173,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_background_sky_cloud",
+			"name": "quiz_cloud",
+			"imageUri": "common/chrome/quiz/background_sky_cloud.png",
+			"w": 569.349,
+			"h": 177.14,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_background_water_bubble",
+			"name": "quiz_bubble",
+			"imageUri": "common/chrome/quiz/background_water_bubble.png",
+			"w": 35.428,
+			"h": 35.428,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_background_water_fish",
+			"name": "quiz_fish",
+			"imageUri": "common/chrome/quiz/background_water_fish.png",
+			"w": 39.179,
+			"h": 39.179,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_color_swatch",
+			"name": "quiz_swatch",
+			"imageUri": "common/chrome/quiz/color_swatch.png",
+			"w": 25.425,
+			"h": 25.425,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_canvas_1",
+			"name": "quiz_1",
+			"imageUri": "common/chrome/quiz/canvas_1.png",
+			"w": 293.427,
+			"h": 277.172,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_canvas_base",
+			"name": "quiz_base",
+			"imageUri": "common/chrome/quiz/canvas_base.png",
+			"w": 518.916,
+			"h": 8.753,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_color_blob",
+			"name": "quiz_blob",
+			"imageUri": "common/chrome/quiz/color_blob.png",
+			"w": 37.095,
+			"h": 37.095,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_color_effect",
+			"name": "quiz_effect",
+			"imageUri": "common/chrome/quiz/color_effect.png",
+			"w": 37.095,
+			"h": 37.095,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_color_palette_background",
+			"name": "quiz_background",
+			"imageUri": "common/chrome/quiz/color_palette_background.png",
+			"w": 106.284,
+			"h": 222.571,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_vase",
+			"name": "quiz_vase",
+			"imageUri": "common/chrome/quiz/vase.png",
+			"w": 50.016,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_color_fox_1",
+			"name": "color_fox_1",
+			"imageUri": "common/chrome/quiz/color_fox_1.png",
+			"w": 110.452,
+			"h": 190.478,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_scratch_layer",
+			"name": "scratch_layer",
+			"imageUri": "common/chrome/quiz/scratch_layer.png",
+			"w": 283.841,
+			"h": 155.05,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_swatch_1",
+			"name": "swatch_1",
+			"imageUri": "common/chrome/quiz/swatch_1.png",
+			"w": 42.097,
+			"h": 42.097,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_swatch_border_1",
+			"name": "swatch_border_1",
+			"imageUri": "common/chrome/quiz/swatch_border_1.png",
+			"w": 47.515,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_scratch_screen",
+			"name": "scratch_screen",
+			"imageUri": "common/chrome/quiz/scratch_screen.png",
+			"w": 284.258,
+			"h": 155.466,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_bubble_dots",
+			"name": "bubble_dots",
+			"imageUri": "common/chrome/quiz/bubble_dots.png",
+			"w": 35.011,
+			"h": 34.178,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_button_dots",
+			"name": "button_dots",
+			"imageUri": "common/chrome/quiz/button_dots.png",
+			"w": 35.011,
+			"h": 34.178,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_star_dots",
+			"name": "star_dots",
+			"imageUri": "common/chrome/quiz/star_dots.png",
+			"w": 35.011,
+			"h": 34.178,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_base_crayons",
+			"name": "star_dots",
+			"imageUri": "common/chrome/quiz/base_crayons.png",
+			"w": 14.171,
+			"h": 91.696,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_shadow_crayons",
+			"name": "star_dots",
+			"imageUri": "common/chrome/quiz/shadow_crayons.png",
+			"w": 14.171,
+			"h": 91.696,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_stripes_crayons",
+			"name": "star_dots",
+			"imageUri": "common/chrome/quiz/stripes_crayons.png",
+			"w": 14.171,
+			"h": 91.696,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_board_bottom",
+			"name": "board_bottom",
+			"imageUri": "common/chrome/quiz/board_bottom.png",
+			"w": 476.819,
+			"h": 289.676,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_board_top",
+			"name": "board_top",
+			"imageUri": "common/chrome/quiz/board_top.png",
+			"w": 476.819,
+			"h": 289.676,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "quizchrome_set1_gear",
+			"name": "gear",
+			"imageUri": "common/chrome/quiz/gear.png",
+			"w": 73.774,
+			"h": 73.357,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

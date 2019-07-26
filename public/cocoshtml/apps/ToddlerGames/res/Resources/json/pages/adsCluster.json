@@ -1,0 +1,128 @@
+{
+	"id": "adsCluster1",
+    "title": "Ads",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "adTile300x600",
+					"data" : {
+							"name": "GSPG_300x600_homepage_atend"
+					}
+				},
+
+				{
+					"type" : "adTile160x600",
+					"data" : {
+							"name": "KG8_160x600_Home_MidPano"
+					}
+				},
+				{
+					"type" : "adTile160x600",
+					"data" : {
+							"name": "KG8_160x600_Home_AtEnd"
+					}
+				},
+                {
+                    "type": "adTile160x600",
+                    "data": {
+                        "name": "KG8_160x600_ColorbookHolder_AtEnd"
+                    }
+                },
+                {
+                    "type": "adTile300x250",
+                    "data": {
+                        "name": "KG8_300x250_PlaygroundCluster"
+                    }
+                },
+                {
+                    "type": "adTile160x600",
+                    "data": {
+                        "name": "KG8_160x600_AlphabetsFullView"
+                    }
+                },
+				{
+                    "type": "adTile160x600",
+                    "data": {
+                        "name": "KG8_160x600_NumbersFullView"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_HomePage_First"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_HomePage_Second"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_HomePage_Third"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_HomePage_Fourth"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_AlphabetPage_AtEnd"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_NumbersPage_AtEnd"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_ShapesPage_AtEnd"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_FruitsPage_AtEnd"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_BirdsPage_AtEnd"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_AnimalsPage_AtEnd"
+                    }
+                },
+				{
+                    "type": "adTile300x600",
+                    "data": {
+                        "name": "GSPPaint_300x600_OtherPage_AtEnd"
+                    }
+                },
+
+				{
+					"type" : "adTile300x600",
+					"data" : {
+							"name": "GSPPaint_300x600_HomePage_AtEnd"
+					}
+				}
+			]
+		}
+	]
+}

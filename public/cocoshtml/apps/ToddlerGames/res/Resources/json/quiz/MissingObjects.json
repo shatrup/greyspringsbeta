@@ -1,0 +1,40 @@
+{
+    "id": "MissingObjects",
+    "type": "MissingObjects",
+    "bgMusic": "caption_put_pieces_back",
+    "question": "caption_put_pieces_back",
+    "complexity": "low",
+    "qsBgColor": "003366",
+	"isHintOnLeft": true,
+	"isFullBleed": true,
+    "sets": [
+	{
+      "name": "set_1",
+      "objectSrc": "RealWorldScene_missingObjects_1"
+    },
+	{
+      "name": "set_2",
+      "objectSrc": "RealWorldScene_missingObjects_2"
+    },
+	{
+      "name": "set_3",
+      "objectSrc": "RealWorldScene_missingObjects_3"
+    },
+	{
+      "name": "set_4",
+      "objectSrc": "RealWorldScene_missingObjects_4"
+    },
+	{
+      "name": "set_5",
+      "objectSrc": "RealWorldScene_missingObjects_5"
+    },
+	{
+      "name": "set_6",
+      "objectSrc": "RealWorldScene_missingObjects_6"
+    },
+	{
+      "name": "set_7",
+      "objectSrc": "RealWorldScene_missingObjects_7"
+    }
+    ] 
+}

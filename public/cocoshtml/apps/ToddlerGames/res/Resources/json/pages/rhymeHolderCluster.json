@@ -1,0 +1,93 @@
+{
+    "id": "RhymesHolderCluster",
+    "title": "Rhymes",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/wotb.png",
+                        "title": "ms-resource:Rhymes_title_WheelsOnBus",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=wotb",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/omc.png",
+                        "title": "ms-resource:Rhymes_title_OldMcDonald",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=omc",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/bbs.png",
+                        "title": "ms-resource:Rhymes_title_BaaBaaBlackSheep",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=bbs",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/iws.png",
+                        "title": "ms-resource:Rhymes_title_IncyWincySpider",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=iws",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/hd.png",
+                        "title": "ms-resource:Rhymes_title_HumptyDumpty",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=hd",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/jnj.png",
+                        "title": "ms-resource:Rhymes_title_JackAndJill",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=jnj",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/mhll.png",
+                        "title": "ms-resource:Rhymes_title_MaryHadLittleLamb",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=mhll",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/hcb.png",
+                        "title": "ms-resource:Rhymes_title_HotCrossBuns",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=hcb",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/ttls.png",
+                        "title": "ms-resource:Rhymes_title_TwinkleTwinkleLittleStar",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=ttls",
+						"backgroundColor": "F2F2F2"
+                    }
+                }
+            ]
+        }
+    ]
+}

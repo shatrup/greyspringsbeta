@@ -1,0 +1,274 @@
+{
+	"name": "alphabet_object_set12",
+	"type": "objects",
+	"suffix": "alphabet_",
+	"objectList": [
+		{
+			"objectId": "alphabet_a",
+			"name": "object_alligator",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_aligator.png",
+			"w": 136.294,
+			"h": 118.788,
+			"frameCount": 3,
+			"audioSrc1": "alphabet_a",
+			"audioSrc2": "alphabet_phonic_a",
+			"audioSrc3": "alphabet_object_alligator"
+		},
+		{
+			"objectId": "alphabet_b",
+			"name": "object_bee",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_bee.png",
+			"w": 74.607,
+			"h": 88.778,
+			"frameCount": 3,
+			"audioSrc1": "alphabet_b",
+			"audioSrc2": "alphabet_phonic_b",
+			"audioSrc3": "alphabet_object_bee"
+		},
+		{
+			"objectId": "alphabet_c",
+			"name": "object_cat",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_cat.png",
+			"w": 74.19,
+			"h": 88.778,
+			"frameCount": 3,
+			"audioSrc1": "alphabet_c",
+			"audioSrc2": "alphabet_phonic_c",
+			"audioSrc3": "alphabet_object_cat"
+		},
+		{
+			"objectId": "alphabet_d",
+			"name": "object_deer",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_deer.png",
+			"w": 74.19,
+			"h": 88.778,
+			"frameCount": 2,
+			"audioSrc1": "alphabet_d",
+			"audioSrc2": "alphabet_phonic_d",
+			"audioSrc3": "animal_deer"
+		},
+		{
+			"objectId": "alphabet_e",
+			"name": "object_elephant",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_elephant.png",
+			"w": 135.877,
+			"h": 88.778,
+			"frameCount": 1,
+			"audioSrc1": "alphabet_e",
+			"audioSrc2": "alphabet_phonic_e",
+			"audioSrc3": "alphabet_object_elephant"
+		},
+		{
+			"objectId": "alphabet_f",
+			"name": "object_fox",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_fox.png",
+			"w": 74.19,
+			"h": 88.778,
+			"frameCount": 2,
+			"audioSrc1": "alphabet_f",
+			"audioSrc2": "alphabet_phonic_f",
+			"audioSrc3": "alphabet_object_fox"
+		},
+		{
+			"objectId": "alphabet_g",
+			"name": "object_goat",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_goat.png",
+			"w": 74.19,
+			"h": 88.778,
+			"frameCount": 2,
+			"audioSrc1": "alphabet_g",
+			"audioSrc2": "alphabet_phonic_g",
+			"audioSrc3": "animal_goat"
+		},
+		{
+			"objectId": "alphabet_h",
+			"name": "object_horse",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_horse.png",
+			"w": 154.633,
+			"h": 231.741,
+			"audioSrc1": "alphabet_h",
+			"audioSrc2": "alphabet_phonic_h",
+			"audioSrc3": "animal_horse"
+		},
+		{
+			"objectId": "alphabet_i",
+			"name": "object_igloo",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_igloo.png",
+			"w": 257.582,
+			"h": 166.72,
+			"audioSrc1": "alphabet_i",
+			"audioSrc2": "alphabet_phonic_i",
+			"audioSrc3": "alphabet_object_igloo"
+		},
+		{
+			"objectId": "alphabet_j",
+			"name": "object_joker",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_joker.png",
+			"w": 230.907,
+			"h": 235.075,
+			"audioSrc1": "alphabet_j",
+			"audioSrc2": "alphabet_phonic_j",
+			"audioSrc3": "alphabet_object_joker"
+		},
+		{
+			"objectId": "alphabet_k",
+			"name": "object_kangaroo",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_kangaroo.png",
+			"w": 308.015,
+			"h": 254.665,
+			"audioSrc1": "alphabet_k",
+			"audioSrc2": "alphabet_phonic_k",
+			"audioSrc3": "animal_kangaroo"
+		},
+		{
+			"objectId": "alphabet_l",
+			"name": "object_lion",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_lion.png",
+			"w": 244.245,
+			"h": 247.162,
+			"audioSrc1": "alphabet_l",
+			"audioSrc2": "alphabet_phonic_l",
+			"audioSrc3": "animal_lion"
+		},
+		{
+			"objectId": "alphabet_m",
+			"name": "object_monkey",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_monkey.png",
+			"w": 193.812,
+			"h": 253.831,
+			"audioSrc1": "alphabet_m",
+			"audioSrc2": "alphabet_phonic_m",
+			"audioSrc3": "animal_monkey"
+		},
+		{
+			"objectId": "alphabet_n",
+			"name": "object_nest",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_nest.png",
+			"w": 176.723,
+			"h": 139.211,
+			"audioSrc1": "alphabet_n",
+			"audioSrc2": "alphabet_phonic_n",
+			"audioSrc3": "alphabet_object_nest"
+		},
+		{
+			"objectId": "alphabet_o",
+			"name": "object_owl",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_owl.png",
+			"w": 60.019,
+			"h": 66.271,
+			"audioSrc1": "alphabet_o",
+			"audioSrc2": "alphabet_phonic_o",
+			"audioSrc3": "alphabet_object_owl"
+		},
+		{
+			"objectId": "alphabet_p",
+			"name": "object_panda",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_panda.png",
+			"w": 109.202,
+			"h": 112.536,
+			"audioSrc1": "alphabet_p",
+			"audioSrc2": "alphabet_phonic_p",
+			"audioSrc3": "animal_panda"
+		},
+		{
+			"objectId": "alphabet_q",
+			"name": "object_queen",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_queen.png",
+			"w": 105.034,
+			"h": 208.817,
+			"audioSrc1": "alphabet_q",
+			"audioSrc2": "alphabet_phonic_q",
+			"audioSrc3": "alphabet_object_queen"
+		},
+		{
+			"objectId": "alphabet_r",
+			"name": "object_robot",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_robot.png",
+			"w": 141.295,
+			"h": 133.376,
+			"audioSrc1": "alphabet_r",
+			"audioSrc2": "alphabet_phonic_r",
+			"audioSrc3": "word_robot"
+		},
+		{
+			"objectId": "alphabet_s",
+			"name": "object_sheep",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_sheep.png",
+			"w": 116.704,
+			"h": 95.03,
+			"audioSrc1": "alphabet_s",
+			"audioSrc2": "alphabet_phonic_s",
+			"audioSrc3": "animal_sheep"
+		},
+		{
+			"objectId": "alphabet_t",
+			"name": "object_turtle",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_turtle.png",
+			"w": 157.967,
+			"h": 127.124,
+			"audioSrc1": "alphabet_t",
+			"audioSrc2": "alphabet_phonic_t",
+			"audioSrc3": "animal_turtle"
+		},
+		{
+			"objectId": "alphabet_u",
+			"name": "object_umbrella",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_umbrella.png",
+			"w": 197.98,
+			"h": 192.562,
+			"audioSrc1": "alphabet_u",
+			"audioSrc2": "alphabet_phonic_u",
+			"audioSrc3": "alphabet_object_umbrella"
+		},
+		{
+			"objectId": "alphabet_v",
+			"name": "object_violin",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_violin.png",
+			"w": 257.582,
+			"h": 257.166,
+			"audioSrc1": "alphabet_v",
+			"audioSrc2": "alphabet_phonic_v",
+			"audioSrc3": "alphabet_object_violin"
+		},
+		{
+			"objectId": "alphabet_w",
+			"name": "object_watch",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_watch.png",
+			"w": 110.869,
+			"h": 71.273,
+			"audioSrc1": "alphabet_w",
+			"audioSrc2": "alphabet_phonic_w",
+			"audioSrc3": "alphabet_object_watch"
+		},
+		{
+			"objectId": "alphabet_x",
+			"name": "object_xylophone",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_xylophone.png",
+			"w": 513.498,
+			"h": 125.874,
+			"audioSrc1": "alphabet_x",
+			"audioSrc2": "alphabet_phonic_x",
+			"audioSrc3": "alphabet_object_xylophone"
+		},
+		{
+			"objectId": "alphabet_y",
+			"name": "object_yak",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_yak.png",
+			"w": 157.967,
+			"h": 128.374,
+			"audioSrc1": "alphabet_y",
+			"audioSrc2": "alphabet_phonic_y",
+			"audioSrc3": "alphabet_object_yak"
+		},
+		{
+			"objectId": "alphabet_z",
+			"name": "object_zebra",
+			"imageUri": "common/alphabets/alphabet_object_set12/alphabet_object_set12_zebra.png",
+			"w": 187.143,
+			"h": 154.633,
+			"audioSrc1": "alphabet_z",
+			"audioSrc2": "alphabet_phonic_z",
+			"audioSrc3": "alphabet_object_zebra"
+		}
+	]
+}

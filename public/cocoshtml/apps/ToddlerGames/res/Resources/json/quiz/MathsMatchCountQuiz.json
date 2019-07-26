@@ -1,0 +1,14 @@
+{
+    "id": "MathsGreaterLessQuiz",
+    "type": "MathsGreaterLessQuiz",
+    "bgMusic": "caption_drag_drop_object_equal",
+    "question": "caption_drag_drop_object_equal",
+    "complexity": "high",
+    "qsBgColor": "003366",
+    "sets": [
+    {
+      "name": "set_1",
+      "objectSrc": "realworld_set_candies_set0"
+    }
+    ] 
+}

@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_bubble_set0",
+    "type": "",
+    "suffix": "alphabet_bubble_set0_",
+    "objectList": [
+        {
+            "objectId": "alphabet_bubble_set0_a",
+            "name": "alphabet_a",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=a",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_b",
+            "name": "alphabet_b",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=b",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_c",
+            "name": "alphabet_c",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=c",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_d",
+            "name": "alphabet_d",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=d",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_e",
+            "name": "alphabet_e",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=e",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_f",
+            "name": "alphabet_f",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=f",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_g",
+            "name": "alphabet_g",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=g",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_h",
+            "name": "alphabet_h",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=h",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_i",
+            "name": "alphabet_i",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=i",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_j",
+            "name": "alphabet_j",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=j",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_k",
+            "name": "alphabet_k",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=k",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_l",
+            "name": "alphabet_l",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=l",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_m",
+            "name": "alphabet_m",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=m",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_n",
+            "name": "alphabet_n",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=n",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_o",
+            "name": "alphabet_o",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=o",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_p",
+            "name": "alphabet_p",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=p",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_q",
+            "name": "alphabet_q",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=q",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_r",
+            "name": "alphabet_r",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=r",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_s",
+            "name": "alphabet_s",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=s",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_t",
+            "name": "alphabet_t",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=t",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_u",
+            "name": "alphabet_u",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=u",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_v",
+            "name": "alphabet_v",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=v",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_w",
+            "name": "alphabet_w",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=w",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_x",
+            "name": "alphabet_x",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=x",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_y",
+            "name": "alphabet_y",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=y",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_bubble_set0_z",
+            "name": "alphabet_z",
+            "imageUri": "potsprite://bubble_alphabet/?alphabet=z",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

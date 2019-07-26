@@ -1,0 +1,142 @@
+{
+    "name": "animal_set5_x_large",
+    "type": "animal",
+    "suffix": "animal_set5_x_large_",
+    "objectList": [
+        {
+			"objectId": "animal_set5_x_large_ant",
+			"name": "name_ant",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_ant.png",
+			"w": 132.959,
+			"h": 110.035,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_bear",
+			"name": "name_bear",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_bear.png",
+			"w": 133.376,
+			"h": 131.709,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_bug",
+			"name": "name_bug",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_bug.png",
+			"w": 115.454,
+			"h": 132.126,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_cat",
+			"name": "name_cat",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_cat.png",
+			"w": 91.279,
+			"h": 127.124,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_cow",
+			"name": "name_cow",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_cow.png",
+			"w": 132.542,
+			"h": 74.607,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_crab",
+			"name": "name_crab",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_crab.png",
+			"w": 133.376,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_dog",
+			"name": "name_dog",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_dog.png",
+			"w": 117.538,
+			"h": 133.793,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_duck",
+			"name": "name_duck",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_duck.png",
+			"w": 132.959,
+			"h": 92.946,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_fish",
+			"name": "name_fish",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_fish.png",
+			"w": 132.959,
+			"h": 71.273,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_frog",
+			"name": "name_frog",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_frog.png",
+			"w": 133.376,
+			"h": 128.374,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_goat",
+			"name": "name_goat",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_goat.png",
+			"w": 133.376,
+			"h": 128.374,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_hen",
+			"name": "name_hen",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_hen.png",
+			"w": 119.622,
+			"h": 132.126,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_lion",
+			"name": "name_lion",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_lion.png",
+			"w": 133.376,
+			"h": 113.37,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_pig",
+			"name": "name_pig",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_pig.png",
+			"w": 133.793,
+			"h": 110.869,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set5_x_large_rat",
+			"name": "name_rat",
+			"imageUri": "common/animals/animal_set5/animal_set5_x_large/animal_set5_x_large_rat.png",
+			"w": 132.542,
+			"h": 110.869,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set12",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set12_",
+    "objectList": [
+		{
+			"objectId": "life_cycle_set12_ladybug_1",
+			"name": "word_egg",
+			"imageUri": "common/life_cycle/life_cycle_set6/ladybug_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_egg"
+		},
+		{
+			"objectId": "life_cycle_set12_ladybug_2",
+			"name": "word_larva",
+			"imageUri": "common/life_cycle/life_cycle_set6/ladybug_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_larva"
+		},
+		{
+			"objectId": "life_cycle_set12_ladybug_4",
+			"name": "word_ladybug",
+			"imageUri": "common/life_cycle/life_cycle_set6/ladybug_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_ladybug"
+		},
+		{
+			"objectId": "life_cycle_set12_ladybug_3",
+			"name": "word_pupa",
+			"imageUri": "common/life_cycle/life_cycle_set6/ladybug_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_pupa"
+		}
+    ]
+}

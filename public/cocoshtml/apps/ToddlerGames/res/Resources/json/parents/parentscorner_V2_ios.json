@@ -1,0 +1,230 @@
+{
+    "title": "parentszone_parentscorner",
+    "companyName": "Greysprings",
+    "website": "http://www.greysprings.com",
+    "privacyUrl": "http://www.greysprings.com/privacy",
+    "designers": "pthakur@greysprings.com, maharaj@greysprings.com, kangkan@greysprings.com",
+	"contact": "http://www.greysprings.com/contact",
+    "sections": [
+        {
+            "id": "main_tabs",
+            "title" : "main_tabs",
+            "list": [
+                {
+                    "id": "child_progress",
+                    "title": "caption_child_progress",
+                    "imgSrc": "common/chrome/parents_section/parents_tab_progress_border.png",
+                    "customKey1": "common/chrome/parents_section/parents_tab_progress.png"
+                }, 
+                {
+                    "id": "moreapps",
+                    "title": "word_moreapps",
+                    "imgSrc": "common/chrome/parents_section/parents_tab_moreapp_border.png",
+                    "customKey1": "common/chrome/parents_section/parents_tab_moreapp.png"
+                }				
+            ]
+        },
+        {
+            "id": "external_links",
+            "title" : "external_links",
+            "list": [{
+					"id": "rateus",
+					"title": "word_rateus",
+					"imgSrc": "common/chrome/parents_section/parents_button_rate.png",
+					"target": "appprotocol://parents_rateus"
+				}
+            ]
+        },
+        {
+            "id": "right_trail_items",
+            "title" : "right_trail_items",
+            "list": [
+                {
+                    "id": "restore_purchases",
+                    "title": "restore_purchases",
+                    "imgSrc": "common/chrome/parents_section/parents_button_addsfree.png",
+                    "target": "appprotocol://restore_purchases"
+                }, 
+                {
+                    "id": "gopremium",
+                    "title": "gopremium",
+                    "imgSrc": "common/chrome/parents_section/parents_button_addsfree.png",
+                    "target": "appprotocol://parentsgopremium"
+                }, 
+                {
+                    "id": "sound",
+                    "title": "word_sound"
+                },
+                {
+                    "id": "music",
+                    "title": "word_music"
+                }
+            ]
+        },
+        {
+            "id": "moreapps",
+            "title" : "section_moreapps",
+            "list": [{
+					"id": "PreschoolGames",
+					"title": "apptitle_gskids_PreschoolGames",
+					"title_part1" : "apptitle_part1_PreschoolGames",
+					"title_part2" : "apptitle_part2_PreschoolGames",
+					"imgSrc": "common/chrome/parents_section/icon_preschool_games.png",
+					"target": "itms-apps://itunes.apple.com/app/id726944785?mt=8",
+					"desc": "appdesc_PreschoolGames"
+				}, {
+					"id": "PreschoolBasics",
+					"title": "apptitle_gskids_PreschoolBasics",
+					"title_part1" : "apptitle_part1_PreschoolBasics",
+					"title_part2" : "apptitle_part2_PreschoolBasics",					
+					"imgSrc": "common/chrome/parents_section/icon_preschool_basics.png",
+					"target": "itms-apps://itunes.apple.com/app/id817306903?mt=8",
+					"desc": "appdesc_PreschoolBasics"
+				},{
+					"id": "TracingApp",
+					"title": "apptitle_TracingApp",
+					"title_part1" : "apptitle_part1_TracingApp",
+					"title_part2" : "apptitle_part2_TracingApp",						
+					"imgSrc": "common/chrome/parents_section/icon_tracing_games.png",
+					"target": "itms-apps://itunes.apple.com/app/id1330689476?mt=8",
+					"desc": "appdesc_TracingApp"
+				}, {
+					"id": "PreschoolNumbers",
+					"title": "apptitle_gskids_PreschoolNumbers",
+					"title_part1" : "apptitle_part1_PreschoolNumbers",
+					"title_part2" : "apptitle_part2_PreschoolNumbers",						
+					"imgSrc": "common/chrome/parents_section/icon_preshool_numbers.png",
+					"target": "itms-apps://itunes.apple.com/app/id892282101?mt=8",
+					"desc": "appdesc_PreschoolNumbers"
+				}, {
+					"id": "PreschoolLetters",
+					"title": "apptitle_gskids_PreschoolLetters",
+					"title_part1" : "apptitle_part1_PreschoolLetters",
+					"title_part2" : "apptitle_part2_PreschoolLetters",						
+					"imgSrc": "common/chrome/parents_section/icon_preschool_letters.png",
+					"target": "itms-apps://itunes.apple.com/app/id919899621?mt=8",
+					"desc": "appdesc_PreschoolLetters"
+				}, {
+					"id": "ShapesAndColors",
+					"title": "apptitle_gskids_ShapesAndColors",
+					"title_part1" : "apptitle_part1_ShapesAndColors",
+					"title_part2" : "apptitle_part2_ShapesAndColors",				
+					"imgSrc": "common/chrome/parents_section/icon_shapes_colors.png",
+					"target": "market://details?id=com.greysprings.shapesandcolors",
+					"desc": "appdesc_ShapesAndColors"
+				}, {
+					"id": "ToddlerGames",
+					"title": "apptitle_gskids_ToddlerGames",
+					"title_part1" : "apptitle_part1_ToddlerGames",
+					"title_part2" : "apptitle_part2_ToddlerGames",						
+					"imgSrc": "common/chrome/parents_section/icon_toddler_games.png",
+					"target": "itms-apps://itunes.apple.com/app/id897800852?mt=8",
+					"desc": "appdesc_ToddlerGames"
+				}, {
+					"id": "JigsawGames",
+					"title": "apptitle_gskids_JigsawGames",
+					"title_part1" : "apptitle_part1_JigsawGames",
+					"title_part2" : "apptitle_part2_JigsawGames",						
+					"imgSrc": "common/chrome/parents_section/icon_pirate_jigsaw.png",
+					"target": "itms-apps://itunes.apple.com/app/id999758651?mt=8",
+					"desc": "appdesc_JigsawGames"
+				},{
+					"id": "MathGames",
+					"title": "apptitle_MathGames",
+					"title_part1" : "apptitle_part1_MathGames",
+					"title_part2" : "apptitle_part2_MathGames",						
+					"imgSrc": "common/chrome/parents_section/icon_math_games.png",
+					"target": "itms-apps://itunes.apple.com/app/id975978247?mt=8",
+					"desc": "appdesc_MathGames"
+				}
+			]
+        },
+        {
+            "id": "social",
+            "title" : "section_followus",
+            "list": [{
+					"id": "facebook",
+					"title": "word_facebook",
+					"imgSrc": "common/chrome/parents_section/parents_button_facebook.png",
+					"target": "https://www.facebook.com/greysprings"
+				}, {
+					"id": "googleplus",
+					"title": "word_googleplus",
+					"imgSrc": "common/chrome/parents_section/parents_button_google.png",
+					"target": "https://plus.google.com/111631486877697048983/"
+				}, {
+					"id": "twitter",
+					"title": "word_twitter",
+					"imgSrc": "common/chrome/parents_section/parents_button_twitter.png",
+					"target": "https://twitter.com/Greysprings"
+				}, {
+					"id": "youtube",
+					"title": "word_youtube",
+					"imgSrc": "common/chrome/parents_section/parents_button_youtube.png",
+					"target": "https://www.youtube.com/channel/UCSWsOyjT6cOLgizVizviMjQ"
+				}, {
+					"id": "fbshare",
+					"title": "word_fbshare",
+					"imgSrc": "common/chrome/parents_section/parents_button_facebook_share.png",
+					"target": "appprotocol://homepage_facebook_share"
+				}, {
+					"id": "privacy",
+					"title": "word_privacy",
+					"imgSrc": "common/chrome/parents_section/parents_button_privacy.png",
+					"target": "http://www.greysprings.com/privacy"
+				}, {
+					"id": "websitelink",
+					"title": "www.greysprings.com",
+					"imgSrc": "",
+					"target": "http://www.greysprings.com/"
+				}
+			]
+        }
+    ],
+	"excludedQuizes": [
+		"tiletitle_PreschoolGames_NumberCountQuiz",
+		"tiletitle_PreschoolGames_ScratchPad",
+		"tiletitle_PreschoolGames_ColorTheObjects",
+		"tiletitle_PreschoolGames_TrickyMaze",
+		"tiletitle_PreschoolGames_LearnToWrite",
+		"tiletitle_PreschoolGames_LearnToWriteV2",
+		"tiletitle_PreschoolGames_LearnToWriteV4",
+		"tiletitle_PreschoolGames_LearnToWriteV6",
+		"tiletitle_PreschoolGames_ScratchToRevealQuiz",
+		"tiletitle_PreschoolGames_MemoryGame",
+		"tiletitle_PreschoolGames_MusicInstrumentV2Quiz",
+		
+		"tiletitle_ShapesAndColors_ColorTheObjectsQuizV2",
+		"tiletitle_ShapesAndColors_ScratchToRevealQuiz",
+		"tiletitle_ShapesAndColors_ConnectTheDots",
+		"tiletitle_ShapesAndColors_LearnToWriteV2",
+		
+		"tiletitle_PreschoolLetters_ConnectTheDots",
+		"tiletitle_PreschoolLetters_SequenceCrawlQuiz",
+		"tiletitle_PreschoolLetters_TrickyMaze",
+		"tiletitle_PreschoolLetters_MatchTheShadowActivity",
+
+		"tiletitle_PreschoolNumbers_ScratchToRevealQuiz",
+		"tiletitle_PreschoolNumbers_ConnectTheDots",
+		
+		"tiletitle_ToddlerGames_LearnToWriteV3",
+		"tiletitle_ToddlerGames_LearnToWriteV5",
+		"tiletitle_ToddlerGames_ScratchToRevealQuiz",
+		"tiletitle_ToddlerGames_ColorTheObjectsQuizV3",
+		"tiletitle_ToddlerGames_ColorFunQuiz",
+		"tiletitle_ToddlerGames_BalloonPopUnlimitedQuiz",
+		"tiletitle_ToddlerGames_MusicInstrumentQuiz",
+		"tiletitle_ToddlerGames_BalloonPopUnlimitedQuizV2",
+		"tiletitle_ToddlerGames_BalloonPopUnlimitedQuizV3",
+		"tiletitle_ToddlerGames_RainingFruitsQuiz",		
+		"tiletitle_ToddlerGames_ChristmasTreeDecorationQuiz",
+		"tiletitle_ToddlerGames_HalloweenQuiz",
+		
+		"tiletitle_ScienceGames_ScratchToRevealQuiz",
+		
+		"tiletitle_TracingApp_LearnToWrite",
+		"tiletitle_TracingApp_LearnToWriteV2",
+		"tiletitle_TracingApp_LearnToWriteV3",
+		"tiletitle_TracingApp_LearnToWriteV4"
+	]
+}

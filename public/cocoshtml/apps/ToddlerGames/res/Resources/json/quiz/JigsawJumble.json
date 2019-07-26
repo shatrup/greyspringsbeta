@@ -1,0 +1,107 @@
+{
+    "id": "JigsawJumble",
+    "type": "JigsawJumble",
+    "complexity": "medium",
+	"bgImg" : "common/backgrounds/background_fullbleed/background_scenery.png",
+    "bgMusic" : "caption_put_pieces_back",
+	"question" : "caption_put_pieces_back",
+    "sets": [
+        {
+		  "id": "set0",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_anteater"],
+		  "qsBgColor": "60728E"
+		},
+		{
+		  "id": "set1",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_bull"],
+		  "qsBgColor": "554338"
+		},
+		{
+		  "id": "set2",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_cow"],
+		  "qsBgColor": "648339"
+		},
+		{
+		  "id": "set3",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_dog"],
+		  "qsBgColor": "938C99"
+		},
+		{
+		  "id": "set4",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_dog1"],
+		  "qsBgColor": "C8581A"
+		},
+		{
+		  "id": "set5",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_elephant"],
+		  "qsBgColor": "C39E4E"
+		},
+		{
+		  "id": "set7",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_mouse"],
+		  "qsBgColor": "AE9B85"
+		},
+		{
+		  "id": "set8",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_octopus"],
+		  "qsBgColor": "A4509F"
+		},
+		{
+		  "id": "set9",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_panda"],
+		  "qsBgColor": "483C36"
+		},
+		{
+		  "id": "set10",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_pig"],
+		  "qsBgColor": "8A8A8A"
+		},
+		{
+		  "id": "set11",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_rhyno"],
+		  "qsBgColor": "9D6F29"
+		},
+		{
+		  "id": "set12",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_seal"],
+		  "qsBgColor": "647C8F"
+		},
+		{
+		  "id": "set13",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_sheep"],
+		  "qsBgColor": "648339"
+		},
+		{
+		  "id": "set14",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_snake"],
+		  "qsBgColor": "72692E"
+		},
+		{
+		  "id": "set15",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_turtle"],
+		  "qsBgColor": "87603D"
+		},
+		{
+		  "id": "set16",
+		  "objectSrc": "realworld_set_playground_arrangements",
+		  "includeObjectIds": ["playground_arrangements_yak"],
+		  "qsBgColor": "865B36"
+		}
+		
+    ]
+}

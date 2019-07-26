@@ -1,0 +1,61 @@
+{
+    "name": "vehicle_set1_truck",
+    "type": "",
+    "suffix": "vehicle_set1_truck_",
+    "objectList": [
+        {
+            "objectId": "vehicle_set1_truck_1",
+            "name": "",
+            "imageUri": "common/vehicles/vehicle_set1_truck/vehicle_set1_truck_1.png",
+            "w": 81.69,
+            "h": 61.69,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set1_truck_2",
+            "name": "",
+            "imageUri": "common/vehicles/vehicle_set1_truck/vehicle_set1_truck_2.png",
+            "w": 81.28,
+            "h": 47.93,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set1_truck_3",
+            "name": "",
+            "imageUri": "common/vehicles/vehicle_set1_truck/vehicle_set1_truck_3.png",
+            "w": 81.69,
+            "h": 53.77,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set1_truck_4",
+            "name": "",
+            "imageUri": "common/vehicles/vehicle_set1_truck/vehicle_set1_truck_4.png",
+            "w": 81.69,
+            "h": 50.02,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set1_truck_5",
+            "name": "",
+            "imageUri": "common/vehicles/vehicle_set1_truck/vehicle_set1_truck_5.png",
+            "w": 80.86,
+            "h": 59.6,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set1_truck_6",
+            "name": "",
+            "imageUri": "common/vehicles/vehicle_set1_truck/vehicle_set1_truck_6.png",
+            "w": 81.69,
+            "h": 42.93,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

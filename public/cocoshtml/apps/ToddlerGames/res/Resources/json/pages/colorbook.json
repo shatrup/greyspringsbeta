@@ -1,0 +1,46 @@
+{
+	"id": "colorbook",
+    "title": "colorbook",
+    "panel": {
+        "clusters": [
+			{
+			    "name": "mypaintingsCluster",
+                "title": "My Paintings",
+                "type": "MyPaintingsClusterControl",
+                 "requestUri": "/data/pageJson/colorHolderCluster.json"
+            },
+			{
+				"name": "birdsCluster",
+                "title": "birdsCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/birdsCluster.json"
+			},
+
+			{
+				"name": "animalsCluster",
+                "title": "animalsCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/animalsCluster.json"
+			},
+			{
+				"name": "seaCreaturesCluster",
+                "title": "seaCreaturesCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/seaCreaturesCluster.json"
+			},
+			{
+				"name": "storiesCluster",
+                "title": "storiesCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/storiesCluster.json"
+			},
+			{
+				"name": "miscellaneousCluster",
+                "title": "miscellaneousCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/miscellaneousCluster.json"
+			}
+			
+        ]
+    }
+}

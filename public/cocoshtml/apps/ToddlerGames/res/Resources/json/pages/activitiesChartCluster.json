@@ -1,0 +1,123 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Vegetable Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_ActivitiesChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/bath.png",
+						"text": "Bath",
+						"clicktarget" : "ms-audio://data/activities/audio/bath.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/cycling.png",
+						"text": "Cycling",
+						"clicktarget" : "ms-audio://data/activities/audio/cycling.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/eating.png",
+						"text": "Eating",
+						"clicktarget" : "ms-audio://data/activities/audio/eating.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/exercise.png",
+						"text": "Exercise",
+						"clicktarget" : "ms-audio://data/activities/audio/exercise.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/gardening.png",
+						"text": "gardening",
+						"clicktarget" : "ms-audio://data/activities/audio/gardening.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/jogging.png",
+						"text": "Jogging",
+						"clicktarget" : "ms-audio://data/activities/audio/jogging.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/rope_jumping.png",
+						"text": "Rope Jumping",
+						"clicktarget" : "ms-audio://data/activities/audio/rope_jumping.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/skating.png",
+						"text": "Skating",
+						"clicktarget" : "ms-audio://data/activities/audio/skating.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/sleeping.png",
+						"text": "Sleeping",
+						"clicktarget" : "ms-audio://data/activities/audio/sleeping.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/study.png",
+						"text": "Study",
+						"clicktarget" : "ms-audio://data/activities/audio/study.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/swimming.png",
+						"text": "Swimming",
+						"clicktarget" : "ms-audio://data/activities/audio/swimming.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/activities/images/tooth_brush.png",
+						"text": "Teeth Brushing",
+						"clicktarget" : "ms-audio://data/activities/audio/teeth_brushing.mp3"
+					}
+				},
+				{
+                    "type": "adTile728x90",
+                    "data": {
+                        "name": "KG8_728x90_ActivitiesChartsCluster"
+                    }
+                }
+			]
+		}
+	]
+}

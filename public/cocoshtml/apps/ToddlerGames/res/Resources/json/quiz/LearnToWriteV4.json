@@ -1,0 +1,60 @@
+{
+    "id": "LearnToWriteV4",
+    "type": "LearnToWriteV4",
+    "complexity": "medium",
+	"bgImg" : "common/backgrounds/background_fullbleed/cursive_letters_background.png",
+    "bgMusic" : "caption_trace_dots_{0}",
+	"qsBgColor": "865B36",
+	"question" : "caption_trace_dots_format",
+	"isFullBleed": true,
+    "sets": [
+		{
+		  "id": "cursive_alphabets",
+		  "objectSrc": "realworld_set_alphabet_set23"
+		}
+    ],
+    "colorSets": [
+        {
+            "colorCode": 0,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 9,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 4,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 11,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 13,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 8,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        }
+    ]
+}

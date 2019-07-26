@@ -1,0 +1,22 @@
+{
+    "directory": "playground/tall_short",
+    "titleBGColor": "003366",
+    "sets": [
+        {
+            "tall": "object_1_tall.png",
+	    "short": "object_1_short.png"
+        },
+        {
+            "tall": "object_2_tall.png",
+	    "short": "object_2_short.png"
+        },
+        {
+            "tall": "object_3_tall.png",
+	    "short": "object_3_short.png"
+        },
+        {
+            "tall": "object_4_tall.png",
+	    "short": "object_4_short.png"
+        }
+    ]
+}

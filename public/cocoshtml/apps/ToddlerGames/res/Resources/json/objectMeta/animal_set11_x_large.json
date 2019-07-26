@@ -1,0 +1,124 @@
+{
+	"name": "animal_set11_x_large",
+	"type": "animal",
+	"suffix": "animal_set11_x_large_",
+	"objectList": [
+		{
+			"objectId": "animal_set11_x_large_bear",
+			"name": "_bear",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_bear.png",
+			"w": 137.127,
+			"h": 117.121,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_cow",
+			"name": "_cow",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_cow.png",
+			"w": 157.967,
+			"h": 89.195,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_dog",
+			"name": "_dog",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_dog.png",
+			"w": 104.2,
+			"h": 113.37,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_elephant",
+			"name": "_elephant",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_elephant.png",
+			"w": 146.714,
+			"h": 112.953,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_frog",
+			"name": "_frog",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_frog.png",
+			"w": 112.953,
+			"h": 108.785,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_giraffe",
+			"name": "_giraffe",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_giraffe.png",
+			"w": 106.284,
+			"h": 120.872,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_goat",
+			"name": "_goat",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_goat.png",
+			"w": 125.457,
+			"h": 121.289,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_hen",
+			"name": "_hen",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_hen.png",
+			"w": 104.2,
+			"h": 113.37,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_lion",
+			"name": "_lion",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_lion.png",
+			"w": 137.127,
+			"h": 117.121,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_pig",
+			"name": "_pig",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_pig.png",
+			"w": 135.043,
+			"h": 112.536,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_rabbit",
+			"name": "_rabbit",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_rabbit.png",
+			"w": 137.127,
+			"h": 105.45,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_rat",
+			"name": "_rat",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_rat.png",
+			"w": 126.29,
+			"h": 107.118,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_x_large_sheep",
+			"name": "_sheep",
+			"imageUri": "common/animals/animal_set11/animal_set11_x_large/animal_set11_x_large_sheep.png",
+			"w": 135.46,
+			"h": 117.121,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

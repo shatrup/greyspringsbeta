@@ -1,0 +1,18 @@
+{
+    "id": "ComparisonQuiz",
+    "type": "ComparisonQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+    "bgImg" : "common/scenes/scene137/rws137_background_fullbleed.png",
+    "bgMusic": "caption_touch_the_group_with_{0}_number_of_fishes",
+    "question": "caption_touch_the_group_with_{0}_number_of_fishes",
+    "isFullBleed": true,
+    "sets": [
+    {
+      "id": "set_1",
+      "type": "fish_animation",
+      "objectSrc": "realworld_set_animation_set4",
+      "includeObjectIds": ["animation_set4_rws137_fish_1"]
+    }
+  ] 
+}

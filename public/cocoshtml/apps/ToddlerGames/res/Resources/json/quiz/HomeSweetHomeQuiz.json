@@ -1,0 +1,19 @@
+{
+	"id": "HomeSweetHomeQuiz",
+	"type": "HomeSweetHomeQuiz",
+	"bgMusic": "caption_help_animal_find_home",
+	"question": "caption_help_animal_find_home",
+	"bgImg": "common/backgrounds/background_fullbleed/background_habitat.png",
+	"complexity": "low",
+	"qsBgColor": "60C0CC",
+	"isFullBleed":true,
+   "sets": [
+	{
+	  "id": "animal_set",
+      "type": "animal_set",
+      "customKey1": "animal_set6_large",
+	  "customKey2": "habitat_set1_x_large",
+	  "customKey3": "habitat_set2_x_large"
+    }
+    ] 
+}

@@ -1,0 +1,97 @@
+{
+	"name": "animation_set10",
+	"type": "animation",
+	"suffix": "animation_set10_",
+	"objectList": [
+        {
+            "objectId": "frame_pom_1",
+            "name": "animation_1",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_1.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_2",
+            "name": "animation_2",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_2.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_3",
+            "name": "animation_3",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_3.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_4",
+            "name": "animation_4",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_4.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_5",
+            "name": "animation_5",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_5.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_6",
+            "name": "animation_6",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_6.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_7",
+            "name": "animation_7",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_7.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_8",
+            "name": "animation_8",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_8.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_8",
+            "name": "animation_8",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_8.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "frame_pom_8",
+            "name": "animation_8",
+            "imageUri": "kindergarten8/number_chart/animation_pomegranate/frame_pom_8.png",
+            "w": 162.969,
+            "h": 162.969,
+            "shape": "",
+            "color": ""
+        }
+	]
+}

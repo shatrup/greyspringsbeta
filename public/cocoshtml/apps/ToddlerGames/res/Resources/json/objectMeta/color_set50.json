@@ -1,0 +1,87 @@
+{
+    "name": "color_set50",
+    "type": "color",
+    "suffix": "color_set50_",
+    "objectList": [
+        {
+            "objectId": "color_set50_black",
+            "name": "color_black",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=black",
+            "w": 5,
+            "h": 5,
+            "color": "color_black",
+            "shape": "",
+            "color": "color_black"
+        },
+        {
+            "objectId": "color_set50_blue",
+            "name": "color_blue",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=blue",
+            "w": 5,
+            "h": 5,
+            "color": "color_blue",
+            "shape": "",
+            "color": "color_blue"
+        },
+        {
+            "objectId": "color_set50_brown",
+            "name": "color_brown",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=brown",
+            "w": 5,
+            "h": 5,
+            "color": "color_brown",
+            "shape": "",
+            "color": "color_brown"
+        },
+        {
+            "objectId": "color_set50_green",
+            "name": "color_green",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=green",
+            "w": 5,
+            "h": 5,
+            "color": "color_green",
+            "shape": "",
+            "color": "color_green"
+        },
+        {
+            "objectId": "color_set50_yellow",
+            "name": "color_yellow",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=yellow",
+            "w": 5,
+            "h": 5,
+            "color": "color_yellow",
+            "shape": "",
+            "color": "color_yellow"
+        },
+        {
+            "objectId": "color_set50_red",
+            "name": "color_red",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=red",
+            "w": 5,
+            "h": 5,
+            "color": "color_red",
+            "shape": "",
+            "color": "color_red"
+        },
+        {
+            "objectId": "color_set50_orange",
+            "name": "color_orange",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=orange",
+            "w": 5,
+            "h": 5,
+            "color": "color_orange",
+            "shape": "",
+            "color": "color_orange"
+        },
+        {
+            "objectId": "color_set50_pink",
+            "name": "color_pink",
+            "imageUri": "potsprite://colorsprite/?id=quizchrome_set1_caterpillar_body&color=pink",
+            "w": 5,
+            "h": 5,
+            "color": "color_pink",
+            "shape": "",
+            "color": "color_pink"
+        }
+    ]
+}

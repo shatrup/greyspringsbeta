@@ -1,0 +1,287 @@
+{
+    "name": "animated_vegetables_set1",
+    "type": "vegetables",
+    "suffix": "animated_vegetables_set1_",
+    "objectList": [
+        {
+            "objectId": "animated_vegetables_set1_mushroom",
+            "name": "animated_mushroom",
+            "imageUri": "common/vegetables/animated_vegetables_set1/mushroom.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_mushroom"
+        },
+        {
+            "objectId": "animated_vegetables_set1_peeper",
+            "name": "animated_peeper",
+            "imageUri": "common/vegetables/animated_vegetables_set1/peeper.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_redpepper"
+        },
+        {
+            "objectId": "animated_vegetables_set1_cauliflower",
+            "name": "animated_cauliflower",
+            "imageUri": "common/vegetables/animated_vegetables_set1/cauliflower.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_cauliflower"
+        },
+        {
+            "objectId": "animated_vegetables_set1_zucchini",
+            "name": "animated_zucchini",
+            "imageUri": "common/vegetables/animated_vegetables_set1/zucchini.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_zucchini"
+        },
+        {
+            "objectId": "animated_vegetables_set1_potato",
+            "name": "animated_potato",
+            "imageUri": "common/vegetables/animated_vegetables_set1/potato.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_potato"
+        },
+        {
+            "objectId": "animated_vegetables_set1_corn",
+            "name": "animated_corn",
+            "imageUri": "common/vegetables/animated_vegetables_set1/corn.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_corn"
+        },
+        {
+            "objectId": "animated_vegetables_set1_asparagus1",
+            "name": "animated_asparagus1",
+            "imageUri": "common/vegetables/animated_vegetables_set1/asparagus1.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_asparagus"
+        },
+        {
+            "objectId": "animated_vegetables_set1_carrot",
+            "name": "animated_carrot",
+            "imageUri": "common/vegetables/animated_vegetables_set1/carrot.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_carrot"
+        },
+        {
+            "objectId": "animated_vegetables_set1_artichoke",
+            "name": "animated_artichoke",
+            "imageUri": "common/vegetables/animated_vegetables_set1/artichoke.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_artichoke"
+        },
+        {
+            "objectId": "animated_vegetables_set1_ginger",
+            "name": "animated_ginger",
+            "imageUri": "common/vegetables/animated_vegetables_set1/ginger.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_ginger"
+        },
+        {
+            "objectId": "animated_vegetables_set1_mint",
+            "name": "animated_mint",
+            "imageUri": "common/vegetables/animated_vegetables_set1/mint.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_mint"
+        },
+        {
+            "objectId": "animated_vegetables_set1_onion",
+            "name": "animated_onion",
+            "imageUri": "common/vegetables/animated_vegetables_set1/onion.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_onion"
+        },
+        {
+            "objectId": "animated_vegetables_set1_sweet_potato",
+            "name": "animated_potato",
+            "imageUri": "common/vegetables/animated_vegetables_set1/sweet_potato.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_sweetpotato"
+        },
+        {
+            "objectId": "animated_vegetables_set1_red_chilli",
+            "name": "animated_chilli",
+            "imageUri": "common/vegetables/animated_vegetables_set1/red_chilli.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_redchili"
+        },
+        {
+            "objectId": "animated_vegetables_set1_olive",
+            "name": "animated_olive",
+            "imageUri": "common/vegetables/animated_vegetables_set1/olive.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_olive"
+        },
+        {
+            "objectId": "animated_vegetables_set1_garlic",
+            "name": "animated_garlic",
+            "imageUri": "common/vegetables/animated_vegetables_set1/garlic.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_garlic"
+        },
+        {
+            "objectId": "animated_vegetables_set1_bottle_gourd",
+            "name": "animated_gourd",
+            "imageUri": "common/vegetables/animated_vegetables_set1/bottle_gourd.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_bottlegourd"
+        },
+        {
+            "objectId": "animated_vegetables_set1_peas",
+            "name": "animated_peas",
+            "imageUri": "common/vegetables/animated_vegetables_set1/peas.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_greenpea"
+        },
+        {
+            "objectId": "animated_vegetables_set1_leek",
+            "name": "animated_leek",
+            "imageUri": "common/vegetables/animated_vegetables_set1/leek.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_leek"
+        },
+        {
+            "objectId": "animated_vegetables_set1_cucumber",
+            "name": "animated_cucumber",
+            "imageUri": "common/vegetables/animated_vegetables_set1/cucumber.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_cucumber"
+        },
+        {
+            "objectId": "animated_vegetables_set1_eggplant",
+            "name": "animated_eggplant",
+            "imageUri": "common/vegetables/animated_vegetables_set1/eggplant.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_eggplant"
+        },
+        {
+            "objectId": "animated_vegetables_set1_cabbage",
+            "name": "animated_cabbage",
+            "imageUri": "common/vegetables/animated_vegetables_set1/cabbage.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_cabbage"
+        },
+        {
+            "objectId": "animated_vegetables_set1_beetroot",
+            "name": "animated_beetroot",
+            "imageUri": "common/vegetables/animated_vegetables_set1/beetroot.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_beetroot"
+        },
+        {
+            "objectId": "animated_vegetables_set1_pumpkin",
+            "name": "animated_pumpkin",
+            "imageUri": "common/vegetables/animated_vegetables_set1/pumpkin.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_pumpkin"
+        },
+        {
+            "objectId": "animated_vegetables_set1_green_beans",
+            "name": "animated_beans",
+            "imageUri": "common/vegetables/animated_vegetables_set1/green_beans.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_greenbean"
+        },
+        {
+            "objectId": "animated_vegetables_set1_tomato1",
+            "name": "animated_tomato1",
+            "imageUri": "common/vegetables/animated_vegetables_set1/tomato1.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_tomato"
+        },
+        {
+            "objectId": "animated_vegetables_set1_turnip",
+            "name": "animated_turnip",
+            "imageUri": "common/vegetables/animated_vegetables_set1/turnip.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_turnip"
+        },
+        {
+            "objectId": "animated_vegetables_set1_broccoli",
+            "name": "animated_broccoli",
+            "imageUri": "common/vegetables/animated_vegetables_set1/broccoli.png",
+            "w": 237.159,
+            "h": 237.159,
+            "shape": "",
+            "color": "",
+            "audioId": "vegetable_broccoli"
+        }
+    ]
+}

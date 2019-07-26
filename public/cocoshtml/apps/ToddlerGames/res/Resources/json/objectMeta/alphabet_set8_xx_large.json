@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_set8_xx_large",
+    "type": "alphabet",
+    "suffix": "alphabet_set8_xx_large_",
+    "objectList": [
+        {
+            "objectId": "alphabet_set8_xx_large_a",
+            "name": "alphabet_a",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_a.png",
+            "w": 187.56,
+            "h": 257.582,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_b",
+            "name": "alphabet_b",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_b.png",
+            "w": 146.297,
+            "h": 250.497,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_c",
+            "name": "alphabet_c",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_c.png",
+            "w": 188.394,
+            "h": 263.418,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_d",
+            "name": "alphabet_d",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_d.png",
+            "w": 163.802,
+            "h": 256.332,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_e",
+            "name": "alphabet_e",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_e.png",
+            "w": 196.313,
+            "h": 260.083,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_f",
+            "name": "alphabet_f",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_f.png",
+            "w": 165.886,
+            "h": 256.332,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_g",
+            "name": "alphabet_g",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_g.png",
+            "w": 232.158,
+            "h": 254.248,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_h",
+            "name": "alphabet_h",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_h.png",
+            "w": 190.478,
+            "h": 258.833,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_i",
+            "name": "alphabet_i",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_i.png",
+            "w": 109.202,
+            "h": 264.668,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_j",
+            "name": "alphabet_j",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_j.png",
+            "w": 165.053,
+            "h": 256.749,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_k",
+            "name": "alphabet_k",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_k.png",
+            "w": 207.983,
+            "h": 259.666,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_l",
+            "name": "alphabet_l",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_l.png",
+            "w": 150.465,
+            "h": 262.584,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_m",
+            "name": "alphabet_m",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_m.png",
+            "w": 212.568,
+            "h": 241.744,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_n",
+            "name": "alphabet_n",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_n.png",
+            "w": 223.405,
+            "h": 255.082,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_o",
+            "name": "alphabet_o",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_o.png",
+            "w": 204.649,
+            "h": 260.083,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_p",
+            "name": "alphabet_p",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_p.png",
+            "w": 162.969,
+            "h": 256.749,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_q",
+            "name": "alphabet_q",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_q.png",
+            "w": 152.132,
+            "h": 258.416,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_r",
+            "name": "alphabet_r",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_r.png",
+            "w": 177.557,
+            "h": 253.414,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_s",
+            "name": "alphabet_s",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_s.png",
+            "w": 165.053,
+            "h": 260.917,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_t",
+            "name": "alphabet_t",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_t.png",
+            "w": 162.969,
+            "h": 259.666,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_u",
+            "name": "alphabet_u",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_u.png",
+            "w": 212.985,
+            "h": 258.833,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_v",
+            "name": "alphabet_v",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_v.png",
+            "w": 172.555,
+            "h": 257.582,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_w",
+            "name": "alphabet_w",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_w.png",
+            "w": 255.082,
+            "h": 242.161,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_x",
+            "name": "alphabet_x",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_x.png",
+            "w": 207.983,
+            "h": 260.5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_y",
+            "name": "alphabet_y",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_y.png",
+            "w": 198.814,
+            "h": 259.25,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "alphabet_set8_xx_large_z",
+            "name": "alphabet_z",
+            "imageUri": "common/alphabets/alphabet_set8/alphabet_set8_xx_large/alphabet_set8_xx_large_z.png",
+            "w": 183.809,
+            "h": 255.498,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

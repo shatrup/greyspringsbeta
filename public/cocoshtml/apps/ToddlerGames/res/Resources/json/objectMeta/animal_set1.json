@@ -1,0 +1,115 @@
+{
+    "name": "animal_set1",
+    "type": "animal",
+    "suffix": "animal_set1_",
+    "objectList": [
+        {
+            "objectId": "animal_set1_anteater",
+            "name": "animal_anteater",
+            "imageUri": "common/animals/animal_set1/animal_set1_anteater.png",
+            "w": 194.65,
+            "h": 134.21,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_dog",
+            "name": "animal_anteater",
+            "imageUri": "common/animals/animal_set1/animal_set1_dog.png",
+            "w": 180.47,
+            "h": 140.46,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_dog1",
+            "name": "animal_dog",
+            "imageUri": "common/animals/animal_set1/animal_set1_dog1.png",
+            "w": 176.31,
+            "h": 131.71,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_elephant",
+            "name": "animal_elephant",
+            "imageUri": "common/animals/animal_set1/animal_set1_elephant.png",
+            "w": 172.56,
+            "h": 130.88,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_mouse",
+            "name": "animal_mouse",
+            "imageUri": "common/animals/animal_set1/animal_set1_mouse.png",
+            "w": 184.23,
+            "h": 112.12,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_octopus",
+            "name": "animal_octopus",
+            "imageUri": "common/animals/animal_set1/animal_set1_octopus.png",
+            "w": 211.32,
+            "h": 141.71,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_panda",
+            "name": "animal_panda",
+            "imageUri": "common/animals/animal_set1/animal_set1_panda.png",
+            "w": 153.8,
+            "h": 134.21,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_rhyno",
+            "name": "animal_rhyno",
+            "imageUri": "common/animals/animal_set1/animal_set1_rhyno.png",
+            "w": 209.65,
+            "h": 118.79,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_seal",
+            "name": "animal_seal",
+            "imageUri": "common/animals/animal_set1/animal_set1_seal.png",
+            "w": 197.15,
+            "h": 125.04,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_snake",
+            "name": "animal_snake",
+            "imageUri": "common/animals/animal_set1/animal_set1_snake.png",
+            "w": 205.48,
+            "h": 126.71,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_turtle",
+            "name": "animal_turtle",
+            "imageUri": "common/animals/animal_set1/animal_set1_turtle.png",
+            "w": 204.23,
+            "h": 109.62,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set1_yak",
+            "name": "animal_yak",
+            "imageUri": "common/animals/animal_set1/animal_set1_yak.png",
+            "w": 196.73,
+            "h": 132.96,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

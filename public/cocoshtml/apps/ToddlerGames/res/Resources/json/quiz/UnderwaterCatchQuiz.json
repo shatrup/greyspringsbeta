@@ -1,0 +1,76 @@
+{
+    "id": "UnderwaterCatchQuiz",
+    "type": "UnderwaterCatchQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+    "sets": [
+    {
+      "id": "rws134",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_134",      
+      "bgMusic": "caption_catch_the_creatures",
+      "question": "caption_catch_the_creatures",      
+      "objectSrc": "realworld_set_fish_set1_x_large",
+      "customKey1": "color",
+      "customKey2": "rws134_girl",
+	  "customKey3": "fish",
+	  "isFullBleed":true
+    },	
+	{
+      "id": "rws177",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_177",      
+      "bgMusic": "caption_catch_the_creatures",
+      "question": "caption_catch_the_creatures",      
+      "objectSrc": "realworld_set_fish_set1_x_large",
+      "customKey1": "color",
+      "customKey2": "rws177_boy",
+	  "customKey3": "fish",
+	  "isFullBleed":true
+    },	
+    {
+      "id": "rws134",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_134",      
+      "bgMusic": "caption_catch_the_numbers_creatures",
+      "question": "caption_catch_the_numbers_creatures",      
+      "objectSrc": "realworld_set_number_set11_large",
+      "customKey1": "color",
+      "customKey2": "rws134_girl",
+	  "isFullBleed":true
+    },
+	{
+      "id": "rws177",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_177",      
+      "bgMusic": "caption_catch_the_numbers_creatures",
+      "question": "caption_catch_the_numbers_creatures",      
+      "objectSrc": "realworld_set_number_set11_large",
+      "customKey1": "color",
+      "customKey2": "rws177_boy",
+	  "isFullBleed":true
+    },
+	{
+      "id": "rws134",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_134",      
+      "bgMusic": "caption_catch_the_alphabets_creatures",
+      "question": "caption_catch_the_alphabets_creatures",      
+      "objectSrc": "realworld_set_alphabet_set9_large",
+      "customKey1": "color",
+      "customKey2": "rws134_girl",
+	  "isFullBleed":true
+    },
+	{
+      "id": "rws177",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_177",      
+      "bgMusic": "caption_catch_the_alphabets_creatures",
+      "question": "caption_catch_the_alphabets_creatures",      
+      "objectSrc": "realworld_set_alphabet_set9_large",
+      "customKey1": "color",
+      "customKey2": "rws177_boy",
+	  "isFullBleed":true
+    }
+  ] 
+}

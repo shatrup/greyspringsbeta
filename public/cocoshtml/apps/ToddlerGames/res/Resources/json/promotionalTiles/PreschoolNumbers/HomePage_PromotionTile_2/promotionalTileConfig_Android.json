@@ -1,0 +1,8 @@
+{
+	"tileType" : "PanoAppHomePagePromoTile",
+	"appId" : "WordGames",
+	"tileId" : "PromotionalTile_2", 
+	"version" :  "2.0",
+	"backgroundUri" : "common/promotional_promo/promo_tiles_v2/preschool_games.png",
+	"targetUri" : "https://play.google.com/store/apps/details?id=com.greysprings.games&referrer=utm_source%3Dwordgames_homepage_crosspromotion%26utm_medium%3Dtileclick%26utm_campaign%3Dinternal_android_crosspromotion"
+	}

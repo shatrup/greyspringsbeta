@@ -1,0 +1,67 @@
+{
+    "id": "ConnectingDotsQuiz",
+    "type": "ConnectingDotsQuiz",
+    "bgMusic": "caption_connect_dots_sequence",
+    "question": "caption_connect_dots_sequence",
+    "complexity": "medium",
+    "qsBgColor": "306772",
+    "isFullBleed": true,
+    "sets": [
+        {
+          "id": "set_1",
+          "type": "animal",
+          "objectSrc": "realworld_set_animal_set13",
+          "customKey1":"NumberAndAlphabet",
+          "customKey2": "moveAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/background_c2d_animals.png"
+        },
+        {
+          "id": "set_2",
+          "type": "vehicle",
+          "objectSrc": "realworld_set_vehicle_set4",
+          "customKey1":"NumberAndAlphabet",
+          "customKey2": "moveAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/background_c2d_vehicles.png"
+        },
+        {
+          "id": "set_3",
+          "type": "fruit",
+          "objectSrc": "realworld_set_fruit_set35",
+          "customKey1":"NumberAndAlphabet",
+          "customKey2": "scaleAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/background_c2d_fruits.png"
+        },
+        {
+          "id": "set_4",
+          "type": "shapes",
+          "objectSrc": "realworld_set_shape_animated_set1",
+          "customKey1":"NumberAndAlphabet",
+          "customKey2": "frameAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/background_bricks_1.png"
+        },
+        {
+          "id": "set_5",
+          "type": "professions",
+          "objectSrc": "realworld_set_professions_animated_set1",
+          "customKey1":"NumberAndAlphabet",
+          "customKey2": "frameAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/background_bricks_1.png"
+        },
+        {
+          "id": "set_6",
+          "type": "vegetables",
+          "objectSrc": "realworld_set_animated_vegetables_set1",
+          "customKey1":"NumberAndAlphabet",
+          "customKey2": "scaleAnimation",
+          "bgImg": "common/backgrounds/background_fullbleed/Cookies_fun_background_3.png"
+        },
+        {
+          "id": "set_6",
+          "type": "christmas",
+          "objectSrc": "realworld_set_christmas_items_set1",
+          "customKey1":"NumberAndAlphabet",
+          "customKey2": "scaleAnimation",
+          "bgImg": "common/backgrounds/background_fullbleed/background_winter_2.png"
+        }
+    ] 
+}

@@ -1,0 +1,142 @@
+{
+    "name": "fruit_set3_large",
+    "type": "",
+    "suffix": "fruit_set3_large_",
+    "objectList": [
+        {
+            "objectId": "fruit_set3_large_apple_1",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_apple_1.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_apple_2",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_apple_2.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_blueberry",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_blueberry.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_cherry",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_cherry.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_grape",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_grape.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_grapefruit",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_grapefruit.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_lemon",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_lemon.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_lime",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_lime.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_orange",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_orange.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_pear_1",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_pear_1.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_pear_2",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_pear_2.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_plum",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_plum.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_pomegranate",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_pomegranate.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_raspberry",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_raspberry.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "fruit_set3_large_strawberry",
+            "name": "",
+            "imageUri": "common/fruits/fruit_set3/fruit_set3_large/fruit_set3_large_strawberry.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

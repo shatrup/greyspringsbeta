@@ -1,0 +1,153 @@
+{
+	"id" :  "PreschoolBasicsHomeAlphabetCluster",
+	"hasHeroTile" : false,
+	"heroImgUri" : "kindergarten8/colors.png",
+	"heroTargetUri" : "appprotocol://scene/?id=PanoramaApp.VerticalChartPage",
+	"type": "vegetables",
+	"tileList": [
+	{
+		"title" :  "CARROT",
+		"imgUri" : "kindergarten8/vegetables/animations/carrot.png",
+		"tileAudioId" : "vegetable_carrot",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "CAULIFLOWER",
+		"imgUri" : "kindergarten8/vegetables/animations/cauliflower.png",
+		"tileAudioId" : "vegetable_cauliflower",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "GARLIC",
+		"imgUri" : "kindergarten8/vegetables/animations/garlic.png",
+		"tileAudioId" : "vegetable_garlic",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "GINGER",
+		"imgUri" : "kindergarten8/vegetables/animations/ginger.png",
+		"tileAudioId" : "vegetable_ginger",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "GREEN BEANS",
+		"imgUri" : "kindergarten8/vegetables/animations/green_beans.png",
+		"tileAudioId" : "vegetable_greenbeans",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "MINT",
+		"imgUri" : "kindergarten8/vegetables/animations/mint.png",
+		"tileAudioId" : "vegetable_mint",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "MUSHROOM",
+		"imgUri" : "kindergarten8/vegetables/animations/mushroom.png",
+		"tileAudioId" : "vegetable_mushroom",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "ONION",
+		"imgUri" : "kindergarten8/vegetables/animations/onion.png",
+		"tileAudioId" : "vegetable_onion",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "TOMATO",
+		"imgUri" : "kindergarten8/vegetables/animations/tomato1.png",
+		"tileAudioId" : "vegetable_tomato",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "BOTTLE GOURD",
+		"imgUri" : "kindergarten8/vegetables/animations/bottle_gourd.png",
+		"tileAudioId" : "vegetable_bottlegourd",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "BROCCOLI",
+		"imgUri" : "kindergarten8/vegetables/animations/broccoli.png",
+		"tileAudioId" : "vegetable_broccoli",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "CUCUMBER",
+		"imgUri" : "kindergarten8/vegetables/animations/cucumber.png",
+		"tileAudioId" : "vegetable_cucumber",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "EGGPLANT",
+		"imgUri" : "kindergarten8/vegetables/animations/eggplant.png",
+		"tileAudioId" : "vegetable_eggplant",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "PUMPKIN",
+		"imgUri" : "kindergarten8/vegetables/animations/pumpkin.png",
+		"tileAudioId" : "vegetable_pumpkin",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "RED CHILLI",
+		"imgUri" : "kindergarten8/vegetables/animations/red_chilli.png",
+		"tileAudioId" : "vegetable_redchili",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "POTATO",
+		"imgUri" : "kindergarten8/vegetables/animations/potato.png",
+		"tileAudioId" : "vegetable_potato",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "PEAS",
+		"imgUri" : "kindergarten8/vegetables/animations/peas.png",
+		"tileAudioId" : "vegetable_peas",
+		"targetUri" : ""
+	},	
+	{
+		"title" :  "CABBAGE",
+		"imgUri" : "kindergarten8/vegetables/animations/cabbage.png",
+		"tileAudioId" : "vegetable_cabbage",
+		"targetUri" : ""
+	},	
+	{
+		"title" :  "LEEK",
+		"imgUri" : "kindergarten8/vegetables/animations/leek.png",
+		"tileAudioId" : "vegetable_leek",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "SWEET POTATO",
+		"imgUri" : "kindergarten8/vegetables/animations/sweet_potato.png",
+		"tileAudioId" : "vegetable_sweetpotato",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "OLIVE",
+		"imgUri" : "kindergarten8/vegetables/animations/olive.png",
+		"tileAudioId" : "vegetable_olive",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "ZUCCHINI",
+		"imgUri" : "kindergarten8/vegetables/animations/zucchini.png",
+		"tileAudioId" : "vegetable_zucchini",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "ARTICHOKE",
+		"imgUri" : "kindergarten8/vegetables/animations/artichoke.png",
+		"tileAudioId" : "vegetable_artichoke",
+		"targetUri" : ""
+	},
+	{
+		"title" :  "ASPARAGUS",
+		"imgUri" : "kindergarten8/vegetables/animations/asparagus1.png",
+		"tileAudioId" : "vegetable_asparagus",
+		"targetUri" : ""
+	}
+]
+}

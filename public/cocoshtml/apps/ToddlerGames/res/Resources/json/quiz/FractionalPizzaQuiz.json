@@ -1,0 +1,25 @@
+{
+  "id": "FractionalPizzaQuiz",
+  "type": "FractionalPizzaQuiz",
+  "complexity": "medium",
+  "qsBgColor": "4C78BB",
+  "bgImg": "common/scenes/scene180/rws_180_kitchen_bg.png",
+  "bgMusic": "caption_feed_one_{0}_pizza_monster",
+  "question": "caption_feed_one_{0}_pizza_monster",
+  "customKey1": "half",
+  "customKey2": "quarter",
+  "isFullBleed": true,
+  "sets": [{
+      "id": "set_1",
+      "type": "dummy",
+      "objectSrc": "realworld_set_animation_set2",
+      "customKey1": "half"
+    },
+    {
+      "id": "set_2",
+      "type": "dummy",
+      "objectSrc": "realworld_set_animation_set2",
+      "customKey1": "quarter"
+    }
+  ]
+}

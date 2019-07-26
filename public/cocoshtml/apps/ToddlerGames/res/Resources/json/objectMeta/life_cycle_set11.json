@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set11",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set11_",
+    "objectList": [
+		{
+			"objectId": "life_cycle_set11_fish_1",
+			"name": "word_eggs",
+			"imageUri": "common/life_cycle/life_cycle_set3/fish_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_eggs"
+		},
+		{
+			"objectId": "life_cycle_set11_fish_2",
+			"name": "word_alevin",
+			"imageUri": "common/life_cycle/life_cycle_set3/fish_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_alevin"
+		},
+		{
+			"objectId": "life_cycle_set11_fish_4",
+			"name": "word_adult",
+			"imageUri": "common/life_cycle/life_cycle_set3/fish_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_adult"
+		},
+		{
+			"objectId": "life_cycle_set11_fish_3",
+			"name": "word_fry",
+			"imageUri": "common/life_cycle/life_cycle_set3/fish_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_fry"
+		}
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "name": "sea_animal_set1",
+    "type": "",
+    "suffix": "sea_animal_set1_",
+    "objectList": [
+        {
+            "objectId": "sea_animal_set1_fish_1",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_1.png",
+            "w": 81.69,
+            "h": 63.35,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_10",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_10.png",
+            "w": 82.94,
+            "h": 69.19,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_11",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_11.png",
+            "w": 77.52,
+            "h": 80.86,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_12",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_12.png",
+            "w": 82.94,
+            "h": 68.36,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_2",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_2.png",
+            "w": 72.11,
+            "h": 81.69,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_3",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_3.png",
+            "w": 82.11,
+            "h": 76.69,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_4",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_4.png",
+            "w": 82.94,
+            "h": 70.02,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_5",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_5.png",
+            "w": 82.53,
+            "h": 65.85,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_6",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_6.png",
+            "w": 81.28,
+            "h": 81.69,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_7",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_7.png",
+            "w": 82.94,
+            "h": 63.77,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_8",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_8.png",
+            "w": 74.61,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set1_fish_9",
+            "name": "",
+            "imageUri": "common/sea_animals/sea_animal_set1/sea_animal_set1_fish_9.png",
+            "w": 82.53,
+            "h": 73.36,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

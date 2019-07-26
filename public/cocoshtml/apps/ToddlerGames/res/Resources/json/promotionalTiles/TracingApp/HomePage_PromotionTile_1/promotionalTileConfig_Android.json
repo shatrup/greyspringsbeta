@@ -1,0 +1,13 @@
+{
+	"tileType": "PanoAppHomePagePromoTile",
+	"appId": "PreschoolBasics",
+	"tileId": "PromotionalTile_1",
+	"version": "1.0",
+	"title": "Kindergarten Kids Learning",
+	"ageGroup": "2-5",
+	"description": "Fun beginning for young learners",
+	"logoUri": "common/promotional_promo/round_icons/preschool_basics_icon.png",
+	"backgroundUri": "common/promotional_promo/background/preschool_basics_background.png",
+	"buttonImgUri": "common/promotional_promo/common/android_download_button.png",
+	"targetUri": "https://play.google.com/store/apps/details?id=com.greysprings.kindergarten8&referrer=utm_source%3Dkg8PromoTile%26utm_medium%3DpromoTile%26utm_campaign%3Dkg8PromoCampaign"
+}

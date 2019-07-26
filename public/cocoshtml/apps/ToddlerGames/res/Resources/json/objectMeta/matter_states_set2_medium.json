@@ -1,0 +1,61 @@
+{
+    "name": "matter_states_set2_medium",
+    "type": "solid",
+    "suffix": "matter_states_set2_medium_",
+    "objectList": [
+				{
+                    "objectId": "matter_states_set2_medium_ball",
+                    "name": "ball",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_medium/matter_states_set2_medium_ball.png",
+                    "w": 45.014,
+                    "h": 45.014,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_medium_bat",
+                    "name": "bat",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_medium/matter_states_set2_medium_bat.png",
+                    "w": 21.257,
+                    "h": 46.682,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_medium_ice",
+                    "name": "ice",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_medium/matter_states_set2_medium_ice.png",
+                    "w": 45.014,
+                    "h": 47.098,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_medium_pencil",
+                    "name": "pencil",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_medium/matter_states_set2_medium_pencil.png",
+                    "w": 45.848,
+                    "h": 46.682,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_medium_shoe",
+                    "name": "shoe",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_medium/matter_states_set2_medium_shoe.png",
+                    "w": 47.515,
+                    "h": 34.594,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_medium_wrench",
+                    "name": "wrench",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_medium/matter_states_set2_medium_wrench.png",
+                    "w": 47.098,
+                    "h": 42.93,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

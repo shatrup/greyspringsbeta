@@ -1,0 +1,129 @@
+{
+	"id" :  "PreschoolBasicsHomeAlphabetCluster",
+	"hasHeroTile" : false,
+	"heroImgUri" : "kindergarten8/colors.png",
+	"heroTargetUri" : "appprotocol://scene/?id=PanoramaApp.VerticalChartPage",
+	"type": "sports",
+	"tileList": [
+	{
+		"title" :  "BASKETBALL",
+		"imgUri" : "kindergarten8/sports/animation/basketball.png",
+		"tileAudioId" : "sport_basketball",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/basketball_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "CRICKET",
+		"imgUri" : "kindergarten8/sports/animation/cricket.png",
+		"tileAudioId" : "sport_cricket",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/cricket_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "FOOTBALL",
+		"imgUri" : "kindergarten8/sports/animation/football.png",
+		"tileAudioId" : "sport_football",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/football_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "JUMPING",
+		"imgUri" : "kindergarten8/sports/animation/jumping.png",
+		"tileAudioId" : "sport_jumping",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/jumping_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "LAWN TENNIS",
+		"imgUri" : "kindergarten8/sports/animation/lawn_tennis.png",
+		"tileAudioId" : "sport_lawn_tennis",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/lawn_tennis_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "RACING",
+		"imgUri" : "kindergarten8/sports/animation/racing.png",
+		"tileAudioId" : "sport_racing",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/racing_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "SWIMMING",
+		"imgUri" : "kindergarten8/sports/animation/swimming.png",
+		"tileAudioId" : "sport_swimming",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/swimming_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "TABLE TENNIS",
+		"imgUri" : "kindergarten8/sports/animation/table_tennis.png",
+		"tileAudioId" : "sport_table_tennis",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/table_tennis_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "WEIGHT LIFTING",
+		"imgUri" : "kindergarten8/sports/animation/weight_lifting.png",
+		"tileAudioId" : "sport_weight_lifting",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/weight_lifting_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	},
+	{
+		"title" :  "BASEBALL",
+		"imgUri" : "kindergarten8/sports/animation/baseball.png",
+		"tileAudioId" : "sport_baseball",
+		"targetUri" : "",
+		"tileType": "simple_animation_tile",
+		"animationFrames": [
+			"kindergarten8/sports/animation/baseball_2.png"
+		],
+		"animationSound": "effect_swish",
+		"animationFrameRate": 1.0
+	}
+]
+}

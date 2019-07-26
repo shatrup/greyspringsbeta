@@ -1,0 +1,88 @@
+{
+    "name": "fruit_set32",
+    "type": "fruit",
+    "suffix": "fruit_set32_",
+    "objectList": [
+        {
+			"objectId": "fruit_set32_apple",
+			"name": "fruit_apple",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_apple.png",
+			"w": 68.355,
+			"h": 58.352,
+			"shape": "",
+			"color": "red"
+		},
+		{
+			"objectId": "fruit_set32_banana",
+			"name": "fruit_banana",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_banana.png",
+			"w": 75.441,
+			"h": 60.853,
+			"shape": "",
+			"color": "yellow"
+		},
+		{
+			"objectId": "fruit_set32_cherry",
+			"name": "fruit_cherry",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_cherry.png",
+			"w": 30.843,
+			"h": 63.77,
+			"shape": "",
+			"color": "red"
+		},
+		{
+			"objectId": "fruit_set32_mango",
+			"name": "fruit_mango",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_mango.png",
+			"w": 52.1,
+			"h": 64.187,
+			"shape": "",
+			"color": "yellow"
+		},
+		{
+			"objectId": "fruit_set32_orange",
+			"name": "fruit_orange",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_orange.png",
+			"w": 71.69,
+			"h": 71.69,
+			"shape": "",
+			"color": "orange"
+		},
+		{
+			"objectId": "fruit_set32_peach",
+			"name": "fruit_peach",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_peach.png",
+			"w": 51.683,
+			"h": 69.606,
+			"shape": "",
+			"color": "orange"
+		},
+		{
+			"objectId": "fruit_set32_pineapple",
+			"name": "fruit_pineapple",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_pineapple.png",
+			"w": 51.683,
+			"h": 73.357,
+			"shape": "",
+			"color": "yellow"
+		},
+		{
+			"objectId": "fruit_set32_strawberry",
+			"name": "fruit_strawberry",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_strawberry.png",
+			"w": 40.43,
+			"h": 64.187,
+			"shape": "",
+			"color": "red"
+		},
+		{
+			"objectId": "fruit_set32_watermelon",
+			"name": "fruit_watermelon",
+			"imageUri": "common/fruits/fruit_set32/fruit_set32_watermelon.png",
+			"w": 72.94,
+			"h": 61.27,
+			"shape": "",
+			"color": "red"
+		}
+    ]
+}

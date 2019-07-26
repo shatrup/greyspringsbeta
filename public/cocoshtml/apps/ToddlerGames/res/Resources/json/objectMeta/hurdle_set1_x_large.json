@@ -1,0 +1,164 @@
+{
+	"name": "hurdle_set1_x_large",
+	"type": "hurdle",
+	"suffix": "hurdle_set1_x_large_",
+	"objectList": [
+		{
+			"objectId": "hurdle_set1_x_large_cactus_1",
+			"name": "cactus_1",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_cactus_1.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "none"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_cactus_2",
+			"name": "cactus_2",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_cactus_2.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "none"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_cactus_3",
+			"name": "cactus_3",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_cactus_3.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "none"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_octagram_1",
+			"name": "octagram_1",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_octagram_1.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "rotate"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_octagram_2",
+			"name": "octagram_2",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_octagram_2.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "rotate"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_porcupine_1",
+			"name": "porcupine_1",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_porcupine_1.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "none"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_porcupine_2",
+			"name": "porcupine_2",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_porcupine_2.png",
+			"w": 108.368,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "none"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_spiral_blade_1",
+			"name": "spiral_blade_1",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_spiral_blade_1.png",
+			"w": 71.273,
+			"h": 71.273,
+			"shape": "",
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "rotate"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_spiral_blade_2",
+			"name": "spiral_blade_2",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_spiral_blade_2.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "rotate"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_spiral_blade_3",
+			"name": "spiral_blade_3",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_spiral_blade_3.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "rotate"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_spiral_blade_4",
+			"name": "spiral_blade_4",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_spiral_blade_4.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "rotate"
+				}
+			]
+		},
+		{
+			"objectId": "hurdle_set1_x_large_spiral_blade_5",
+			"name": "spiral_blade_5",
+			"imageUri": "common/chrome/hurdles/hurdle_set1_x_large/hurdle_set1_x_large_spiral_blade_5.png",
+			"w": 71.273,
+			"h": 71.273,
+			"attributes": [
+				{
+					"name": "animationType",
+					"value": "rotate"
+				}
+			]
+		}
+	]
+}

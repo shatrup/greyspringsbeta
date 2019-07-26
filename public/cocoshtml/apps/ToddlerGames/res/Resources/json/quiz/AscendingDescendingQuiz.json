@@ -1,0 +1,17 @@
+{
+    "id": "CountComparisonQuiz",
+    "type": "CountComparisonQuiz",
+    "complexity": "medium",
+    "qsBgColor": "003366",
+    "isFullBleed": true,
+    "sets": [
+    {
+      "id": "circle_numbers",
+      "type": "number",
+      "bgMusic": "caption_arrange_numbers_{0}",
+      "question": "caption_arrange_numbers_order_format",      
+      "bgImg" : "common/backgrounds/background_fullbleed/background_math_grid_fullbleed.png", 
+      "objectSrc": "realworld_set_number_circle_set0"
+    }
+  ] 
+}

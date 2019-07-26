@@ -1,0 +1,16 @@
+{
+    "name": "rws102",
+    "type": "",
+    "suffix": "rws102_",
+    "objectList": [
+        {
+            "objectId": "rws102_birds_sparrow_0",
+            "name": "",
+            "imageUri": "common/scenes/scene102/rws102_birds_sparrow_0.png",
+            "w": 72.52,
+            "h": 27.51,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

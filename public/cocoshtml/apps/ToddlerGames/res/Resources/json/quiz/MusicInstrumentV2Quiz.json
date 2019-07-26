@@ -1,0 +1,16 @@
+{
+    "id": "MusicInstrumentV2Quiz",
+    "type": "MusicInstrumentV2Quiz",
+    "complexity": "medium",
+    "bgImg": "common/scenes/scene188/piano_background.png",
+    "sets": [    
+    {
+      "id": "set_1",
+      "type": "music",
+	  "qsBgColor": "60C0CC",
+      "customKey1": "common/scenes/scene188/{0}.png",
+      "customKey2": "piano_3",
+	  "isFullBleed": true
+    }
+  ] 
+}

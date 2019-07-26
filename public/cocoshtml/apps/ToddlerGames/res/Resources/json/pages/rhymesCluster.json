@@ -1,0 +1,75 @@
+{
+    "id": "Rhymes01",
+    "title": "Rhymes",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+                {
+                    "type": "homePageModuletilev2",
+                    "data": {
+                        "image": "kindergarten8/common/images/rhyme_fullview.png",
+                        "title": "ms-resource:GameTileTitle_Rhymes",
+                        "clicktarget": "approtocol://page?id=rhymesHolderPage",
+						"backgroundColor": "003366"
+                    }
+                },
+				{
+					"type": "smallTileTemplateV2",
+					"data": {
+						"image": "kindergarten8/rhymes/thumbnails/wotb.png",
+						"title": "ms-resource:Rhymes_title_WheelsOnBus",
+						"clicktarget": "appprotocol://page?id=RhymePage&rhymeid=wotb",
+						"backgroundColor": "F2F2F2"
+					}
+				},
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/hd.png",
+                        "title": "ms-resource:Rhymes_title_HumptyDumpty",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=hd",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/omc.png",
+                        "title": "ms-resource:Rhymes_title_OldMcDonald",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=omc",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/bbs.png",
+                        "title": "ms-resource:Rhymes_title_BaaBaaBlackSheep",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=bbs",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "kindergarten8/rhymes/thumbnails/iws.png",
+                        "title": "ms-resource:Rhymes_title_IncyWincySpider",
+                        "clicktarget": "appprotocol://page?id=RhymePage&rhymeid=iws",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "moreButtonTileTemplateV5",
+                    "data": {
+						"image": "kindergarten8/common/images/arrow.png",					
+                        "title": "Rhymes",
+                        "clicktarget": "approtocol://page?id=rhymesHolderPage",
+						"backgroundColor": "F2F2F2"
+                    }
+                }
+			]
+        }
+    ]
+}

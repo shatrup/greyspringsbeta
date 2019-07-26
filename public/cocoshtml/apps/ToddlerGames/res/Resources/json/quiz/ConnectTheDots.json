@@ -1,0 +1,42 @@
+{
+    "id": "ConnectingDotsQuiz",
+    "type": "ConnectingDotsQuiz",
+    "bgMusic": "caption_connect_dots_sequence",
+    "question": "caption_connect_dots_sequence",
+    "complexity": "medium",
+    "qsBgColor": "306772",
+    "isFullBleed": true,
+    "sets": [
+        {
+          "id": "number",
+          "objectSrc": "realworld_set_vehicle_set2_xx_large",
+          "customKey1":"number",
+          "customKey2": "moveAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/connect_dots_{0}.png"
+        },
+        {
+          "id": "alphabet",
+          "objectSrc": "realworld_set_vehicle_set2_xx_large",
+          "excludeObjectIds": ["vehicle_set2_xx_large_tractor"],
+          "customKey1":"alphabet",
+          "customKey2": "moveAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/connect_dots_{0}.png"
+        },
+        {
+          "id": "shape_name",
+          "bgMusic": "caption_connect_dots_sequence_shape",
+          "question": "caption_connect_dots_sequence_shape",
+          "objectSrc": "realworld_set_shape_set8_xx_large",
+          "customKey1":"shape",
+          "customKey2": "scaleAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/connect_dots_{0}.png"
+        },
+        {
+          "id": "animals",
+          "objectSrc": "realworld_set_connect_dots_animal_set1",
+          "customKey1":"alphabet",
+          "customKey2": "frameAnimation",
+      	  "bgImg": "common/backgrounds/background_fullbleed/match_the_shadow_background_farm.png"
+        }
+    ] 
+}

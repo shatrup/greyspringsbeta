@@ -1,0 +1,187 @@
+{
+	"name": "winter_object_set1_large",
+	"type": "winter",
+	"suffix": "winter_object_set1_large_",
+	"objectList": [
+		{
+			"objectId": "winter_object_set1_large_cap",
+			"name": "winter_cap",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_cap.png",
+			"w": 66.271,
+			"h": 83.777,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_earpiece",
+			"name": "winter_earpiece",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_earpiece.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_gloves_1",
+			"name": "winter_1",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_gloves_1.png",
+			"w": 77.942,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_gloves_2",
+			"name": "winter_2",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_gloves_2.png",
+			"w": 83.36,
+			"h": 51.683,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_hatandgloves",
+			"name": "winter_hatandgloves",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_hatandgloves.png",
+			"w": 82.943,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_hotcoffee",
+			"name": "winter_hotcoffee",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_hotcoffee.png",
+			"w": 51.683,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_iceboard",
+			"name": "winter_iceboard",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_iceboard.png",
+			"w": 20.423,
+			"h": 82.11,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_icehockey",
+			"name": "winter_icehockey",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_icehockey.png",
+			"w": 37.512,
+			"h": 74.19,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_igloo",
+			"name": "winter_igloo",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_igloo.png",
+			"w": 82.943,
+			"h": 61.27,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_muffler",
+			"name": "winter_muffler",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_muffler.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_skiskit",
+			"name": "winter_skiskit",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_skiskit.png",
+			"w": 82.526,
+			"h": 75.024,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_sledge",
+			"name": "winter_sledge",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_sledge.png",
+			"w": 82.526,
+			"h": 44.181,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_snowflake",
+			"name": "winter_snowflake",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_snowflake.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_snowman",
+			"name": "winter_snowman",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_snowman.png",
+			"w": 82.943,
+			"h": 58.769,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_snowmountain",
+			"name": "winter_snowmountain",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_snowmountain.png",
+			"w": 83.36,
+			"h": 43.347,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_snowshovel",
+			"name": "winter_snowshovel",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_snowshovel.png",
+			"w": 41.263,
+			"h": 75.024,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_snowskates",
+			"name": "winter_snowskates",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_snowskates.png",
+			"w": 79.609,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_socks",
+			"name": "winter_socks",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_socks.png",
+			"w": 71.69,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_tree",
+			"name": "winter_tree",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_tree.png",
+			"w": 57.935,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "winter_object_set1_large_trolly",
+			"name": "winter_trolly",
+			"imageUri": "common/seasons/winter/winter_object_set1/winter_object_set1_large/winter_object_set1_large_trolly.png",
+			"w": 69.189,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

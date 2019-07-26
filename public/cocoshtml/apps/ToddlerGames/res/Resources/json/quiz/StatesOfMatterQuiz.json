@@ -1,0 +1,33 @@
+{
+    "id": "StatesOfMatterQuiz",
+    "type": "StatesOfMatterQuiz",
+    "complexity": "medium",
+    "qsBgColor": "BCE7FB",
+	"isFullBleed":true,
+    "bgImg": "common/scenes/scene151/rws151_background.png",
+    "bgMusic": "caption_load_the_van_with_correct_state_of_matter",
+    "question": "caption_load_the_van_with_correct_state_of_matter",
+    "sets": [
+        {
+            "id": "object_set1",
+            "type": "liquid",
+            "objectSrc": "matter_states_set1_medium",
+			"customKey1": "matter_states_set2_medium",
+			"customKey2": "matter_states_set3_medium"	
+        },
+        {
+            "id": "object_set2",
+            "type": "solid",
+            "objectSrc": "matter_states_set2_medium",
+			"customKey1": "matter_states_set3_medium",
+			"customKey2": "matter_states_set1_medium"
+        },
+        {
+            "id": "object_set3",
+            "type": "gas",
+            "objectSrc": "matter_states_set3_medium",
+			"customKey1": "matter_states_set1_medium",
+			"customKey2": "matter_states_set2_medium"
+        }
+    ]
+}

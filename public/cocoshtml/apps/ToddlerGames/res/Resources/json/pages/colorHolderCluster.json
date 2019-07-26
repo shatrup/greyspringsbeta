@@ -1,0 +1,28 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Color Book",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "largeImgTileTemplate",
+					"data" : {
+						"image": "/data/colors/thumbnails/1.png",
+						"title": "",
+						"clicktarget" : "appprotocol://page?id=animalsPage"
+					}
+				},
+				{
+					"type" : "largeImgTileTemplate",
+					"data" : {
+						"image": "/data/colors/thumbnails/9.png",
+						"title": "",
+						"clicktarget" : "appprotocol://page?id=birdsPage"
+					}
+				}
+			]
+		}
+	]
+}

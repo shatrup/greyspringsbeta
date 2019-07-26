@@ -1,0 +1,179 @@
+{
+	"title": "Hot cross buns",
+	"bgaudio": "kindergarten8/rhymes/audio/hcb/hcb.mp3",
+	"bgimage": "kindergarten8/rhymes/images/hcb/background.png",
+	"lyrics": "Hot cross buns, \n Hot cross buns, \n One a penny, \n Two a penny, \n Hot cross buns. \n Hot cross buns.\n Hot cross buns.\n One a penny, \n Two a penny,\n Hot cross buns.\n If you have no daughters, \n Give them to your sons, \n One a penny, \n Two a penny, \n Hot Cross Buns",
+	"objects": [
+		{
+			"x": 37,
+			"y": 123,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree1.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 396,
+			"y": 283,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree2.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 544,
+			"y": 354,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree3.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 1079,
+			"y": 375,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree4.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 1177,
+			"y": 40,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "tree5.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "swing"
+		},
+		{
+			"x": 524,
+			"y": 81,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "birds.png",
+			"sound": "kindergarten8/rhymes/audio/common/crow.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 712,
+			"y": 31,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "sun.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 437,
+			"y": 181,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 553,
+			"y": 161,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude2.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 761,
+			"y": 119,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 9,
+			"y": 526,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 299,
+			"y": 465,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 748,
+			"y": 677,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1256,
+			"y": 607,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 588,
+			"y": 428,
+			"dir": "kindergarten8/rhymes/images/hcb/",
+			"image": "wheel2.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 799,
+			"y": 208,
+			"dir": "kindergarten8/rhymes/images/hcb/",
+			"image": "seller.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 581,
+			"y": 408,
+			"dir": "kindergarten8/rhymes/images/hcb/",
+			"image": "cart.png",
+			"position": "absolute",
+			"animation": "none"
+		},
+		{
+			"x": 655,
+			"y": 463,
+			"dir": "kindergarten8/rhymes/images/hcb/",
+			"image": "wheel1.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 494,
+			"y": 377,
+			"dir": "kindergarten8/rhymes/images/hcb/",
+			"image": "kid2.png",
+			"sound": "kindergarten8/rhymes/audio/common/laugh.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 350,
+			"y": 425,
+			"dir": "kindergarten8/rhymes/images/hcb/",
+			"image": "kid1.png",
+			"sound": "kindergarten8/rhymes/audio/common/laugh.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		}
+	]	
+}

@@ -1,0 +1,151 @@
+{
+	"name": "shape_set14",
+	"type": "shape",
+	"suffix": "shape_set14_",
+	"objectList": [
+		{
+			"objectId": "arrow_down_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/arrow_down_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "arrow_left_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/arrow_left_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "arrow_right_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/arrow_right_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "arrow_up_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/arrow_up_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "circle_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/circle_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "diagonal_left_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/diagonal_left_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "diagonal_right_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/diagonal_right_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "horizontal_line_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/horizontal_line_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "semicircle_down_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/semicircle_down_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "semicircle_left_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/semicircle_left_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "semicircle_right_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/semicircle_right_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "semicircle_up_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/semicircle_up_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "square_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/square_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "triangle_down_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/triangle_down_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "triangle_up_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/triangle_up_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "vertical_line_guide",
+			"name": "shape_guide",
+			"imageUri": "common/shapes/shape_set14/vertical_line_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "number_set2",
+    "type": "number",
+    "suffix": "number_set2_",
+    "objectList": [
+        {
+            "objectId": "number_set2_0",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_0.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_1",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_1.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_2",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_2.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_3",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_3.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_4",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_4.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_5",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_5.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_6",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_6.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_7",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_7.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_8",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_8.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set2_9",
+            "name": "",
+            "imageUri": "common/numbers/number_set2/number_set2_9.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

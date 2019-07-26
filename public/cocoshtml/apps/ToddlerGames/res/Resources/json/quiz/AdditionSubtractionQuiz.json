@@ -1,0 +1,23 @@
+{
+    "id": "DragToMatchQuiz",
+    "type": "DragToMatchQuiz",
+    "complexity": "medium",
+    "qsBgColor": "003366",
+    "bgImg" : "common/backgrounds/background_fullbleed/background_math_grid.png", 
+    "sets": [
+    {
+      "id": "set_1",
+      "type": "fish",
+	  "question": "caption_numbers_format",
+	  "bgMusic":"caption_numbers_{0}",
+      "objectSrc": "realworld_set_candy_set1"
+    },
+    {
+      "id": "set_1",
+      "type": "fish",
+	  "question": "caption_numbers_format",
+	  "bgMusic":"caption_numbers_{0}",
+      "objectSrc": "realworld_set_stickers_candy_set1"
+    }
+  ] 
+}

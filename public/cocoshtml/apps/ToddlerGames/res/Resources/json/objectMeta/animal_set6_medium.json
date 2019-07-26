@@ -1,0 +1,34 @@
+{
+	"name": "animal_set6_medium",
+	"type": "animal",
+	"suffix": "animal_set6_medium_",
+	"objectList": [
+		{
+			"objectId": "animal_set6_medium_cat",
+			"name": "animal_cat",
+			"imageUri": "common/animals/animal_set6/animal_set6_medium/animal_set6_medium_cat.png",
+			"w": 35.428,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_medium_dog",
+			"name": "animal_dog",
+			"imageUri": "common/animals/animal_set6/animal_set6_medium/animal_set6_medium_dog.png",
+			"w": 43.764,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_medium_elephant",
+			"name": "animal_elephant",
+			"imageUri": "common/animals/animal_set6/animal_set6_medium/animal_set6_medium_elephant.png",
+			"w": 47.515,
+			"h": 37.929,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

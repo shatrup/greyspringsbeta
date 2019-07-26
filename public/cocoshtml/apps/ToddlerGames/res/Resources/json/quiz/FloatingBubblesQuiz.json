@@ -1,0 +1,22 @@
+{
+    "id": "FloatingBubblesQuiz",
+    "type": "FloatingBubblesQuiz",
+    "complexity": "medium",
+    "sets": [
+    {
+      "id": "bubble_number",
+      "type": "number",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_182",      
+      "bgMusic": "caption_touch_{0}",
+      "qsBgColor": "60C0CC",
+      "title": "tiletitle_PreschoolNumbers_FloatingBubblesQuiz",
+      "question": "caption_touch_number_format",
+      "objectSrc": "realworld_set_number_set20_small",
+      "excludeObjectIds": ["number_set20_small_11", "number_set20_small_12", "number_set20_small_13", "number_set20_small_14", "number_set20_small_15", "number_set20_small_16", "number_set20_small_17", "number_set20_small_18", "number_set20_small_19", "number_set20_small_20"],
+      "customKey1": "effect_boom",
+      "customKey2": "common/scenes/scene182/bubble_{0}.png",
+      "customKey3": "bubble",
+      "isFullBleed": true
+    }
+  ] 
+}

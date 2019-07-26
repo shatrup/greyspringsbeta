@@ -1,0 +1,95 @@
+{
+    "name": "color_flowerplant_set0",
+    "type": "",
+    "suffix": "color_flowerplant_set0_",
+    "objectList": [
+        {
+            "objectId": "color_flowerplant_set0_red",
+            "name": "color_red",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_red",
+            "w": 5,
+            "h": 5,
+            "color": "color_red",
+            "audioId": "color_red",
+            "shape": "",
+            "color": "color_red"
+        },
+        {
+            "objectId": "color_flowerplant_set0_green",
+            "name": "color_green",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_green",
+            "w": 5,
+            "h": 5,
+            "color": "color_green",
+            "audioId": "color_green",
+            "shape": "",
+            "color": "color_green"
+        },
+        {
+            "objectId": "color_flowerplant_set0_blue",
+            "name": "color_blue",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_blue",
+            "w": 5,
+            "h": 5,
+            "color": "color_blue",
+            "audioId": "color_blue",
+            "shape": "",
+            "color": "color_blue"
+        },
+        {
+            "objectId": "color_flowerplant_set0_yellow",
+            "name": "color_yellow",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_yellow",
+            "w": 5,
+            "h": 5,
+            "color": "color_yellow",
+            "audioId": "color_yellow",
+            "shape": "",
+            "color": "color_yellow"
+        },
+        {
+            "objectId": "color_flowerplant_set0_orange",
+            "name": "color_orange",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_orange",
+            "w": 5,
+            "h": 5,
+            "color": "color_orange",
+            "audioId": "color_orange",
+            "shape": "",
+            "color": "color_orange"
+        },
+        {
+            "objectId": "color_flowerplant_set0_brown",
+            "name": "color_brown",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_brown",
+            "w": 5,
+            "h": 5,
+            "color": "color_brown",
+            "audioId": "color_brown",
+            "shape": "",
+            "color": "color_brown"
+        },
+        {
+            "objectId": "color_flowerplant_set0_pink",
+            "name": "color_pink",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_pink",
+            "w": 5,
+            "h": 5,
+            "color": "color_pink",
+            "audioId": "color_pink",
+            "shape": "",
+            "color": "color_pink"
+        },
+        {
+            "objectId": "color_flowerplant_set0_white",
+            "name": "color_white",
+            "imageUri": "potsprite://flowerplantsprite/?color=color_white",
+            "w": 5,
+            "h": 5,
+            "color": "color_white",
+            "audioId": "color_white",
+            "shape": "",
+            "color": "color_white"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "RhymingObjectsQuiz",
+    "type": "RhymingObjectsQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "rhyming",
+      "type": "rhyming",
+      "bgMusic": "caption_match_rhyming_words",
+      "question": "caption_match_rhyming_words",      
+      "objectSrc": "realworld_set_rhyming_object_set1_large",
+      "bgImg": "common/backgrounds/background_fullbleed/background_yellow_color.png",
+      "customKey1": "rhyme",
+	  "customKey2": "word_basics",
+	  "isFullBleed": true
+    }
+  ] 
+}

@@ -1,0 +1,18 @@
+{
+    "id": "TickTockQuiz",
+    "type": "TickTockQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+	"bgImg" : "common/backgrounds/background_fullbleed/background_time_quiz.png",
+    "bgMusic": "caption_touch_clock_with_correct_time",
+    "question": "caption_touch_clock_with_correct_time",
+	"customKey1": "color",
+    "customKey2": "",
+    "sets": [
+    {
+      "id": "set0",
+      "type": "color",
+      "objectSrc": "realworld_set_color_set3_large"
+    }
+  ] 
+}

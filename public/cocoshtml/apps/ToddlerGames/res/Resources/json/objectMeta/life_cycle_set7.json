@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set7",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set7_",
+    "objectList": [                
+		{
+			"objectId": "life_cycle_set7_chicken_1",
+			"name": "word_egg",
+			"imageUri": "common/life_cycle/life_cycle_set2/chicken_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_egg"
+		},
+		{
+			"objectId": "life_cycle_set7_chicken_2",
+			"name": "word_hatchling",
+			"imageUri": "common/life_cycle/life_cycle_set2/chicken_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_hatchling"
+		},
+		{
+			"objectId": "life_cycle_set7_chicken_4",
+			"name": "word_chicken",
+			"imageUri": "common/life_cycle/life_cycle_set2/chicken_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "animal_chicken"
+		},
+		{
+			"objectId": "life_cycle_set7_chicken_3",
+			"name": "word_chick",
+			"imageUri": "common/life_cycle/life_cycle_set2/chicken_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_chick"
+		}
+    ]
+}

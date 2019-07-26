@@ -1,0 +1,61 @@
+{
+	"name": "shape_set15_xx_large",
+	"type": "shape",
+	"suffix": "shape_set15_xx_large_",
+	"objectList": [
+		{
+			"objectId": "shape_set15_xx_large_diamond",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set15/shape_set15_xx_large/shape_set15_xx_large_diamond.png",
+			"w": 48.766,
+			"h": 55.434,
+			"shape": "diamond",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set15_xx_large_hexagon",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set15/shape_set15_xx_large/shape_set15_xx_large_hexagon.png",
+			"w": 45.014,
+			"h": 53.767,
+			"shape": "hexagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set15_xx_large_octagon",
+			"name": "shape_octagon",
+			"imageUri": "common/shapes/shape_set15/shape_set15_xx_large/shape_set15_xx_large_octagon.png",
+			"w": 45.431,
+			"h": 45.431,
+			"shape": "octagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set15_xx_large_pentagon",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set15/shape_set15_xx_large/shape_set15_xx_large_pentagon.png",
+			"w": 50.85,
+			"h": 48.766,
+			"shape": "pentagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set15_xx_large_square",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set15/shape_set15_xx_large/shape_set15_xx_large_square.png",
+			"w": 45.014,
+			"h": 45.014,
+			"shape": "square",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set15_xx_large_triangle",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set15/shape_set15_xx_large/shape_set15_xx_large_triangle.png",
+			"w": 51.266,
+			"h": 50.016,
+			"shape": "triangle",
+			"color": ""
+		}
+	]
+}

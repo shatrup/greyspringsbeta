@@ -1,0 +1,106 @@
+{
+    "name": "color_bug_set1",
+    "type": "",
+    "suffix": "color_bug_set1_",
+    "objectList": [
+        {
+            "objectId": "color_bug_set1_red",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=red",
+            "w": 5,
+            "h": 5,
+            "color": "color_red",
+            "shape": ""
+		},
+        {
+            "objectId": "color_bug_set1_blue",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=blue",
+            "w": 5,
+            "h": 5,
+            "color": "color_blue",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_green",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=green",
+            "w": 5,
+            "h": 5,
+            "color": "color_green",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_orange",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=orange",
+            "w": 5,
+            "h": 5,
+            "color": "color_orange",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_brown",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=brown",
+            "w": 5,
+            "h": 5,
+            "color": "color_brown",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_black",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=black",
+            "w": 5,
+            "h": 5,
+            "color": "color_black",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_white",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=white",
+            "w": 5,
+            "h": 5,
+            "color": "color_white",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_pink",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=pink",
+            "w": 5,
+            "h": 5,
+            "color": "color_pink",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_violet",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=violet",
+            "w": 5,
+            "h": 5,
+            "color": "color_violet",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_grey",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=grey",
+            "w": 5,
+            "h": 5,
+            "color": "color_grey",
+            "shape": ""
+        },
+        {
+            "objectId": "color_bug_set1_yellow",
+            "name": "",
+            "imageUri": "potsprite://bug2_color/?color=yellow",
+            "w": 5,
+            "h": 5,
+            "color": "color_yellow",
+            "shape": ""
+        }
+    ]
+}

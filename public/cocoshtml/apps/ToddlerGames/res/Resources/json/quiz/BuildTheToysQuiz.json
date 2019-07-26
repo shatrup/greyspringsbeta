@@ -1,0 +1,57 @@
+{
+    "id": "CountingItemsQuiz",
+    "type": "CountingItemsQuiz",
+    "complexity": "low",
+    "qsBgColor": "a59eb6",
+    "bgMusic": "caption_build_object_using_shapes",
+    "question": "caption_build_object_using_shapes",
+    "bgImg" : "common/backgrounds/background_fullbleed/texture_canvas.png",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "name": "set_3",
+      "objectSrc": "RealWorldScene_tree_201",
+      "customKey1": "background_fullbleed_set1_background_wool"
+    },
+    {
+      "name": "set_4",
+      "objectSrc": "RealWorldScene_hut_202",
+      "customKey1": "background_fullbleed_set1_background_wool"      
+    },
+    {
+      "name": "set_5",
+      "objectSrc": "RealWorldScene_face_203",
+      "customKey1": "background_fullbleed_set1_background_grey"      
+    },
+    {
+      "name": "set_6",
+      "objectSrc": "RealWorldScene_bus_204",
+      "customKey1": "background_fullbleed_set1_background_grey"      
+    },
+    {
+      "name": "set_7",
+      "objectSrc": "RealWorldScene_butterfly_205",
+      "customKey1": "background_fullbleed_set1_background_grey"      
+    },
+    {
+      "name": "set_8",
+      "objectSrc": "RealWorldScene_icecream_206",
+      "customKey1": "background_fullbleed_set1_background_grey"      
+    },
+    {
+      "name": "set_9",
+      "objectSrc": "RealWorldScene_flower_207",
+      "customKey1": "background_fullbleed_set1_background_grey"      
+    },
+    {
+      "name": "set_10",
+      "objectSrc": "RealWorldScene_night_208",
+      "customKey1": "background_fullbleed_set1_background_grey"      
+    },
+    {
+      "name": "set_11",
+      "objectSrc": "RealWorldScene_ship_209",
+      "customKey1": "background_fullbleed_set1_background_grey"      
+    }   
+    ] 
+}

@@ -1,0 +1,18 @@
+{
+	"id": "playgroundPage",
+    "title": "ms-resource:Caption_Quizzes",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+            {
+				"name": "playCluster",
+                "title": "",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/playClusterInnerLevel.json",
+				"options": {
+					"isBleed": false
+				}
+			}
+        ]
+    }
+}

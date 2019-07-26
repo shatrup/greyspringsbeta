@@ -1,0 +1,122 @@
+{
+    "title": "Math Games",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "GSPGHomeTilesListViewBlock",
+            "data": [
+                {
+                    "name": "AscendingDescendingQuiz",
+                    "title": "tiletitle_MathGames_AscendingDescendingQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=AscendingDescendingQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/sort_it_out_tile_name_1.png",
+                        "image": "common/tiles/tile_numbers/sort_it_out_tile_1.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "NumberNamesQuiz",
+                    "title": "tiletitle_MathGames_NumberNamesQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=NumberNamesQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/number_names_tile_name.png",
+                        "image": "common/tiles/tile_numbers/number_names_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "EvenOddHopQuiz",
+                    "title": "tiletitle_MathGames_EvenOddHopQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=EvenOddHopQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/even_odd_tile_name.png",
+                        "image": "common/tiles/tile_numbers/even_odd_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "FractionalPizzaQuiz",
+                    "title": "tiletitle_MathGames_FractionalPizzaQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=FractionalPizzaQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/fractional_pizza_tile_name.png",
+                        "image": "common/tiles/tile_numbers/fractional_pizza_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "TickTockQuiz",
+                    "title": "tiletitle_MathGames_TickTockQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=TickTockQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/tick_tock_tile_name.png",
+                        "image": "common/tiles/tile_numbers/tick_tock_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "TensAndOnesQuiz",
+                    "title": "tiletitle_MathGames_TensAndOnesQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=TensAndOnesQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/tens_and_ones_tile_name.png",
+                        "image": "common/tiles/tile_numbers/tens_and_ones_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "AquariumNumberAddQuiz",
+                    "title": "tiletitle_MathGames_AquariumNumberAddQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=AquariumNumberAddQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/add_me_up_tile_name_1.png",
+                        "image": "common/tiles/tile_numbers/add_me_up_tile_1.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "CutItOffQuiz",
+                    "title": "tiletitle_MathGames_CutItOffQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=CutItOffQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/cut_it_off_tile_name.png",
+                        "image": "common/tiles/tile_numbers/cut_it_off_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "HalvesAndDoublesQuiz",
+                    "title": "tiletitle_MathGames_HalvesAndDoublesQuiz",
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=HalvesAndDoublesQuiz}",
+                        "titleImg": "common/tiles/tile_numbers/halves_and_doubles_tile_name.png",
+                        "image": "common/tiles/tile_numbers/halves_and_doubles_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "name": "LearnToTrace",
+                    "title": "tiletitle_MathGames_LearnToTrace",
+                    "type": "promoTileTemplate",
+                    "data": {
+                        "clicktarget": "promocluster://tile/?appId=MathGames&tileId=HomePage_PromotionTile_2",
+                        "titleImg": "common/tiles/tile_games/tracing_quiz_tile_name.png",
+                        "image": "common/tiles/tile_games/tracing_quiz_tile.png",
+                        "backgroundColor": "9E1E62"
+                    }
+                }
+            ]
+        }
+    ],
+    "id": "GamesHolderCluster"
+}

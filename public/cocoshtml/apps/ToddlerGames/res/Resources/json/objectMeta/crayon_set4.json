@@ -1,0 +1,34 @@
+{
+    "name": "crayon_set4",
+    "type": "crayon",
+    "suffix": "crayon_set4_",
+    "objectList": [
+        {
+            "objectId": "crayon_set4_crayon_1",
+            "name": "crayon",
+            "imageUri": "kindergarten8/tracing/crayon_white_nonselected.png",
+			"w": 98.365,
+			"h": 32.51,
+            "shape": "",
+            "color": "5"
+        },
+        {
+            "objectId": "crayon_set4_crayon_2",
+            "name": "crayon",
+            "imageUri": "kindergarten8/tracing/crayon_white_nonselected.png",
+			"w": 98.365,
+			"h": 32.51,
+            "shape": "",
+            "color": "13"
+        },
+        {
+            "objectId": "crayon_set4_crayon_3",
+            "name": "crayon",
+            "imageUri": "kindergarten8/tracing/crayon_white_nonselected.png",
+			"w": 98.365,
+			"h": 32.51,
+            "shape": "",
+            "color": "11"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "AnimalsCluster",
+    "title": "Color Images",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+				
+               {
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/27.png",
+						"title": "One",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=27&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/28.png",
+						"title": "Two",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=28&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/29.png",
+						"title": "Three",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=29&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/30.png",
+						"title": "Four",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=30&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/31.png",
+						"title": "Five",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=31&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/32.png",
+						"title": "Six",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=32&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/33.png",
+						"title": "Seven",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=33&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/34.png",
+						"title": "Eight",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=34&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/35.png",
+						"title": "Nine",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=35&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/36.png",
+						"title": "Ten",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=36&layout=vertical"
+					}
+				}
+				
+            ]
+        }
+    ]
+}

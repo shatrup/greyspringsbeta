@@ -1,0 +1,927 @@
+{
+		"name": "rhyming_object_set1_large",
+		"type": "rhyming",
+		"suffix": "rhyming_object_set1_large_",
+		"objectList": [
+			{
+				"objectId": "rhyming_object_set1_large_bag",
+				"name": "rhyming_bag",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bag.png",
+				"w": 63.354,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "bag"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_bat",
+				"name": "rhyming_bat",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bat.png",
+				"w": 9.586,
+				"h": 83.36,
+				"shape": "",
+				"color": "",
+				"rhyme": "bat"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_bed",
+				"name": "rhyming_bed",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bed.png",
+				"w": 82.526,
+				"h": 67.522,
+				"shape": "",
+				"color": "",
+				"rhyme": "bed"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_bee",
+				"name": "rhyming_bee",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bee.png",
+				"w": 82.943,
+				"h": 71.273,
+				"shape": "",
+				"color": "",
+				"rhyme": "bee"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_beg",
+				"name": "rhyming_beg",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_beg.png",
+				"w": 32.927,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "egg"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_bell",
+				"name": "rhyming_bell",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bell.png",
+				"w": 82.526,
+				"h": 60.436,
+				"shape": "",
+				"color": "",
+				"rhyme": "bell"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_bill",
+				"name": "rhyming_bill",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bill.png",
+				"w": 25.842,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "bill"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_book",
+				"name": "rhyming_book",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_book.png",
+				"w": 83.36,
+				"h": 75.024,
+				"shape": "",
+				"color": "",
+				"rhyme": "book"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_box",
+				"name": "rhyming_box",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_box.png",
+				"w": 80.026,
+				"h": 82.11,
+				"shape": "",
+				"color": "",
+				"rhyme": "box"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_bug",
+				"name": "rhyming_bug",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bug.png",
+				"w": 82.943,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "bug"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_bun",
+				"name": "rhyming_bun",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_bun.png",
+				"w": 82.943,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "sun"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_can",
+				"name": "rhyming_can",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_can.png",
+				"w": 50.85,
+				"h": 82.11,
+				"shape": "",
+				"color": "",
+				"rhyme": "can"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_cap",
+				"name": "rhyming_cap",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_cap.png",
+				"w": 82.526,
+				"h": 52.517,
+				"shape": "",
+				"color": "",
+				"rhyme": "cap"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_cat",
+				"name": "rhyming_cat",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_cat.png",
+				"w": 70.856,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "bat"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_clip",
+				"name": "rhyming_clip",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_clip.png",
+				"w": 82.943,
+				"h": 62.103,
+				"shape": "",
+				"color": "",
+				"rhyme": "hip"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_cub",
+				"name": "rhyming_cub",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_cub.png",
+				"w": 68.355,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "cub"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_cup",
+				"name": "rhyming_cup",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_cup.png",
+				"w": 82.943,
+				"h": 49.182,
+				"shape": "",
+				"color": "",
+				"rhyme": "cup"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_dad",
+				"name": "rhyming_dad",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_dad.png",
+				"w": 42.097,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "dad"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_den",
+				"name": "rhyming_den",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_den.png",
+				"w": 83.36,
+				"h": 48.349,
+				"shape": "",
+				"color": "",
+				"rhyme": "den"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_dish",
+				"name": "rhyming_dish",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_dish.png",
+				"w": 83.36,
+				"h": 68.772,
+				"shape": "",
+				"color": "",
+				"rhyme": "dish"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_dog",
+				"name": "rhyming_dog",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_dog.png",
+				"w": 68.772,
+				"h": 83.36,
+				"shape": "",
+				"color": "",
+				"rhyme": "dog"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_dot",
+				"name": "rhyming_dot",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_dot.png",
+				"w": 82.943,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "dot"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_egg",
+				"name": "rhyming_egg",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_egg.png",
+				"w": 59.602,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "egg"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_fan",
+				"name": "rhyming_fan",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_fan.png",
+				"w": 66.688,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "can"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_fat",
+				"name": "rhyming_fat",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_fat.png",
+				"w": 55.851,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "bat"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_fig",
+				"name": "rhyming_fig",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_fig.png",
+				"w": 83.36,
+				"h": 75.441,
+				"shape": "",
+				"color": "",
+				"rhyme": "fig"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_fish",
+				"name": "rhyming_fish",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_fish.png",
+				"w": 82.943,
+				"h": 69.189,
+				"shape": "",
+				"color": "",
+				"rhyme": "dish"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_flag",
+				"name": "rhyming_flag",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_flag.png",
+				"w": 78.775,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "bag"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_fog",
+				"name": "rhyming_fog",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_fog.png",
+				"w": 81.693,
+				"h": 57.102,
+				"shape": "",
+				"color": "",
+				"rhyme": "dog"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_fox",
+				"name": "rhyming_fox",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_fox.png",
+				"w": 82.526,
+				"h": 30.01,
+				"shape": "",
+				"color": "",
+				"rhyme": "box"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_frog",
+				"name": "rhyming_frog",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_frog.png",
+				"w": 82.943,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "dog"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_gun",
+				"name": "rhyming_gun",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_gun.png",
+				"w": 82.526,
+				"h": 41.68,
+				"shape": "",
+				"color": "",
+				"rhyme": "sun"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_hat",
+				"name": "rhyming_hat",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_hat.png",
+				"w": 83.36,
+				"h": 55.018,
+				"shape": "",
+				"color": "",
+				"rhyme": "bat"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_hen",
+				"name": "rhyming_hen",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_hen.png",
+				"w": 82.526,
+				"h": 63.77,
+				"shape": "",
+				"color": "",
+				"rhyme": "den"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_hill",
+				"name": "rhyming_hill",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_hill.png",
+				"w": 82.943,
+				"h": 37.095,
+				"shape": "",
+				"color": "",
+				"rhyme": "bill"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_hip",
+				"name": "rhyming_hip",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_hip.png",
+				"w": 82.526,
+				"h": 82.11,
+				"shape": "",
+				"color": "",
+				"rhyme": "hip"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_hook",
+				"name": "rhyming_hook",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_hook.png",
+				"w": 44.598,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "book"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_hop",
+				"name": "rhyming_hop",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_hop.png",
+				"w": 43.347,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "hop"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_hut",
+				"name": "rhyming_hut",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_hut.png",
+				"w": 83.36,
+				"h": 63.77,
+				"shape": "",
+				"color": "",
+				"rhyme": "hut"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_jet",
+				"name": "rhyming_jet",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_jet.png",
+				"w": 82.526,
+				"h": 38.762,
+				"shape": "",
+				"color": "",
+				"rhyme": "jet"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_lad",
+				"name": "rhyming_lad",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_lad.png",
+				"w": 42.097,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "dad"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_jog",
+				"name": "rhyming_jog",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_jog.png",
+				"w": 64.604,
+				"h": 82.11,
+				"shape": "",
+				"color": "",
+				"rhyme": "dog"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_jug",
+				"name": "rhyming_jug",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_jug.png",
+				"w": 69.189,
+				"h": 83.36,
+				"shape": "",
+				"color": "",
+				"rhyme": "bug"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_king",
+				"name": "rhyming_king",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_king.png",
+				"w": 39.179,
+				"h": 83.36,
+				"shape": "",
+				"color": "",
+				"rhyme": "king"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_kit",
+				"name": "rhyming_kit",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_kit.png",
+				"w": 66.688,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "kit"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_cook",
+				"name": "rhyming_cook",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_cook.png",
+				"w": 82.943,
+				"h": 46.265,
+				"shape": "",
+				"color": "",
+				"rhyme": "book"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_leg",
+				"name": "rhyming_leg",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_leg.png",
+				"w": 74.19,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "egg"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_lip",
+				"name": "rhyming_lip",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_lip.png",
+				"w": 83.777,
+				"h": 39.179,
+				"shape": "",
+				"color": "",
+				"rhyme": "hip"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_log",
+				"name": "rhyming_log",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_log.png",
+				"w": 82.943,
+				"h": 23.758,
+				"shape": "",
+				"color": "",
+				"rhyme": "dog"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_man",
+				"name": "rhyming_man",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_man.png",
+				"w": 32.51,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "can"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_map",
+				"name": "rhyming_map",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_map.png",
+				"w": 82.943,
+				"h": 35.428,
+				"shape": "",
+				"color": "",
+				"rhyme": "cap"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_mat",
+				"name": "rhyming_mat",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_mat.png",
+				"w": 82.943,
+				"h": 42.514,
+				"shape": "",
+				"color": "",
+				"rhyme": "bat"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_men",
+				"name": "rhyming_men",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_men.png",
+				"w": 84.194,
+				"h": 77.525,
+				"shape": "",
+				"color": "",
+				"rhyme": "den"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_mop",
+				"name": "rhyming_mop",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_mop.png",
+				"w": 65.021,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "hop"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_mug",
+				"name": "rhyming_mug",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_mug.png",
+				"w": 82.11,
+				"h": 73.357,
+				"shape": "",
+				"color": "",
+				"rhyme": "bug"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_mum",
+				"name": "rhyming_mum",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_mum.png",
+				"w": 80.026,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "mum"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_net",
+				"name": "rhyming_net",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_net.png",
+				"w": 47.515,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "jet"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_nut_1",
+				"name": "rhyming_nut",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_nut_1.png",
+				"w": 83.36,
+				"h": 59.602,
+				"shape": "",
+				"color": "",
+				"rhyme": "hut"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_ox",
+				"name": "rhyming_ox",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_ox.png",
+				"w": 82.943,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "box"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pad",
+				"name": "rhyming_pad",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pad.png",
+				"w": 82.943,
+				"h": 80.859,
+				"shape": "",
+				"color": "",
+				"rhyme": "dad"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pan",
+				"name": "rhyming_pan",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pan.png",
+				"w": 82.943,
+				"h": 69.189,
+				"shape": "",
+				"color": "",
+				"rhyme": "can"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pen",
+				"name": "rhyming_pen",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pen.png",
+				"w": 76.691,
+				"h": 77.108,
+				"shape": "",
+				"color": "",
+				"rhyme": "den"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pet",
+				"name": "rhyming_pet",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pet.png",
+				"w": 75.024,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "jet"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pig",
+				"name": "rhyming_pig",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pig.png",
+				"w": 78.775,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "fig"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pit",
+				"name": "rhyming_pit",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pit.png",
+				"w": 83.36,
+				"h": 17.922,
+				"shape": "",
+				"color": "",
+				"rhyme": "kit"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_plum",
+				"name": "rhyming_plum",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_plum.png",
+				"w": 80.026,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "mum"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pot",
+				"name": "rhyming_pot",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pot.png",
+				"w": 82.943,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "dot"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_pup",
+				"name": "rhyming_pup",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_pup.png",
+				"w": 63.354,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "cup"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_rag",
+				"name": "rhyming_rag",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_rag.png",
+				"w": 82.943,
+				"h": 45.848,
+				"shape": "",
+				"color": "",
+				"rhyme": "bag"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_red",
+				"name": "rhyming_red",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_red.png",
+				"w": 82.526,
+				"h": 60.436,
+				"shape": "",
+				"color": "",
+				"rhyme": "bed"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_ring",
+				"name": "rhyming_ring",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_ring.png",
+				"w": 77.525,
+				"h": 82.11,
+				"shape": "",
+				"color": "",
+				"rhyme": "king"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_rub",
+				"name": "rhyming_rub",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_rub.png",
+				"w": 82.526,
+				"h": 46.682,
+				"shape": "",
+				"color": "",
+				"rhyme": "cub"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_rug",
+				"name": "rhyming_rug",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_rug.png",
+				"w": 82.943,
+				"h": 47.515,
+				"shape": "",
+				"color": "",
+				"rhyme": "bug"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_shell",
+				"name": "rhyming_shell",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_shell.png",
+				"w": 82.943,
+				"h": 73.357,
+				"shape": "",
+				"color": "",
+				"rhyme": "bell"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_ship",
+				"name": "rhyming_ship",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_ship.png",
+				"w": 82.943,
+				"h": 50.433,
+				"shape": "",
+				"color": "",
+				"rhyme": "hip"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_shop",
+				"name": "rhyming_shop",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_shop.png",
+				"w": 82.943,
+				"h": 67.938,
+				"shape": "",
+				"color": "",
+				"rhyme": "hop"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_sip",
+				"name": "rhyming_sip",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_sip.png",
+				"w": 83.36,
+				"h": 64.187,
+				"shape": "",
+				"color": "",
+				"rhyme": "hip"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_slip",
+				"name": "rhyming_slip",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_slip.png",
+				"w": 82.943,
+				"h": 74.19,
+				"shape": "",
+				"color": "",
+				"rhyme": "hip"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_stop",
+				"name": "rhyming_stop",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_stop.png",
+				"w": 49.182,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "hop"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_sun",
+				"name": "rhyming_sun",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_sun.png",
+				"w": 82.943,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "sun"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_tag",
+				"name": "rhyming_tag",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_tag.png",
+				"w": 52.517,
+				"h": 83.36,
+				"shape": "",
+				"color": "",
+				"rhyme": "bag"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_tap",
+				"name": "rhyming_tap",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_tap.png",
+				"w": 63.77,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "cap"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_ten",
+				"name": "rhyming_ten",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_ten.png",
+				"w": 76.274,
+				"h": 56.268,
+				"shape": "",
+				"color": "",
+				"rhyme": "den"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_tip",
+				"name": "rhyming_tip",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_tip.png",
+				"w": 82.943,
+				"h": 72.523,
+				"shape": "",
+				"color": "",
+				"rhyme": "hip"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_top",
+				"name": "rhyming_top",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_top.png",
+				"w": 80.859,
+				"h": 82.943,
+				"shape": "",
+				"color": "",
+				"rhyme": "hop"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_tree",
+				"name": "rhyming_tree",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_tree.png",
+				"w": 59.602,
+				"h": 71.69,
+				"shape": "",
+				"color": "",
+				"rhyme": "bee"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_tub",
+				"name": "rhyming_tub",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_tub.png",
+				"w": 82.943,
+				"h": 57.102,
+				"shape": "",
+				"color": "",
+				"rhyme": "cub"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_van",
+				"name": "rhyming_van",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_van.png",
+				"w": 82.526,
+				"h": 59.186,
+				"shape": "",
+				"color": "",
+				"rhyme": "can"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_well",
+				"name": "rhyming_well",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_well.png",
+				"w": 64.187,
+				"h": 82.526,
+				"shape": "",
+				"color": "",
+				"rhyme": "bell"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_wet",
+				"name": "rhyming_wet",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_wet.png",
+				"w": 82.943,
+				"h": 80.026,
+				"shape": "",
+				"color": "",
+				"rhyme": "jet"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_wig",
+				"name": "rhyming_wig",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_wig.png",
+				"w": 82.526,
+				"h": 35.845,
+				"shape": "",
+				"color": "",
+				"rhyme": "fig"
+			},
+			{
+				"objectId": "rhyming_object_set1_large_wing",
+				"name": "rhyming_wing",
+				"imageUri": "common/rhyming_objects/rhyming_object_set1/rhyming_object_set1_large/rhyming_object_set1_large_wing.png",
+				"w": 82.943,
+				"h": 47.515,
+				"shape": "",
+				"color": "",
+				"rhyme": "king"
+			}
+		]
+	}

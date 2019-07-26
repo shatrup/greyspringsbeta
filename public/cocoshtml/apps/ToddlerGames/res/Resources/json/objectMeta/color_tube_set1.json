@@ -1,0 +1,151 @@
+{
+	"name": "color_tube_set1",
+    "type": "color_tube",
+    "suffix": "color_tube_set1_",
+    "objectList": [
+		{
+			"objectId": "color_tube_set1_tube_1",
+			"name": "color_1",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_1.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "color_tube_set1_tube_2",
+			"name": "color_2",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_2.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "color_tube_set1_tube_3",
+			"name": "color_3",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_3.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "color_tube_set1_tube_4",
+			"name": "color_4",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_4.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "color_tube_set1_tube_5",
+			"name": "color_5",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_5.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "color_tube_set1_tube_black",
+			"name": "color_black",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_black.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "black"
+		},
+		{
+			"objectId": "color_tube_set1_tube_blue",
+			"name": "color_blue",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_blue.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "blue"
+		},
+		{
+			"objectId": "color_tube_set1_tube_brown",
+			"name": "color_brown",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_brown.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "brown"
+		},
+		{
+			"objectId": "color_tube_set1_tube_green",
+			"name": "color_green",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_green.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "green"
+		},
+		{
+			"objectId": "color_tube_set1_tube_orange",
+			"name": "color_orange",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_orange.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "orange"
+		},
+		{
+			"objectId": "color_tube_set1_tube_pink",
+			"name": "color_pink",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_pink.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "pink"
+		},
+		{
+			"objectId": "color_tube_set1_tube_purple",
+			"name": "color_purple",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_purple.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "purple"
+		},
+		{
+			"objectId": "color_tube_set1_tube_red",
+			"name": "color_red",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_red.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "red"
+		},
+		{
+			"objectId": "color_tube_set1_tube_white",
+			"name": "color_white",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_white.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "white"
+		},
+		{
+			"objectId": "color_tube_set1_tube_yellow",
+			"name": "color_yellow",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_yellow.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": "yellow"
+		},
+		{
+			"objectId": "color_tube_set1_tube_blank",
+			"name": "color_yellow",
+			"imageUri": "kindergarten8/shapes_n_color/color_panorama/tube_blank.png",
+			"w": 88.778,
+			"h": 326.354,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

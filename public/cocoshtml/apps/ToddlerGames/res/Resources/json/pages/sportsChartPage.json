@@ -1,0 +1,18 @@
+{
+	"id": "alphabetChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",	
+    "panel": {
+        "clusters": [
+            {
+				"name": "alphabetChartCluster",
+                "title": "Sports Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/sportsChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

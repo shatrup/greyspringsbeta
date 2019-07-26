@@ -1,0 +1,27 @@
+{
+    "id": "PuzzleManiaQuiz",
+    "type": "PuzzleManiaQuiz",
+    "complexity": "medium",
+    "qsBgColor": "B55121",
+    "bgImg" : "common/backgrounds/background_fullbleed/background_puzzle_mania_{0}.png",      
+    "bgMusic": "caption_join_puzzle_get_new_number",
+    "question": "caption_join_puzzle_get_new_number",
+    "isFullBleed": true,
+    "sets": [
+    {
+      "id": "set_0",
+      "type": "sea_animals",
+      "objectSrc": "realworld_set_sea_animal_set1"
+    },
+    {
+      "id": "set_1",
+      "type": "sea_animals",
+      "objectSrc": "realworld_set_sea_animal_set7_large"
+    },
+    {
+      "id": "set_2",
+      "type": "sea_animals",
+      "objectSrc": "realworld_set_sea_animal_set8_large"
+    }
+  ] 
+}

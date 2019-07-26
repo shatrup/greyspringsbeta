@@ -1,0 +1,135 @@
+{
+   "name":"vehicle_parts_set8",
+   "type":"vehicles",
+   "suffix":"vehicle_parts_set8_",
+   "background":"common/backgrounds/background_fullbleed/background_car_1.png",
+   "finishSoundEffect": "effect_car_start3",
+   "partsList":[
+		{
+			"objectId": "vehicle_parts_set8_car_body",
+			"name": "car_body",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_car_body.png",
+			"w": 225.489,
+			"h": 169.221,
+			"x": 256.07937622070312,
+			"y": 120.96826171875,
+			"zorder": 10,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set8_car_shadow",
+			"name": "car_shadow",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_car_shadow.png",
+			"w": 250.497,
+			"h": 16.255,
+			"x": 256,
+			"y": 10.314640045166016,
+			"zorder": 1,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set8_car_smile",
+			"name": "car_smile",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_car_smile.png",
+			"w": 25.425,
+			"h": 25.008,
+			"x": 161.19493103027344,
+			"y": 57.94427490234375,
+			"zorder": 20,
+			"animationType": ["blink"],
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set8_head_light_1",
+			"name": "head_light",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_head_light_1.png",
+			"w": 32.51,
+			"h": 77.942,
+			"x": 139.82563781738281,
+			"y": 92.86322021484375,
+			"zorder": 20,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_head_light_1.png",
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_head_light_2.png",
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_head_light_3.png",
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_head_light_2.png"
+			],
+			"frameInterval": 0.3,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set8_tailpipe",
+			"name": "tailpipe",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_tailpipe.png",
+			"w": 26.675,
+			"h": 20.006,
+			"x": 373.45614624023438,
+			"y": 81.236244201660156,
+			"zorder": 5,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set8_tire_1",
+			"name": "tire_front",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_tire.png",
+			"type": "tyre",
+			"w": 68.355,
+			"h": 68.355,
+			"x": 206.36387634277344,
+			"y": 42.13897705078125,
+			"zorder": 20,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -40.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set8_tire_2",
+			"name": "tire_rear",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_tire.png",
+			"type": "tyre",
+			"w": 68.355,
+			"h": 68.355,
+			"x": 304.96835327148438,
+			"y": 42.13897705078125,
+			"zorder": 20,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -40.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set8_window_1",
+			"name": "window_1",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_window_1.png",
+			"w": 69.606,
+			"h": 66.271,
+			"x": 222.85302734375,
+			"y": 153.29397583007813,
+			"zorder": 20,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set8_window_2",
+			"name": "window_2",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_window_2.png",
+			"w": 92.946,
+			"h": 66.271,
+			"x": 305.003173828125,
+			"y": 153.20730590820313,
+			"zorder": 20,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_window_2_ping.png",
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_window_2_ping.png",
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_window_2_ping.png",
+				"common/vehicle_parts/vehicle_parts_set8/vehicle_parts_set8_window_2.png"
+			],
+			"frameInterval": 0.4,
+			"isShadow": true
+		}
+	]
+}

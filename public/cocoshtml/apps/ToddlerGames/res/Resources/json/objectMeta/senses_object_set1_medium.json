@@ -1,0 +1,257 @@
+{
+	"name": "senses_object_set1_medium",
+	"type": "senses",
+	"suffix": "senses_object_set1_medium_",
+	"objectList": [
+		{
+			"objectId": "senses_object_set1_medium_alarmclock",
+			"name": "alarmclock",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_alarmclock.png",
+			"w": 42.097,
+			"h": 47.515,
+			"shape": "",
+			"color": "",
+			"senses": "hear"
+		},
+		{
+			"objectId": "senses_object_set1_medium_bell",
+			"name": "bell",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_bell.png",
+			"w": 47.098,
+			"h": 37.929,
+			"shape": "",
+			"color": "",
+			"senses": "hear"
+		},
+		{
+			"objectId": "senses_object_set1_medium_binocular",
+			"name": "binocular",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_binocular.png",
+			"w": 47.098,
+			"h": 28.342,
+			"shape": "",
+			"color": "",
+			"senses": "sight"
+		},
+		{
+			"objectId": "senses_object_set1_medium_candies",
+			"name": "candies",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_candies.png",
+			"w": 47.515,
+			"h": 27.509,
+			"shape": "",
+			"color": "",
+			"senses": "taste"
+		},
+		{
+			"objectId": "senses_object_set1_medium_baby",
+			"name": "baby",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_baby.png",
+			"w": 28.759,
+			"h": 46.682,
+			"shape": "",
+			"color": "",
+			"senses": "touch"
+		},
+		{
+			"objectId": "senses_object_set1_medium_coffee",
+			"name": "coffee",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_coffee.png",
+			"w": 7.919,
+			"h": 11.254,
+			"shape": "",
+			"color": "",
+			"senses": "smell"
+		},
+		{
+			"objectId": "senses_object_set1_medium_cookies",
+			"name": "cookies",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_cookies.png",
+			"w": 47.098,
+			"h": 25.008,
+			"shape": "",
+			"color": "",
+			"senses": "taste"
+		},
+		{
+			"objectId": "senses_object_set1_medium_donut",
+			"name": "donut",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_donut.png",
+			"w": 46.682,
+			"h": 46.682,
+			"shape": "",
+			"color": "",
+			"senses": "taste"
+		},
+		{
+			"objectId": "senses_object_set1_medium_fire",
+			"name": "fire",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_fire.png",
+			"w": 42.514,
+			"h": 45.848,
+			"shape": "",
+			"color": "",
+			"senses": "touch"
+		},
+		{
+			"objectId": "senses_object_set1_medium_flower",
+			"name": "flower",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_flower.png",
+			"w": 42.93,
+			"h": 47.098,
+			"shape": "",
+			"color": "",
+			"senses": "smell"
+		},
+		{
+			"objectId": "senses_object_set1_medium_football",
+			"name": "football",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_football.png",
+			"w": 47.515,
+			"h": 47.515,
+			"shape": "",
+			"color": "",
+			"senses": "touch"
+		},
+		{
+			"objectId": "senses_object_set1_medium_ice",
+			"name": "ice",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_ice.png",
+			"w": 10.837,
+			"h": 11.254,
+			"shape": "",
+			"color": "",
+			"senses": "touch"
+		},
+		{
+			"objectId": "senses_object_set1_medium_icecream",
+			"name": "icecream",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_icecream.png",
+			"w": 25.842,
+			"h": 47.098,
+			"shape": "",
+			"color": "",
+			"senses": "taste"
+		},
+		{
+			"objectId": "senses_object_set1_medium_lollypop",
+			"name": "lollypop",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_lollypop.png",
+			"w": 28.759,
+			"h": 47.098,
+			"shape": "",
+			"color": "",
+			"senses": "taste"
+		},
+		{
+			"objectId": "senses_object_set1_medium_magnifying_glass",
+			"name": "glass",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_magnifying_glass.png",
+			"w": 26.258,
+			"h": 46.682,
+			"shape": "",
+			"color": "",
+			"senses": "sight"
+		},
+		{
+			"objectId": "senses_object_set1_medium_newspaper",
+			"name": "newspaper",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_newspaper.png",
+			"w": 42.93,
+			"h": 46.682,
+			"shape": "",
+			"color": "",
+			"senses": "sight"
+		},
+		{
+			"objectId": "senses_object_set1_medium_perfume",
+			"name": "perfume",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_perfume.png",
+			"w": 33.344,
+			"h": 47.098,
+			"shape": "",
+			"color": "",
+			"senses": "smell"
+		},
+		{
+			"objectId": "senses_object_set1_medium_radio",
+			"name": "radio",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_radio.png",
+			"w": 46.682,
+			"h": 46.682,
+			"shape": "",
+			"color": "",
+			"senses": "hear"
+		},
+		{
+			"objectId": "senses_object_set1_medium_rainbow",
+			"name": "rainbow",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_rainbow.png",
+			"w": 47.098,
+			"h": 24.591,
+			"shape": "",
+			"color": "",
+			"senses": "sight"
+		},
+		{
+			"objectId": "senses_object_set1_medium_soup",
+			"name": "hotsoup",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_soup.png",
+			"w": 46.682,
+			"h": 37.095,
+			"shape": "",
+			"color": "",
+			"senses": "smell"
+		},
+		{
+			"objectId": "senses_object_set1_medium_soup1",
+			"name": "hotsoup",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_soup1.png",
+			"w": 47.515,
+			"h": 37.929,
+			"shape": "",
+			"color": "",
+			"senses": "smell"
+		},
+		{
+			"objectId": "senses_object_set1_medium_speaker",
+			"name": "speaker",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_speaker.png",
+			"w": 40.43,
+			"h": 47.932,
+			"shape": "",
+			"color": "",
+			"senses": "hear"
+		},
+		{
+			"objectId": "senses_object_set1_medium_telephone",
+			"name": "telephone",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_telephone.png",
+			"w": 41.263,
+			"h": 46.682,
+			"shape": "",
+			"color": "",
+			"senses": "hear"
+		},
+		{
+			"objectId": "senses_object_set1_medium_television",
+			"name": "television",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_television.png",
+			"w": 37.512,
+			"h": 46.682,
+			"shape": "",
+			"color": "",
+			"senses": "sight"
+		},
+		{
+			"objectId": "senses_object_set1_medium_water",
+			"name": "water",
+			"imageUri": "common/senses/senses_object_set1/senses_object_set1_medium/senses_object_set1_medium_water.png",
+			"w": 47.515,
+			"h": 47.515,
+			"shape": "",
+			"color": "",
+			"senses": "touch"
+		}
+	]
+}

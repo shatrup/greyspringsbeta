@@ -1,0 +1,19 @@
+{
+    "id": "BingoQuizV2",
+    "type": "BingoQuizV2",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "fruit_name",
+      "type": "fruit",
+      "bgMusic": "caption_touch_all_blocks_object_{0}",
+      "question": "caption_touch_all_blocks_object_format",      
+      "objectSrc": "realworld_set_fruit_set32",
+      "bgImg": "common/scenes/scene171/background.png",
+      "customKey1": "name",
+      "customKey3": "quizchrome_set1_juicer",
+	  "isFullBleed": true
+    }
+  ] 
+}

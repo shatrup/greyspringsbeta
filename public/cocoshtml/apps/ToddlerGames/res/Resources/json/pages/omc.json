@@ -1,0 +1,115 @@
+{
+	"title": "Old McDonald",
+	"bgaudio": "kindergarten8/rhymes/audio/omc/omc.mp3",
+	"bgimage": "kindergarten8/rhymes/images/omc/background.png",
+	"lyrics": "json/lyrics/omc.lrc",
+	"objects": [
+		{
+			"x": 113,
+			"y": 476,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"image": "cow.png",
+			"position": "absolute",
+			"sound": "kindergarten8/rhymes/audio/omc/moo.mp3",
+			"animation": "wiggle"
+		},
+		{
+			"x": 625,
+			"y": 364,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"image": "dog.png",
+			"sound": "kindergarten8/rhymes/audio/omc/bark.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 855,
+			"y": 372,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"sound": "kindergarten8/rhymes/audio/omc/horse.mp3",
+			"image": "horse.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 788,
+			"y": 66,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"sound": "kindergarten8/rhymes/audio/omc/whistles.mp3",
+			"image": "mac.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 448,
+			"y": 244,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"sound": "kindergarten8/rhymes/audio/omc/hen.mp3",
+			"image": "hen.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 547,
+			"y": 244,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"sound": "kindergarten8/rhymes/audio/omc/rooster.mp3",
+			"image": "cock.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 10,
+			"y": 330,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"sound": "kindergarten8/rhymes/audio/omc/pig.mp3",
+			"image": "pig.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1100,
+			"y": 330,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"sound": "kindergarten8/rhymes/audio/common/sheep.mp3",
+			"image": "sheep.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 617,
+			"y": 7,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "sun.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 106,
+			"y": 144,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 580,
+			"y": 151,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"image": "cloude3.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 976,
+			"y": 7,
+			"dir": "kindergarten8/rhymes/images/omc/",
+			"image": "cloude4.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		}
+	]
+}

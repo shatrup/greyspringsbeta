@@ -1,0 +1,61 @@
+{
+    "name": "symbols_math_set2",
+    "type": "",
+    "suffix": "symbols_math_set2_",
+    "objectList": [
+        {
+            "objectId": "symbols_math_set2_addition",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set2/symbol_set2_addition.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set2_equal",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set2/symbol_set2_equal.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set2_subtraction",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set2/symbol_set2_subtraction.png",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set2_greater",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set2/symbol_set2_greater_than.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set2_less",
+            "name": "",
+            "imageUri": "common/symbols/symbol_set2/symbol_set2_less_than.png",
+            "w": 47.52,
+            "h": 47.52,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_set2_mod",
+            "name": "_mod",
+            "imageUri": "common/symbols/symbol_set2/symbol_set2_mod.png",
+            "w": 29.593,
+            "h": 46.682,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

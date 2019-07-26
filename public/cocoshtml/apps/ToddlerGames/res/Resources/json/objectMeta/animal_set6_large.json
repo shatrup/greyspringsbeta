@@ -1,0 +1,97 @@
+{
+	"name": "animal_set6_large",
+	"type": "animal",
+	"suffix": "animal_set6_large_",
+	"objectList": [
+		{
+			"objectId": "animal_set6_large_cow",
+			"name": "animal_cow",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_cow.png",
+			"w": 82.943,
+			"h": 52.517,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_lion",
+			"name": "animal_lion",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_lion.png",
+			"w": 76.274,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_sheep",
+			"name": "animal_sheep",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_sheep.png",
+			"w": 82.11,
+			"h": 66.688,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_elephant",
+			"name": "animal_elephant",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_elephant.png",
+			"w": 82.11,
+			"h": 55.851,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_dog",
+			"name": "animal_dog",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_dog.png",
+			"w": 82.11,
+			"h": 54.601,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_rhino",
+			"name": "animal_rhino",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_rhino.png",
+			"w": 82.526,
+			"h": 51.266,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_mouse",
+			"name": "animal_mouse",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_mouse.png",
+			"w": 82.11,
+			"h": 63.354,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_cat",
+			"name": "animal_cat",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_cat.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_pig",
+			"name": "animal_pig",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_pig.png",
+			"w": 82.11,
+			"h": 57.518,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set6_large_rabbit",
+			"name": "animal_rabbit",
+			"imageUri": "common/animals/animal_set6/animal_set6_large/animal_set6_large_rabbit.png",
+			"w": 45.014,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		}		
+	]
+}

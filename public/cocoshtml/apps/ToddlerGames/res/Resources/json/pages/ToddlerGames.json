@@ -1,0 +1,16 @@
+
+{
+	"id": "ToddlerGames",
+    "title": "ms-resource:PageTitle_ToddlerGames",
+	"bgAudio": "/audio/home.mp3",
+    "panel": {
+        "clusters": [		
+			{
+			    "name": "quizCluster",
+                "title": "quizCluster",
+                "type": "ClusterControl",
+                "requestUri": "json/pages/ToddlerGamesQuizCluster.json"
+			}		
+     ]
+    }
+}

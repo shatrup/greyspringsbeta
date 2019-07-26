@@ -1,0 +1,697 @@
+{
+    "name": "coloring_pano_object",
+    "type": "",
+    "suffix": "coloring_pano_object_",
+    "objectList": [
+    {
+		"objectId": "coloring_pano_object_a1",
+		"name": "coloring_pano_object_a1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_a/object_a1.png",
+		"w": 439.307,
+		"h": 247.162,
+		"alphabet": "a",
+		"phonic": "alphabet_phonic_a",
+		"audioId": "alphabet_object_aeroplane"
+	},
+	{
+		"objectId": "coloring_pano_object_a2",
+		"name": "coloring_pano_object_a2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_a/object_a2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "a",
+		"phonic": "alphabet_phonic_a",
+		"audioId": "alphabet_object_alligator"
+	},
+	{
+		"objectId": "coloring_pano_object_a3",
+		"name": "coloring_pano_object_a3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_a/object_a3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "a",
+		"phonic": "alphabet_phonic_a",
+		"audioId": "alphabet_object_apple"
+	},
+	{
+		"objectId": "coloring_pano_object_b1",
+		"name": "coloring_pano_object_b1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_b/object_b1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "b",
+		"phonic": "alphabet_phonic_b",
+		"audioId": "alphabet_object_ball"
+	},
+	{
+		"objectId": "coloring_pano_object_b2",
+		"name": "coloring_pano_object_b2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_b/object_b2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "b",
+		"phonic": "alphabet_phonic_b",
+		"audioId": "alphabet_object_bee"
+	},
+	{
+		"objectId": "coloring_pano_object_b3",
+		"name": "coloring_pano_object_b3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_b/object_b3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "b",
+		"phonic": "alphabet_phonic_b",
+		"audioId": "word_balloons"
+	},
+	{
+		"objectId": "coloring_pano_object_c1",
+		"name": "coloring_pano_object_c1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_c/object_c1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "c",
+		"phonic": "alphabet_phonic_c",
+		"audioId": "alphabet_object_car"
+	},
+	{
+		"objectId": "coloring_pano_object_c2",
+		"name": "coloring_pano_object_c2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_c/object_c2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "c",
+		"phonic": "alphabet_phonic_c",
+		"audioId": "alphabet_object_cat"
+	},
+	{
+		"objectId": "coloring_pano_object_c3",
+		"name": "coloring_pano_object_c3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_c/object_c3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "c",
+		"phonic": "alphabet_phonic_c",
+		"audioId": "alphabet_object_cow"
+	},
+	{
+		"objectId": "coloring_pano_object_d1",
+		"name": "coloring_pano_object_d1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_d/object_d1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "d",
+		"phonic": "alphabet_phonic_d",
+		"audioId": "alphabet_object_dog"
+	},
+	{
+		"objectId": "coloring_pano_object_d2",
+		"name": "coloring_pano_object_d2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_d/object_d2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "d",
+		"phonic": "alphabet_phonic_d",
+		"audioId": "alphabet_object_duck"
+	},
+	{
+		"objectId": "coloring_pano_object_d3",
+		"name": "coloring_pano_object_d3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_d/object_d3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "d",
+		"phonic": "alphabet_phonic_d",
+		"audioId": "animal_deer"
+	},
+	{
+		"objectId": "coloring_pano_object_e1",
+		"name": "coloring_pano_object_e1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_e/object_e1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "e",
+		"phonic": "alphabet_phonic_e",
+		"audioId": "alphabet_object_elephant"
+	},
+	{
+		"objectId": "coloring_pano_object_e2",
+		"name": "coloring_pano_object_e2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_e/object_e2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "e",
+		"phonic": "alphabet_phonic_e",
+		"audioId": "alphabet_object_egg"
+	},
+	{
+		"objectId": "coloring_pano_object_e3",
+		"name": "coloring_pano_object_e3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_e/object_e3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "e",
+		"phonic": "alphabet_phonic_e",
+		"audioId": "alphabet_object_eskimo"
+	},
+	{
+		"objectId": "coloring_pano_object_f1",
+		"name": "coloring_pano_object_f1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_f/object_f1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "f",
+		"phonic": "alphabet_phonic_f",
+		"audioId": "alphabet_object_fox"
+	},
+	{
+		"objectId": "coloring_pano_object_f2",
+		"name": "coloring_pano_object_f2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_f/object_f2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "f",
+		"phonic": "alphabet_phonic_f",
+		"audioId": "alphabet_object_frog"
+	},
+	{
+		"objectId": "coloring_pano_object_f3",
+		"name": "coloring_pano_object_f3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_f/object_f3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "f",
+		"phonic": "alphabet_phonic_f",
+		"audioId": "alphabet_object_fish"
+	},
+	{
+		"objectId": "coloring_pano_object_g1",
+		"name": "coloring_pano_object_g1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_g/object_g1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "g",
+		"phonic": "alphabet_phonic_g",
+		"audioId": "alphabet_object_giraffe"
+	},
+	{
+		"objectId": "coloring_pano_object_g2",
+		"name": "coloring_pano_object_g2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_g/object_g2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "g",
+		"phonic": "alphabet_phonic_g",
+		"audioId": "alphabet_object_guitar"
+	},
+	{
+		"objectId": "coloring_pano_object_g3",
+		"name": "coloring_pano_object_g3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_g/object_g3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "g",
+		"phonic": "alphabet_phonic_g",
+		"audioId": "animal_goat"
+	},
+	{
+		"objectId": "coloring_pano_object_h1",
+		"name": "coloring_pano_object_h1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_h/object_h1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "h",
+		"phonic": "alphabet_phonic_h",
+		"audioId": "alphabet_object_hen"
+	},
+	{
+		"objectId": "coloring_pano_object_h2",
+		"name": "coloring_pano_object_h2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_h/object_h2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "h",
+		"phonic": "alphabet_phonic_h",
+		"audioId": "alphabet_object_hat"
+	},
+	{
+		"objectId": "coloring_pano_object_h3",
+		"name": "coloring_pano_object_h3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_h/object_h3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "h",
+		"phonic": "alphabet_phonic_h",
+		"audioId": "alphabet_object_horse"
+	},
+{
+		"objectId": "coloring_pano_object_i1",
+		"name": "coloring_pano_object_i1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_i/object_i1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "i",
+		"phonic": "alphabet_phonic_i",
+		"audioId": "alphabet_object_ice"
+	},
+	{
+		"objectId": "coloring_pano_object_i2",
+		"name": "coloring_pano_object_i2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_i/object_i2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "i",
+		"phonic": "alphabet_phonic_i",
+		"audioId": "alphabet_object_igloo"
+	},
+	{
+		"objectId": "coloring_pano_object_j1",
+		"name": "coloring_pano_object_j1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_j/object_j1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "j",
+		"phonic": "alphabet_phonic_j",
+		"audioId": "alphabet_object_joker"
+	},
+	{
+		"objectId": "coloring_pano_object_j2",
+		"name": "coloring_pano_object_j2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_j/object_j2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "j",
+		"phonic": "alphabet_phonic_j",
+		"audioId": "alphabet_object_jug"
+	},
+	{
+		"objectId": "coloring_pano_object_k1",
+		"name": "coloring_pano_object_k1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_k/object_k1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "k",
+		"phonic": "alphabet_phonic_k",
+		"audioId": "animal_kangaroo"
+	},
+	{
+		"objectId": "coloring_pano_object_k2",
+		"name": "coloring_pano_object_k2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_k/object_k2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "k",
+		"phonic": "alphabet_phonic_k",
+		"audioId": "alphabet_object_kite"
+	},
+	{
+		"objectId": "coloring_pano_object_k3",
+		"name": "coloring_pano_object_k3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_k/object_k3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "k",
+		"phonic": "alphabet_phonic_k",
+		"audioId": "alphabet_object_koala"
+	},
+	{
+		"objectId": "coloring_pano_object_l1",
+		"name": "coloring_pano_object_l1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_l/object_l1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "l",
+		"phonic": "alphabet_phonic_l",
+		"audioId": "alphabet_object_ladybug"
+	},
+	{
+		"objectId": "coloring_pano_object_l2",
+		"name": "coloring_pano_object_l2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_l/object_l2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "l",
+		"phonic": "alphabet_phonic_l",
+		"audioId": "alphabet_object_lion"
+	},
+	{
+		"objectId": "coloring_pano_object_l3",
+		"name": "coloring_pano_object_l3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_l/object_l3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "l",
+		"phonic": "alphabet_phonic_l",
+		"audioId": "alphabet_object_lamp"
+	},
+	{
+		"objectId": "coloring_pano_object_m1",
+		"name": "coloring_pano_object_m1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_m/object_m1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "m",
+		"phonic": "alphabet_phonic_m",
+		"audioId": "alphabet_object_mango"
+	},
+	{
+		"objectId": "coloring_pano_object_m2",
+		"name": "coloring_pano_object_m2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_m/object_m2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "m",
+		"phonic": "alphabet_phonic_m",
+		"audioId": "alphabet_object_mouse"
+	},
+	{
+		"objectId": "coloring_pano_object_m3",
+		"name": "coloring_pano_object_m3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_m/object_m3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "m",
+		"phonic": "alphabet_phonic_m",
+		"audioId": "alphabet_object_moon"
+	},
+	{
+		"objectId": "coloring_pano_object_n1",
+		"name": "coloring_pano_object_n1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_n/object_n1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "n",
+		"phonic": "alphabet_phonic_n",
+		"audioId": "alphabet_object_nest"
+	},
+	{
+		"objectId": "coloring_pano_object_n2",
+		"name": "coloring_pano_object_n2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_n/object_n2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "n",
+		"phonic": "alphabet_phonic_n",
+		"audioId": "alphabet_object_nut"
+	},
+	{
+		"objectId": "coloring_pano_object_o1",
+		"name": "coloring_pano_object_o1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_o/object_o1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "o",
+		"phonic": "alphabet_phonic_o",
+		"audioId": "alphabet_object_orange"
+	},
+	{
+		"objectId": "coloring_pano_object_o2",
+		"name": "coloring_pano_object_o2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_o/object_o2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "o",
+		"phonic": "alphabet_phonic_o",
+		"audioId": "alphabet_object_owl"
+	},
+	{
+		"objectId": "coloring_pano_object_o3",
+		"name": "coloring_pano_object_o3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_o/object_o3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "o",
+		"phonic": "alphabet_phonic_o",
+		"audioId": "alphabet_object_octopus"
+	},
+	{
+		"objectId": "coloring_pano_object_p1",
+		"name": "coloring_pano_object_p1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_p/object_p1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "p",
+		"phonic": "alphabet_phonic_p",
+		"audioId": "alphabet_object_panda"
+	},
+	{
+		"objectId": "coloring_pano_object_p2",
+		"name": "coloring_pano_object_p2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_p/object_p2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "p",
+		"phonic": "alphabet_phonic_p",
+		"audioId": "alphabet_object_pig"
+	},
+	{
+		"objectId": "coloring_pano_object_p3",
+		"name": "coloring_pano_object_p3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_p/object_p3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "p",
+		"phonic": "alphabet_phonic_p",
+		"audioId": "alphabet_object_pineapple"
+	},
+	{
+		"objectId": "coloring_pano_object_q1",
+		"name": "coloring_pano_object_q1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_q/object_q1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "q",
+		"phonic": "alphabet_phonic_q",
+		"audioId": "alphabet_object_quilt"
+	},
+	{
+		"objectId": "coloring_pano_object_q2",
+		"name": "coloring_pano_object_q2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_q/object_q2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "q",
+		"phonic": "alphabet_phonic_q",
+		"audioId": "alphabet_object_quail"
+	},
+	{
+		"objectId": "coloring_pano_object_q3",
+		"name": "coloring_pano_object_q3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_q/object_q3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "q",
+		"phonic": "alphabet_phonic_q",
+		"audioId": "alphabet_object_queen"
+	},
+	{
+		"objectId": "coloring_pano_object_r1",
+		"name": "coloring_pano_object_r1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_r/object_r1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "r",
+		"phonic": "alphabet_phonic_r",
+		"audioId": "alphabet_object_rocket"
+	},
+	{
+		"objectId": "coloring_pano_object_r2",
+		"name": "coloring_pano_object_r2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_r/object_r2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "r",
+		"phonic": "alphabet_phonic_r",
+		"audioId": "word_radio"
+	},
+	{
+		"objectId": "coloring_pano_object_r3",
+		"name": "coloring_pano_object_r3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_r/object_r3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "r",
+		"phonic": "alphabet_phonic_r",
+		"audioId": "alphabet_object_rose"
+	},
+	{
+		"objectId": "coloring_pano_object_s1",
+		"name": "coloring_pano_object_s1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_s/object_s1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "s",
+		"phonic": "alphabet_phonic_s",
+		"audioId": "alphabet_object_sunflowers"
+	},
+	{
+		"objectId": "coloring_pano_object_s2",
+		"name": "coloring_pano_object_s2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_s/object_s2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "s",
+		"phonic": "alphabet_phonic_s",
+		"audioId": "alphabet_object_sun"
+	},
+	{
+		"objectId": "coloring_pano_object_s3",
+		"name": "coloring_pano_object_s3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_s/object_s3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "s",
+		"phonic": "alphabet_phonic_s",
+		"audioId": "alphabet_object_sheep"
+	},
+	{
+		"objectId": "coloring_pano_object_t1",
+		"name": "coloring_pano_object_t1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_t/object_t1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "t",
+		"phonic": "alphabet_phonic_t",
+		"audioId": "alphabet_object_table"
+	},
+	{
+		"objectId": "coloring_pano_object_t2",
+		"name": "coloring_pano_object_t2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_t/object_t2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "t",
+		"phonic": "alphabet_phonic_t",
+		"audioId": "animal_turtle"
+	},
+	{
+		"objectId": "coloring_pano_object_u1",
+		"name": "coloring_pano_object_u1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_u/object_u1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "u",
+		"phonic": "alphabet_phonic_u",
+		"audioId": "alphabet_object_unicorn"
+	},
+	{
+		"objectId": "coloring_pano_object_u2",
+		"name": "coloring_pano_object_u2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_u/object_u2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "u",
+		"phonic": "alphabet_phonic_u",
+		"audioId": "alphabet_object_umbrella"
+	},
+	{
+		"objectId": "coloring_pano_object_v1",
+		"name": "coloring_pano_object_v1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_v/object_v1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "v",
+		"phonic": "alphabet_phonic_v",
+		"audioId": "alphabet_object_vegetables"
+	},
+	{
+		"objectId": "coloring_pano_object_v2",
+		"name": "coloring_pano_object_v2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_v/object_v2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "v",
+		"phonic": "alphabet_phonic_v",
+		"audioId": "alphabet_object_violin"
+	},
+	{
+		"objectId": "coloring_pano_object_v3",
+		"name": "coloring_pano_object_v3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_v/object_v3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "v",
+		"phonic": "alphabet_phonic_v",
+		"audioId": "alphabet_object_van"
+	},
+	{
+		"objectId": "coloring_pano_object_w1",
+		"name": "coloring_pano_object_w1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_w/object_w1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "w",
+		"phonic": "alphabet_phonic_w",
+		"audioId": "animal_whale"
+	},
+	{
+		"objectId": "coloring_pano_object_w2",
+		"name": "coloring_pano_object_w2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_w/object_w2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "w",
+		"phonic": "alphabet_phonic_w",
+		"audioId": "alphabet_object_watch"
+	},
+	{
+		"objectId": "coloring_pano_object_w3",
+		"name": "coloring_pano_object_w3",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_w/object_w3.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "w",
+		"phonic": "alphabet_phonic_w",
+		"audioId": "alphabet_object_watermelon"
+	},
+	{
+		"objectId": "coloring_pano_object_x1",
+		"name": "coloring_pano_object_x1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_x/object_x1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "x",
+		"phonic": "alphabet_phonic_x",
+		"audioId": "alphabet_object_xylophone"
+	},
+	{
+		"objectId": "coloring_pano_object_y1",
+		"name": "coloring_pano_object_y1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_y/object_y1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "y",
+		"phonic": "alphabet_phonic_y",
+		"audioId": "alphabet_object_yacht"
+	},
+	{
+		"objectId": "coloring_pano_object_y2",
+		"name": "coloring_pano_object_y2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_y/object_y2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "y",
+		"phonic": "alphabet_phonic_y",
+		"audioId": "alphabet_object_yak"
+	},
+	{
+		"objectId": "coloring_pano_object_z1",
+		"name": "coloring_pano_object_z1",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_z/object_z1.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "z",
+		"phonic": "alphabet_phonic_z",
+		"audioId": "alphabet_object_zoo"
+	},
+	{
+		"objectId": "coloring_pano_object_z2",
+		"name": "coloring_pano_object_z2",
+		"imageUri": "pano_coloring_app/alphabet_objects/objects_z/object_z2.png",
+		"w": 310.933,
+		"h": 247.162,
+		"alphabet": "z",
+		"phonic": "alphabet_phonic_z",
+		"audioId": "alphabet_object_zebra"
+	}
+    ]
+}

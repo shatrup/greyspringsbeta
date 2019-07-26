@@ -1,0 +1,34 @@
+{
+    "id": "MissingObjectsQuiz",
+    "type": "MissingObjectsQuiz",
+    "question": "caption_match_cards",
+    "bgMusic": "caption_match_cards",
+    "complexity": "high",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "name": "set_1",
+      "bgImg" : "common/backgrounds/background_fullbleed/memory_game_background.png",
+      "objectSrc": "realworld_set_memory_game_set_1",
+      "customKey1": "common/scenes/scene178/fruit_back_1.png",
+      "customKey2": "fruit_back_1",
+      "qsBgColor": "805224"
+    },
+    {
+      "name": "set_2",
+      "bgImg" : "common/backgrounds/background_fullbleed/memory_game_background.png",
+      "objectSrc": "realworld_set_memory_game_set_2",
+      "customKey1": "common/scenes/scene178/ice_cream_back_1.png",
+      "customKey2": "ice_cream_back_1",
+      "qsBgColor": "805224"
+    },
+    {
+      "name": "set_3",
+      "bgImg" : "common/backgrounds/background_fullbleed/background_christmas.png",
+      "objectSrc": "realworld_set_christmas_set1_xx_large",
+      "customKey1": "common/theme/christmas_set_1/christmas_set1_xx_large/christmas_set1_xx_large_christmas_back_1.png",
+      "customKey2": "christmas_set1_xx_large_christmas_back_1",
+      "qsBgColor": "805224"
+    }
+    ]
+}

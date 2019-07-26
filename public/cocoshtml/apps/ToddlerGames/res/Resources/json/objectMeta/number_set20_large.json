@@ -1,0 +1,196 @@
+{
+    "name": "number_set20_large",
+    "type": "numbers",
+    "suffix": "number_set20_large_",
+    "objectList": [
+        {
+            "objectId": "number_set20_large_0",
+            "name": "_0",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_0.png",
+            "w": 56.268,
+            "h": 82.526,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_1",
+            "name": "_1",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_1.png",
+            "w": 39.596,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_10",
+            "name": "_10",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_10.png",
+            "w": 82.943,
+            "h": 56.268,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_11",
+            "name": "_11",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_11.png",
+            "w": 82.943,
+            "h": 58.769,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_12",
+            "name": "_12",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_12.png",
+            "w": 82.943,
+            "h": 56.268,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_13",
+            "name": "_13",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_13.png",
+            "w": 82.943,
+            "h": 56.685,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_14",
+            "name": "_14",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_14.png",
+            "w": 82.943,
+            "h": 55.018,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_15",
+            "name": "_15",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_15.png",
+            "w": 82.943,
+            "h": 56.268,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_16",
+            "name": "_16",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_16.png",
+            "w": 83.36,
+            "h": 56.685,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_17",
+            "name": "_17",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_17.png",
+            "w": 82.943,
+            "h": 56.685,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_18",
+            "name": "_18",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_18.png",
+            "w": 82.943,
+            "h": 56.268,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_19",
+            "name": "_19",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_19.png",
+            "w": 82.943,
+            "h": 56.268,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_2",
+            "name": "_2",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_2.png",
+            "w": 57.935,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_20",
+            "name": "_20",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_20.png",
+            "w": 82.943,
+            "h": 52.934,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_3",
+            "name": "_3",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_3.png",
+            "w": 56.685,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_4",
+            "name": "_4",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_4.png",
+            "w": 63.354,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_5",
+            "name": "_5",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_5.png",
+            "w": 57.935,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_6",
+            "name": "_6",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_6.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_7",
+            "name": "_7",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_7.png",
+            "w": 57.102,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_8",
+            "name": "_8",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_8.png",
+            "w": 57.518,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set20_large_9",
+            "name": "_9",
+            "imageUri": "common/numbers/number_set20/number_set20_large/number_set20_large_9.png",
+            "w": 57.935,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

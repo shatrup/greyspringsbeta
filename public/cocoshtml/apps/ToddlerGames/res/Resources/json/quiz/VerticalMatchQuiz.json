@@ -1,0 +1,20 @@
+{
+    "id": "VerticalMatchQuiz",
+    "type": "VerticalMatchQuiz",
+    "complexity": "medium",
+    "qsBgColor": "727AA1",
+    "bgImg" : "common/backgrounds/background_fullbleed/background_crossword.png", 
+    "bgMusic": "caption_join_pieces_learn_word",
+    "question": "caption_join_pieces_learn_word",
+    "sets": [
+    {
+      "id": "set_3",
+      "type": "english",
+      "bgMusic": "caption_join_pieces_learn_word",
+      "question": "caption_join_pieces_learn_word",
+      "objectSrc": "realworld_set_english_object_set1_large",
+      "customKey1": "word_basics",
+      "isFullBleed": true
+    }
+  ] 
+}

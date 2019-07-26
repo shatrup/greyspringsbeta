@@ -1,0 +1,18 @@
+{
+    "id": "AquariumNumberAddQuiz",
+    "type": "AquariumNumberAddQuiz",
+    "complexity": "medium",
+    "qsBgColor": "229FC8",
+    "bgImg" : "potsprite://scene/?id=RealWorldScene_141",
+    "bgMusic": "caption_add_fishes_jar_find_sum",
+    "question": "caption_add_fishes_jar_find_sum",
+    "isFullBleed": true,
+    "sets": [
+    {
+      "id": "set_1",
+      "type": "sea_animals",
+      "objectSrc": "realworld_set_sea_animal_set9_medium",
+      "excludeObjectIds": ["sea_animal_set9_medium_fish_white"]
+    }
+  ] 
+}

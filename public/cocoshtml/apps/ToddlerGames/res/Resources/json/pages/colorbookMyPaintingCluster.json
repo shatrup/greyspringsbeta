@@ -1,0 +1,90 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+					{
+					"type": "colorCategoryTitle",
+					"data": {
+						"title": "ms-resource:MyPaintings_Title"
+					}
+				},
+				   {
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						 "clicktarget": "appprotocol://page?id=colorbookPage&imgid=62&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						"clicktarget": "appprotocol://page?id=colorbookPage&imgid=63&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						"clicktarget": "appprotocol://page?id=colorbookPage&imgid=68&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						"clicktarget": "appprotocol://page?id=colorbookPage&imgid=69&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						"clicktarget": "appprotocol://page?id=colorbookPage&imgid=71&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						"clicktarget": "appprotocol://page?id=colorbookPage&imgid=74&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						"clicktarget": "appprotocol://page?id=colorbookPage&imgid=76&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "myPaintingTemplate",
+					"data" : {
+						"image": "",
+						 "clicktarget": "appprotocol://page?id=colorbookPage&imgid=79&layout=vertical",
+						"title": ""
+					}
+				},
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsMyPaintingsPage"
+					}
+				}
+			]
+		}
+	]
+}

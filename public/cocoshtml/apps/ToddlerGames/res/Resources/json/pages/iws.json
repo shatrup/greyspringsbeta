@@ -1,0 +1,106 @@
+{
+	"title": "Incy wincy spider",
+	"bgaudio": "kindergarten8/rhymes/audio/iws/iws.mp3",
+	"bgimage": "kindergarten8/rhymes/images/iws/background.png",
+	"lyrics": "Itsy witsy spider, \n Climbed up the water spout.\n Down came the rain, \n And washed the spider out. \n Up came the sun which dried up all the rain. \n The Itsy witsy spider, \n Climbed up the spout again.",
+	"objects": [
+		{
+			"x": -15,
+			"y": 105,
+			"dir": "kindergarten8/rhymes/images/iws/",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"image": "bush.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 657,
+			"y": 25,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "sun.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 713,
+			"y": 0,
+			"dir": "kindergarten8/rhymes/images/iws/",
+			"image": "house.png",
+			"position": "absolute",
+			"animation": "none"
+		},
+		{
+			"x": 841,
+			"y": 0,
+			"dir": "kindergarten8/rhymes/images/iws/",
+			"sound": "kindergarten8/rhymes/audio/iws/ws.mp3",
+			"image": "spout.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 615,
+			"y": 452,
+			"dir": "kindergarten8/rhymes/images/iws/",
+			"image": "spider.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		},
+		{
+			"x": 103,
+			"y": 420,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 144,
+			"y": 541,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 458,
+			"y": 422,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 421,
+			"y": 678,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 865,
+			"y": 689,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1183,
+			"y": 690,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant2.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 1189,
+			"y": 513,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "plant1.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		}
+	]
+}

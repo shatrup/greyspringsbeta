@@ -1,0 +1,331 @@
+{
+    "name": "animal_set3",
+    "type": "animal",
+    "suffix": "animal_set3_",
+    "objectList": [
+        {
+            "objectId": "animal_set3_bear",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_bear.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_beaver",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_beaver.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_buffalo",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_buffalo.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_bull",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_bull.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_bull_set0_bull",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_bull_set0_bull.png",
+            "w": 180.06,
+            "h": 123.79,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_camel",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_camel.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_chameleon",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_chameleon.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_cheetah",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_cheetah.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_cow",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_cow.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_coyote",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_coyote.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_deer",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_deer.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_donkey",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_donkey.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_elephant",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_elephant.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_elk",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_elk.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_ferret",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_ferret.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_frog",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_frog.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_giraffe",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_giraffe.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_goat",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_goat.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_horse",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_horse.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_koala",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_koala.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_lion",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_lion.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_moose",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_moose.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_mule_deer",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_mule_deer.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_pig",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_pig.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_polar_bear",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_polar_bear.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_rabbit",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_rabbit.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_ram",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_ram.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_rat",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_rat.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_sheep",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_sheep.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_snake",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_snake.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_squirrel",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_squirrel.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_stag",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_stag.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_tiger",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_tiger.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_tortoise",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_tortoise.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_wildebeest",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_wildebeest.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set3_zebra",
+            "name": "",
+            "imageUri": "common/animals/animal_set3/animal_set3_zebra.png",
+            "w": 82.94,
+            "h": 82.94,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

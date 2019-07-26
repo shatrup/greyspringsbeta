@@ -1,0 +1,17 @@
+{
+    "id": "CountComparisonQuiz",
+    "type": "CountComparisonQuiz",
+    "complexity": "medium",
+    "qsBgColor": "754B2A",
+    "sets": [
+    {
+      "id": "fruits",
+      "type": "fruits",
+      "bgMusic": "caption_move_{0}_{1}",
+      "question": "caption_move_x_y",      
+      "objectSrc": "realworld_set_fruit_set1",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png"
+
+    }
+  ] 
+}

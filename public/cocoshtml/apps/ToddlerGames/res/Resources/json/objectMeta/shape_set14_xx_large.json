@@ -1,0 +1,151 @@
+{
+	"name": "shape_set14_xx_large",
+	"type": "shape",
+	"suffix": "shape_set14_xx_large_",
+	"objectList": [
+		{
+			"objectId": "shape_set14_xx_large_arrow_down_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_arrow_down_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_arrow_left_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_arrow_left_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_arrow_right_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_arrow_right_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_arrow_up_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_arrow_up_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_circle_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_circle_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_diagonal_left_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_diagonal_left_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_diagonal_right_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_diagonal_right_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_horizontal_line_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_horizontal_line_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_semicircle_down_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_semicircle_down_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_semicircle_left_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_semicircle_left_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_semicircle_right_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_semicircle_right_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_semicircle_up_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_semicircle_up_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_square_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_square_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_triangle_down_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_triangle_down_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_triangle_up_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_triangle_up_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set14_xx_large_vertical_line_guide",
+			"name": "_guide",
+			"imageUri": "common/shapes/shape_set14/shape_set14_xx_large/shape_set14_xx_large_vertical_line_guide.png",
+			"w": 229.657,
+			"h": 229.657,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

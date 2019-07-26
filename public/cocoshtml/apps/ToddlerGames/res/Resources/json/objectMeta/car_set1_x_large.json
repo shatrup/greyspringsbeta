@@ -1,0 +1,91 @@
+{
+	"name": "car_set1_x_large",
+	"type": "car",
+	"suffix": "car_set1_x_large_",
+	"objectList": [
+		{
+			"objectId": "car_set1_x_large_car1",
+			"name": "car_1",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car1.png",
+			"w": 25.425,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car2",
+			"name": "car_2",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car2.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car3",
+			"name": "car_3",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car3.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car4",
+			"name": "car_4",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car4.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car5",
+			"name": "car_5",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car5.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car6",
+			"name": "car_6",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car6.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car7",
+			"name": "car_7",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car7.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car8",
+			"name": "car_8",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car8.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car9",
+			"name": "car_9",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car9.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car10",
+			"name": "car_10",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car10.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car11",
+			"name": "car_11",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car11.png",
+			"w": 27.092,
+			"h": 52.1
+		},
+		{
+			"objectId": "car_set1_x_large_car12",
+			"name": "car_12",
+			"imageUri": "common/cars/car_set1_x_large/car_set1_x_large_car12.png",
+			"w": 27.092,
+			"h": 52.1
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/animalsTile400x800.jpg",
+						"title": "ms-resource:Animals_Tile",
+						"clicktarget" : "appprotocol://page?id=colorsAnimalsPage"
+						
+					}
+				},
+				 {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/58.png",
+                        "title": "Mouse",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=58&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/59.png",
+                        "title": "Turtle",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=59&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/60.png",
+                        "title": "Bears",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=60&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/61.png",
+                        "title": "Crab",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=61&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                       "image": "/data/colors/thumbnails/62.png",
+                        "title": "Fish",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=62&layout=vertical"
+                    }
+                },
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsAnimalsPage"
+						
+					}
+				}
+			]
+		}
+	]
+}

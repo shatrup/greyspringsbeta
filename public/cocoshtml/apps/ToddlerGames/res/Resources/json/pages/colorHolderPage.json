@@ -1,0 +1,14 @@
+{
+	"id": "colorHolderPage",
+    "title": "Color Book",
+    "panel": {
+        "clusters": [
+            {
+				"name": "colorHolderCluster",
+                "title": "Color Book",
+                "type": "ClusterControl",
+                "requestUri": "/data/pageJson/colorHolderCluster.json"
+            }
+        ]
+    }
+}

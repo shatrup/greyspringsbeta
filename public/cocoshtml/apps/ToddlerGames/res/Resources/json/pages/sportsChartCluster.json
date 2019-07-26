@@ -1,0 +1,101 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Sports Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_SportsChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/baseball.png",
+						"text": "Baseball",
+						"clicktarget" : "ms-audio://data/sports/audio/baseball.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/basketball.png",
+						"text": "Basketball",
+						"clicktarget" : "ms-audio://data/sports/audio/basketball.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/cricket.png",
+						"text": "Cricket",
+						"clicktarget" : "ms-audio://data/sports/audio/cricket.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/football.png",
+						"text": "Football",
+						"clicktarget" : "ms-audio://data/sports/audio/football.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/jumping.png",
+						"text": "jumping",
+						"clicktarget" : "ms-audio://data/sports/audio/jumping.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/lawn_tennis.png",
+						"text": "Lawn Tennis",
+						"clicktarget" : "ms-audio://data/sports/audio/lawn_tennis.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/racing.png",
+						"text": "Racing",
+						"clicktarget" : "ms-audio://data/sports/audio/racing.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/swimming.png",
+						"text": "Swimming",
+						"clicktarget" : "ms-audio://data/sports/audio/swimming.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/table_tennis.png",
+						"text": "Table Tennis",
+						"clicktarget" : "ms-audio://data/sports/audio/table_tennis.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/sports/images/weight_lifting.png",
+						"text": "Weight Lifting",
+						"clicktarget" : "ms-audio://data/sports/audio/weight_lifting.mp3"
+					}
+				}
+			]
+		}
+	]
+}

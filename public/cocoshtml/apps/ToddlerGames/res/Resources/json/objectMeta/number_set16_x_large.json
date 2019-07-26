@@ -1,0 +1,128 @@
+{
+	"name": "number_set16_x_large",
+	"type": "number",
+	"suffix": "number_set16_x_large_",
+	"objectList": [
+		{
+			"objectId": "number_set16_x_large_0",
+			"name": "number_0",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_0.png",
+			"text": "0",
+			"w": 106.284,
+			"h": 134.21,
+			"shape": "",
+			"color": "",
+            "audioId": "number_0"
+		},
+		{
+			"objectId": "number_set16_x_large_1",
+			"name": "number_1",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_1.png",
+			"text": "1",
+			"w": 155.883,
+			"h": 133.376,
+			"shape": "",
+			"color": "",
+            "audioId": "number_1"
+		},
+		{
+			"objectId": "number_set16_x_large_2",
+			"name": "number_2",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_2.png",
+			"text": "2",
+			"w": 135.877,
+			"h": 133.376,
+			"shape": "",
+			"color": "",
+            "audioId": "number_2"
+		},
+		{
+			"objectId": "number_set16_x_large_3",
+			"name": "number_3",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_3.png",
+			"text": "3",
+			"w": 164.636,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_3"
+		},
+		{
+			"objectId": "number_set16_x_large_4",
+			"name": "number_4",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_4.png",
+			"text": "4",
+			"w": 104.617,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_4"
+		},
+		{
+			"objectId": "number_set16_x_large_5",
+			"name": "number_5",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_5.png",
+			"text": "5",
+			"w": 132.126,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_5"
+		},
+		{
+			"objectId": "number_set16_x_large_6",
+			"name": "number_6",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_6.png",
+			"text": "6",
+			"w": 123.373,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_6"
+		},
+		{
+			"objectId": "number_set16_x_large_7",
+			"name": "number_7",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_7.png",
+			"text": "7",
+			"w": 115.87,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_7"
+		},
+		{
+			"objectId": "number_set16_x_large_8",
+			"name": "number_8",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_8.png",
+			"text": "8",
+			"w": 158.384,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_8"
+		},
+		{
+			"objectId": "number_set16_x_large_9",
+			"name": "number_9",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_9.png",
+			"text": "9",
+			"w": 90.029,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_9"
+		},
+		{
+			"objectId": "number_set16_x_large_10",
+			"name": "number_10",
+			"imageUri": "common/numbers/number_set16/number_set16_x_large/number_set16_x_large_10.png",
+			"text": "10",
+			"w": 225.072,
+			"h": 134.626,
+			"shape": "",
+			"color": "",
+            "audioId": "number_10"
+		}
+	]
+}

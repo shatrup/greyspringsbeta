@@ -1,0 +1,52 @@
+{
+    "name": "symbols_math_button_set0",
+    "type": "",
+    "suffix": "symbols_math_button_set0_",
+    "objectList": [
+        {
+            "objectId": "symbols_math_button_set0_addition",
+            "name": "",
+            "imageUri": "potsprite://symbol_math_button/?id=addition",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_button_set0_equal",
+            "name": "",
+            "imageUri": "potsprite://symbol_math_button/?id=equal",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_button_set0_subtraction",
+            "name": "",
+            "imageUri": "potsprite://symbol_math_button/?id=subtraction",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_button_set0_greater",
+            "name": "",
+            "imageUri": "potsprite://symbol_math_button/?id=greater",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "symbols_math_button_set0_less",
+            "name": "",
+            "imageUri": "potsprite://symbol_math_button/?id=less",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

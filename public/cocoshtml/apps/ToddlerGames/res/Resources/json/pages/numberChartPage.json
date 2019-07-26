@@ -1,0 +1,18 @@
+{
+	"id": "numberChartPage",
+    "title": "",
+	"bgAudio": "/audio/home.mp3",		
+    "panel": {
+        "clusters": [
+            {
+				"name": "numberChartCluster",
+                "title": "Numbers Chart",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/numberChartCluster.json",
+				"options": {
+					"isBleed": true
+				}
+			}
+        ]
+    }
+}

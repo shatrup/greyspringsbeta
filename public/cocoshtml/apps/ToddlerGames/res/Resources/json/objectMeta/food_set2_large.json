@@ -1,0 +1,79 @@
+{
+	"name": "food_set2_large",
+	"type": "food",
+	"suffix": "food_set2_large_",
+	"objectList": [
+		{
+			"objectId": "food_set2_large_cake",
+			"name": "word_cake",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_cake.png",
+			"w": 82.943,
+			"h": 78.775,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_large_cold_drink",
+			"name": "word_eatables_drink",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_cold_drink.png",
+			"w": 42.93,
+			"h": 85.027,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_large_cotton_candy",
+			"name": "word_candy",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_cotton_candy.png",
+			"w": 79.609,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_large_donut",
+			"name": "word_eatables_donut",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_donut.png",
+			"w": 82.943,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_large_french_fries",
+			"name": "word_eatables_fries",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_french_fries.png",
+			"w": 65.021,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_large_ice_cream",
+			"name": "word_icecream",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_ice_cream.png",
+			"w": 62.52,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_large_pastry",
+			"name": "word_eatables_pastry",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_pastry.png",
+			"w": 82.943,
+			"h": 79.609,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_large_popcorn",
+			"name": "word_eatables_popcorn",
+			"imageUri": "common/foods/food_set2/food_set2_large/food_set2_large_popcorn.png",
+			"w": 57.518,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

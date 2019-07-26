@@ -1,0 +1,20 @@
+{
+    "id": "SequenceCrawlQuiz",
+    "type": "SequenceCrawlQuiz",
+    "complexity": "medium",
+    "qsBgColor": "003366",
+    "sets": [
+    {
+      "id": "sequence_alphabet",
+      "type": "alphabet",
+      "bgImg" : "common/backgrounds/background_fullbleed/background_morning_fullbleed.png",      
+      "bgMusic": "caption_touch_caterpillar_find_missing_letters",
+      "question": "caption_touch_caterpillar_find_missing_letters",      
+      "objectSrc": "realworld_set_alphabet_set1",
+      "customKey1": "alphabet",
+      "customKey2": "",
+	  "isFullBleed": true
+    }
+
+  ] 
+}

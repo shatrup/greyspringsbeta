@@ -1,0 +1,57 @@
+{
+    "name": "connect_dots_animal_set1",
+    "type": "vehicle",
+    "suffix": "connect_dots_animal_set1_",
+    "objectList": [
+		{
+			"objectId": "connect_dots_animal_set1_bear",
+			"name": "animal_bear",
+			"w": 287.592,
+			"h": 320.102,
+			"imageUri": "common/animation/animal/bear/bear_frame_1.png",
+			"frameformat": "common/animation/animal/bear/bear_frame_{0}.png",
+			"noofframes": 7,
+			"audioId": "sound_of_bear"
+		},
+		{
+			"objectId": "connect_dots_animal_set1_tiger",
+			"name": "animal_tiger",
+			"w": 223.405,
+			"h": 270.086,
+			"imageUri": "common/animation/animal/tiger/tiger_frame_1.png",	
+			"frameformat": "common/animation/animal/tiger/tiger_frame_{0}.png",
+			"noofframes": 6,
+			"audioId": "sound_of_tiger"
+		},
+		{
+			"objectId": "connect_dots_animal_set1_elephant",
+			"name": "animal_elephant",
+			"w": 319.686,
+			"h": 209.234,
+			"imageUri": "kindergarten8/animals/animal_panorama_chart/elephant_1.png",
+			"frameformat": "kindergarten8/animals/animal_panorama_chart/elephant_{0}.png",
+			"noofframes": 2,
+			"audioId": "sound_of_elephant"
+		},
+		{
+			"objectId": "connect_dots_animal_set1_giraffe",
+			"name": "animal_giraffe",
+			"w": 165.053,
+			"h": 333.023,
+			"imageUri": "kindergarten8/animals/animal_panorama_chart/giraffe_1.png",
+			"frameformat": "kindergarten8/animals/animal_panorama_chart/giraffe_{0}.png",
+			"noofframes": 2,
+			"audioId": ""
+		},
+		{
+			"objectId": "connect_dots_animal_set1_rhyno",
+			"name": "animal_rhyno",
+			"w": 249.246,
+			"h": 152.549,
+			"imageUri": "kindergarten8/animals/animal_panorama_chart/rhyno_1.png",
+			"frameformat": "kindergarten8/animals/animal_panorama_chart/rhyno_{0}.png",
+			"noofframes": 2,
+			"audioId": ""
+		}
+    ]
+}

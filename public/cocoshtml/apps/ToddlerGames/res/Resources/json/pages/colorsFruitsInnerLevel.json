@@ -1,0 +1,102 @@
+{
+    "id": "AnimalsCluster",
+    "title": "Color Images",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+				
+             {
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/47.png",
+						"title": "PEACHES",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=47&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/48.png",
+						"title": "PEAR",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=48&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/49.png",
+						"title": "PINEAPPLE",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=49&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/50.png",
+						"title": "BERRIES",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=50&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/51.png",
+						"title": "PEACH",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=51&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/52.png",
+						"title": "STRAWBERRIES",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=52&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/53.png",
+						"title": "WATERMELON",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=53&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/54.png",
+						"title": "LEMON",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=54&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/55.png",
+						"title": "APPLE",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=55&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/56.png",
+						"title": "GRAPES",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=56&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/57.png",
+						"title": "BANANA",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=57&layout=vertical"
+					}
+				}
+				
+            ]
+        }
+    ]
+}

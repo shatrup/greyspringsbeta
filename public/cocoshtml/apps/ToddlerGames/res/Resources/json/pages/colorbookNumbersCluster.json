@@ -1,0 +1,68 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/NumbersTile400x800.jpg",
+						"title": "ms-resource:Numbers_Title",
+						"clicktarget" : "appprotocol://page?id=colorsNumbersPage"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/27.png",
+						"title": "One",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=27&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/28.png",
+						"title": "Two",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=28&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/29.png",
+						"title": "Three",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=29&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/30.png",
+						"title": "Four",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=30&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/31.png",
+						"title": "Five",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=31&layout=vertical"
+					}
+				},
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsNumbersPage"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "GamesHolderCluster",
+    "title": "Games Book",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "HomeTilesListViewBlockV5",
+            "data": [
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ConnectTheDots_ConnectTheDotsV2",
+                    "data": {
+                        "image": "common/tiles/tile_connect_the_dots/tile_christmas_category.png",
+                        "titleImg": "",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDotsV2,set=6}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ConnectTheDots_ConnectTheDotsV2",
+                    "data": {
+                        "image": "common/tiles/tile_connect_the_dots/tile_vegetables_category.png",
+                        "titleImg": "",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDotsV2,set=5}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ConnectTheDots_ConnectTheDotsV2",
+                    "data": {
+                        "image": "common/tiles/tile_connect_the_dots/tile_shapes_category.png",
+	                    "titleImg": "",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDotsV2,set=3}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ConnectTheDots_ConnectTheDotsV2",
+                    "data": {
+                        "image": "common/tiles/tile_connect_the_dots/tile_vehicle_category.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDotsV2,set=1}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },	
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ConnectTheDots_ConnectTheDotsV2",
+                    "data": {
+                        "image": "common/tiles/tile_connect_the_dots/tile_professions_category.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDotsV2,set=4}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },	
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ConnectTheDots_ConnectTheDotsV2",
+                    "data": {
+                        "image": "common/tiles/tile_connect_the_dots/tile_animals_category.png",
+	                    "titleImg": "",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDotsV2,set=0}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "ConnectTheDots",
+                    "title": "tiletitle_ConnectTheDots_ConnectTheDotsV2",
+                    "data": {
+                        "image": "common/tiles/tile_connect_the_dots/tile_fruits_category.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=ConnectTheDotsV2,set=2}",
+                        "backgroundColor": "9E1E62"
+                    }
+                }
+            ]
+        }
+    ]
+}

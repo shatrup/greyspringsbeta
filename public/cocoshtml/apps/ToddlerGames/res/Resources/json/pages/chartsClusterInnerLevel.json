@@ -1,0 +1,96 @@
+{
+    "id": "chartsCluster",
+    "title": "Charts",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "ListViewBlock",
+            "data": [
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/vegetable_chart.png",
+                        "title": "ms-resource:GameTileTitle_VegeteblesChart",
+                        "clicktarget": "appprotocol://page?id=vegetableChartPage",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/fruit_chart.png",
+                        "title": "ms-resource:GameTileTitle_FruitsChart",
+                        "clicktarget": "appprotocol://page?id=fruitChartPage",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/animal_chart.png",
+                        "title": "ms-resource:GameTileTitle_AnimalsChart",
+                        "clicktarget": "appprotocol://page?id=animalChartPage",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/shapes_chart.png",
+                        "title": "ms-resource:GameTileTitle_ShapesChart",
+                        "clicktarget": "appprotocol://page?id=shapesChartPage",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/sports_chart.png",
+                        "title": "ms-resource:GameTileTitle_SportsChart",
+                        "clicktarget": "appprotocol://page?id=sportsChartPage",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/activities_chart.png",
+                        "title": "ms-resource:GameTileTitle_ActivitiesChart",
+                        "clicktarget": "appprotocol://page?id=activitiesChartPage",
+						"backgroundColor": "F2F2F2"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/professions_chart.png",
+                        "title": "ms-resource:GameTileTitle_ProfessionsChart",
+                        "clicktarget": "appprotocol://page?id=professionsChartPage",
+						"backgroundColor": "F2F2F2",
+                        "overlayId": "kg8RateUs"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/households_chart.png",
+                        "title": "ms-resource:TileTitle_ThingsInsideHouse",
+                        "clicktarget": "appprotocol://page?id=householdChartPage",
+						"backgroundColor": "F2F2F2",
+                        "overlayId": "kg8RateUs"
+                    }
+                },
+                {
+                    "type": "largeImgTileTemplate",
+                    "data": {
+                        "image": "kindergarten8/common/images/colors_chart.png",
+                        "title": "ms-resource:TileTitle_ColorsChart",
+                        "clicktarget": "appprotocol://page?id=colorChartPage",
+						"backgroundColor": "F2F2F2",
+                        "overlayId": "kg8RateUs"
+                    }
+                }				
+            ]
+        }
+    ]
+}

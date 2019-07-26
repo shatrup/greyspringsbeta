@@ -1,0 +1,30 @@
+{
+  "id":"MatchTheShadowActivity",
+  "type":"MatchTheShadowActivity",
+  "bgMusic":"caption_match_picture_{0}",
+  "question":"caption_match_picture_{0}",
+  "bgImg":"common/backgrounds/background_fullbleed/background_mountains.png",
+  "complexity":"low",
+  "qsBgColor":"60C0CC",
+  "isFullBleed":true,
+  "sets":[
+    {
+      "id":"alphabet_set_1",
+      "name":"alphabet_set_1",
+      "objectSrc":"realworld_set_alphabet_set9_medium",
+      "type": "timer_based",
+      "customKey1":"oneToMany",
+      "customKey2":"right_shadow",
+      "customKey3":"time_based"
+    },
+    {
+      "id":"alphabet_set_2",
+      "name":"alphabet_set_2",
+      "objectSrc":"realworld_set_alphabet_set25_medium",
+      "type": "iteration_count_based",
+      "customKey1":"oneToMany",
+      "customKey2":"right_shadow",
+      "customKey3":"time_based"
+    }
+  ]
+}

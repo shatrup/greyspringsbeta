@@ -1,0 +1,96 @@
+{
+    "quizList": [			
+	{
+		"id": "ChristmasTreeDecorationQuiz",
+		"unlockConstraint": "none"
+	},	
+	{
+		"id": "HalloweenQuiz",
+		"unlockConstraint": "none",
+		"sets":["set1"]
+	},	
+	{
+		"id": "ThemesInteractionQuiz",
+		"unlockConstraint": "none",
+		"sets":["set1", "set2"]
+	},	
+	{
+		"id": "MusicInstrumentQuiz",
+		"unlockConstraint": "none"
+	},	
+	{
+		"id": "BalloonPopUnlimitedQuiz",
+		"unlockConstraint": "none"
+	},
+	{
+		"id": "BalloonPopUnlimitedQuizV2",
+		"unlockConstraint": "none"
+	},	
+	{
+		"id": "BalloonPopUnlimitedQuizV3",
+		"unlockConstraint": "none"
+	},		
+	{
+        "id": "BubbleCatchQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "RainingFruitsQuiz",
+        "unlockConstraint": "none",
+		"sets": ["fruit_color"]
+    },	
+	{
+        "id": "MumAndBabyQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "SeaWonderQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+		"id": "BalloonPopV2Quiz",
+		"unlockConstraint": "none"
+	},
+	{
+		"id": "ColorTheObjectsQuizV3",
+		"unlockConstraint": "none"
+	},
+	{
+        "id": "HungryFrogV3Quiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "LearnToWriteV5",
+        "unlockConstraint": "none"
+    },		
+	{
+		"id": "MatchTheShadow",
+		"unlockConstraint": "none",
+        "sets": ["alphabets_set_one_peg_one_hole", "numbers_set_one_peg_one_hole", "alphabets_set_one_peg_two_hole", "numbers_set_one_peg_two_hole"]
+	},
+	{
+        "id": "HangingFruitsQuiz",
+        "unlockConstraint": "none",
+		"sets": ["fruit_color"]
+    },
+	{
+        "id": "ScratchToRevealQuiz",
+        "unlockConstraint": "none",
+		"sets": ["shape_name_scratch", "image_scratch_ping", "number_name_scratch", "fruit_name_scratch"]
+    },
+	{
+        "id": "ColorFunQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "UnderwaterCatchQuiz",
+        "unlockConstraint": "none"
+    },
+	{
+        "id": "JigsawV2Quiz",
+        "unlockConstraint": "none",
+		"sets":["animal_1"]
+    }
+    ]
+}
+

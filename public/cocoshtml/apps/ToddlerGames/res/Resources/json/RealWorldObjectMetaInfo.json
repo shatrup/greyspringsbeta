@@ -1,0 +1,1465 @@
+{
+    "name": "RealWorldObjectMetaInfo",
+    "typesList": [
+        {
+            "name": "fruit_set1_large",
+            "objectSrc": "objectMeta/fruit_set1_large.json"
+        },
+		{
+            "name": "fruit_set1",
+            "objectSrc": "objectMeta/fruit_set1.json"
+        },
+        {
+            "name": "fruit_set2",
+            "objectSrc": "objectMeta/fruit_set2.json"
+        },
+        {
+            "name": "fruit_set3_large",
+            "objectSrc": "objectMeta/fruit_set3_large.json"
+        },
+        {
+            "name": "fruit_set4_large",
+            "objectSrc": "objectMeta/fruit_set4_large.json"
+        },
+        {
+            "name": "fruit_set5_large",
+            "objectSrc": "objectMeta/fruit_set5_large.json"
+        },
+        {
+            "name": "fruit_set6_large",
+            "objectSrc": "objectMeta/fruit_set6_large.json"
+        },
+        {
+            "name": "fruit_set7_large",
+            "objectSrc": "objectMeta/fruit_set7_large.json"
+        },
+        {
+            "name": "fruit_set8_large",
+            "objectSrc": "objectMeta/fruit_set8_large.json"
+        },
+        {
+            "name": "fruit_set15_xx_large",
+            "objectSrc": "objectMeta/fruit_set15_xx_large.json"
+        },
+        {
+            "name": "fruit_set30_large",
+            "objectSrc": "objectMeta/fruit_set30_large.json"
+        },
+        {
+            "name": "fruit_set30_xx_large",
+            "objectSrc": "objectMeta/fruit_set30_xx_large.json"
+        },
+        {
+            "name": "fruit_set31_large",
+            "objectSrc": "objectMeta/fruit_set31_large.json"
+        },
+        {
+            "name": "fruit_set31_medium",
+            "objectSrc": "objectMeta/fruit_set31_medium.json"
+        },
+        {
+            "name": "fruit_set31_small",
+            "objectSrc": "objectMeta/fruit_set31_small.json"
+        },
+        {
+            "name": "fruit_set31_x_large",
+            "objectSrc": "objectMeta/fruit_set31_x_large.json"
+        },
+        {
+            "name": "fruit_set31_xx_large",
+            "objectSrc": "objectMeta/fruit_set31_xx_large.json"
+        },
+		{
+            "name": "fruit_set35",
+            "objectSrc": "objectMeta/fruit_set35.json"
+        },		
+        {
+            "name": "vegetable_set1",
+            "objectSrc": "objectMeta/vegetable_set1.json"
+        },
+        {
+            "name": "vegetable_set2_large",
+            "objectSrc": "objectMeta/vegetable_set2_large.json"
+        },
+        {
+            "name": "vegetable_set3_large",
+            "objectSrc": "objectMeta/vegetable_set3_large.json"
+        },
+        {
+            "name": "color_set1",
+            "objectSrc": "objectMeta/color_set1.json"
+        },
+        {
+            "name": "color_set2_large",
+            "objectSrc": "objectMeta/color_set2_large.json"
+        },
+        {
+            "name": "color_set2_xx_large",
+            "objectSrc": "objectMeta/color_set2_xx_large.json"
+        },
+		{
+			"name": "color_set3_large",
+			"objectSrc": "objectMeta/color_set3_large.json"
+		},
+        {
+            "name": "color_set3_xx_large",
+            "objectSrc": "objectMeta/color_set3_xx_large.json"
+        },
+        {
+            "name": "color_set50",
+            "objectSrc": "objectMeta/color_set50.json"
+        },
+        {
+            "name": "color_flowerplant_set0",
+            "objectSrc": "objectMeta/color_flowerplant_set0.json"
+        },
+        {
+            "name": "coloring_pano_object",
+            "objectSrc": "objectMeta/coloring_pano_object.json"
+        },
+        {
+            "name": "coloring_pano_thumbnail",
+            "objectSrc": "objectMeta/coloring_pano_thumbnail.json"
+        },
+        {
+            "name": "animal_set1",
+            "objectSrc": "objectMeta/animal_set1.json"
+        },
+        {
+            "name": "animal_set2",
+            "objectSrc": "objectMeta/animal_set2.json"
+        },
+        {
+            "name": "animal_set3",
+            "objectSrc": "objectMeta/animal_set3.json"
+        },
+        {
+            "name": "animal_animation_set1",
+            "objectSrc": "objectMeta/animal_animation_set1.json"
+        },		
+        {
+            "name": "animal_set4_xx_large",
+            "objectSrc": "objectMeta/animal_set4_xx_large.json"
+        },
+		{
+            "name": "animal_set4_large",
+            "objectSrc": "objectMeta/animal_set4_large.json"
+        },
+		{
+            "name": "animal_set5_large",
+            "objectSrc": "objectMeta/animal_set5_large.json"
+        },
+		{
+            "name": "animal_set5_x_large",
+            "objectSrc": "objectMeta/animal_set5_x_large.json"
+        },
+		{
+            "name": "animal_set5_xx_large",
+            "objectSrc": "objectMeta/animal_set5_xx_large.json"
+        },
+        {
+            "name": "animal_set10",
+            "objectSrc": "objectMeta/animal_set10.json"
+        },
+        {
+            "name": "animal_set13",
+            "objectSrc": "objectMeta/animal_set13.json"
+        },		
+        {
+            "name": "animal_scene193_baby",
+            "objectSrc": "objectMeta/animal_scene193_baby.json"
+        },
+        {
+            "name": "animal_scene193_mum",
+            "objectSrc": "objectMeta/animal_scene193_mum.json"
+        },
+        {
+            "name": "number_set1",
+            "objectSrc": "objectMeta/number_set1.json"
+        },
+        {
+            "name": "number_set2",
+            "objectSrc": "objectMeta/number_set2.json"
+        },
+        {
+            "name": "number_set3",
+            "objectSrc": "objectMeta/number_set3.json"
+        },
+        {
+            "name": "number_set4",
+            "objectSrc": "objectMeta/number_set4.json"
+        },
+        {
+            "name": "number_set5",
+            "objectSrc": "objectMeta/number_set5.json"
+        },
+        {
+            "name": "number_set6_large",
+            "objectSrc": "objectMeta/number_set6_large.json"
+        },
+		{
+			"name": "playground_arrangements",
+			"objectSrc": "objectMeta/playground_arrangements.json"
+		},
+        {
+            "name": "number_set8_x_large",
+            "objectSrc": "objectMeta/number_set8_x_large.json"
+        },
+		{
+            "name": "number_set10_large",
+            "objectSrc": "objectMeta/number_set10_large.json"
+        },
+        {
+            "name": "number_set11_large",
+            "objectSrc": "objectMeta/number_set11_large.json"
+        },
+		{
+            "name": "number_set13_medium",
+            "objectSrc": "objectMeta/number_set13_medium.json"
+        },
+		{
+            "name": "number_set13_large",
+            "objectSrc": "objectMeta/number_set13_large.json"
+        },
+        {
+            "name": "number_set14_x_large",
+            "objectSrc": "objectMeta/number_set14_x_large.json"
+        },
+        {
+            "name": "number_set15_large",
+            "objectSrc": "objectMeta/number_set15_large.json"
+        },
+        {
+            "name": "number_set16_large",
+            "objectSrc": "objectMeta/number_set16_large.json"
+        },
+        {
+            "name": "number_set16_x_large",
+            "objectSrc": "objectMeta/number_set16_x_large.json"
+        },
+        {
+            "name": "number_set16_xx_large",
+            "objectSrc": "objectMeta/number_set16_xx_large.json"
+        },
+        {
+            "name": "number_set17",
+            "objectSrc": "objectMeta/number_set17.json"
+        },
+		{
+			"name": "number_set20_medium",
+			"objectSrc": "objectMeta/number_set20_medium.json"
+		},	
+        {
+            "name": "number_set20_large",
+            "objectSrc": "objectMeta/number_set20_large.json"
+        },
+        {
+            "name": "number_set20_medium",
+            "objectSrc": "objectMeta/number_set20_medium.json"
+        },
+        {
+            "name": "number_set20_small",
+            "objectSrc": "objectMeta/number_set20_small.json"
+        },
+        {
+            "name": "number_set20_x_large",
+            "objectSrc": "objectMeta/number_set20_x_large.json"
+        },
+        {
+            "name": "number_set24_x_large",
+            "objectSrc": "objectMeta/number_set24_x_large.json"
+        },
+        {
+            "name": "number_set27_x_large",
+            "objectSrc": "objectMeta/number_set27_xx_large.json"
+        },		
+        {
+            "name": "number_set25_x_large",
+            "objectSrc": "objectMeta/number_set25_x_large.json"
+        },
+        {
+            "name": "number_set20_xx_large",
+            "objectSrc": "objectMeta/number_set20_xx_large.json"
+        },
+        {
+            "name": "number_set28_large",
+            "objectSrc": "objectMeta/number_set28_large.json"
+        },
+        {
+            "name": "number_set29_large",
+            "objectSrc": "objectMeta/number_set29_large.json"
+        },
+        {
+            "name": "number_bubble_set0",
+            "objectSrc": "objectMeta/number_bubble_set0.json"
+        },
+        {
+            "name": "number_circle_set0",
+            "objectSrc": "objectMeta/number_circle_set0.json"
+        },
+        {
+            "name": "number_circle_set1",
+            "objectSrc": "objectMeta/number_circle_set1.json"
+        },
+        {
+            "name": "number_circle_set6_large",
+            "objectSrc": "objectMeta/number_circle_set6_large.json"
+        },
+        {
+            "name": "number_balloon_set0",
+            "objectSrc": "objectMeta/number_balloon_set0.json"
+        },
+        {
+            "name": "number_balloon_set1",
+            "objectSrc": "objectMeta/number_balloon_set1.json"
+        },
+        {
+            "name": "number_balloon_set2",
+            "objectSrc": "objectMeta/number_balloon_set2.json"
+        },
+        {
+            "name": "number_ufo_set0",
+            "objectSrc": "objectMeta/number_ufo_set0.json"
+        },
+        {
+            "name": "number_spaceship_set0",
+            "objectSrc": "objectMeta/number_spaceship_set0.json"
+        },
+        {
+            "name": "alphabet_balloon_set0",
+            "objectSrc": "objectMeta/alphabet_balloon_set0.json"
+        },
+        {
+            "name": "alphabet_balloon_set1",
+            "objectSrc": "objectMeta/alphabet_balloon_set1.json"
+        },
+        {
+            "name": "alphabet_balloon_set2",
+            "objectSrc": "objectMeta/alphabet_balloon_set2.json"
+        },
+        {
+            "name": "alphabet_ufo_set0",
+            "objectSrc": "objectMeta/alphabet_ufo_set0.json"
+        },
+        {
+            "name": "alphabet_spaceship_set0",
+            "objectSrc": "objectMeta/alphabet_spaceship_set0.json"
+        },
+        {
+            "name": "number_woodenlog_set0",
+            "objectSrc": "objectMeta/number_woodenlog_set0.json"
+        },
+        {
+            "name": "alphabet_woodenlog_set0",
+            "objectSrc": "objectMeta/alphabet_woodenlog_set0.json"
+        },
+        {
+            "name": "alphabet_bubble_set0",
+            "objectSrc": "objectMeta/alphabet_bubble_set0.json"
+        },
+        {
+            "name": "alphabet_bubble_set1",
+            "objectSrc": "objectMeta/alphabet_bubble_set1.json"
+        },
+        {
+            "name": "color_balloon_set0",
+            "objectSrc": "objectMeta/color_balloon_set0.json"
+        },
+        {
+            "name": "color_balloon_set1",
+            "objectSrc": "objectMeta/color_balloon_set1.json"
+        },
+        {
+            "name": "color_bug_set0",
+            "objectSrc": "objectMeta/color_bug_set0.json"
+        },
+        {
+            "name": "color_bug_set1",
+            "objectSrc": "objectMeta/color_bug_set1.json"
+        },
+        {
+            "name": "color_bug_set2",
+            "objectSrc": "objectMeta/color_bug_set2.json"
+        },
+        {
+            "name": "color_bug_set3",
+            "objectSrc": "objectMeta/color_bug_set3.json"
+        },
+        {
+            "name": "alphabet_set1",
+            "objectSrc": "objectMeta/alphabet_set1.json"
+        },
+        {
+            "name": "alphabet_set2",
+            "objectSrc": "objectMeta/alphabet_set2.json"
+        },
+        {
+            "name": "alphabet_set3",
+            "objectSrc": "objectMeta/alphabet_set3.json"
+        },
+        {
+            "name": "alphabet_set4_large",
+            "objectSrc": "objectMeta/alphabet_set4_large.json"
+        },
+        {
+            "name": "alphabet_set4_medium",
+            "objectSrc": "objectMeta/alphabet_set4_medium.json"
+        },
+        {
+            "name": "alphabet_set4_small",
+            "objectSrc": "objectMeta/alphabet_set4_small.json"
+        },
+        {
+            "name": "alphabet_set4_xx_large",
+            "objectSrc": "objectMeta/alphabet_set4_xx_large.json"
+        },
+        {
+            "name": "alphabet_set4_x_large",
+            "objectSrc": "objectMeta/alphabet_set4_x_large.json"
+        },
+        {
+            "name": "alphabet_set5_large",
+            "objectSrc": "objectMeta/alphabet_set5_large.json"
+        },
+        {
+            "name": "alphabet_set5_medium",
+            "objectSrc": "objectMeta/alphabet_set5_medium.json"
+        },
+        {
+            "name": "alphabet_set5_small",
+            "objectSrc": "objectMeta/alphabet_set5_small.json"
+        },
+        {
+            "name": "alphabet_set5_xx_large",
+            "objectSrc": "objectMeta/alphabet_set5_xx_large.json"
+        },
+        {
+            "name": "alphabet_set5_x_large",
+            "objectSrc": "objectMeta/alphabet_set5_x_large.json"
+        },
+        {
+            "name": "alphabet_set6_large",
+            "objectSrc": "objectMeta/alphabet_set6_large.json"
+        },
+        {
+            "name": "alphabet_set6_medium",
+            "objectSrc": "objectMeta/alphabet_set6_medium.json"
+        },
+        {
+            "name": "alphabet_set6_small",
+            "objectSrc": "objectMeta/alphabet_set6_small.json"
+        },
+        {
+            "name": "alphabet_set6_xx_large",
+            "objectSrc": "objectMeta/alphabet_set6_xx_large.json"
+        },
+        {
+            "name": "alphabet_set6_x_large",
+            "objectSrc": "objectMeta/alphabet_set6_x_large.json"
+        },
+        {
+            "name": "alphabet_set7_large",
+            "objectSrc": "objectMeta/alphabet_set7_large.json"
+        },
+        {
+            "name": "alphabet_set7_medium",
+            "objectSrc": "objectMeta/alphabet_set7_medium.json"
+        },
+        {
+            "name": "alphabet_set7_small",
+            "objectSrc": "objectMeta/alphabet_set7_small.json"
+        },
+        {
+            "name": "alphabet_set7_xx_large",
+            "objectSrc": "objectMeta/alphabet_set7_xx_large.json"
+        },
+        {
+            "name": "alphabet_set7_x_large",
+            "objectSrc": "objectMeta/alphabet_set7_x_large.json"
+        },
+        {
+            "name": "alphabet_set8_large",
+            "objectSrc": "objectMeta/alphabet_set8_large.json"
+        },
+        {
+            "name": "alphabet_set8_medium",
+            "objectSrc": "objectMeta/alphabet_set8_medium.json"
+        },
+        {
+            "name": "alphabet_set8_small",
+            "objectSrc": "objectMeta/alphabet_set8_small.json"
+        },
+        {
+            "name": "alphabet_set8_xx_large",
+            "objectSrc": "objectMeta/alphabet_set8_xx_large.json"
+        },
+        {
+            "name": "alphabet_set8_x_large",
+            "objectSrc": "objectMeta/alphabet_set8_x_large.json"
+        },
+		{
+            "name": "alphabet_set9_medium",
+            "objectSrc": "objectMeta/alphabet_set9_medium.json"
+        },
+		{
+            "name": "alphabet_set9_large",
+            "objectSrc": "objectMeta/alphabet_set9_large.json"
+        },
+        {
+            "name": "alphabet_set10_small",
+            "objectSrc": "objectMeta/alphabet_set10_small.json"
+        },
+        {
+            "name": "alphabet_set10_medium",
+            "objectSrc": "objectMeta/alphabet_set10_medium.json"
+        },
+        {
+            "name": "alphabet_set10_large",
+            "objectSrc": "objectMeta/alphabet_set10_large.json"
+        },
+        {
+            "name": "alphabet_set10_x_large",
+            "objectSrc": "objectMeta/alphabet_set10_x_large.json"
+        },
+        {
+            "name": "alphabet_set10_xx_large",
+            "objectSrc": "objectMeta/alphabet_set10_xx_large.json"
+        },
+		{
+            "name": "alphabet_set11_small",
+            "objectSrc": "objectMeta/alphabet_set11_small.json"
+        },	
+        {
+            "name": "alphabet_set11_large",
+            "objectSrc": "objectMeta/alphabet_set11_large.json"
+        },
+        {
+            "name": "alphabet_set11_x_large",
+            "objectSrc": "objectMeta/alphabet_set11_x_large.json"
+        },		
+        {
+            "name": "alphabet_set11_medium",
+            "objectSrc": "objectMeta/alphabet_set11_medium.json"
+        },	
+		{
+            "name": "alphabet_set14_x_large",
+            "objectSrc": "objectMeta/alphabet_set14_x_large.json"
+        },		
+		{
+            "name": "alphabet_set15_x_large",
+            "objectSrc": "objectMeta/alphabet_set15_x_large.json"
+        },		
+		{
+            "name": "alphabet_set16_x_large",
+            "objectSrc": "objectMeta/alphabet_set16_x_large.json"
+        },	
+		{
+            "name": "alphabet_set17_x_large",
+            "objectSrc": "objectMeta/alphabet_set17_x_large.json"
+        },
+		{
+            "name": "alphabet_set25_large",
+            "objectSrc": "objectMeta/alphabet_set25_large.json"
+        },
+        {
+            "name": "alphabet_set26_large",
+            "objectSrc": "objectMeta/alphabet_set26_large.json"
+        },
+        {
+            "name": "alphabet_set26_x_large",
+            "objectSrc": "objectMeta/alphabet_set26_x_large.json"
+        },
+		{
+            "name": "alphabet_set26_xx_large",
+            "objectSrc": "objectMeta/alphabet_set26_xx_large.json"
+        },
+		{
+            "name": "alphabet_set27_xx_large",
+            "objectSrc": "objectMeta/alphabet_set27_xx_large.json"
+        },
+        {
+            "name": "alphabet_set28",
+            "objectSrc": "objectMeta/alphabet_set28.json"
+        },
+        {
+            "name": "shape_set1",
+            "objectSrc": "objectMeta/shape_set1.json"
+        },
+        {
+            "name": "shape_set2",
+            "objectSrc": "objectMeta/shape_set2.json"
+        },
+        {
+            "name": "shape_set3",
+            "objectSrc": "objectMeta/shape_set3.json"
+        },
+        {
+            "name": "shape_set3_large",
+            "objectSrc": "objectMeta/shape_set3_large.json"
+        },
+        {
+            "name": "shape_set3_xx_large",
+            "objectSrc": "objectMeta/shape_set3_xx_large.json"
+        },
+        {
+            "name": "shape_set3_x_large",
+            "objectSrc": "objectMeta/shape_set3_x_large.json"
+        },
+        {
+            "name": "shape_set4_small",
+            "objectSrc": "objectMeta/shape_set4_small.json"
+        },
+        {
+            "name": "shape_set4_medium",
+            "objectSrc": "objectMeta/shape_set4_medium.json"
+        },
+        {
+            "name": "shape_set4_large",
+            "objectSrc": "objectMeta/shape_set4_large.json"
+        },
+        {
+            "name": "shape_set4_x_large",
+            "objectSrc": "objectMeta/shape_set4_x_large.json"
+        },
+        {
+            "name": "shape_set4_xx_large",
+            "objectSrc": "objectMeta/shape_set4_xx_large.json"
+        },
+        {
+            "name": "shape_set5_xx_large",
+            "objectSrc": "objectMeta/shape_set5_xx_large.json"
+        },
+        {
+            "name": "shape_set6_small",
+            "objectSrc": "objectMeta/shape_set6_small.json"
+        },
+        {
+            "name": "shape_set6_medium",
+            "objectSrc": "objectMeta/shape_set6_medium.json"
+        },
+        {
+            "name": "shape_set6_large",
+            "objectSrc": "objectMeta/shape_set6_large.json"
+        },
+        {
+            "name": "shape_set6_x_large",
+            "objectSrc": "objectMeta/shape_set6_x_large.json"
+        },
+        {
+            "name": "shape_set6_xx_large",
+            "objectSrc": "objectMeta/shape_set6_xx_large.json"
+        },
+        {
+            "name": "shape_set7_large",
+            "objectSrc": "objectMeta/shape_set7_large.json"
+        },
+        {
+            "name": "shape_set70_large",
+            "objectSrc": "objectMeta/shape_set70_large.json"
+        },
+        {
+            "name": "shape_set8_large",
+            "objectSrc": "objectMeta/shape_set8_large.json"
+        },
+        {
+            "name": "shape_set8_x_large",
+            "objectSrc": "objectMeta/shape_set8_x_large.json"
+        },
+        {
+            "name": "shape_set8_xx_large",
+            "objectSrc": "objectMeta/shape_set8_xx_large.json"
+        },
+        {
+            "name": "shape_set80_large",
+            "objectSrc": "objectMeta/shape_set80_large.json"
+        },
+        {
+            "name": "shape_set15",
+            "objectSrc": "objectMeta/shape_set15.json"
+        },
+		{
+            "name": "shape_set11_x_large",
+            "objectSrc": "objectMeta/shape_set11_x_large.json"
+        },	
+		{
+            "name": "shape_set12_x_large",
+            "objectSrc": "objectMeta/shape_set12_x_large.json"
+        },	
+        {
+            "name": "shape_bubble_set0",
+            "objectSrc": "objectMeta/shape_bubble_set0.json"
+        },
+        {
+            "name": "jigsaw_mask_pieces",
+            "objectSrc": "objectMeta/jigsaw_mask_pieces.json"
+        },
+        {
+            "name": "beatles_set0",
+            "objectSrc": "objectMeta/beatles_set0.json"
+        },
+        {
+            "name": "sea_animal_set1",
+            "objectSrc": "objectMeta/sea_animal_set1.json"
+        },
+        {
+            "name": "sea_animal_set2",
+            "objectSrc": "objectMeta/sea_animal_set2.json"
+        },
+        {
+            "name": "sea_animal_set3",
+            "objectSrc": "objectMeta/sea_animal_set3.json"
+        },
+        {
+            "name": "sea_animal_set5_large",
+            "objectSrc": "objectMeta/sea_animal_set5_large.json"
+        },
+        {
+            "name": "sea_animal_set7_large",
+            "objectSrc": "objectMeta/sea_animal_set7_large.json"
+        },
+        {
+            "name": "sea_animal_set8_large",
+            "objectSrc": "objectMeta/sea_animal_set8_large.json"
+        },
+        {
+            "name": "sea_animal_set9_large",
+            "objectSrc": "objectMeta/sea_animal_set9_large.json"
+        },
+        {
+            "name": "sea_animal_set9_medium",
+            "objectSrc": "objectMeta/sea_animal_set9_medium.json"
+        },
+        {
+            "name": "sea_animal_set9_small",
+            "objectSrc": "objectMeta/sea_animal_set9_small.json"
+        },
+        {
+            "name": "sea_animal_set9_x_large",
+            "objectSrc": "objectMeta/sea_animal_set9_x_large.json"
+        },
+        {
+            "name": "sea_animal_set9_xx_large",
+            "objectSrc": "objectMeta/sea_animal_set9_xx_large.json"
+        },
+        {
+            "name": "sea_animal_set10_large",
+            "objectSrc": "objectMeta/sea_animal_set10_large.json"
+        },
+        {
+            "name": "sea_animal_set10_medium",
+            "objectSrc": "objectMeta/sea_animal_set10_medium.json"
+        },
+        {
+            "name": "sea_animal_set10_small",
+            "objectSrc": "objectMeta/sea_animal_set10_small.json"
+        },
+        {
+            "name": "sea_animal_set10_x_large",
+            "objectSrc": "objectMeta/sea_animal_set10_x_large.json"
+        },
+        {
+            "name": "sea_animal_set10_xx_large",
+            "objectSrc": "objectMeta/sea_animal_set10_xx_large.json"
+        },
+        {
+            "name": "rws135_apple",
+            "objectSrc": "objectMeta/rws135_apple.json"
+        },
+        {
+            "name": "star_big",
+            "objectSrc": "objectMeta/star_big.json"
+        },
+        {
+            "name": "vehicle_set1_truck",
+            "objectSrc": "objectMeta/vehicle_set1_truck.json"
+        },
+        {
+            "name": "vehicle_set2_xx_large",
+            "objectSrc": "objectMeta/vehicle_set2_xx_large.json"
+        },
+        {
+            "name": "candy_set1",
+            "objectSrc": "objectMeta/candy_set1.json"
+        },
+        {
+            "name": "candy_set2",
+            "objectSrc": "objectMeta/candy_set2.json"
+        },
+        {
+            "name": "stickers_candy_set1",
+            "objectSrc": "objectMeta/stickers_candy_set1.json"
+        },
+        {
+            "name": "sticker_animal_set0",
+            "objectSrc": "objectMeta/sticker_animal_set0.json"
+        },
+        {
+            "name": "piglets_set1",
+            "objectSrc": "objectMeta/piglets_set1.json"
+        },
+        {
+            "name": "tricky_maze",
+            "objectSrc": "objectMeta/tricky_maze.json"
+        },
+        {
+            "name": "rws118",
+            "objectSrc": "objectMeta/rws118.json"
+        },
+        {
+            "name": "rws107",
+            "objectSrc": "objectMeta/rws107.json"
+        },
+        {
+            "name": "rws102",
+            "objectSrc": "objectMeta/rws102.json"
+        },
+        {
+            "name": "rws106",
+            "objectSrc": "objectMeta/rws106.json"
+        },
+        {
+            "name": "rws118",
+            "objectSrc": "objectMeta/rws118.json"
+        },
+        {
+            "name": "rws125",
+            "objectSrc": "objectMeta/rws125.json"
+        },
+        {
+            "name": "rws126",
+            "objectSrc": "objectMeta/rws126.json"
+        },
+        {
+            "name": "rws100",
+            "objectSrc": "objectMeta/rws100.json"
+        },
+        {
+            "name": "rws102",
+            "objectSrc": "objectMeta/rws102.json"
+        },
+        {
+            "name": "symbols_math_set1",
+            "objectSrc": "objectMeta/symbols_math_set1.json"
+        },
+        {
+            "name": "symbols_math_set2",
+            "objectSrc": "objectMeta/symbols_math_set2.json"
+        },
+        {
+            "name": "symbols_math_set3",
+            "objectSrc": "objectMeta/symbols_math_set3.json"
+        },
+        {
+            "name": "symbols_math_button_set0",
+            "objectSrc": "objectMeta/symbols_math_button_set0.json"
+        },
+        {
+            "name": "candies_set2",
+            "objectSrc": "objectMeta/candies_set2.json"
+        },
+        {
+            "name": "sticker_bg_set0",
+            "objectSrc": "objectMeta/sticker_bg_set0.json"
+        },
+        {
+            "name": "quizchrome_set1",
+            "objectSrc": "objectMeta/quizchrome_set1.json"
+        },
+        {
+            "name": "scoreboard_set1",
+            "objectSrc": "objectMeta/scoreboard_set1.json"
+        },
+        {
+            "name": "rws132",
+            "objectSrc": "objectMeta/rws132.json"
+        },
+		{
+            "name": "rws138",
+            "objectSrc": "objectMeta/rws138.json"
+        },
+		{
+            "name": "rws139",
+            "objectSrc": "objectMeta/rws139.json"
+        },
+        {
+            "name": "rws165",
+            "objectSrc": "objectMeta/rws165.json"
+        },
+        {
+            "name": "background_fullbleed_set1",
+            "objectSrc": "objectMeta/background_fullbleed_set1.json"
+        },
+        {
+            "name": "background_medium_set1",
+            "objectSrc": "objectMeta/background_medium_set1.json"
+        },
+        {
+            "name": "alphabet_object_set1_medium",
+            "objectSrc": "objectMeta/alphabet_object_set1_medium.json"
+        },
+        {
+            "name": "alphabet_object_set2_large",
+            "objectSrc": "objectMeta/alphabet_object_set2_large.json"
+        },
+        {
+            "name": "alphabet_set24",
+            "objectSrc": "objectMeta/alphabet_set24.json"
+        },		
+        {
+            "name": "alphabet_object_set2_medium",
+            "objectSrc": "objectMeta/alphabet_object_set2_medium.json"
+        },
+        {
+            "name": "alphabet_object_set2_small",
+            "objectSrc": "objectMeta/alphabet_object_set2_small.json"
+        },
+        {
+            "name": "alphabet_object_set2_xx_large",
+            "objectSrc": "objectMeta/alphabet_object_set2_xx_large.json"
+        },
+        {
+            "name": "alphabet_object_set2_x_large",
+            "objectSrc": "objectMeta/alphabet_object_set2_x_large.json"
+        },
+        {
+            "name": "alphabet_object_set3_large",
+            "objectSrc": "objectMeta/alphabet_object_set3_large.json"
+        },
+        {
+            "name": "alphabet_object_set3_medium",
+            "objectSrc": "objectMeta/alphabet_object_set3_medium.json"
+        },
+        {
+            "name": "alphabet_object_set3_small",
+            "objectSrc": "objectMeta/alphabet_object_set3_small.json"
+        },
+        {
+            "name": "alphabet_object_set3_xx_large",
+            "objectSrc": "objectMeta/alphabet_object_set3_xx_large.json"
+        },
+        {
+            "name": "alphabet_object_set3_x_large",
+            "objectSrc": "objectMeta/alphabet_object_set3_x_large.json"
+        },
+        {
+            "name": "alphabet_object_set5_large",
+            "objectSrc": "objectMeta/alphabet_object_set5_large.json"
+        },
+        {
+            "name": "alphabet_object_set6_medium",
+            "objectSrc": "objectMeta/alphabet_object_set6_medium.json"
+        },
+        {
+            "name": "alphabet_object_set6_large",
+            "objectSrc": "objectMeta/alphabet_object_set6_large.json"
+        },
+        {
+            "name": "alphabet_object_set7_large",
+            "objectSrc": "objectMeta/alphabet_object_set7_large.json"
+        },
+        {
+            "name": "alphabet_object_set8_large",
+            "objectSrc": "objectMeta/alphabet_object_set8_large.json"
+        },
+        {
+            "name": "alphabet_object_set12",
+            "objectSrc": "objectMeta/alphabet_object_set12.json"
+        },
+        {
+            "name": "alphabet_card_set0",
+            "objectSrc": "objectMeta/alphabet_card_set0.json"
+        },
+        {
+            "name": "odditems",
+            "objectSrc": "objectMeta/odditems.json"
+        },
+        {
+            "name": "vehicle_set3_large",
+            "objectSrc": "objectMeta/vehicle_set3_large.json"
+        },
+        {
+            "name": "basic_english_words_set50",
+            "objectSrc": "objectMeta/basic_english_words_set50.json"
+        },
+	    {
+            "name": "basic_english_alphabets",
+            "objectSrc": "objectMeta/basic_english_alphabets.json"
+        },
+        {
+            "name": "basic_shape_set50",
+            "objectSrc": "objectMeta/basic_shape_set50.json"
+        },
+        {
+            "name": "alphabet_card_set1",
+            "objectSrc": "objectMeta/alphabet_card_set1.json"
+        },
+        {
+            "name": "animation_set1",
+            "objectSrc": "objectMeta/animation_set1.json"
+        },
+        {
+            "name": "animation_set2",
+            "objectSrc": "objectMeta/animation_set2.json"
+        },
+		{
+            "name": "animation_set3",
+            "objectSrc": "objectMeta/animation_set3.json"
+        },
+        {
+            "name": "toy_set1_large",
+            "objectSrc": "objectMeta/toy_set1_large.json"
+        },
+        {
+            "name": "summer_object_set1_large",
+            "objectSrc": "objectMeta/summer_object_set1_large.json"
+        },
+        {
+            "name": "winter_object_set1_large",
+            "objectSrc": "objectMeta/winter_object_set1_large.json"
+        },
+		{
+            "name": "animation_set4",
+            "objectSrc": "objectMeta/animation_set4.json"
+        },
+		{
+            "name": "animal_set6_large",
+            "objectSrc": "objectMeta/animal_set6_large.json"
+        },
+		{
+			"name": "animal_set6_medium",
+			"objectSrc": "objectMeta/animal_set6_medium.json"
+		},
+		{
+			"name": "animal_set7_large",
+			"objectSrc": "objectMeta/animal_set7_large.json"
+		},
+		{
+			"name": "animal_set7_medium",
+			"objectSrc": "objectMeta/animal_set7_medium.json"
+		},
+		{
+			"name": "animal_set7_small",
+			"objectSrc": "objectMeta/animal_set7_small.json"
+		},
+		{
+			"name": "animal_set7_x_large",
+            "objectSrc": "objectMeta/animal_set7_x_large.json"
+		},
+		{
+			"name": "animal_set7_xx_large",
+            "objectSrc": "objectMeta/animal_set7_xx_large.json"
+		},
+		{
+			"name": "animal_set8_large",
+            "objectSrc": "objectMeta/animal_set8_large.json"
+		},
+		{
+			"name": "shape_set3_medium",
+            "objectSrc": "objectMeta/shape_set3_medium.json"
+		},
+		{
+			"name": "shape_set3_xx_large",
+            "objectSrc": "objectMeta/shape_set3_xx_large.json"
+		},
+        {
+            "name": "senses_set1_large",
+            "objectSrc": "objectMeta/senses_set1_large.json"
+        },
+        {
+            "name": "senses_set1_medium",
+            "objectSrc": "objectMeta/senses_set1_medium.json"
+        },
+        {
+            "name": "senses_object_set1_medium",
+            "objectSrc": "objectMeta/senses_object_set1_medium.json"
+        },
+        {
+            "name": "senses_object_set1_small",
+            "objectSrc": "objectMeta/senses_object_set1_small.json"
+        },
+		{
+			"name": "animation_set4",
+            "objectSrc": "objectMeta/animation_set4.json"
+		},
+		{
+			"name": "life_cycle_set1_large",
+            "objectSrc": "objectMeta/life_cycle_set1_large.json"
+		},
+		{
+            "name": "life_cycle_set2_large",
+            "objectSrc": "objectMeta/life_cycle_set2_large.json"
+        },
+        {
+            "name": "life_cycle_set3_large",
+            "objectSrc": "objectMeta/life_cycle_set3_large.json"
+        },
+        {
+            "name": "life_cycle_set4_large",
+            "objectSrc": "objectMeta/life_cycle_set4_large.json"
+        },
+        {
+            "name": "life_cycle_set6",
+            "objectSrc": "objectMeta/life_cycle_set6.json"
+        },
+        {
+            "name": "life_cycle_set7",
+            "objectSrc": "objectMeta/life_cycle_set7.json"
+        },
+        {
+            "name": "life_cycle_set8",
+            "objectSrc": "objectMeta/life_cycle_set8.json"
+        },
+        {
+            "name": "life_cycle_set9",
+            "objectSrc": "objectMeta/life_cycle_set9.json"
+        },
+        {
+            "name": "life_cycle_set10",
+            "objectSrc": "objectMeta/life_cycle_set10.json"
+        },
+        {
+            "name": "life_cycle_set11",
+            "objectSrc": "objectMeta/life_cycle_set11.json"
+        },
+        {
+            "name": "life_cycle_set12",
+            "objectSrc": "objectMeta/life_cycle_set12.json"
+        },
+        {
+            "name": "life_cycle_set13",
+            "objectSrc": "objectMeta/life_cycle_set13.json"
+        },		
+		{
+            "name": "habitat_set1_large",
+            "objectSrc": "objectMeta/habitat_set1_large.json"
+        },
+		{
+            "name": "habitat_set1_x_large",
+            "objectSrc": "objectMeta/habitat_set1_x_large.json"
+        },
+		{
+            "name": "habitat_set2_large",
+            "objectSrc": "objectMeta/habitat_set2_large.json"
+		},	
+		{
+            "name": "habitat_set2_x_large",
+            "objectSrc": "objectMeta/habitat_set2_x_large.json"
+        },
+		{
+            "name": "matter_states_set1_large",
+            "objectSrc": "objectMeta/matter_states_set1_medium.json"
+        },
+		{
+            "name": "matter_states_set2_large",
+            "objectSrc": "objectMeta/matter_states_set2_medium.json"
+        },
+        {
+            "name": "matter_states_set3_large",
+            "objectSrc": "objectMeta/matter_states_set3_medium.json"
+        },
+		{
+            "name": "number_set21",
+            "objectSrc": "objectMeta/number_set21.json"
+        },
+        {
+            "name": "number_set21_small",
+            "objectSrc": "objectMeta/number_set21_small.json"
+        },
+        {
+            "name": "number_set21_medium",
+            "objectSrc": "objectMeta/number_set21_medium.json"
+        },
+        {
+            "name": "number_set21_large",
+            "objectSrc": "objectMeta/number_set21_large.json"
+        },
+        {
+            "name": "number_set21_x_large",
+            "objectSrc": "objectMeta/number_set21_x_large.json"
+        },
+        {
+            "name": "number_set21_xx_large",
+            "objectSrc": "objectMeta/number_set21_xx_large.json"
+        },
+        {
+            "name": "chrome_sortitout",
+            "objectSrc": "objectMeta/chrome_sortitout.json"
+        },
+		{
+            "name": "playground_arrangements",
+            "objectSrc": "objectMeta/playground_arrangements.json"
+        },
+        {
+            "name": "chrome_animation_set4",
+            "objectSrc": "objectMeta/chrome_animation_set4.json"
+        },
+		{
+            "name": "number_set10_small",
+            "objectSrc": "objectMeta/number_set10_small.json"
+        },
+		{
+            "name": "animation_set5",
+            "objectSrc": "objectMeta/animation_set5.json"
+        },
+        {
+            "name": "animation_set8",
+            "objectSrc": "objectMeta/animation_set8.json"
+        },
+        {
+            "name": "animation_set9",
+            "objectSrc": "objectMeta/animation_set9.json"
+        },
+        {
+            "name": "animation_set10",
+            "objectSrc": "objectMeta/animation_set10.json"
+        },
+        {
+            "name": "animation_set11",
+            "objectSrc": "objectMeta/animation_set11.json"
+        },
+		{
+            "name": "crayon_set1",
+            "objectSrc": "objectMeta/crayon_set1.json"
+        },
+		{
+            "name": "crayon_set2",
+            "objectSrc": "objectMeta/crayon_set2.json"
+        },
+		{
+            "name": "crayon_set3",
+            "objectSrc": "objectMeta/crayon_set3.json"
+        },		
+		{
+            "name": "crayon_set4",
+            "objectSrc": "objectMeta/crayon_set4.json"
+        },	
+		{
+            "name": "crayon_set5",
+            "objectSrc": "objectMeta/crayon_set5.json"
+        },
+		{
+            "name": "alphabet_hindi_set1",
+            "objectSrc": "objectMeta/alphabet_hindi_set1.json"
+        },
+		{
+            "name": "alphabet_hindi_set2",
+            "objectSrc": "objectMeta/alphabet_hindi_set2.json"
+        },
+		{
+            "name": "alphabet_spanish_set14_x_large",
+            "objectSrc": "objectMeta/alphabet_spanish_set14_x_large.json"
+        },
+		{
+            "name": "alphabet_spanish_set15_x_large",
+            "objectSrc": "objectMeta/alphabet_spanish_set15_x_large.json"
+        },
+		{
+            "name": "alphabet_set18",
+            "objectSrc": "objectMeta/alphabet_set18.json"
+        },
+		{
+            "name": "alphabet_set19",
+            "objectSrc": "objectMeta/alphabet_set19.json"
+        },
+		{
+            "name": "alphabet_set20",
+            "objectSrc": "objectMeta/alphabet_set20.json"
+        },
+		{
+            "name": "alphabet_set21",
+            "objectSrc": "objectMeta/alphabet_set21.json"
+        },
+		{
+            "name": "alphabet_set22",
+            "objectSrc": "objectMeta/alphabet_set22.json"
+        },
+		{
+            "name": "alphabet_set23",
+            "objectSrc": "objectMeta/alphabet_set23.json"
+        },
+		{
+            "name": "alphabet_set30_x_large",
+            "objectSrc": "objectMeta/alphabet_set30_x_large.json"
+        },
+		{
+            "name": "alphabet_set31_x_large",
+            "objectSrc": "objectMeta/alphabet_set31_x_large.json"
+        },
+		{
+            "name": "alphabet_set32_x_large",
+            "objectSrc": "objectMeta/alphabet_set32_x_large.json"
+        },
+		{
+            "name": "alphabet_set32_xx_large",
+            "objectSrc": "objectMeta/alphabet_set32_xx_large.json"
+        },
+		{
+            "name": "alphabet_spanish_set20",
+            "objectSrc": "objectMeta/alphabet_spanish_set20.json"
+        },
+		{
+            "name": "alphabet_spanish_set21",
+            "objectSrc": "objectMeta/alphabet_spanish_set21.json"
+        },
+		{
+            "name": "shape_set14",
+            "objectSrc": "objectMeta/shape_set14.json"
+        },
+        {
+            "name": "fruit_set32",
+            "objectSrc": "objectMeta/fruit_set32.json"
+        },
+        {
+            "name": "fruit_set33",
+            "objectSrc": "objectMeta/fruit_set33.json"
+        },
+        {
+            "name": "fruit_set34",
+            "objectSrc": "objectMeta/fruit_set34.json"
+        },
+        {
+            "name": "alien_set1",
+            "objectSrc": "objectMeta/alien_set1.json"
+        },
+        {
+            "name": "fish_set1_x_large",
+            "objectSrc": "objectMeta/fish_set1_x_large.json"
+        },		
+        {
+            "name": "shape_set15_xx_large",
+            "objectSrc": "objectMeta/shape_set15_xx_large.json"
+        },
+        {
+            "name": "shape_set16_xx_large",
+            "objectSrc": "objectMeta/shape_set16_xx_large.json"
+        },
+        {
+            "name": "shape_set17",
+            "objectSrc": "objectMeta/shape_set17.json"
+        },
+        {
+            "name": "shape_set18",
+            "objectSrc": "objectMeta/shape_set18.json"
+        },
+        {
+            "name": "shape_set19",
+            "objectSrc": "objectMeta/shape_set19.json"
+        },
+        {
+            "name": "color_tube_set1",
+            "objectSrc": "objectMeta/color_tube_set1.json"
+        },
+        {
+            "name": "shape_set20",
+            "objectSrc": "objectMeta/shape_set20.json"
+        },
+        {
+            "name": "shape_set21",
+            "objectSrc": "objectMeta/shape_set21.json"
+        },
+        {
+            "name": "shape_set22_xx_large",
+            "objectSrc": "objectMeta/shape_set22_xx_large.json"
+        },
+        {
+            "name": "shape_set23_xx_large",
+            "objectSrc": "objectMeta/shape_set23_xx_large.json"
+        },
+        {
+            "name": "shape_set24",
+            "objectSrc": "objectMeta/shape_set24.json"
+        },
+        {
+            "name": "shape_set24_1",
+            "objectSrc": "objectMeta/shape_set24_1.json"
+        },
+        {
+            "name": "shape_set24_2",
+            "objectSrc": "objectMeta/shape_set24_2.json"
+        },
+        {
+            "name": "shape_set25_xx_large",
+            "objectSrc": "objectMeta/shape_set25_xx_large.json"
+        },
+        {
+            "name": "shape_set26_xx_large",
+            "objectSrc": "objectMeta/shape_set26_xx_large.json"
+        },
+        {
+            "name": "shape_animated_set1",
+            "objectSrc": "objectMeta/shape_animated_set1.json"
+        },
+        {
+            "name": "professions_animated_set1",
+            "objectSrc": "objectMeta/professions_animated_set1.json"
+        },
+        {
+            "name": "animated_vegetables_set1",
+            "objectSrc": "objectMeta/animated_vegetables_set1.json"
+        },
+        {
+            "name": "christmas_items_set1",
+            "objectSrc": "objectMeta/christmas_items_set1.json"
+        },
+        {
+            "name": "memory_game_set_1",
+            "objectSrc": "objectMeta/memory_game_set_1.json"
+        },
+        {
+            "name": "memory_game_set_2",
+            "objectSrc": "objectMeta/memory_game_set_2.json"
+        },
+        {
+            "name": "rws181",
+            "objectSrc": "objectMeta/rws181.json"
+        },
+        {
+            "name": "rws182",
+            "objectSrc": "objectMeta/rws182.json"
+        },
+        {
+            "name": "rws187",
+            "objectSrc": "objectMeta/rws187.json"
+        },
+        {
+            "name": "rws196",
+            "objectSrc": "objectMeta/rws196.json"
+        },
+        {
+            "name": "balloon_set1",
+            "objectSrc": "objectMeta/balloon_set1.json"
+        },
+        {
+            "name": "candy_set3",
+            "objectSrc": "objectMeta/candy_set3.json"
+        },
+        {
+            "name": "christmas_set1_xx_large",
+            "objectSrc": "objectMeta/christmas_set1_xx_large.json"
+        },
+		{
+            "name": "hurdle_set1_x_large",
+            "objectSrc": "objectMeta/hurdle_set1_x_large.json"
+        },
+		{
+            "name": "car_set1_x_large",
+            "objectSrc": "objectMeta/car_set1_x_large.json"
+        },
+        {
+            "name": "word_objects_set1",
+            "objectSrc": "objectMeta/word_objects_set1.json"
+        },
+		{
+            "name": "connect_dots_animal_set1",
+            "objectSrc": "objectMeta/connect_dots_animal_set1.json"
+        },
+		{
+            "name": "vehicle_set4",
+            "objectSrc": "objectMeta/vehicle_set4.json"
+        },
+        {
+            "name": "rws202",
+            "objectSrc": "objectMeta/rws202.json"
+        }
+    ]
+}

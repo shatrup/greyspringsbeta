@@ -1,0 +1,33 @@
+{
+	"id" :  "PreschoolBasicsHomeAlphabetCluster",
+	"hasHeroTile" : false,
+	"heroImgUri" : "kindergarten8/colors.png",
+	"heroTargetUri" : "appprotocol://scene/?id=PanoramaApp.VerticalChartPage",
+	"type": "households",
+	"tileList": [
+	{
+		"title" :  "",
+		"tileType" : "complex_tile",
+		"imgUri" : "kindergarten8/households/animation/kitchen.png",
+		"tileAudioId" : ""
+	},
+	{
+		"title" :  "",
+		"tileType" : "complex_tile",
+		"imgUri" : "kindergarten8/households/animation/bedroom.png",
+		"tileAudioId" : ""
+	},
+	{
+		"title" :  "",
+		"tileType" : "complex_tile",
+		"imgUri" : "kindergarten8/households/animation/living_room.png",,
+		"tileAudioId" : ""
+	},
+	{
+		"title" :  "",
+		"tileType" : "complex_tile",
+		"imgUri" : "kindergarten8/households/images_1/bathroom.png",
+		"tileAudioId" : ""
+	}
+]
+}

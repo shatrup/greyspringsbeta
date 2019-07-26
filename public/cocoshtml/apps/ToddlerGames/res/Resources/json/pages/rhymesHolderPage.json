@@ -1,0 +1,18 @@
+{
+	"id": "rhymesHolderPage",
+    "title": "ms-resource:Caption_Rhymes",
+	"bgAudio": "/audio/home.mp3",
+    "panel": {
+        "clusters": [
+            {
+				"name": "rhymeHolderCluster",
+                "title": "Rhymes",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/rhymeHolderCluster.json",
+				"options": {
+					"isBleed": false
+				}
+            }
+        ]
+    }
+}

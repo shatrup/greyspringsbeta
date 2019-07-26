@@ -1,0 +1,115 @@
+{
+    "name": "sea_animal_set9_x_large",
+    "type": "sea_animals",
+    "suffix": "_",
+    "objectList": [
+        {
+            "objectId": "sea_animal_set9_x_large_fish_black",
+            "name": "_black",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_black.png",
+            "w": 132.542,
+            "h": 85.027,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_blue",
+            "name": "_blue",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_blue.png",
+            "w": 133.793,
+            "h": 85.861,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_brown",
+            "name": "_brown",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_brown.png",
+            "w": 132.959,
+            "h": 85.444,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_cyan",
+            "name": "_cyan",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_cyan.png",
+            "w": 132.959,
+            "h": 85.444,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_green",
+            "name": "_green",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_green.png",
+            "w": 132.959,
+            "h": 85.444,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_grey",
+            "name": "_grey",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_grey.png",
+            "w": 132.959,
+            "h": 85.444,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_orange",
+            "name": "_orange",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_orange.png",
+            "w": 132.959,
+            "h": 85.444,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_pink",
+            "name": "_pink",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_pink.png",
+            "w": 132.959,
+            "h": 85.444,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_purple",
+            "name": "_purple",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_purple.png",
+            "w": 134.626,
+            "h": 86.278,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_red",
+            "name": "_red",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_red.png",
+            "w": 132.959,
+            "h": 85.444,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_white",
+            "name": "_white",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_white.png",
+            "w": 132.542,
+            "h": 85.027,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sea_animal_set9_x_large_fish_yellow",
+            "name": "_yellow",
+            "imageUri": "common/sea_animals/sea_animal_set9/sea_animal_set9_x_large/sea_animal_set9_x_large_fish_yellow.png",
+            "w": 135.46,
+            "h": 87.111,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

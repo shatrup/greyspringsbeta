@@ -1,0 +1,1519 @@
+{
+    "adsData": [
+        {
+            "name": "kg8_160x600_homepage_atend",
+            "template": "adTile160x600",
+            "adUnitId": "10069175",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "47d0cae8-d942-4a2c-b63f-007db765a1b7",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ]
+        },
+        {
+            "name": "KG8_160x600_Home_AtEnd",
+            "template": "adTile160x600",
+            "adUnitId": "10140647",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_160x600_Home_MidPano",
+            "template": "adTile160x600",
+            "adUnitId": "10143584",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_160x600_ColorbookHolder_AtEnd",
+            "template": "adTile160x600",
+            "adUnitId": "10140672",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_160x600_ThingInsideHomeCluster",
+            "template": "adTile160x600",
+            "adUnitId": "10140412",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_160x600_AlphabetsFullView",
+            "template": "adTile160x600",
+            "adUnitId": "10140392",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_160x600_NumbersFullView",
+            "template": "adTile160x600",
+            "adUnitId": "10140402",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_728x90_NumbersChart",
+            "template": "adTile728x90",
+            "adUnitId": "10140404",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_728x90_InHouse_KG8_Ad",
+                "KG8_728x90_InHouse_RateUs",
+                "KG8_728x90_InHouse_GSPG_Ad",
+                "KG8_728x90_GSPG_Lite_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_728x90_ColorbookCanvas_AtTop",
+            "template": "adTile728x90",
+            "adUnitId": "10140823",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_728x90_HouseHoldCluster",
+            "template": "adTile728x90",
+            "adUnitId": "10140413",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_728x90_InHouse_KG8_Ad",
+                "KG8_728x90_InHouse_RateUs",
+                "KG8_728x90_InHouse_GSPG_Ad",
+                "KG8_728x90_GSPG_Lite_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_728x90_SportsChartCluster",
+            "template": "adTile728x90",
+            "adUnitId": "10140416",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_728x90_InHouse_KG8_Ad",
+                "KG8_728x90_InHouse_RateUs",
+                "KG8_728x90_InHouse_GSPG_Ad",
+                "KG8_728x90_GSPG_Lite_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_ColorbookHolderCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140406",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_SportsCharts_Atend",
+            "template": "adTile300x250",
+            "adUnitId": "10140673",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_HouseholdChart_Atend",
+            "template": "adTile300x250",
+            "adUnitId": "10140674",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_ProfessionChartCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140415",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_RhymsHolderCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140407",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_FruitsChartsCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140417",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_AnimalChartsCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140418",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_ShapesChartsCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140419",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_728x90_ActivitiesChartsCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140420",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_ChartsHolderCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140408",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_300x250_VegetablesChartCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10140411",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "kg8_300x250_homepage_atend",
+            "template": "adTile300x250",
+            "adUnitId": "10068816",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "47d0cae8-d942-4a2c-b63f-007db765a1b7",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ]
+        },
+        {
+            "name": "KG8_300x250_PlaygroundCluster",
+            "template": "adTile300x250",
+            "adUnitId": "10151171",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ]
+        },
+        {
+            "name": "KG8_300x250_AlphabetsCharts",
+            "template": "adTile300x250",
+            "adUnitId": "10140400",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_300x250_InHouse_GSPG_Lite_Ad",
+                "KG8_300x250_InHouse_RateUs",
+                "KG8_300x250_InHouse_Kindergarten8",
+                "KG8_300x250_InHouseAds-GSPG_Ad"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_160X600_ColorImageHolder_AtEnd",
+            "template": "adTile160x600",
+            "adUnitId": "10070444",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "47d0cae8-d942-4a2c-b63f-007db765a1b7",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "GSPG_160x600_HomePage_AtEnd",
+            "template": "adTile160x600",
+            "adUnitId": "10070385",
+            "adHeight": "600",
+            "adType": "thin",
+            "adWidth": "160",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "fallback": [
+                "GSPG_160x600_InHouse_GSP_AD",
+                "GSPG_160x600_InHouse_RateUs,GSPG_160x600_InHouse_KG8_Lite_AD,GSPG_160x600_InHouse_KG8_AD"
+            ]
+        },
+        {
+            "name": "GSPG_300X250_HomePage_AtEnd",
+            "template": "adTile300x250",
+            "adUnitId": "10068341",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "fallback": [
+                "GSPG_300x250_InHouse_RateUs",
+                "GSPG_300x250_InHouse_Kindergarten8_Lite",
+                "GSPG_300x250_InHouse_Kindergarten8",
+                "GSPG_300x250_InHouseAds-Free"
+            ]
+        },
+        {
+            "name": "GSPG_160X600_Scoreboard",
+            "template": "adTile160x600",
+            "adUnitId": "10068333",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "fallback": [
+                "GSPG_160x600_InHouse_GSP_AD",
+                "GSPG_160x600_InHouse_KG8_AD",
+                "GSPG_160x600_InHouse_RateUs",
+                "GSPG_160x600_InHouse_KG8_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "KG8_160x600_Scoreboard_AtLeft",
+            "template": "adTile160x600",
+            "adUnitId": "10143568",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_160x600_InHouse_KG8_AD",
+                "KG8_160x600_InHouse_RateUs",
+                "KG8_160x600_InHouse_GSP_AD",
+                "KG8_160x600_InHouse_GSP_Lite_AD"
+            ],
+            "hasChildLock": true
+        },
+        {
+            "name": "GSPG_728x90_InHouse_RateUs",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_RateUs",
+                "img": "/images/gsRatingImage.png",
+                "description": "ms-resource:AdsData_Desc_RateUs",
+                "actiondesc": "ms-resource:AdsData_actiondesc_RateUs",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_728x90_GSPG_Lite_Ad",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GSPGLite",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Install",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_728x90_InHouse_KG8_Ad",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_728x90_InHouse_KG8_Ad",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_KG8",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_728x90_InHouse_RateUs",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_RateUs",
+                "img": "/images/gsRatingImage.png",
+                "description": "ms-resource:AdsData_Desc_RateUs",
+                "actiondesc": "ms-resource:AdsData_actiondesc_RateUs",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_728x90_InHouse_KG8_Lite_AD",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8Lite",
+                "img": "/images/kindergarten8lite_small_logo.png",
+                "description": "ms-resource:AdsData_Desc_AppForFree",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Install",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_728x90_InHouse_GSInhouse_Ad",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_GSPG",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_728x90_InHouse_GSPG_Ad",
+            "template": "gsInHouseAd728x90",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GSPG",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_300x250_Scoreboard_0",
+            "template": "adTile300x250",
+            "adUnitId": "10126575",
+            "adType": "thin",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "fallback": "GSPG_300x250_InHouse_RateUs"
+        },
+        {
+            "name": "GSPG_300x600_homepage_atend",
+            "template": "adTile300x600",
+            "adUnitId": "10126576",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "fallback": [
+                "GSPG_300x600_InHouse_KG8_AD",
+                "GSPG_300x600_GoAdsFree",
+                "GSPG_300x600_InHouse_RateUs",
+                "GSPG_300x600_InHouse_KG8_Lite_AD"
+            ]
+        },
+        {
+            "name": "GSPG_728x90_Scoreboard",
+            "template": "adTile728x90",
+            "adUnitId": "10096142",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "fallback": [
+                "GSPG_728x90_InHouse_RateUs",
+                "GSPG_728x90_InHouse_KG8_Ad",
+                "GSPG_728x90_InHouse_GSInhouse_Ad",
+                "GSPG_728x90_InHouse_KG8_Lite_AD"
+            ]
+        },
+        {
+            "name": "KG8_728x90_Scoreboard_AtTop",
+            "template": "adTile728x90",
+            "adUnitId": "10143567",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "fallback": [
+                "KG8_728x90_InHouse_KG8_Ad",
+                "KG8_728x90_InHouse_RateUs",
+                "KG8_728x90_InHouse_GSPG_Ad",
+                "KG8_728x90_GSPG_Lite_Ad"
+            ]
+        },
+        {
+            "name": "kgc_728x90_paintboard",
+            "template": "adTile728x90",
+            "adUnitId": "10096143",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "7ef1c818-51be-4368-9102-582c47ce80f7",
+            "adSource": "pubcenter"
+        },
+        {
+            "name": "GSPG_300x600_InHouse_GSP_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "Advertisement",
+                "title": "Preschool Games",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "Play preschool games for fun learning",
+                "actiondesc": "Install from store",
+                "clicktarget": "",
+                "type": "appAd"
+            }
+        },
+        {
+            "name": "GSPG_300x600_InHouse_KG8_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg",
+                "type": "appAd"
+            }
+        },
+        {
+            "name": "GSPG_300x600_InHouse_KG8_Lite_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8Lite",
+                "img": "/images/kindergarten8lite_small_logo.png",
+                "description": "ms-resource:AdsData_Desc_AppForFree",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Install",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg",
+                "type": "appAd"
+            }
+        },
+        {
+            "name": "GSPG_300x600_InHouse_RateUs",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_RateUs",
+                "img": "/images/gsRatingImage.png",
+                "description": "ms-resource:AdsData_Desc_RateUs",
+                "actiondesc": "ms-resource:AdsData_actiondesc_RateUs",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg",
+                "type": "rateUs"
+            }
+        },
+        {
+            "name": "GSPG_300x600_GoAdsFree",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_GSPG",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg",
+                "type": "adsFree"
+            }
+        },
+        {
+            "name": "GSPG_300x600_NewUpdateAvailable",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "Advertisement",
+                "title": "Update Available",
+                "img": "/images/gsRatingImage.png",
+                "description": "Features new quizes & games",
+                "actiondesc": "Update now",
+                "clicktarget": "c",
+                "type": "appUpgrade"
+            }
+        },
+        {
+            "name": "GSPG_160x600_InHouse_GSP_AD",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_GSPG",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_160x600_InHouse_GSP_AD",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GSPG",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x600_InHouse_GSP_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "Advertisement",
+                "title": "GS Preschool Games",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "Interactive preschool learning app.",
+                "actiondesc": "Buy from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_160x600_InHouse_KG8_AD",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_160x600_InHouse_KG8_AD",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_KG8",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x600_InHouse_KG8_AD",
+            "template": "gsInHouseAd3000x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "Advertisement",
+                "title": "Go Ads Free",
+                "img": "/images/schoolapp_logo.png",
+                "description": "Upgrade to Kindergarten8",
+                "actiondesc": "Buy from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_160x600_InHouse_KG8_Lite_AD",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8Lite",
+                "img": "/images/kindergarten8lite_small_logo.png",
+                "description": "ms-resource:AdsData_Desc_AppForFree",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Install",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_160x600_InHouse_RateUs",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_RateUs",
+                "img": "/images/gsRatingImage.png",
+                "description": "ms-resource:AdsData_Desc_RateUs",
+                "actiondesc": "ms-resource:AdsData_actiondesc_RateUs",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x600_InHouse_RateUs",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "Advertisement",
+                "title": "Rate us",
+                "img": "/images/gsRatingImage.png",
+                "description": "Like us. We would love to get rated.",
+                "actiondesc": "Rate us on store",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_160x600_InHouse_RateUs",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_RateUs",
+                "img": "/images/gsRatingImage.png",
+                "description": "ms-resource:AdsData_Desc_RateUs",
+                "actiondesc": "ms-resource:AdsData_actiondesc_RateUs",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg",
+                "type": "rateUs"
+            }
+        },
+        {
+            "name": "KG8_160x600_InHouse_GSP_Lite_AD",
+            "template": "gsInHouseAd160x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "160",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GSPGLite",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_AppForFree",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Install",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg",
+                "type": "rateUs"
+            }
+        },
+        {
+            "name": "KG8_300x600_InHouse_GSP_Lite_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "Advertisement",
+                "title": "GS Preschool Games Lite",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "Interactive preschool learning app for free.",
+                "actiondesc": "Install from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg",
+                "type": "rateUs"
+            }
+        },
+        {
+            "name": "GSPG_300x250_InHouse_RateUs",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_RateUs",
+                "img": "/images/gsRatingImage.png",
+                "description": "ms-resource:AdsData_Desc_RateUs",
+                "actiondesc": "ms-resource:AdsData_actiondesc_RateUs",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x250_InHouse_GSPG_Lite_Ad",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GSPGLite",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_AppForFree",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Install",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_300x250_InHouseAds-Free",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_GSPG",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x250_InHouseAds-GSPG_Ad",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GSPG",
+                "img": "/images/gspreschoolgames_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_300x250_InHouse_Kindergarten8",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_App",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x250_InHouse_Kindergarten8",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_KG8",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x250_InHouseAds-GSPG_Ad",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_GoAdsFree",
+                "img": "/images/schoolapp_logo.png",
+                "description": "ms-resource:AdsData_Desc_Upgrade_KG8",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Buy",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "KG8_300x250_InHouse_RateUs",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "cc08328f-7fe4-47ea-acfb-d655d61ddabf",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_RateUs",
+                "img": "/images/gsRatingImage.png",
+                "description": "ms-resource:AdsData_Desc_RateUs",
+                "actiondesc": "ms-resource:AdsData_actiondesc_RateUs",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPG_300x250_InHouse_Kindergarten8_Lite",
+            "template": "gsInHouseAd300x250",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "250",
+            "adWidth": "300",
+            "applicationId": "9e7f2ed7-551c-4842-94da-f5b568191dbe",
+            "adSource": "pubcenter",
+            "data": {
+                "header": "ms-resource:AdsData_header",
+                "title": "ms-resource:AdsData_title_Kindergarten8Lite",
+                "img": "/images/kindergarten8lite_small_logo.png",
+                "description": "ms-resource:AdsData_Desc_AppForFree",
+                "actiondesc": "ms-resource:AdsData_actiondesc_Install",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPPaint_300x600_HomePage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10241915",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+                
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_HomePage_First",
+            "template": "adTile300x600",
+            "adUnitId": "10241951",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_HomePage_Second",
+            "template": "adTile300x600",
+            "adUnitId": "10241952",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_AlphabetPage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10242011",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                 "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_NumbersPage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10242012",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_ShapesPage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10242013",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+               "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_FruitsPage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10242014",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                 "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_AnimalsPage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10242015",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                 "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_BirdsPage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10242016",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_OtherPage_AtEnd",
+            "template": "adTile300x600",
+            "adUnitId": "10242017",
+            "adType": "thin",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "fallback": [
+                "GSPPaint_300x600_InHouse_KG8_AD",
+				"GSPPaint_300x600_InHouse_KG8_Lite_AD",
+				"GSPPaint_300x600_InHouse_GSP_AD",
+                "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+                "GSPPaint_300x600_InHouse_RateUs"
+            ]
+        },
+        {
+            "name": "GSPPaint_300x600_InHouse_KG8_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "data": {
+                "header": "Advertisement",
+                "title": "Kindergarten8",
+                "img": "/images/KG8_150x150.png",
+                "description": "Interactive preschool learning app",
+                "actiondesc": "Buy from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8_p4xj81aw0mjbg",
+                "type": "appAd"
+            }
+        },
+        {
+            "name": "GSPPaint_300x600_InHouse_KG8_Lite_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "data": {
+                "header": "Advertisement",
+                "title": "Kindergarten8Lite",
+                "img": "/images/KG8Lite_150x150.png",
+                "description": "Interactive preschool learning app for free.",
+                "actiondesc": "Install from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.kindergarten8lite_p4xj81aw0mjbg",
+                "type": "appAd"
+            }
+        },
+        {
+            "name": "GSPPaint_300x600_InHouse_GSP_Lite_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "data": {
+                "header": "Advertisement",
+                "title": "GS Preschool Games Lite",
+                "img": "/images/GSPGLite_150x150.png",
+                "description": "Interactive preschool learning app for free.",
+                "actiondesc": "Install from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGamesLite_p4xj81aw0mjbg",
+                "type": "appAd"
+            }
+        },
+        {
+            "name": "GSPPaint_300x600_InHouse_GSP_AD",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "data": {
+                "header": "Advertisement",
+                "title": "GS Preschool Games",
+                "img": "/images/GSPG_150x150.png",
+                "description": "Interactive preschool learning app",
+                "actiondesc": "Buy from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.GSPreschoolGames_p4xj81aw0mjbg",
+                "type": "appAd"
+            }
+        },
+		  {
+            "name": "GSPPaint_728x90_Canvas_AtTop",
+            "template": "adTile728x90",
+            "adUnitId": "10294406",
+            "adType": "thin",
+            "adHeight": "90",
+            "adWidth": "728",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+            "hasChildLock": true
+        },
+		   {
+            "name": "GSPPaint_300x600_InHouse_Go_AdsFree",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "data": {
+                "header": "Advertisement",
+                "title": "Go Ads Free",
+                "img": "/images/GSPPaint_150x150.png",
+                "description": "Upgrade to GS Preschool Paint",
+                "actiondesc": "Buy from store",
+                "clicktarget": "ms-windows-store:PDP?PFN=greysprings.gscolorbook_p4xj81aw0mjbg"
+            }
+        },
+        {
+            "name": "GSPPaint_300x600_InHouse_RateUs",
+            "template": "gsInHouseAd300x600",
+            "adUnitId": "NA",
+            "adType": "NA",
+            "adHeight": "600",
+            "adWidth": "300",
+            "applicationId": "4233f91c-bbef-410c-8ef5-316a61fbf66c",
+            "adSource": "pubcenter",
+			"hasChildLock": true,
+            "data": {
+                "header": "Advertisement",
+                "title": "Rate us",
+                "img": "/images/gsRatingImage.png",
+                "description": "Like us. We would love to get rated.",
+                "actiondesc": "Rate us on store",
+                "clicktarget": "ms-windows-store:REVIEW?PFN=greysprings.gscolorbook_p4xj81aw0mjbg"
+            }
+        }
+    ]
+}

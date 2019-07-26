@@ -1,0 +1,61 @@
+{
+	"name": "animation_set1",
+	"type": "animation",
+	"suffix": "animation_set1_",
+	"objectList": [
+		{
+			"objectId": "animation_set1_frame1",
+			"name": "animation_frame1",
+			"imageUri": "common/chrome/animation/animation_set1/animation_set1_frame1.png",
+			"w": 70.439,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set1_frame2",
+			"name": "animation_frame2",
+			"imageUri": "common/chrome/animation/animation_set1/animation_set1_frame2.png",
+			"w": 70.439,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set1_frame3",
+			"name": "animation_frame3",
+			"imageUri": "common/chrome/animation/animation_set1/animation_set1_frame3.png",
+			"w": 70.439,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set1_frame4",
+			"name": "animation_frame4",
+			"imageUri": "common/chrome/animation/animation_set1/animation_set1_frame4.png",
+			"w": 70.439,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set1_frame5",
+			"name": "animation_frame5",
+			"imageUri": "common/chrome/animation/animation_set1/animation_set1_frame5.png",
+			"w": 70.439,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set1_frame6",
+			"name": "animation_frame6",
+			"imageUri": "common/chrome/animation/animation_set1/animation_set1_frame6.png",
+			"w": 70.439,
+			"h": 70.439,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

@@ -1,0 +1,129 @@
+{
+    "quizList": [
+		{
+			"id": "HalloweenQuiz",
+			"unlockConstraint": "none",
+			"sets":["set2"]
+		},	
+		{
+            "id": "MusicInstrumentV2Quiz",
+            "unlockConstraint": "none",
+            "networkConstraint": false
+        },
+        {
+            "id": "MatchTheShadow",
+            "sets": ["number_set_2", "alphabet_set_2", "animal_set_2", "fruit_set_2", "sea_animals_set", "christmas_set_1"],
+            "unlockConstraint": "none",
+            "networkConstraint": false
+        },
+		{
+			"id": "NumberCountQuiz",
+			"unlockConstraint": "none",
+            "networkConstraint": true
+		},
+		{
+            "id": "ScratchToRevealQuiz",
+            "sets": ["image_scratch", "image_scratch_ping"],
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "LearnToWriteV6",
+            "sets": ["capital_alphabets", "small_alphabets", "numbers", "shapes"],
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "LearnToWriteV4",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+		{
+			"id": "ConnectTheDots",
+			"sets": ["alphabet", "number"],
+			"unlockConstraint": "paid",
+            "networkConstraint": true
+		},	
+        {
+            "id": "MissingObjects",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "SpotDifferences",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },	
+        {
+            "id": "BalloonPopQuiz",
+            "sets": [
+                "spaceship_number",
+                "spaceship_alphabet"
+            ],
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+		{
+            "id": "MemoryGame",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+		{
+            "id": "HungryFrogQuiz",
+            "sets": [
+                "lizzy_color"
+            ],
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "TrickyMaze",
+             "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+		{
+            "id": "HideAndSeekQuiz",
+            "sets": [
+                "set_2"
+            ],
+            "unlockConstraint": "none",
+            "networkConstraint": true
+		},
+        {
+            "id": "ColorTheObjects",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "SortTheObjectsQuiz",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "OddInGroupQuiz",
+            "sets": ["fruit_color_odd_2"],
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "BingoQuizV2",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+        {
+            "id": "OddItems",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+		{
+            "id": "JigsawJumbleQuiz",
+            "unlockConstraint": "none",
+            "networkConstraint": true
+        },
+		{
+			"id": "LifeCycleQuiz",
+			"unlockConstraint": "paid",
+			"networkConstraint": true
+		}
+    ]
+}

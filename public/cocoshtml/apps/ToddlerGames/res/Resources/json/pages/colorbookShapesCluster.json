@@ -1,0 +1,69 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/shapesTile400x800.jpg",
+						"title": "ms-resource:Shapes_Tile",
+						"clicktarget" : "appprotocol://page?id=colorsShapesPage"
+					}
+				},
+			{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/37.png",
+						"title": "Circle",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=37&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/38.png",
+						"title": "Square",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=38&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/39.png",
+						"title": "Triangle",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=39&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/40.png",
+						"title": "Rectangle",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=40&layout=vertical"
+					}
+				},
+				
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/41.png",
+						"title": "Pentagon",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=41&layout=vertical"
+					}
+				},
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsShapesPage"
+					}
+				}
+			]
+		}
+	]
+}

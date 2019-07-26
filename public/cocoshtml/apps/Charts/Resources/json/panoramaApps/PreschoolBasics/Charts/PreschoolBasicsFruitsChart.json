@@ -1,0 +1,114 @@
+{
+	"id" :  "PreschoolBasicsHomeAlphabetCluster",
+	"hasHeroTile" : false,
+	"heroImgUri" : "kindergarten8/colors.jpg",
+	"heroTargetUri" : "appprotocol://scene/?id=PanoramaApp.VerticalChartPage",
+	"type": "fruits",
+	"tileList": [
+	{
+		"title" :  "APPLE",
+		"imgUri" : "kindergarten8/fruits/animation/apple.png",
+		"tileAudioId" : "fruit_apple",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "BANANA",
+		"imgUri" : "kindergarten8/fruits/animation/banana.png",
+		"tileAudioId" : "fruit_banana",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "GRAPES",
+		"imgUri" : "kindergarten8/fruits/animation/grapes.png",
+		"tileAudioId" : "fruit_grapes",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "KIWI",
+		"imgUri" : "kindergarten8/fruits/animation/kiwi.png",
+		"tileAudioId" : "fruit_kiwi",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "MANGO",
+		"imgUri" : "kindergarten8/fruits/animation/mango.png",
+		"tileAudioId" : "fruit_mango",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "ORANGE",
+		"imgUri" : "kindergarten8/fruits/animation/orange.png",
+		"tileAudioId" : "fruit_orange",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "PEACH",
+		"imgUri" : "kindergarten8/fruits/animation/peach.png",
+		"tileAudioId" : "fruit_peach",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "PEAR",
+		"imgUri" : "kindergarten8/fruits/animation/pear.png",
+		"tileAudioId" : "fruit_pear",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "PINEAPPLE",
+		"imgUri" : "kindergarten8/fruits/animation/pineapple.png",
+		"tileAudioId" : "fruit_pineapple",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "PLUM",
+		"imgUri" : "kindergarten8/fruits/animation/plum.png",
+		"tileAudioId" : "fruit_plum",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "POMEGRANATE",
+		"imgUri" : "kindergarten8/fruits/animation/pomegranate.png",
+		"tileAudioId" : "fruit_pomegranate",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "RASPBERRY",
+		"imgUri" : "kindergarten8/fruits/animation/raspberry.png",
+		"tileAudioId" : "fruit_raspberry",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "STAR FRUIT",
+		"imgUri" : "kindergarten8/fruits/animation/starfruit.png",
+		"tileAudioId" : "fruit_starfruit",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "STRAWBERRY",
+		"imgUri" : "kindergarten8/fruits/animation/strawberry.png",
+		"tileAudioId" : "fruit_strawberry",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	},
+	{
+		"title" :  "WATERMELON",
+		"imgUri" : "kindergarten8/fruits/animation/watermelon.png",
+		"tileAudioId" : "fruit_watermelon",
+		"targetUri" : "",
+		"scaleFactor": 0.8
+	}
+]
+}

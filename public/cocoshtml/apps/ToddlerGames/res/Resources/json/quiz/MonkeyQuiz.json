@@ -1,0 +1,18 @@
+{
+    "id": "MonkeyQuiz",
+    "type": "MonkeyQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+	"bgMusic": "caption_complete_words_let_monkey_reach_bananas",
+    "question": "caption_complete_words_let_monkey_reach_bananas", 
+    "sets": [
+    {
+      "id": "english_object",
+      "type": "english_object",     
+      "objectSrc": "realworld_set_english_object_set1_large",
+      "bgImg": "common/scenes/scene139/rws139_background.png",
+      "customKey1": "alphabet_set1",
+	  "isFullBleed": true
+    }
+  ] 
+}

@@ -1,0 +1,15 @@
+{
+	"id": "preschoolgames",
+    "title": "ms-resource:PageTitle_PreschoolGames",
+	"bgAudio": "/audio/home.mp3",
+    "panel": {
+        "clusters": [		
+			{
+			    "name": "quizCluster",
+                "title": "quizCluster",
+                "type": "ClusterControl",
+                "requestUri": "json/pages/PreschoolGamesQuizCluster.json"
+			}		
+     ]
+    }
+}

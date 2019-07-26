@@ -1,0 +1,18 @@
+{
+	"id": "FiveSensesQuiz",
+	"type": "FiveSensesQuiz",
+	"bgMusic": "caption_know_your_sense",
+	"question": "caption_know_your_sense",
+	"isFullBleed":true,
+	"bgImg": "potsprite://scene/?id=RealWorldScene_195",
+	"complexity": "low",
+	"qsBgColor": "60C0CC",
+   "sets": [
+	   {
+		"id": "animal_set",
+		"name": "animals",
+		"objectSrc": "realworld_set_senses_object_set1_medium",
+		"customKey1": "senses_set1_medium"
+	   }
+    ] 
+}

@@ -1,0 +1,79 @@
+{
+    "name": "color_bug_set3",
+    "type": "",
+    "suffix": "color_bug_set3_",
+    "objectList": [
+        {
+            "objectId": "color_bug_set3_red",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=red&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_red"
+		},
+        {
+            "objectId": "color_bug_set3_blue",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=blue&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_blue"
+        },
+        {
+            "objectId": "color_bug_set3_green",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=green&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_green"
+        },
+        {
+            "objectId": "color_bug_set3_orange",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=orange&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_orange"
+        },
+        {
+            "objectId": "color_bug_set3_brown",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=brown&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_brown"
+        },
+        {
+            "objectId": "color_bug_set3_white",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=white&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_white"
+        },
+        {
+            "objectId": "color_bug_set3_pink",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=pink&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_pink"
+        },
+        {
+            "objectId": "color_bug_set3_grey",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=grey&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_grey"
+        },
+        {
+            "objectId": "color_bug_set3_yellow",
+            "name": "",
+            "imageUri": "potsprite://bug3_color/?color=yellow&sceneId=190",
+            "w": 5,
+            "h": 5,
+            "color": "color_yellow"
+        }
+    ]
+}

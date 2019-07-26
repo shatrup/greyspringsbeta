@@ -1,0 +1,79 @@
+{
+	"name": "food_set2_medium",
+	"type": "food",
+	"suffix": "food_set2_medium_",
+	"objectList": [
+		{
+			"objectId": "food_set2_medium_cake",
+			"name": "food_cake",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_cake.png",
+			"w": 47.515,
+			"h": 45.014,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_medium_cold_drink",
+			"name": "food_drink",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_cold_drink.png",
+			"w": 24.591,
+			"h": 48.349,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_medium_cotton_candy",
+			"name": "food_candy",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_cotton_candy.png",
+			"w": 45.431,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_medium_donut",
+			"name": "food_donut",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_donut.png",
+			"w": 47.515,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_medium_french_fries",
+			"name": "food_fries",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_french_fries.png",
+			"w": 37.095,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_medium_ice_cream",
+			"name": "food_cream",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_ice_cream.png",
+			"w": 35.845,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_medium_pastry",
+			"name": "food_pastry",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_pastry.png",
+			"w": 47.515,
+			"h": 45.431,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "food_set2_medium_popcorn",
+			"name": "food_popcorn",
+			"imageUri": "common/foods/food_set2/food_set2_medium/food_set2_medium_popcorn.png",
+			"w": 32.927,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

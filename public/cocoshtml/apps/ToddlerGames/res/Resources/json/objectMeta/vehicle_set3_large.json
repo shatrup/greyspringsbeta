@@ -1,0 +1,178 @@
+{
+    "name": "vehicle_set3_large",
+    "type": "vehicle",
+    "suffix": "vehicle_set3_large_",
+    "objectList": [
+        {
+            "objectId": "vehicle_set3_large_car_1",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_1.png",
+            "w": 82.943,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_10",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_10.png",
+            "w": 83.36,
+            "h": 42.93,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_11",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_11.png",
+            "w": 82.943,
+            "h": 45.431,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_12",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_12.png",
+            "w": 82.943,
+            "h": 47.515,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_13",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_13.png",
+            "w": 82.943,
+            "h": 49.182,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_2",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_2.png",
+            "w": 82.526,
+            "h": 32.927,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_3",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_3.png",
+            "w": 82.526,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_4",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_4.png",
+            "w": 82.943,
+            "h": 44.598,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_5",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_5.png",
+            "w": 82.943,
+            "h": 38.346,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_6",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_6.png",
+            "w": 83.36,
+            "h": 44.598,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_7",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_7.png",
+            "w": 83.36,
+            "h": 34.178,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_8",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_8.png",
+            "w": 82.943,
+            "h": 39.596,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_car_9",
+            "name": "vehicle_car",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_car_9.png",
+            "w": 82.943,
+            "h": 38.762,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_jeep",
+            "name": "vehicle_jeep",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_jeep.png",
+            "w": 82.526,
+            "h": 49.599,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_tractor",
+            "name": "vehicle_tractor",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_tractor.png",
+            "w": 82.943,
+            "h": 51.266,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_truck_1",
+            "name": "vehicle_truck",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_truck_1.png",
+            "w": 83.36,
+            "h": 50.85,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_truck_2",
+            "name": "vehicle_truck",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_truck_2.png",
+            "w": 82.943,
+            "h": 57.518,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_van_1",
+            "name": "vehicle_van",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_van_1.png",
+            "w": 82.943,
+            "h": 43.764,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "vehicle_set3_large_van_2",
+            "name": "vehicle_van",
+            "imageUri": "common/vehicles/vehicle_set3/vehicle_set3_large/vehicle_set3_large_van_2.png",
+            "w": 82.943,
+            "h": 48.349,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

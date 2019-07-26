@@ -1,0 +1,97 @@
+{
+    "name": "number_circle_set0",
+    "type": "",
+    "suffix": "number_circle_set0_",
+    "objectList": [
+        {
+            "objectId": "number_circle_set0_0",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_0",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_1",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_1",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_2",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_2",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_3",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_3",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_4",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_4",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_5",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_5",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_6",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_6",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_7",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_7",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_8",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_8",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_circle_set0_9",
+            "name": "",
+            "imageUri": "potsprite://circlesprite/?id=number_set3_9",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

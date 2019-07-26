@@ -1,0 +1,124 @@
+{
+	"name": "memory_game_set_1",
+	"type": "memory_game_objects",
+	"suffix": "memory_game_set_1_",
+	"objectList": [
+		{
+			"objectId": "memory_game_set_1_fruit_1",
+			"name": "fruit_1",
+			"imageUri": "common/scenes/scene178/fruit_1.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_2",
+			"name": "fruit_2",
+			"imageUri": "common/scenes/scene178/fruit_2.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_3",
+			"name": "fruit_3",
+			"imageUri": "common/scenes/scene178/fruit_3.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_4",
+			"name": "fruit_4",
+			"imageUri": "common/scenes/scene178/fruit_4.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_5",
+			"name": "fruit_5",
+			"imageUri": "common/scenes/scene178/fruit_5.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_6",
+			"name": "fruit_6",
+			"imageUri": "common/scenes/scene178/fruit_6.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_7",
+			"name": "fruit_7",
+			"imageUri": "common/scenes/scene178/fruit_7.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_8",
+			"name": "fruit_8",
+			"imageUri": "common/scenes/scene178/fruit_8.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_9",
+			"name": "fruit_9",
+			"imageUri": "common/scenes/scene178/fruit_9.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_10",
+			"name": "fruit_10",
+			"imageUri": "common/scenes/scene178/fruit_10.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_11",
+			"name": "fruit_11",
+			"imageUri": "common/scenes/scene178/fruit_11.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_12",
+			"name": "fruit_12",
+			"imageUri": "common/scenes/scene178/fruit_12.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "memory_game_set_1_fruit_13",
+			"name": "fruit_13",
+			"imageUri": "common/scenes/scene178/fruit_13.png",
+			"w": 127.541,
+			"h": 127.541,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

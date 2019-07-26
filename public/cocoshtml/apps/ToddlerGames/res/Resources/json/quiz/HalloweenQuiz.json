@@ -1,0 +1,20 @@
+{
+    "id": "HalloweenQuiz",
+    "type": "HalloweenQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+	"isFullBleed": true,
+	"bgImg" : "",
+    "bgMusic": "caption_touch_clock_with_correct_time",
+    "question": "caption_touch_clock_with_correct_time",
+    "sets": [
+    {
+      "id": "set1",
+      "type": "uptoStage3"
+    },
+    {
+      "id": "set2",
+      "type": "uptoStage4"
+    }
+  ] 
+}

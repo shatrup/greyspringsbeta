@@ -1,0 +1,241 @@
+{
+    "name": "alphabet_set22",
+	"type": "alphabet",
+	"suffix": "alphabet_set22_",
+	"objectList": [
+		{
+			"objectId": "alphabet_set22_a",
+			"name": "alphabet_a",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_a.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_b",
+			"name": "alphabet_b",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_b.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_c",
+			"name": "alphabet_c",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_c.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_d",
+			"name": "alphabet_d",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_d.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_e",
+			"name": "alphabet_e",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_e.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_f",
+			"name": "alphabet_f",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_f.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_g",
+			"name": "alphabet_g",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_g.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_h",
+			"name": "alphabet_h",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_h.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_i",
+			"name": "alphabet_i",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_i.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_j",
+			"name": "alphabet_j",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_j.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_k",
+			"name": "alphabet_k",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_k.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_l",
+			"name": "alphabet_l",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_l.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_m",
+			"name": "alphabet_m",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_m.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_n",
+			"name": "alphabet_n",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_n.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_o",
+			"name": "alphabet_o",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_o.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_p",
+			"name": "alphabet_p",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_p.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_q",
+			"name": "alphabet_q",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_q.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_r",
+			"name": "alphabet_r",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_r.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_s",
+			"name": "alphabet_s",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_s.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_t",
+			"name": "alphabet_t",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_t.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_u",
+			"name": "alphabet_u",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_u.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_v",
+			"name": "alphabet_v",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_v.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_w",
+			"name": "alphabet_w",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_w.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_x",
+			"name": "alphabet_x",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_x.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_y",
+			"name": "alphabet_y",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_y.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_set22_z",
+			"name": "alphabet_z",
+			"imageUri": "common/alphabets/alphabet_set22/alphabet_set22_z.png",
+			"w": 207.566,
+			"h": 281.757,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

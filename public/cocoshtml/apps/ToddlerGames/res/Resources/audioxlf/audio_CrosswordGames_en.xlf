@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="en-US">
+    <body>
+      <group id="Games">         
+        <trans-unit id="homepage_music" space="preserve" translate="yes">
+          <source>Arctic Alphas home page music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/homepage_music</target>
+          <note from="Arctic Alphas">Arctic Alphas home page music</note>
+        </trans-unit>
+        <trans-unit id="map_page_music" space="preserve" translate="yes">
+          <source>Arctic Alphas Map Page Music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/map_page_music</target>
+          <note from="Arctic Alphas">Arctic Alphas Map Page Music</note>
+        </trans-unit>
+        <trans-unit id="game_page_music" space="preserve" translate="yes">
+          <source>Arctic Alphas Game Page Music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/game_page_music</target>
+          <note from="Arctic Alphas">Arctic Alphas Game Page Music</note>
+        </trans-unit>
+        <trans-unit id="button_clicked" space="preserve" translate="yes">
+          <source>Arctic Alphas on button clicked</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/button_music</target>
+          <note from="Arctic Alphas">Arctic Alphas on button clicked</note>
+        </trans-unit>
+        <trans-unit id="flyout_load" space="preserve" translate="yes">
+          <source>Arctic Alphas on flyout load music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/flyout_music</target>
+          <note from="Arctic Alphas">Arctic Alphas on flyout load music</note>
+        </trans-unit>
+        <trans-unit id="getting_hint" space="preserve" translate="yes">
+          <source>Arctic Alphas on getting hint</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/hint_music</target>
+          <note from="Arctic Alphas">Arctic Alphas on getting hint</note>
+        </trans-unit>
+        <trans-unit id="milestone_achived" space="preserve" translate="yes">
+          <source>Arctic Alphas Milestone Achived</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/milestone_complete_music</target>
+          <note from="Arctic Alphas">Arctic Alphas Milestone Achived</note>
+        </trans-unit>
+        <trans-unit id="letter_selection" space="preserve" translate="yes">
+          <source>Arctic Alphas on letter selection music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/letter_selection_music</target>
+          <note from="Arctic Alphas">Arctic Alphas on letter selection music</note>
+        </trans-unit>
+        <trans-unit id="word_selection" space="preserve" translate="yes">
+          <source>Arctic Alphas on word selection music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/word_selection_music</target>
+          <note from="Arctic Alphas">Arctic Alphas on word selection music</note>
+        </trans-unit>
+        <trans-unit id="level_complete" space="preserve" translate="yes">
+          <source>Arctic Alphas level complete</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/level_complete_music</target>
+          <note from="Arctic Alphas">Arctic Alphas level complete</note>
+        </trans-unit>
+        <trans-unit id="level_lost" space="preserve" translate="yes">
+          <source>Arctic Alphas level lost</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/level_failed_music</target>
+          <note from="Arctic Alphas">Arctic Alphas level lost</note>
+        </trans-unit>		
+        <trans-unit id="time_running" space="preserve" translate="yes">
+          <source>Arctic Alphas Game Time Running</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/time_running_music</target>
+          <note from="Arctic Alphas">Arctic Alphas Time Running</note>
+        </trans-unit>
+        <trans-unit id="splash_bg" space="preserve" translate="yes">
+          <source>splash screen background music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/background_splash</target>
+          <note from="Numbers">This is for splash screen page</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

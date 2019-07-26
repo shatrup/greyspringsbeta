@@ -1,0 +1,16 @@
+{
+    "name": "rws100",
+    "type": "",
+    "suffix": "rws100_",
+    "objectList": [
+        {
+            "objectId": "rws100_misc_plant_1",
+            "name": "",
+            "imageUri": "common/scenes/scene100/rws100_misc_plant_1.png",
+            "w": 35.84,
+            "h": 45.01,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

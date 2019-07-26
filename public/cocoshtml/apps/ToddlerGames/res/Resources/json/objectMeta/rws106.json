@@ -1,0 +1,16 @@
+{
+    "name": "rws106",
+    "type": "",
+    "suffix": "rws106_",
+    "objectList": [
+        {
+            "objectId": "rws106_misc_fire_0",
+            "name": "",
+            "imageUri": "common/scenes/scene106/rws106_misc_fire_0.png",
+            "w": 48.89,
+            "h": 55.7,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+	"data": [
+		{
+			"planetId": "solar_planet_jupiter",
+			"message": "Welcome to Jupiter! Jupiter is the largest planet in the Solar System. Jupiter has 79 moons.",
+			"audioId": "welcome_message_solar_planet_jupiter"
+		},
+		{
+			"planetId": "solar_planet_mercury",
+			"message": "Welcome to Mercury! This is the closest planet to the Sun. It is the smallest planet.",
+			"audioId": "welcome_message_solar_planet_mercury"
+		},
+		{
+			"planetId": "solar_planet_venus",
+			"message": "Welcome to Venus! Venus is the brightest and the hottest planet.",
+			"audioId": "welcome_message_solar_planet_venus"
+		},
+		{
+			"planetId": "solar_planet_mars",
+			"message": "welcome to Mars! Mars is also known as the red planet. It is the closest planet to Earth.",
+			"audioId": "welcome_message_solar_planet_mars"
+		},
+		{
+			"planetId": "solar_planet_earth",
+			"message": "Welcome to Earth. This is where we live. Earth is the only planet where water is liquid. Earth has one moon.",
+			"audioId": "welcome_message_solar_planet_earth"
+		},
+		{
+			"planetId": "solar_planet_saturn",
+			"message": "Welcome to Saturn. Saturn has beautiful rings around it which are made of ice and dust.",
+			"audioId": "welcome_message_solar_planet_saturn"
+		},
+		{
+			"planetId": "solar_planet_uranus",
+			"message": "Welcome to Uranus. Uranus is a giant gas ball.",
+			"audioId": "welcome_message_solar_planet_uranus"
+		},
+		{
+			"planetId": "solar_planet_neptune",
+			"message": "Welcome to Neptune. Neptune is the farthest planet from the Sun. Neptune is the coolest and the bluest planet.",
+			"audioId": "welcome_message_solar_planet_neptune"
+		}
+	]
+}

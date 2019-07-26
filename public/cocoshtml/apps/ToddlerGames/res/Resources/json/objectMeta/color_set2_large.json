@@ -1,0 +1,127 @@
+{
+    "name": "color_set2_large",
+    "type": "color",
+    "suffix": "color_set2_large_",
+    "objectList": [
+        {
+            "objectId": "color_set2_large_black",
+            "name": "color_black",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_black.png",
+            "w": 51.68,
+            "h": 70.86,
+            "color": "color_black",
+            "shape": "",
+            "color": "color_black"
+        },
+        {
+            "objectId": "color_set2_large_blue",
+            "name": "color_blue",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_blue.png",
+            "w": 52.93,
+            "h": 52.1,
+            "color": "color_blue",
+            "shape": "",
+            "color": "color_blue"
+        },
+        {
+            "objectId": "color_set2_large_brown",
+            "name": "color_brown",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_brown.png",
+            "w": 58.35,
+            "h": 57.1,
+            "color": "color_brown",
+            "shape": "",
+            "color": "color_brown"
+        },
+        {
+            "objectId": "color_set2_large_cyan",
+            "name": "color_cyan",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_cyan.png",
+            "w": 68.36,
+            "h": 67.94,
+            "color": "color_cyan",
+            "shape": "",
+            "color": "color_cyan"
+        },
+        {
+            "objectId": "color_set2_large_green",
+            "name": "color_green",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_green.png",
+            "w": 47.1,
+            "h": 46.68,
+            "color": "color_green",
+            "shape": "",
+            "color": "color_green"
+        },
+        {
+            "objectId": "color_set2_large_grey",
+            "name": "color_grey",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_grey.png",
+            "w": 74.61,
+            "h": 65.85,
+            "color": "color_grey",
+            "shape": "",
+            "color": "color_grey"
+        },
+        {
+            "objectId": "color_set2_large_orange",
+            "name": "color_orange",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_orange.png",
+            "w": 62.1,
+            "h": 61.27,
+            "color": "color_orange",
+            "shape": "",
+            "color": "color_orange"
+        },
+        {
+            "objectId": "color_set2_large_pink",
+            "name": "color_pink",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_pink.png",
+            "w": 57.1,
+            "h": 65.85,
+            "color": "color_pink",
+            "shape": "",
+            "color": "color_pink"
+        },
+        {
+            "objectId": "color_set2_large_purple",
+            "name": "color_purple",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_purple.png",
+            "w": 65.44,
+            "h": 69.19,
+            "color": "color_purple",
+            "shape": "",
+            "color": "color_purple"
+        },
+        {
+            "objectId": "color_set2_large_red",
+            "name": "color_red",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_red.png",
+            "w": 68.36,
+            "h": 67.1,
+            "color": "color_red",
+            "shape": "",
+            "color": "color_red"
+        },
+        {
+            "objectId": "color_set2_large_white",
+            "name": "color_white",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_white.png",
+            "w": 60.44,
+            "h": 64.19,
+            "color": "color_white",
+            "shape": "",
+            "color": "color_white"
+        },
+        {
+            "objectId": "color_set2_large_yellow",
+            "name": "color_yellow",
+            "imageUri": "common/colors/color_set2/color_set2_large/color_set2_large_yellow.png",
+            "w": 50.85,
+            "h": 51.27,
+            "color": "color_yellow",
+            "shape": "",
+            "color": "color_yellow"
+        }
+    ]
+}

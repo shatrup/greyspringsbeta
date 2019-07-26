@@ -1,0 +1,26 @@
+{
+  "id": "HideAndSeekQuiz",
+  "type": "HideAndSeekQuiz",
+  "complexity": "medium",
+  "isFullBleed": true,
+  "sets": [
+	  {
+		"id": "set_1",
+		"type": "color",
+		"objectSrc": "RealWorldScene_169",
+		"bgMusic": "caption_find_hidden_items",
+		"question": "caption_find_hidden_items",
+		"customKey1": "mushroom",
+		"customKey2": "monkey_{0}"
+	  },
+	  {
+		"id": "set_2",
+		"type": "color",
+		"objectSrc": "RealWorldScene_206",
+		"bgMusic": "caption_find_hidden_items",
+		"question": "caption_find_hidden_items",
+		"customKey1": "tree",
+		"customKey2": "gnome_{0}"
+	  }
+  ]
+}

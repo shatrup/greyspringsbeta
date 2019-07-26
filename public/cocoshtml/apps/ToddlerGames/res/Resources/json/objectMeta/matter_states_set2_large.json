@@ -1,0 +1,88 @@
+{
+    "name": "matter_states_set2_large",
+    "type": "soild",
+    "suffix": "matter_states_set2_large_",
+    "objectList": [
+          {
+                    "objectId": "matter_states_set2_large_ball",
+                    "name": "word_ball",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_ball.png",
+                    "w": 78.775,
+                    "h": 79.192,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_bat",
+                    "name": "word_bat",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_bat.png",
+                    "w": 37.095,
+                    "h": 82.11,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_bat_pencil",
+                    "name": "word_pencil",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_bat_pencil.png",
+                    "w": 80.442,
+                    "h": 82.11,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_bat_shoe",
+                    "name": "word_shoe",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_bat_shoe.png",
+                    "w": 82.943,
+                    "h": 60.436,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_bat_wrench",
+                    "name": "word_wrench",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_bat_wrench.png",
+                    "w": 82.11,
+                    "h": 75.024,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_ice",
+                    "name": "word_ice",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_ice.png",
+                    "w": 20.006,
+                    "h": 20.006,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_pencil",
+                    "name": "word_pencil",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_pencil.png",
+                    "w": 80.442,
+                    "h": 82.11,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_shoe",
+                    "name": "word_shoe",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_shoe.png",
+                    "w": 82.943,
+                    "h": 60.436,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set2_large_wrench",
+                    "name": "word_wrench",
+                    "imageUri": "common/matter_states/matter_states_set2/matter_states_set2_large/matter_states_set2_large_wrench.png",
+                    "w": 82.11,
+                    "h": 75.024,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

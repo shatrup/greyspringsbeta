@@ -1,0 +1,17 @@
+{
+  "id":"SequentialMatchTheShadowQuiz",
+  "type":"SequentialMatchTheShadowQuiz",
+  "bgMusic":"caption_match_picture_shadow",
+  "question":"caption_match_picture_shadow",
+  "bgImg":"common/backgrounds/background_fullbleed/background_animal_sound_jungle_2.png",
+  "complexity":"low",
+  "qsBgColor":"60C0CC",
+  "isFullBleed":true,
+  "sets":[
+    {
+      "id":"word_objects_set1",
+      "name":"word_objects_set1",
+      "objectSrc":"realworld_set_word_objects_set1"
+    }
+ ]
+}

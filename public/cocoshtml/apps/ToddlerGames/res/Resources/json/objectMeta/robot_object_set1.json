@@ -1,0 +1,452 @@
+{
+	"name": "robot_object_set1",
+	"type": "robot",
+	"suffix": "robot_object_set1_",
+	"robotList": [
+		{
+			"objectId": "robot_object_set1_robot_1",
+			"name": "robot_1",
+			"imageUri": "common/scenes/scene173/robot_1.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "oval",
+					"shapePosX": -95,
+					"shapePosY": 9
+				},
+				{
+					"shape": "semicircle",
+					"shapePosX": 0,
+					"shapePosY": -37
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_2",
+			"name": "robot_2",
+			"imageUri": "common/scenes/scene173/robot_2.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "rectangle",
+					"shapePosX": 0,
+					"shapePosY": 21
+				},
+				{
+					"shape": "trapezium",
+					"shapePosX": 0,
+					"shapePosY": -28
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_3",
+			"name": "robot_3",
+			"imageUri": "common/scenes/scene173/robot_3.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "semicircle",
+					"shapePosX": 0,
+					"shapePosY": 68
+				},
+				{
+					"shape": "star",
+					"shapePosX": 1,
+					"shapePosY": -11
+				},
+				{
+					"shape": "trapezium",
+					"shapePosX": 35,
+					"shapePosY": -116
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_4",
+			"name": "robot_4",
+			"imageUri": "common/scenes/scene173/robot_4.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "hexagon",
+					"shapePosX": -88,
+					"shapePosY": 25
+				},
+				{
+					"shape": "heart",
+					"shapePosX": 0,
+					"shapePosY": -18
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_5",
+			"name": "robot_5",
+			"imageUri": "common/scenes/scene173/robot_5.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "hexagon",
+					"shapePosX": -1,
+					"shapePosY": 21
+				},
+				{
+					"shape": "square",
+					"shapePosX": 109,
+					"shapePosY": 38
+				},
+				{
+					"shape": "pentagon",
+					"shapePosX": -42,
+					"shapePosY": -96
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_6",
+			"name": "robot_6",
+			"imageUri": "common/scenes/scene173/robot_6.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "octagon",
+					"shapePosX": 0,
+					"shapePosY": 2
+				},
+				{
+					"shape": "crescent",
+					"shapePosX": -1,
+					"shapePosY": -59
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_7",
+			"name": "robot_7",
+			"imageUri": "common/scenes/scene173/robot_7.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "pentagon",
+					"shapePosX": 0,
+					"shapePosY": -7
+				},
+				{
+					"shape": "square",
+					"shapePosX": 1,
+					"shapePosY": -65
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_8",
+			"name": "robot_8",
+			"imageUri": "common/scenes/scene173/robot_8.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "crescent",
+					"shapePosX": 0,
+					"shapePosY": 0
+				},
+				{
+					"shape": "circle",
+					"shapePosX": 2,
+					"shapePosY": -99
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_9",
+			"name": "robot_9",
+			"imageUri": "common/scenes/scene173/robot_9.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "oval",
+					"shapePosX": -1,
+					"shapePosY": -105
+				},
+				{
+					"shape": "trapezium",
+					"shapePosX": 0,
+					"shapePosY": 31
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_10",
+			"name": "robot_10",
+			"imageUri": "common/scenes/scene173/robot_10.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "heart",
+					"shapePosX": -1,
+					"shapePosY": -30
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_11",
+			"name": "robot_11",
+			"imageUri": "common/scenes/scene173/robot_11.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "rectangle",
+					"shapePosX": -27,
+					"shapePosY": 14
+				},
+				{
+					"shape": "star",
+					"shapePosX": 42,
+					"shapePosY": 4
+				},
+				{
+					"shape": "semicircle",
+					"shapePosX": -53,
+					"shapePosY": -86
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_12",
+			"name": "robot_12",
+			"imageUri": "common/scenes/scene173/robot_12.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "rectangle",
+					"shapePosX": 35,
+					"shapePosY": -37
+				},
+				{
+					"shape": "crescent",
+					"shapePosX": 0,
+					"shapePosY": 40
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_13",
+			"name": "robot_13",
+			"imageUri": "common/scenes/scene173/robot_13.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "octagon",
+					"shapePosX": 0,
+					"shapePosY": -6
+				},
+				{
+					"shape": "trapezium",
+					"shapePosX": 79,
+					"shapePosY": -114
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_14",
+			"name": "robot_14",
+			"imageUri": "common/scenes/scene173/robot_14.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "square",
+					"shapePosX": 1,
+					"shapePosY": -33
+				},
+				{
+					"shape": "circle",
+					"shapePosX": 109,
+					"shapePosY": 92
+				},
+				{
+					"shape": "oval",
+					"shapePosX": 98,
+					"shapePosY": -85
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_15",
+			"name": "robot_15",
+			"imageUri": "common/scenes/scene173/robot_15.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "pentagon",
+					"shapePosX": 0,
+					"shapePosY": -36
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_16",
+			"name": "robot_16",
+			"imageUri": "common/scenes/scene173/robot_16.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "triangle",
+					"shapePosX": 2,
+					"shapePosY": 32
+				},
+				{
+					"shape": "oval",
+					"shapePosX": 40,
+					"shapePosY": -81
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_17",
+			"name": "robot_17",
+			"imageUri": "common/scenes/scene173/robot_17.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "square",
+					"shapePosX": 0,
+					"shapePosY": -29
+				},
+				{
+					"shape": "hexagon",
+					"shapePosX": 48,
+					"shapePosY": -107
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_18",
+			"name": "robot_18",
+			"imageUri": "common/scenes/scene173/robot_18.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "pentagon",
+					"shapePosX": 0,
+					"shapePosY": 12
+				},
+				{
+					"shape": "rectangle",
+					"shapePosX": 1,
+					"shapePosY": -93
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_19",
+			"name": "robot_19",
+			"imageUri": "common/scenes/scene173/robot_19.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "crescent",
+					"shapePosX": 123,
+					"shapePosY": 37
+				},
+				{
+					"shape": "circle",
+					"shapePosX": -45,
+					"shapePosY": -51
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_20",
+			"name": "robot_20",
+			"imageUri": "common/scenes/scene173/robot_20.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "heart",
+					"shapePosX": 3,
+					"shapePosY": 78
+				},
+				{
+					"shape": "rectangle",
+					"shapePosX": 3,
+					"shapePosY": -57
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_21",
+			"name": "robot_21",
+			"imageUri": "common/scenes/scene173/robot_21.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "hexagon",
+					"shapePosX": 0,
+					"shapePosY": 0
+				}
+			]
+		},
+		{
+			"objectId": "robot_object_set1_robot_22",
+			"name": "robot_22",
+			"imageUri": "common/scenes/scene173/robot_22.png",
+			"w": 311.35,
+			"h": 266.752,
+			"handFrames": 3,
+			"holeList":[
+				{
+					"shape": "triangle",
+					"shapePosX": 1,
+					"shapePosY": -8
+				},
+				{
+					"shape": "oval",
+					"shapePosX": -3,
+					"shapePosY": -104
+				}
+			]
+		}
+	]
+}

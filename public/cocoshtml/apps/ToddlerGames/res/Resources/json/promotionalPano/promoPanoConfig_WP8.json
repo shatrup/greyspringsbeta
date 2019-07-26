@@ -1,0 +1,53 @@
+{
+	"version" :  "1.0",
+	"pageTitle" : "Greysprings",
+	"clusterList" : [
+	{		
+		"id" : "C1",
+		"title" : "Pirate Jigsaw",
+		"description" : "Pirate Jigsaw Ads cluster",
+		"imgUri" : "kindergarten8/common/images/pirate_jigsaw_promotion_full_view.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "C1",
+		"title" : "Pirate Jigsaw",
+		"description" : "Pirate Jigsaw Ads cluster",
+		"imgUri" : "kindergarten8/common/images/pirate_jigsaw_promotion_full_view.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "C1",
+		"title" : "Pirate Jigsaw",
+		"description" : "Pirate Jigsaw Ads cluster",
+		"imgUri" : "kindergarten8/common/images/pirate_jigsaw_promotion_full_view.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "C1",
+		"title" : "Pirate Jigsaw",
+		"description" : "Pirate Jigsaw Ads cluster",
+		"imgUri" : "kindergarten8/common/images/pirate_jigsaw_promotion_full_view.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},{		
+		"id" : "C1",
+		"title" : "Pirate Jigsaw",
+		"description" : "Pirate Jigsaw Ads cluster",
+		"imgUri" : "kindergarten8/common/images/pirate_jigsaw_promotion_full_view.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	},
+	{		
+		"id" : "C1",
+		"title" : "Pirate Jigsaw",
+		"description" : "Pirate Jigsaw Ads cluster",
+		"imgUri" : "kindergarten8/common/images/pirate_jigsaw_promotion_full_view.png",
+		"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d",
+		"clusterType" : "promotion_cluster"
+	}
+]
+}

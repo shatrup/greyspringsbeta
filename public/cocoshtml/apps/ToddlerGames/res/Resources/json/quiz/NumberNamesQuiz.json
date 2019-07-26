@@ -1,0 +1,31 @@
+{
+  "id": "NumberNamesQuiz",
+  "type": "NumberNamesQuiz",
+  "complexity": "medium",
+  "qsBgColor": "F285A7",
+  "bgImg": "common/backgrounds/background_fullbleed/background_vertical_match.png",
+  "bgMusic": "caption_take_butterfly_as_many_number_flowers",
+  "question": "caption_take_butterfly_as_many_number_flowers",
+  "isFullBleed": true,
+  "sets": [{
+      "id": "set0",
+      "type": "numbers",
+      "objectSrc": "realworld_set_number_set20_medium",
+      "customKey1": "1",
+      "includeObjectIds": ["number_set20_medium_1", "number_set20_medium_2", "number_set20_medium_3",
+        "number_set20_medium_4", "number_set20_medium_5", "number_set20_medium_6", "number_set20_medium_7",
+        "number_set20_medium_8", "number_set20_medium_9", "number_set20_medium_10"
+      ]
+    },
+    {
+      "id": "set1",
+      "type": "numbers",
+      "objectSrc": "realworld_set_number_set20_medium",
+      "customKey1": "2",
+      "includeObjectIds": ["number_set20_medium_11", "number_set20_medium_12", "number_set20_medium_13",
+        "number_set20_medium_14", "number_set20_medium_15", "number_set20_medium_16", "number_set20_medium_17",
+        "number_set20_medium_18", "number_set20_medium_19", "number_set20_medium_20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "NumberPlayQuiz",
+    "type": "NumberPlayQuiz",
+    "complexity": "medium",
+    "qsBgColor": "B6E5F8",
+    "bgImg" : "common/scenes/scene181/background_night.png",
+    "bgMusic": "caption_touch_ball_reach_basket",
+    "question": "caption_touch_ball_reach_basket",
+    "customKey1": "",
+    "customKey2": "",
+    "customKey3": "",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "id": "set0",
+      "type": "fruits",
+      "objectSrc": "realworld_set_fruit_set1",
+      "excludeObjectIds": ["fruit_set1_banana", "fruit_set1_cherry", "fruit_set1_watermelon"]
+    }
+  ] 
+}

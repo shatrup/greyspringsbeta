@@ -1,0 +1,15 @@
+{
+	"id": "alphabetsBigObjectListPage",
+    "title": "ms-resource:Caption_Numbers",
+	"bgAudio": "/audio/home.mp3",		
+    "panel": {
+        "clusters": [
+            {
+				"name": "numberBigObjectListCluster",
+                "title": "Numbers",
+                "type": "ClusterControl",
+                "requestUri": "pageJson/numberBigObjectCluster.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "life_cycle_set4_large",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set4_large_",
+    "objectList": [
+		
+                {
+                    "objectId": "life_cycle_set4_large_egg",
+                    "name": "word_egg",
+                    "imageUri": "common/life_cycle/life_cycle_set4/life_cycle_set4_large/life_cycle_set4_large_egg.png",
+                    "w": 83.36,
+                    "h": 61.686,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "life_cycle_set4_large_hen",
+                    "name": "word_hen",
+                    "imageUri": "common/life_cycle/life_cycle_set4/life_cycle_set4_large/life_cycle_set4_large_hen.png",
+                    "w": 76.691,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+				{
+                    "objectId": "life_cycle_set4_large_chick",
+                    "name": "word_chick",
+                    "imageUri": "common/life_cycle/life_cycle_set4/life_cycle_set4_large/life_cycle_set4_large_chick.png",
+                    "w": 47.515,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

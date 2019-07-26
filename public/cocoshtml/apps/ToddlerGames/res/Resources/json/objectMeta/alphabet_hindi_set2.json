@@ -1,0 +1,448 @@
+{
+    "name": "alphabet_hindi_set2",
+	"type": "alphabet_hindi",
+	"suffix": "alphabet_hindi_set2_",
+	"objectList": [
+		{
+			"objectId": "alphabet_hindi_set2_1",
+			"name": "alphabets_hindi_1",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_1.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_2",
+			"name": "alphabets_hindi_2",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_2.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_3",
+			"name": "alphabets_hindi_3",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_3.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_4",
+			"name": "alphabets_hindi_4",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_4.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_5",
+			"name": "alphabets_hindi_5",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_5.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_6",
+			"name": "alphabets_hindi_6",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_6.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_7",
+			"name": "alphabets_hindi_7",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_7.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_8",
+			"name": "alphabets_hindi_8",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_8.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_9",
+			"name": "alphabets_hindi_9",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_9.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_10",
+			"name": "alphabets_hindi_10",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_10.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_11",
+			"name": "alphabets_hindi_11",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_11.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_12",
+			"name": "alphabets_hindi_12",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_12.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_13",
+			"name": "alphabets_hindi_13",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_13.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_14",
+			"name": "alphabets_hindi_14",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_14.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_15",
+			"name": "alphabets_hindi_15",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_15.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_16",
+			"name": "alphabets_hindi_16",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_16.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_17",
+			"name": "alphabets_hindi_17",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_17.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_18",
+			"name": "alphabets_hindi_18",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_18.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_19",
+			"name": "alphabets_hindi_19",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_19.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_20",
+			"name": "alphabets_hindi_20",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_20.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_21",
+			"name": "alphabets_hindi_21",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_21.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_22",
+			"name": "alphabets_hindi_22",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_22.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_23",
+			"name": "alphabets_hindi_23",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_23.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_24",
+			"name": "alphabets_hindi_24",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_24.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_25",
+			"name": "alphabets_hindi_25",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_25.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_26",
+			"name": "alphabets_hindi_26",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_26.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_27",
+			"name": "alphabets_hindi_27",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_27.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_28",
+			"name": "alphabets_hindi_28",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_28.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_29",
+			"name": "alphabets_hindi_29",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_29.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_30",
+			"name": "alphabets_hindi_30",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_30.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_31",
+			"name": "alphabets_hindi_31",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_31.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_32",
+			"name": "alphabets_hindi_32",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_32.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_33",
+			"name": "alphabets_hindi_33",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_33.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_34",
+			"name": "alphabets_hindi_34",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_34.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_35",
+			"name": "alphabets_hindi_35",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_35.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_36",
+			"name": "alphabets_hindi_36",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_36.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_37",
+			"name": "alphabets_hindi_37",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_37.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_38",
+			"name": "alphabets_hindi_38",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_38.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_39",
+			"name": "alphabets_hindi_39",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_39.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_40",
+			"name": "alphabets_hindi_40",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_40.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_41",
+			"name": "alphabets_hindi_41",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_41.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_42",
+			"name": "alphabets_hindi_42",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_42.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_43",
+			"name": "alphabets_hindi_43",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_43.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_44",
+			"name": "alphabets_hindi_44",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_44.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_45",
+			"name": "alphabets_hindi_45",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_45.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_46",
+			"name": "alphabets_hindi_46",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_46.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_47",
+			"name": "alphabets_hindi_47",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_47.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_48",
+			"name": "alphabets_hindi_48",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_48.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		},
+		{
+			"objectId": "alphabet_hindi_set2_49",
+			"name": "alphabets_hindi_49",
+			"imageUri": "common/alphabets_hindi/alphabet_hindi_set2/alphabet_hindi_set2_49.png",
+			"w": 326.354,
+			"h": 237.159,
+			"text": "letter",
+			"color": ""
+		}
+	]
+}

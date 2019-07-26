@@ -1,0 +1,62 @@
+{
+    "id": "BubbleSequenceQuiz",
+    "type": "BubbleSequenceQuiz",
+    "complexity": "medium",
+    "qsBgColor": "003366",
+    "sets": [
+    {
+      "id": "bubble_number",
+      "type": "number",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_126_0",      
+      "bgMusic": "caption_touch_number_{0}",
+      "question": "caption_touch_number_format",
+      "objectSrc": "realworld_set_number_bubble_set0",
+      "customKey1": "effect_boom",
+      "customKey2": "common/chrome/quiz/bubble_popped_up.png",
+	  "customKey3": "number_set1"
+    },
+    {
+      "id": "bubble_alphabet",
+      "type": "alphabet",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_126_0",     
+      "bgMusic": "caption_drag_bubbles_complete_sequence",
+      "question": "caption_drag_bubbles_complete_sequence",      
+      "objectSrc": "realworld_set_alphabet_bubble_set0",
+      "customKey1": "effect_boom",
+      "customKey2": "common/chrome/quiz/bubble_popped_up.png",
+	  "customKey3": "alphabet_set1",
+	  "isFullBleed": true
+    },
+    {
+      "id": "balloon_number",
+      "type": "number",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_126_0",      
+      "bgMusic": "caption_touch_balloon_{0}",
+      "question": "caption_touch_balloon_number_format",      
+      "objectSrc": "realworld_set_number_balloon_set0",
+      "customKey1": "effect_boom",
+      "customKey2": "common/chrome/quiz/balloon_blast.png"
+    },
+    {
+      "id": "balloon_alphabet",
+      "type": "alphabet",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_126_0",      
+      "bgMusic": "caption_touch_balloon_{0}",
+      "question": "caption_touch_balloon_alphabet_format",      
+      "objectSrc": "realworld_set_alphabet_balloon_set0",
+      "customKey1": "effect_boom",
+      "customKey2": "common/chrome/quiz/balloon_blast.png"
+    },
+    {
+      "id": "balloon_color",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_126_0",      
+      "bgMusic": "caption_touch_balloon_{0}_1",
+      "question": "caption_touch_balloon_color_format",      
+      "objectSrc": "realworld_set_color_balloon_set0",
+      "customKey1": "effect_boom",
+      "customKey2": "common/chrome/quiz/balloon_blast.png"
+    }
+
+  ] 
+}

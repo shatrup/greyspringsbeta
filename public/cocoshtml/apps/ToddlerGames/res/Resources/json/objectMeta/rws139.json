@@ -1,0 +1,97 @@
+{
+    "name": "rws139",
+    "type": "",
+    "suffix": "rws139",
+    "objectList": [
+			{
+				"objectId": "rws139_background",
+				"name": "_background",
+				"imageUri": "common/scenes/scene139/rws139_background.png",
+				"w": 569.349,
+				"h": 284.674,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_box_empty",
+				"name": "_empty",
+				"imageUri": "common/scenes/scene139/rws139_box_empty.png",
+				"w": 83.36,
+				"h": 73.357,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_box_full",
+				"name": "_full",
+				"imageUri": "common/scenes/scene139/rws139_box_full.png",
+				"w": 83.36,
+				"h": 73.357,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_branch",
+				"name": "_branch",
+				"imageUri": "common/scenes/scene139/rws139_branch.png",
+				"w": 9.17,
+				"h": 89.612,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_leafs",
+				"name": "_leafs",
+				"imageUri": "common/scenes/scene139/rws139_leafs.png",
+				"w": 570.182,
+				"h": 47.098,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_monkey_0",
+				"name": "_0",
+				"imageUri": "common/scenes/scene139/rws139_monkey_0.png",
+				"w": 46.265,
+				"h": 94.614,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_monkey_1",
+				"name": "_1",
+				"imageUri": "common/scenes/scene139/rws139_monkey_1.png",
+				"w": 57.935,
+				"h": 57.935,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_monkey_2",
+				"name": "_2",
+				"imageUri": "common/scenes/scene139/rws139_monkey_2.png",
+				"w": 73.357,
+				"h": 35.011,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_monkey_3",
+				"name": "_3",
+				"imageUri": "common/scenes/scene139/rws139_monkey_3.png",
+				"w": 61.27,
+				"h": 64.604,
+				"shape": "",
+				"color": ""
+			},
+			{
+				"objectId": "rws139_monkey_4",
+				"name": "_4",
+				"imageUri": "common/scenes/scene139/rws139_monkey_4.png",
+				"w": 55.851,
+				"h": 69.189,
+				"shape": "",
+				"color": ""
+			}
+		]
+}

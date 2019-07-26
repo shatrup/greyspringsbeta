@@ -1,0 +1,76 @@
+{
+    "id": "LearnToWrite",
+    "type": "LearnToWrite",
+    "complexity": "medium",
+	"bgImg" : "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+    "bgMusic" : "caption_trace_dots_{0}",
+	"qsBgColor": "865B36",
+	"question" : "caption_trace_dots_format",
+	"isFullBleed": true,
+    "sets": [
+		{
+		  "id": "capital_alphabets",
+		  "objectSrc": "realworld_set_alphabet_set16_x_large"
+		},
+		{
+		  "id": "small_alphabets",
+		  "objectSrc": "realworld_set_alphabet_set14_x_large"
+		},
+		{
+		  "id": "numbers",
+		  "objectSrc": "realworld_set_number_set24_x_large"
+		},
+		{
+		  "id": "shapes",
+		  "objectSrc": "realworld_set_shape_set11_x_large"
+		},
+		{
+		  "id": "hindi",
+		  "objectSrc": "realworld_set_alphabet_hindi_set2"
+		}
+    ],
+    "colorSets": [
+        {
+            "colorCode": 0,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 9,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 4,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 11,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 13,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 8,
+            "src_img": "common/chrome/quiz/crayon_1.png",
+            "rotation": -90,
+            "scale": 1.0,
+            "action": ""
+        }
+    ]
+}

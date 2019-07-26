@@ -1,0 +1,10 @@
+{
+        "settingsCmds": [
+            {
+				"name": "About",
+                "title": "About",
+				"template" : "aboutSettingsFlyout",
+                "data": {}
+            }
+        ]
+}

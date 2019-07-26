@@ -1,0 +1,79 @@
+{
+    "name": "scratch_to_reveal_set2",
+    "type": "color",
+    "suffix": "scratch_to_reveal_set2_",
+    "objectList": [
+		{
+			"objectId": "scratch_to_reveal_set2_scene_r_1",
+			"name": "window_background_2",
+			"imageUri": "playground/scratch_to_reveal/scene_r_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_r_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "scratch_to_reveal_set2_scene_s_1",
+			"name": "window_background_2",
+			"imageUri": "playground/scratch_to_reveal/scene_s_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_s_{0}.png",
+			"noofframes": 5
+		},
+		{
+			"objectId": "scratch_to_reveal_set2_scene_t_1",
+			"name": "window_background_2",
+			"imageUri": "playground/scratch_to_reveal/scene_t_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_t_{0}.png",
+			"noofframes": 4
+		},
+		{
+			"objectId": "scratch_to_reveal_set2_scene_u_1",
+			"name": "window_background_2",
+			"imageUri": "playground/scratch_to_reveal/scene_u_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_u_{0}.png",
+			"noofframes": 3
+		},
+		{
+			"objectId": "scratch_to_reveal_set2_scene_v_1",
+			"name": "window_background_2",
+			"imageUri": "playground/scratch_to_reveal/scene_v_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_v_{0}.png",
+			"noofframes": 3
+		},
+		{
+			"objectId": "scratch_to_reveal_set2_scene_w_1",
+			"name": "snow_background",
+			"imageUri": "playground/scratch_to_reveal/scene_w_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_w_{0}.png",
+			"noofframes": 2
+		},
+		{
+			"objectId": "scratch_to_reveal_set2_scene_x_1",
+			"name": "snow_background",
+			"imageUri": "playground/scratch_to_reveal/scene_x_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_x_{0}.png",
+			"noofframes": 5
+		},
+		{
+			"objectId": "scratch_to_reveal_set2_scene_y_1",
+			"name": "snow_background",
+			"imageUri": "playground/scratch_to_reveal/scene_y_1.png",
+			"w": 444.726,
+			"h": 208.4,
+			"frameformat": "playground/scratch_to_reveal/scene_y_{0}.png",
+			"noofframes": 5
+		}
+	]
+}

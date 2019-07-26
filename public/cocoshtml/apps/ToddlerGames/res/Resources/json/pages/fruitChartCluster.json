@@ -1,0 +1,181 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Fruit Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_FruitChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/apple.jpg",
+						"text": "Apple",
+						"clicktarget" : "ms-audio://data/fruits/audio/apple.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/banana.jpg",
+						"text": "Banana",
+						"clicktarget" : "ms-audio://data/fruits/audio/banana.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/grapes.jpg",
+						"text": "Grapes",
+						"clicktarget" : "ms-audio://data/fruits/audio/grapes.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/kiwi.jpg",
+						"text": "Kiwi",
+						"clicktarget" : "ms-audio://data/fruits/audio/kiwi.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/mango.jpg",
+						"text": "Mango",
+						"clicktarget" : "ms-audio://data/fruits/audio/mango.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/orange.jpg",
+						"text": "Orange",
+						"clicktarget" : "ms-audio://data/fruits/audio/orange.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/pear.jpg",
+						"text": "Pear",
+						"clicktarget" : "ms-audio://data/fruits/audio/pear.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/pineapple.jpg",
+						"text": "Pineapple",
+						"clicktarget" : "ms-audio://data/fruits/audio/pineapple.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/plum.jpg",
+						"text": "Plum",
+						"clicktarget" : "ms-audio://data/fruits/audio/plum.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/pomegranate.jpg",
+						"text": "Pomegranate",
+						"clicktarget" : "ms-audio://data/fruits/audio/pomegranate.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/strawberry.jpg",
+						"text": "Strawberry",
+						"clicktarget" : "ms-audio://data/fruits/audio/strawberry.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/apricot.jpg",
+						"text": "Apricot",
+						"clicktarget" : "ms-audio://data/fruits/audio/apricot.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/blueberry.jpg",
+						"text": "blueberry",
+						"clicktarget" : "ms-audio://data/fruits/audio/blueberry.mp3"
+					}
+				},				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/fig.jpg",
+						"text": "Fig",
+						"clicktarget" : "ms-audio://data/fruits/audio/fig.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/grapefruit.jpg",
+						"text": "Grapefruit",
+						"clicktarget" : "ms-audio://data/fruits/audio/grapefruit.mp3"
+					}
+				},			
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/papaya.jpg",
+						"text": "Papaya",
+						"clicktarget" : "ms-audio://data/fruits/audio/papaya.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/peach.jpg",
+						"text": "Peach",
+						"clicktarget" : "ms-audio://data/fruits/audio/peach.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/raspberry.jpg",
+						"text": "Raspberry",
+						"clicktarget" : "ms-audio://data/fruits/audio/raspberry.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/watermelon.jpg",
+						"text": "Watermelon",
+						"clicktarget" : "ms-audio://data/fruits/audio/watermelon.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/fruits/images/avocado.jpg",
+						"text": "Avocado",
+						"clicktarget" : "ms-audio://data/fruits/audio/avocado.mp3"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"name": "animal_set7_large",
+	"type": "animal",
+	"suffix": "animal_set7_large_",
+	"objectList": [
+		{
+			"objectId": "animal_set7_large_bunny",
+			"name": "animal_rabbit",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_bunny.png",
+			"w": 82.526,
+			"h": 77.942,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_calf",
+			"name": "animal_cow",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_calf.png",
+			"w": 82.943,
+			"h": 56.268,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_cub",
+			"name": "animal_lion",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_cub.png",
+			"w": 77.108,
+			"h": 82.11,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_elephant_calf",
+			"name": "animal_elephant",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_elephant_calf.png",
+			"w": 82.943,
+			"h": 52.934,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_kitten",
+			"name": "animal_cat",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_kitten.png",
+			"w": 74.19,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_lamb",
+			"name": "animal_sheep",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_lamb.png",
+			"w": 71.69,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_piglet",
+			"name": "animal_pig",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_piglet.png",
+			"w": 82.526,
+			"h": 62.103,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_puppy",
+			"name": "animal_dog",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_puppy.png",
+			"w": 81.693,
+			"h": 68.355,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_pups",
+			"name": "animal_mouse",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_pups.png",
+			"w": 82.943,
+			"h": 41.263,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set7_large_rhino_calf",
+			"name": "animal_rhino",
+			"imageUri": "common/animals/animal_set7/animal_set7_large/animal_set7_large_rhino_calf.png",
+			"w": 82.943,
+			"h": 62.937,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"name": "animal_set8_large",
+	"type": "animal",
+	"suffix": "animal_set8_large_",
+	"objectList": [
+		{
+			"objectId": "animal_set8_large_cat_and_kitten",
+			"name": "animal_cat",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_cat_and_kitten.png",
+			"w": 77.525,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_cow_and_calf",
+			"name": "animal_cow",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_cow_and_calf.png",
+			"w": 82.526,
+			"h": 60.019,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_dog_and_puppy",
+			"name": "animal_dog",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_dog_and_puppy.png",
+			"w": 82.11,
+			"h": 66.271,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_elephant_and_calf",
+			"name": "animal_elephant",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_elephant_and_calf.png",
+			"w": 82.526,
+			"h": 57.102,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_lion_and_cub",
+			"name": "animal_lion",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_lion_and_cub.png",
+			"w": 71.69,
+			"h": 82.11,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_mouse_and_pups",
+			"name": "animal_mouse",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_mouse_and_pups.png",
+			"w": 82.943,
+			"h": 60.019,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_pig_and_piglet",
+			"name": "animal_pig",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_pig_and_piglet.png",
+			"w": 82.11,
+			"h": 65.854,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_rabbit_and_bunny",
+			"name": "animal_rabbit",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_rabbit_and_bunny.png",
+			"w": 70.022,
+			"h": 82.11,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_rhino_and_calf",
+			"name": "animal_rhino",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_rhino_and_calf.png",
+			"w": 82.943,
+			"h": 57.518,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set8_large_sheep_and_lamb",
+			"name": "animal_sheep",
+			"imageUri": "common/animals/animal_set8/animal_set8_large/animal_set8_large_sheep_and_lamb.png",
+			"w": 82.943,
+			"h": 72.94,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

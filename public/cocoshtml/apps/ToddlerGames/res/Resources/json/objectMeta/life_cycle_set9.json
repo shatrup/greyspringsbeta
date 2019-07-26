@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set9",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set9_",
+    "objectList": [
+		{
+			"objectId": "life_cycle_set9_girl_1",
+			"name": "word_baby",
+			"imageUri": "common/life_cycle/life_cycle_set5/girl_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_baby"
+		},
+		{
+			"objectId": "life_cycle_set9_girl_2",
+			"name": "word_child",
+			"imageUri": "common/life_cycle/life_cycle_set5/girl_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_child"
+		},
+		{
+			"objectId": "life_cycle_set9_girl_4",
+			"name": "word_adult",
+			"imageUri": "common/life_cycle/life_cycle_set5/girl_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_adult"
+		},
+		{
+			"objectId": "life_cycle_set9_girl_3",
+			"name": "word_adolescent",
+			"imageUri": "common/life_cycle/life_cycle_set5/girl_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_adolescent"
+		}
+    ]
+}

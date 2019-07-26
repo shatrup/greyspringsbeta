@@ -1,0 +1,53 @@
+{
+    "id": "CountComparisonQuiz",
+    "type": "CountComparisonQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "fruit_color",
+      "type": "fruit",
+      "bgMusic": "caption_touch_block_format",
+      "question": "caption_touch_block_format",      
+      "objectSrc": "realworld_set_fruit_set1",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+      "customKey1": "color"
+    },
+    {
+      "id": "fruit_name",
+      "type": "fruit",
+      "bgMusic": "caption_touch_block_format",
+      "question": "caption_touch_block_format",      
+      "objectSrc": "realworld_set_fruit_set1",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+      "customKey1": "name"
+    },
+    {
+      "id": "alphabet_name",
+      "type": "alphabet",
+      "bgMusic": "caption_touch_block_format",
+      "question": "caption_touch_block_format",      
+      "objectSrc": "realworld_set_alphabet_set2",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+      "customKey1": "name"
+    },
+    {
+      "id": "shape_name",
+      "type": "shape",
+      "bgMusic": "caption_touch_block_format",
+      "question": "caption_touch_block_format",      
+      "objectSrc": "realworld_set_shape_set1",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+      "customKey1": "name"
+    },
+    {
+      "id": "color_name",
+      "type": "color",
+      "bgMusic": "caption_touch_block_format",
+      "question": "caption_touch_block_format",      
+      "objectSrc": "realworld_set_color_set1",
+      "bgImg": "common/backgrounds/background_fullbleed/background_wood.png",
+      "customKey1": "name"
+    }
+  ] 
+}

@@ -1,0 +1,106 @@
+{
+	"name": "shape_set24_1",
+	"type": "shape",
+	"suffix": "shape_set24_1_",
+	"objectList": [
+		{
+			"objectId": "shape_set24_1_disable_circle",
+			"name": "shape_circle",
+			"imageUri": "common/shapes/shape_set24/shape_light_circle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "circle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_diamond",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set24/shape_light_diamond_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "diamond",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_heart",
+			"name": "shape_heart",
+			"imageUri": "common/shapes/shape_set24/shape_light_heart_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "heart",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_hexagon",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_hexagon_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "hexagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_oval",
+			"name": "shape_oval",
+			"imageUri": "common/shapes/shape_set24/shape_light_oval_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "oval",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_pentagon",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_pentagon_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "pentagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_rectangle",
+			"name": "shape_rectangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_rectangle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "rectangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_semicircle",
+			"name": "shape_semicircle",
+			"imageUri": "common/shapes/shape_set24/shape_light_semicircle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "semicircle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_square",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set24/shape_light_square_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "square",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_star",
+			"name": "shape_star",
+			"imageUri": "common/shapes/shape_set24/shape_light_star_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "star",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_1_disable_triangle",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_triangle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "triangle",
+			"color": ""
+		}
+	]
+}

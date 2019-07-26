@@ -1,0 +1,169 @@
+{
+   "name":"vehicle_parts_set10",
+   "type":"vehicles",
+   "suffix":"vehicle_parts_set10_",
+   "background":"common/backgrounds/background_fullbleed/background_sports_car_2.png",
+   "finishSoundEffect": "effect_car_burnoutHotRod",
+   "flag":"common/chrome/quiz/start_flag.png",
+   "flagX": 119.86197662353516,
+   "flagY": 267.97918701171875,
+   "partsList":[
+		{
+			"objectId": "vehicle_parts_set10_car_bonnet_1",
+			"name": "car_bonnet",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_car_bonnet_1.png",
+			"w": 277.589,
+			"h": 94.197,
+			"x": 185.79582214355469,
+			"y": 98.052299499511719,
+			"zorder": 10,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_car_bonnet_2.png",
+				"common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_car_bonnet_2.png",
+				"common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_car_bonnet_1.png"
+			],
+			"frameInterval": 0.3,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set10_car_shadow",
+			"name": "car_shadow",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_car_shadow.png",
+			"w": 467.233,
+			"h": 53.35,
+			"x": 284,
+			"y": 38.3721923828125,
+			"zorder": 1,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set10_element_1",
+			"name": "element_1",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_element_1.png",
+			"w": 60.019,
+			"h": 84.194,
+			"x": 460.55001831054688,
+			"y": 123.18167114257813,
+			"zorder": 15,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set10_element_2",
+			"name": "element_2",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_element_2.png",
+			"w": 75.858,
+			"h": 34.594,
+			"x": 115.32939147949219,
+			"y": 58.044384002685547,
+			"zorder": 20,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set10_element_3",
+			"name": "element_3",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_element_3.png",
+			"w": 136.294,
+			"h": 101.699,
+			"x": 377.28485107421875,
+			"y": 100.34203338623047,
+			"zorder": 10,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set10_element_4",
+			"name": "element_4",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_element_4.png",
+			"w": 26.675,
+			"h": 39.596,
+			"x": 334.83837890625,
+			"y": 161.07450866699219,
+			"zorder": 5,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set10_element_5",
+			"name": "element_5",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_element_5.png",
+			"w": 64.604,
+			"h": 25.425,
+			"x": 362.88461303710938,
+			"y": 127.095947265625,
+			"zorder": 20,
+			"animationType": ["blink"],
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set10_element_6",
+			"name": "element_6",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_element_6.png",
+			"w": 170.471,
+			"h": 30.01,
+			"x": 313.89065551757812,
+			"y": 67.4661636352539,
+			"zorder": 30,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set10_element_7",
+			"name": "element_7",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_element_7.png",
+			"w": 64.187,
+			"h": 25.008,
+			"x": 283.92694091796875,
+			"y": 94.1844482421875,
+			"zorder": 30,
+			"animationType": ["blink"],
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set10_ping_1",
+			"name": "ping",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_ping_1.png",
+			"w": 116.704,
+			"h": 86.694,
+			"x": 284.610107421875,
+			"y": 150.09838562011719,
+			"zorder": 10,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_ping_2.png",
+				"common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_ping_1.png"
+			],
+			"frameInterval": 0.3,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set10_tire_1",
+			"name": "tire_front",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_tire.png",
+			"type": "tyre",
+			"w": 80.026,
+			"h": 80.026,
+			"x": 191.14897155761719,
+			"y": 72.998237609863281,
+			"zorder": 100,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -60.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set10_tire_2",
+			"name": "tire_rear",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set10/vehicle_parts_set10_tire.png",
+			"type": "tyre",
+			"w": 80.026,
+			"h": 80.026,
+			"x": 440.49755859375,
+			"y": 72.998237609863281,
+			"zorder": 100,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -60.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		}
+	]
+}

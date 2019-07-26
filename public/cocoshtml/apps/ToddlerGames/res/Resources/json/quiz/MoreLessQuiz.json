@@ -1,0 +1,43 @@
+{
+    "id": "MatchTheShadowQuiz",
+    "type": "MatchTheShadowQuiz",
+    "bgMusic": "caption_match_picture_{0}",
+    "question": "caption_match_picture_{0}",
+	"bgImg": "common/backgrounds/background_fullbleed/background_canvas_1.png",
+    "complexity": "low",
+    "qsBgColor": "60C0CC",
+	"customKey1": "shadow",
+	"customKey2": "right_shadow",
+    "sets": [
+    {
+	  "id": "number_set",
+      "name": "set_3",
+      "objectSrc": "realworld_set_number_set2"
+    },
+    {
+	  "id": "alphabet_set",
+      "name": "set_2",
+      "objectSrc": "realworld_set_alphabet_set6_large"
+    },	
+    {
+      "name": "vechile_set",
+	  "name": "ser_4",
+      "objectSrc": "realworld_set_vehicle_set1_truck"
+    },
+     {
+	  "id": "sea_animal_set",
+      "name": "set_5",
+      "objectSrc": "realworld_set_sea_animal_set1"
+    },
+    {
+	  "id": "piglets_set",
+      "name": "set_6",
+      "objectSrc": "realworld_set_piglets_set1"
+    },
+    {
+	  "id": "fruit_set",
+      "name": "set_7",
+      "objectSrc": "realworld_set_fruit_set1"
+    }
+    ] 
+}

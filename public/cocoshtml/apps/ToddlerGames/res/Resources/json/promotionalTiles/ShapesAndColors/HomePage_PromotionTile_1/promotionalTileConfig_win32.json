@@ -1,0 +1,13 @@
+{
+	"tileType" : "QuizAppHomePagePromoTile",
+	"appId" : "PreschoolBasics",
+	"tileId" : "PromotionalTile_1", 
+	"version" :  "1.0",
+	"title" : "Preschool Games",
+	"ageGroup" : "2-5",
+	"description" : "Let's gear up for school",
+	"logoUri" : "common/promotional_promo/round_icons/preschool_games_icon.png",
+	"backgroundUri" : "common/promotional_promo/background/preschool_games_background.png",
+	"buttonImgUri" : "common/promotional_promo/common/android_download_button.png",
+	"targetUri" : "http://apps.microsoft.com/windows/en-us/app/9226156b-7850-4297-ad17-8d702b9f826d"	
+}

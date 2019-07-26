@@ -1,0 +1,19 @@
+{
+    "id": "BubbleCatchQuiz",
+    "type": "BubbleCatchQuiz",
+    "complexity": "medium",
+    "qsBgColor": "1FAEFF",
+    "sets": [
+    {
+      "id": "bug_color",
+      "type": "color",
+      "bgImg" : "potsprite://scene/?id=RealWorldScene_164",      
+      "bgMusic": "caption_burst_the_floating_bubbles",
+      "question": "caption_burst_the_floating_bubbles",      
+      "objectSrc": "vegetable_set3_large",
+      "customKey1": "color",
+      "customKey2": "",
+	  "isFullBleed":true
+    }
+  ] 
+}

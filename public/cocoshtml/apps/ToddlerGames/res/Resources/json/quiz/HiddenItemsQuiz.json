@@ -1,0 +1,74 @@
+{
+    "id": "HiddenItemsQuiz",
+    "type": "HiddenItemsQuiz",
+    "bgMusic": "caption_touch_find_item",
+    "question": "caption_touch_find_items",
+    "complexity": "low",
+    "qsBgColor": "003366",
+    "sets": [
+		{
+		  "name": "set_1",
+		  "objectSrc": "RealWorldScene_100"
+		},
+		{
+		  "name": "set_3",
+		  "objectSrc": "RealWorldScene_103"
+		},
+		{
+		  "name": "set_4",
+		  "objectSrc": "RealWorldScene_104"
+		},
+		{
+		  "name": "set_4_1",
+		  "objectSrc": "RealWorldScene_105"
+		},
+		{
+		  "name": "set_4_2",
+		  "objectSrc": "RealWorldScene_107"
+		},
+		{
+		  "name": "set_4_3",
+		  "objectSrc": "RealWorldScene_110"
+		},
+		{
+		  "name": "set_5",
+		  "objectSrc": "RealWorldScene_112"
+		},
+		{
+		  "name": "set_17",
+		  "objectSrc": "RealWorldScene_115"
+		},
+		{
+		  "name": "set_18",
+		  "objectSrc": "RealWorldScene_116"
+		},
+		{
+		  "name": "set_19",
+		  "objectSrc": "RealWorldScene_117"
+		},
+		{
+		  "name": "set_21",
+		  "objectSrc": "RealWorldScene_120"
+		},
+		{
+		  "name": "set_21_1",
+		  "objectSrc": "RealWorldScene_121"
+		},
+		{
+		  "name": "set_22",
+		  "objectSrc": "RealWorldScene_122"
+		},
+		{
+		  "name": "set_23",
+		  "objectSrc": "RealWorldScene_125"
+		},
+		{
+		  "name": "set_24",
+		  "objectSrc": "RealWorldScene_126"
+		},
+		{
+		  "name": "set_25",
+		  "objectSrc": "RealWorldScene_128"
+		}
+    ] 
+}

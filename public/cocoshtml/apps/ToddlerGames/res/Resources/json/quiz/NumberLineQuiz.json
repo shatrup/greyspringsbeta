@@ -1,0 +1,16 @@
+{
+    "id": "NumberLineQuiz",
+    "type": "NumberLineQuiz",
+    "complexity": "medium",
+    "qsBgColor": "4294DE",
+    "sets": [
+    {
+      "id": "circle_numbers",
+      "type": "number",
+      "bgMusic": "caption_touch_number_line_{0}",
+      "question": "caption_touch_number_line_format",      
+      "bgImg" : "common/backgrounds/background_fullbleed/background_book.png", 
+      "objectSrc": "realworld_set_number_circle_set0"
+    }
+  ] 
+}

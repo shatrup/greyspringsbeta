@@ -1,0 +1,32 @@
+{
+    "id": "DragToMatchQuiz",
+    "type": "DragToMatchQuiz",
+    "complexity": "medium",
+    "qsBgColor": "727AA1",
+	"isFullBleed": true,
+    "bgImg" : "common/backgrounds/background_fullbleed/background_math_grid_fullbleed.png", 
+     "bgMusic": "caption_match_numbers_pictures",
+     "question": "caption_match_numbers_pictures",
+    "sets": [
+    {
+      "id": "set_3",
+      "type": "vehicle",
+      "objectSrc": "realworld_set_fruit_set1"
+    },
+    {
+      "id": "set_4",
+      "type": "vehicle",
+      "objectSrc": "realworld_set_vehicle_set1_truck"
+    },
+    {
+      "id": "set_5",
+      "type": "vehicle",
+      "objectSrc": "realworld_set_candy_set1"
+    },
+    {
+      "id": "set_5",
+      "type": "vehicle",
+      "objectSrc": "realworld_set_sea_animal_set1"
+    }
+  ] 
+}

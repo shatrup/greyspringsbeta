@@ -1,0 +1,106 @@
+{
+    "name": "scoreboard_set1",
+    "type": "",
+    "suffix": "scoreboard_set1_",
+    "objectList": [
+        {
+            "objectId": "scoreboard_set1_background",
+            "name": "scoreboard_set1_background",
+            "imageUri": "common/chrome/scoreboard/background.png",
+            "w": 569.349,
+            "h": 320.102,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_go_ads_free",
+            "name": "scoreboard_set1_free",
+            "imageUri": "common/chrome/scoreboard/go_ads_free.png",
+            "w": 80.026,
+            "h": 41.68,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_home",
+            "name": "scoreboard_set1_home",
+            "imageUri": "common/chrome/scoreboard/home.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_home_faded",
+            "name": "scoreboard_set1_home_faded",
+            "imageUri": "common/chrome/scoreboard/home_faded.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_next",
+            "name": "scoreboard_set1_next",
+            "imageUri": "common/chrome/scoreboard/next.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_next_faded",
+            "name": "scoreboard_set1_next_faded",
+            "imageUri": "common/chrome/scoreboard/next_faded.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_replay",
+            "name": "scoreboard_set1_replay",
+            "imageUri": "common/chrome/scoreboard/replay.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_scoreboard",
+            "name": "scoreboard_set1_scoreboard",
+            "imageUri": "common/chrome/scoreboard/scoreboard.png",
+            "w": 207.983,
+            "h": 200.064,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_star_disabled",
+            "name": "scoreboard_set1_disabled",
+            "imageUri": "common/chrome/scoreboard/star_disabled.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "scoreboard_set1_star_enabled",
+            "name": "scoreboard_set1_enabled",
+            "imageUri": "common/chrome/scoreboard/star_enabled.png",
+            "w": 82.943,
+            "h": 82.943,
+            "shape": "",
+            "color": ""
+        },
+		{
+			"objectId": "scoreboard_set1_thumb_button",
+			"name": "scoreboard_set1_button",
+			"imageUri": "common/chrome/buttons/thumb_button.png",
+			"w": 78.775,
+			"h": 78.775,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

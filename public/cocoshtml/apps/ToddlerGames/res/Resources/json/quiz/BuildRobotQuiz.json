@@ -1,0 +1,20 @@
+{
+    "id": "BuildRobotQuiz",
+    "type": "BuildRobotQuiz",
+    "bgMusic": "caption_match_shapes_face_holes_1",
+    "question": "caption_match_shapes_face_holes_1",
+    "complexity": "low",
+    "qsBgColor": "b85749",
+    "sets": [
+      {
+        "name": "set_1",
+        "id": "set1",
+        "objectSrc": "realworld_set_shape_set18",
+        "bgImg": "common/scenes/scene173/background.png",
+        "customKey1": "shape_set17",
+        "customKey2": "shape_set18",
+        "customKey3": "shape_set19",
+		"isFullBleed": true
+      } 
+    ] 
+}

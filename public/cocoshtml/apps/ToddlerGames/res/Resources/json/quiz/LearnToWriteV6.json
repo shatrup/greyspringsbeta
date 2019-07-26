@@ -1,0 +1,71 @@
+{
+    "id": "LearnToWriteV6",
+    "type": "LearnToWriteV6",
+    "complexity": "medium",
+    "bgMusic" : "caption_trace_dots_{0}",
+	"qsBgColor": "865B36",
+	"question" : "caption_trace_dots_format",
+	"isFullBleed": true,
+    "sets": [
+		{
+		  "id": "capital_alphabets",
+		  "type": "english",
+		  "objectSrc": "realworld_set_alphabet_set19",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "letter"
+		},
+		{
+		  "id": "small_alphabets",
+		  "type": "small_alphabets",
+		  "objectSrc": "realworld_set_alphabet_set14_x_large",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "letter"
+		},
+		{
+		  "id": "numbers",
+		  "type": "numbers",
+		  "objectSrc": "realworld_set_number_set27_x_large",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "number"
+		},
+		{
+		  "id": "shapes",
+		  "type": "shapes",
+		  "objectSrc": "realworld_set_shape_set21",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "shape"
+		},
+		{
+		  "id": "capital_alphabets_v2",
+		  "type": "english",
+		  "objectSrc": "realworld_set_alphabet_set19",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "letter",
+		  "customKey2": "no_set_selection_bar"
+		},
+		{
+		  "id": "small_alphabets_v2",
+		  "type": "small_alphabets",
+		  "objectSrc": "realworld_set_alphabet_set14_x_large",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "letter",
+		  "customKey2": "no_set_selection_bar"
+		},
+		{
+		  "id": "numbers_v2",
+		  "type": "numbers",
+		  "objectSrc": "realworld_set_number_set27_x_large",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "number",
+		  "customKey2": "no_set_selection_bar"
+		},
+		{
+		  "id": "shapes_v2",
+		  "type": "shapes",
+		  "objectSrc": "realworld_set_shape_set21",
+		  "bgImg" : "common/backgrounds/background_fullbleed/background_bricks_1.png",
+		  "customKey1": "shape",
+		  "customKey2": "no_set_selection_bar"
+		}
+    ]
+}

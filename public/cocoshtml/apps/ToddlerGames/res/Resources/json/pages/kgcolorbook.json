@@ -1,0 +1,23 @@
+{
+	"id": "kgcolorbook8",
+    "title": "KG Colorbook",
+    "panel": {
+        "clusters": [
+			{
+				"name": "colorsCluster",
+                "title": "colorsCluster",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/colorsCluster.json"
+			},
+			{
+			    "name": "adsCluster",
+                "title": "Ads",
+                "type": "ClusterControl",
+                 "requestUri": "/data/pageJson/adsCluster.json",
+				 "requestParams": {
+					"adsName" : "kg8_160x600_homepage_atend"
+				 }
+			}
+        ]
+    }
+}

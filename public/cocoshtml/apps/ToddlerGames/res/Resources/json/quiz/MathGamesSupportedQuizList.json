@@ -1,0 +1,40 @@
+{
+    "quizList": [
+        {
+            "id": "AscendingDescendingQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "NumberNamesQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "EvenOddHopQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "FractionalPizzaQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "TickTockQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "TensAndOnesQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "AquariumNumberAddQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "CutItOffQuiz",
+            "unlockConstraint": "none"
+        },
+        {
+            "id": "HalvesAndDoublesQuiz",
+            "unlockConstraint": "none"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+	"name": "summer_object_set1_large",
+	"type": "summer",
+	"suffix": "summer_object_set1_large_",
+	"objectList": [
+		{
+			"objectId": "summer_object_set1_large_colddrink",
+			"name": "summer_colddrink",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_colddrink.png",
+			"w": 69.606,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_flippers",
+			"name": "summer_flippers",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_flippers.png",
+			"w": 82.943,
+			"h": 79.192,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_ice",
+			"name": "summer_ice",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_ice.png",
+			"w": 80.026,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_icecream",
+			"name": "summer_icecream",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_icecream.png",
+			"w": 74.19,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_juice_1",
+			"name": "summer_1",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_juice_1.png",
+			"w": 61.27,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_juice_2",
+			"name": "summer_2",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_juice_2.png",
+			"w": 27.509,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_kulfi",
+			"name": "summer_kulfi",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_kulfi.png",
+			"w": 45.014,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_seastar",
+			"name": "summer_seastar",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_seastar.png",
+			"w": 82.526,
+			"h": 77.525,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_shorts",
+			"name": "summer_shorts",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_shorts.png",
+			"w": 84.194,
+			"h": 58.352,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_shower",
+			"name": "summer_shower",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_shower.png",
+			"w": 58.352,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_slippers_1",
+			"name": "summer_1",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_slippers_1.png",
+			"w": 66.688,
+			"h": 82.526,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_slippers_2",
+			"name": "summer_2",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_slippers_2.png",
+			"w": 68.355,
+			"h": 83.36,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_slippers_3",
+			"name": "summer_3",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_slippers_3.png",
+			"w": 64.604,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_sun",
+			"name": "summer_sun",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_sun.png",
+			"w": 80.859,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_sunglasses_1",
+			"name": "summer_1",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_sunglasses_1.png",
+			"w": 82.943,
+			"h": 45.431,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_sunglasses_2",
+			"name": "summer_2",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_sunglasses_2.png",
+			"w": 83.36,
+			"h": 43.764,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_sunhat",
+			"name": "summer_sunhat",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_sunhat.png",
+			"w": 82.943,
+			"h": 53.35,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_swim",
+			"name": "summer_swim",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_swim.png",
+			"w": 83.36,
+			"h": 45.431,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_trouser",
+			"name": "summer_trouser",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_trouser.png",
+			"w": 63.354,
+			"h": 82.943,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_t_shirt",
+			"name": "summer_shirt",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_t_shirt.png",
+			"w": 83.36,
+			"h": 75.024,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_umbrella_1",
+			"name": "summer_1",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_umbrella_1.png",
+			"w": 82.943,
+			"h": 75.024,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "summer_object_set1_large_umbrella_2",
+			"name": "summer_2",
+			"imageUri": "common/seasons/summer/summer_object_set1/summer_object_set1_large/summer_object_set1_large_umbrella_2.png",
+			"w": 82.943,
+			"h": 81.276,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

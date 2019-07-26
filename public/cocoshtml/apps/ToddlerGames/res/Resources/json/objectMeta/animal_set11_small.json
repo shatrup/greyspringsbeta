@@ -1,0 +1,124 @@
+{
+	"name": "animal_set11_small",
+	"type": "animal",
+	"suffix": "animal_set11_small_",
+	"objectList": [
+		{
+			"objectId": "animal_set11_small_bear",
+			"name": "_bear",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_bear.png",
+			"w": 24.174,
+			"h": 20.84,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_cow",
+			"name": "_cow",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_cow.png",
+			"w": 27.926,
+			"h": 15.838,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_dog",
+			"name": "_dog",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_dog.png",
+			"w": 18.339,
+			"h": 20.006,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_elephant",
+			"name": "_elephant",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_elephant.png",
+			"w": 26.258,
+			"h": 20.006,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_frog",
+			"name": "_frog",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_frog.png",
+			"w": 20.006,
+			"h": 19.173,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_giraffe",
+			"name": "_giraffe",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_giraffe.png",
+			"w": 18.756,
+			"h": 21.674,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_goat",
+			"name": "_goat",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_goat.png",
+			"w": 22.507,
+			"h": 21.674,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_hen",
+			"name": "_hen",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_hen.png",
+			"w": 18.339,
+			"h": 20.006,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_lion",
+			"name": "_lion",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_lion.png",
+			"w": 24.174,
+			"h": 20.84,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_pig",
+			"name": "_pig",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_pig.png",
+			"w": 24.174,
+			"h": 20.006,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_rabbit",
+			"name": "_rabbit",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_rabbit.png",
+			"w": 24.174,
+			"h": 18.756,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_rat",
+			"name": "_rat",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_rat.png",
+			"w": 22.507,
+			"h": 19.173,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animal_set11_small_sheep",
+			"name": "_sheep",
+			"imageUri": "common/animals/animal_set11/animal_set11_small/animal_set11_small_sheep.png",
+			"w": 24.174,
+			"h": 20.84,
+			"shape": "",
+			"color": ""
+		}
+	]
+}

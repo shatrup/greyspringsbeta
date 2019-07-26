@@ -1,0 +1,2197 @@
+{
+    "directory": "playground/fill_the_colors_objects/{0}",
+    "titleBGColor": "56C5FF",
+    "sets": [
+        {
+            "quizType": "easySet",
+            "question": "caption_fill_pictures_using_colorpad",
+			"background": "common/backgrounds/background_fullbleed/background_bricks_1.png",
+            "bgMusic": "caption_fill_pictures_using_colorpad",
+			"isFullBleed": true,
+            "objects": [              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "2.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_10.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_11.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_12.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "3.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "4.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "5.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "6.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "7.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "8.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_10.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "9.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "10.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },				              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "11.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "12.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "13.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },				              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "14.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "15.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "16.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "17.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "18.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "19.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "20.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "21.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "22.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "23.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "24.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "25.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_10.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "26.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "27.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "28.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "29.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "30.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "31.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "32.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "33.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "34.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "35.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "36.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "37.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "38.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "39.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "40.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "41.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "42.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "43.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "44.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "45.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },              
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "46.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "47.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_10.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_11.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "49.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_10.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_11.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "50.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "51.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_10.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_11.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_12.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "52.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "53.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                },
+				{
+                    "sound": "",
+                    "imgSet": [
+                        {
+                            "img": "n_1.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_2.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_3.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_4.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_5.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_6.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_7.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_8.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_9.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_10.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_11.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_12.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_13.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_14.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_15.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_16.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_17.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_18.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_19.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_20.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_21.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_22.png",
+                            "type": "number"
+                        },
+						{
+                            "img": "n_23.png",
+                            "type": "number"
+                        },
+                        {
+                            "img": "54.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "zIndex": 1000,
+                            "scale": 0.8
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "colorSets": [
+        {
+            "colorCode": 4,
+			"colorValue": "ff5252",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": 40,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 13,
+			"colorValue": "8e24aa",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -1,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 3,
+			"colorValue": "00b8d4",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -42,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 12,
+			"colorValue": "647687",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -83,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 8,
+			"colorValue": "ff6d00",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -124,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 7,
+			"colorValue": "ff4081",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": 40,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 2,
+			"colorValue": "2979ff",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -1,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 0,
+			"colorValue": "00c853",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -42,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 9,
+			"colorValue": "ffd600",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -83,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        },
+        {
+            "colorCode": 15,
+			"colorValue": "795548 ",
+            "src_img": "common/chrome/quiz/color_blob.png",
+            "x": 100,
+            "y": -124,
+            "rotation": 0,
+            "scale": 1.0,
+            "action": ""
+        }
+    ]
+}

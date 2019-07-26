@@ -1,0 +1,117 @@
+{
+    "name": "animal_set4_xx_large",
+    "type": "animal",
+    "suffix": "animal_set4_xx_large_",
+    "objectList": [
+        {
+            "objectId": "animal_set4_xx_large_bull",
+            "name": "animal_bull",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_bull.png",
+            "w": 222.154,
+            "h": 273.004,
+            "audioId": "animal_bull",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_giraffe",
+            "name": "animal_giraffe",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_giraffe.png",
+            "w": 230.907,
+            "h": 272.587,
+            "audioId": "animal_giraffe",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_cat",
+            "name": "animal_cat",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_cat.png",
+            "w": 273.004,
+            "h": 232.991,
+            "audioId": "animal_cat",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_cow",
+            "name": "animal_cow",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_cow.png",
+            "w": 272.17,
+            "h": 175.89,
+            "audioId": "animal_cow",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_dog",
+            "name": "animal_dog",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_dog.png",
+            "w": 272.17,
+            "h": 198.814,
+            "audioId": "animal_dog",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_elephant",
+            "name": "animal_elephant",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_elephant.png",
+            "w": 273.004,
+            "h": 213.402,
+            "audioId": "animal_elephant",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_horse",
+            "name": "animal_horse",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_horse.png",
+            "w": 272.587,
+            "h": 241.744,
+            "audioId": "animal_horse",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_lion",
+            "name": "animal_lion",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_lion.png",
+            "w": 219.654,
+            "h": 273.004,
+            "audioId": "animal_lion",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_pig",
+            "name": "animal_pig",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_pig.png",
+            "w": 271.754,
+            "h": 195.896,
+            "audioId": "animal_pig",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_rabbit",
+            "name": "animal_rabbit",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_rabbit.png",
+            "w": 271.754,
+            "h": 207.983,
+            "audioId": "animal_rabbit",
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "animal_set4_xx_large_sheep",
+            "name": "animal_sheep",
+            "imageUri": "common/animals/animal_set4/animal_set4_xx_large/animal_set4_xx_large_sheep.png",
+            "w": 273.004,
+            "h": 235.492,
+            "audioId": "animal_sheep",
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

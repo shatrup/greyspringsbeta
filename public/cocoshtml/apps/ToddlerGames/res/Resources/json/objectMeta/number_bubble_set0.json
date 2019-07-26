@@ -1,0 +1,97 @@
+{
+    "name": "number_bubble_set0",
+    "type": "number",
+    "suffix": "number_bubble_set0_",
+    "objectList": [
+        {
+            "objectId": "number_bubble_set0_0",
+            "name": "number_0",
+            "imageUri": "potsprite://bubble_number/?number=0&color=60A917",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_1",
+            "name": "number_1",
+            "imageUri": "potsprite://bubble_number/?number=1&color=F472D0",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_2",
+            "name": "number_2",
+            "imageUri": "potsprite://bubble_number/?number=2&color=0050EF",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_3",
+            "name": "number_3",
+            "imageUri": "potsprite://bubble_number/?number=3&color=1BA1E2",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_4",
+            "name": "number_4",
+            "imageUri": "potsprite://bubble_number/?number=4&color=E51400",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_5",
+            "name": "number_5",
+            "imageUri": "potsprite://bubble_number/?number=5&color=D80073",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_6",
+            "name": "number_6",
+            "imageUri": "potsprite://bubble_number/?number=6&color=FA6800",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_7",
+            "name": "number_7",
+            "imageUri": "potsprite://bubble_number/?number=7&color=E3C800",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_8",
+            "name": "number_8",
+            "imageUri": "potsprite://bubble_number/?number=8&color=6D8764",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_bubble_set0_9",
+            "name": "number_9",
+            "imageUri": "potsprite://bubble_number/?number=9&color=A20025",
+            "w": 5,
+            "h": 5,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

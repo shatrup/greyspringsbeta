@@ -1,0 +1,77 @@
+{
+	"name": "rws181",
+	"type": "scene",
+	"suffix": "rws181_",
+	"objectList": [
+		{
+			"objectId": "rws181_background_night",
+			"name": "background_night",
+			"imageUri": "common/scenes/scene181/background_night.png",
+			"w": 569.349,
+			"h": 320.102
+		},
+		{
+			"objectId": "rws181_ball_shadow",
+			"name": "ball_shadow",
+			"imageUri": "common/scenes/scene181/ball_shadow.png",
+			"w": 24.591,
+			"h": 2.501
+		},
+		{
+			"objectId": "rws181_basket_1",
+			"name": "basket_1",
+			"imageUri": "common/scenes/scene181/basket_1.png",
+			"w": 47.515,
+			"h": 47.515
+		},
+		{
+			"objectId": "rws181_basket_2",
+			"name": "basket_2",
+			"imageUri": "common/scenes/scene181/basket_2.png",
+			"w": 46.265,
+			"h": 45.848
+		},
+		{
+			"objectId": "rws181_basket_3",
+			"name": "basket_3",
+			"imageUri": "common/scenes/scene181/basket_3.png",
+			"w": 46.265,
+			"h": 46.265
+		},
+		{
+			"objectId": "rws181_basket_4",
+			"name": "basket_4",
+			"imageUri": "common/scenes/scene181/basket_4.png",
+			"w": 46.265,
+			"h": 45.848
+		},
+		{
+			"objectId": "rws181_basket_5",
+			"name": "basket_5",
+			"imageUri": "common/scenes/scene181/basket_5.png",
+			"w": 46.265,
+			"h": 46.265
+		},
+		{
+			"objectId": "rws181_basket_ball",
+			"name": "basket_ball",
+			"imageUri": "common/scenes/scene181/basket_ball.png",
+			"w": 30.426,
+			"h": 30.426
+		},
+		{
+			"objectId": "rws181_goal_post",
+			"name": "goal_post",
+			"imageUri": "common/scenes/scene181/goal_post.png",
+			"w": 44.181,
+			"h": 133.793
+		},
+		{
+			"objectId": "rws181_scoreboard",
+			"name": "scoreboard",
+			"imageUri": "common/scenes/scene181/scoreboard.png",
+			"w": 98.782,
+			"h": 114.203
+		}
+	]
+}

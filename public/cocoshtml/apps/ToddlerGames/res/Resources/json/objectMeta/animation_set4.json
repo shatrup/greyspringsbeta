@@ -1,0 +1,43 @@
+{
+    "name": "animation_set4",
+    "type": "fish_animation",
+	"suffix": "animation_set4_",
+	"objectList": [
+		{
+			"objectId": "animation_set4_rws137_fish_1",
+			"name": "scene137_1",
+			"imageUri": "common/scenes/scene137/rws137_fish_1.png",
+			"w": 125.04,
+			"h": 111.702,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set4_rws137_fish_2",
+			"name": "scene137_2",
+			"imageUri": "common/scenes/scene137/rws137_fish_2.png",
+			"w": 125.04,
+			"h": 100.032,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set4_rws137_fish_3",
+			"name": "scene137_3",
+			"imageUri": "common/scenes/scene137/rws137_fish_3.png",
+			"w": 125.04,
+			"h": 100.032,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "animation_set4_rws137_fish_4",
+			"name": "scene137_4",
+			"imageUri": "common/scenes/scene137/rws137_fish_4.png",
+			"w": 125.04,
+			"h": 100.032,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

@@ -1,0 +1,68 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/fruitsTile400x800.jpg",
+						"title": "ms-resource:Fruits_Tile",
+						"clicktarget" : "appprotocol://page?id=colorsFruitsPage"
+					}
+				},
+				  {
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/47.png",
+						"title": "PEACHES",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=47&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/48.png",
+						"title": "PEAR",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=48&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/49.png",
+						"title": "PINEAPPLE",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=49&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/50.png",
+						"title": "BERRIES",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=50&layout=vertical"
+					}
+				},
+				{
+					"type" : "smallTileTemplateV2",
+					"data" : {
+						"image": "/data/colors/thumbnails/51.png",
+						"title": "PEACH",
+						"clicktarget" : "appprotocol://page?id=colorbookPage&imgid=51&layout=vertical"
+					}
+				},
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsFruitsPage"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,564 @@
+{
+    "directory": "playground/tracing_items/",
+    "titleBGColor": "0072C6",
+	"isFullBleed": true,
+    "sets": [
+        {
+            "quizType": "numbers",
+            "question": "caption_trace_dots_format",
+            "bgMusic": "caption_trace_dots_{0}",
+            "objects": [
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "0.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 140,
+                            "sy": 250,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "2.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 65,
+                            "sy": 235,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "3.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 70,
+                            "sy": 237,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "4.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 225,
+                            "sy": 88,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "5.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 200,
+                            "sy": 249,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "6.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 193,
+                            "sy": 248,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "7.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 68,
+                            "sy": 248,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "8.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 150,
+                            "sy": 146,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "9.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 190,
+                            "sy": 147,
+                            "zIndex": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quizType": "alphabets",
+            "question": "caption_trace_dots_format",
+            "bgMusic": "caption_trace_dots_{0}",
+            "objects": [
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "a.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 48,
+                            "sy": 13,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "b.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 70,
+                            "sy": 250,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "c.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 220,
+                            "sy": 242,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "e.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 80,
+                            "sy": 250,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "f.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 80,
+                            "sy": 250,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "i.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 136,
+                            "sy": 258,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "j.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 179,
+                            "sy": 257,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "l.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 82,
+                            "sy": 264,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "p.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 68,
+                            "sy": 18,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "s.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 196,
+                            "sy": 238,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "t.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 39,
+                            "sy": 249,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "v.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 47,
+                            "sy": 252,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "x.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 63,
+                            "sy": 260,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "y.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 55,
+                            "sy": 255,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "z.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 55,
+                            "sy": 248,
+                            "zIndex": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quizType": "shapes",
+            "question": "caption_trace_dots_format",
+            "bgMusic": "caption_trace_dots_{0}",
+            "objects": [
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "circle.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 135,
+                            "sy": 255,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "diamond.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 140,
+                            "sy": 250,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "hexagon.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 78,
+                            "sy": 235,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "pentagon.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 133,
+                            "sy": 245,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "rectangle.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 15,
+                            "sy": 125,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "square.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 22,
+                            "sy": 22,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "star.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 138,
+                            "sy": 241,
+                            "zIndex": 1000
+                        }
+                    ]
+                },
+                {
+                    "background": "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+                    "sound": "",
+                    "imageSet": [
+                        {
+                            "img": "triangle.png",
+                            "type": "quiz",
+                            "x": 0,
+                            "y": 0,
+                            "sx": 140,
+                            "sy": 236,
+                            "zIndex": 1000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "colorSets": [
+        {
+            "colorCode": 0,
+            "src_img": "common/chrome/quiz/crayon_0.png",
+            "x": 10,
+            "y": -40,
+            "rotation": 0,
+            "scale": 0.7,
+            "action": ""
+        },
+        {
+            "colorCode": 9,
+            "src_img": "common/chrome/quiz/crayon_0.png",
+            "x": 40,
+            "y": -20,
+            "rotation": 0,
+            "scale": 0.7,
+            "action": ""
+        },
+        {
+            "colorCode": 4,
+            "src_img": "common/chrome/quiz/crayon_0.png",
+            "x": 70,
+            "y": -40,
+            "rotation": 0,
+            "scale": 0.7,
+            "action": ""
+        },
+        {
+            "colorCode": 8,
+            "src_img": "common/chrome/quiz/crayon_0.png",
+            "x": 10,
+            "y": -40,
+            "rotation": 0,
+            "scale": 0.7,
+            "action": ""
+        },
+        {
+            "colorCode": 13,
+            "src_img": "common/chrome/quiz/crayon_0.png",
+            "x": 40,
+            "y": -20,
+            "rotation": 0,
+            "scale": 0.7,
+            "action": ""
+        },
+        {
+            "colorCode": 11,
+            "src_img": "common/chrome/quiz/crayon_0.png",
+            "x": 70,
+            "y": -40,
+            "rotation": 0,
+            "scale": 0.7,
+            "action": ""
+        }
+    ]
+}

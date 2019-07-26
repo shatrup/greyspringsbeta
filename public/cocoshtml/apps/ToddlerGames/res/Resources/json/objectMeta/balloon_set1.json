@@ -1,0 +1,106 @@
+{
+    "name": "balloon_set1",
+    "type": "",
+    "suffix": "balloon_set1_",
+    "objectList": [
+        {
+			"objectId": "balloon_set1_balloon_circle",
+			"name": "balloon_circle",
+			"imageUri": "common/scenes/scene179/balloon_circle.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "circle",
+			"audioId": "shape_circle"
+		},
+		{
+			"objectId": "balloon_set1_balloon_heart",
+			"name": "balloon_heart",
+			"imageUri": "common/scenes/scene179/balloon_heart.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "heart",
+			"audioId": "shape_heart"
+		},
+		{
+			"objectId": "balloon_set1_balloon_hexagon",
+			"name": "balloon_hexagon",
+			"imageUri": "common/scenes/scene179/balloon_hexagon.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "hexagon",
+			"audioId": "shape_hexagon"
+		},
+		{
+			"objectId": "balloon_set1_balloon_octagon",
+			"name": "balloon_octagon",
+			"imageUri": "common/scenes/scene179/balloon_octagon.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "octagon",
+			"audioId": "shape_octagon"
+		},
+		{
+			"objectId": "balloon_set1_balloon_oval",
+			"name": "balloon_oval",
+			"imageUri": "common/scenes/scene179/balloon_oval.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "oval",
+			"audioId": "shape_oval"
+		},
+		{
+			"objectId": "balloon_set1_balloon_pentagon",
+			"name": "balloon_pentagon",
+			"imageUri": "common/scenes/scene179/balloon_pentagon.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "pentagon",
+			"audioId": "shape_pentagon"
+		},
+		{
+			"objectId": "balloon_set1_balloon_rectangle",
+			"name": "balloon_rectangle",
+			"imageUri": "common/scenes/scene179/balloon_rectangle.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "rectangle",
+			"audioId": "shape_rectangle"
+		},
+		{
+			"objectId": "balloon_set1_balloon_square",
+			"name": "balloon_square",
+			"imageUri": "common/scenes/scene179/balloon_square.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "square",
+			"audioId": "shape_square"
+		},
+		{
+			"objectId": "balloon_set1_balloon_star",
+			"name": "balloon_star",
+			"imageUri": "common/scenes/scene179/balloon_star.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "star",
+			"audioId": "shape_star"
+		},
+		{
+			"objectId": "balloon_set1_balloon_trapazium",
+			"name": "balloon_trapazium",
+			"imageUri": "common/scenes/scene179/balloon_trapazium.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "trapazium",
+			"audioId": "shape_trapazium"
+		},
+		{
+			"objectId": "balloon_set1_balloon_triangle",
+			"name": "balloon_triangle",
+			"imageUri": "common/scenes/scene179/balloon_triangle.png",
+			"w": 112.536,
+			"h": 169.221,
+			"shape": "triangle",
+			"audioId": "shape_triangle"
+		}
+    ]
+}

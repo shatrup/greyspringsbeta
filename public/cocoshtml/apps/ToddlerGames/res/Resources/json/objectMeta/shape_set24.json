@@ -1,0 +1,403 @@
+{
+	"name": "shape_set24",
+	"type": "shape",
+	"suffix": "shape_set24_",
+	"objectList": [
+		{
+			"objectId": "shape_set24_disable_circle",
+			"name": "shape_circle",
+			"imageUri": "common/shapes/shape_set24/shape_light_circle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "circle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_circle",
+			"name": "shape_circle",
+			"imageUri": "common/shapes/shape_set24/shape_light_circle_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "circle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_circle",
+			"name": "shape_circle",
+			"imageUri": "common/shapes/shape_set24/shape_light_circle_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "circle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_circle",
+			"name": "shape_circle",
+			"imageUri": "common/shapes/shape_set24/shape_light_circle_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "circle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_diamond",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set24/shape_light_diamond_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "diamond",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_diamond",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set24/shape_light_diamond_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "diamond",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_diamond",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set24/shape_light_diamond_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "diamond",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_diamond",
+			"name": "shape_diamond",
+			"imageUri": "common/shapes/shape_set24/shape_light_diamond_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "diamond",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_heart",
+			"name": "shape_heart",
+			"imageUri": "common/shapes/shape_set24/shape_light_heart_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "heart",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_heart",
+			"name": "shape_heart",
+			"imageUri": "common/shapes/shape_set24/shape_light_heart_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "heart",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_heart",
+			"name": "shape_heart",
+			"imageUri": "common/shapes/shape_set24/shape_light_heart_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "heart",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_heart",
+			"name": "shape_heart",
+			"imageUri": "common/shapes/shape_set24/shape_light_heart_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "heart",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_hexagon",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_hexagon_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "hexagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_hexagon",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_hexagon_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "hexagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_hexagon",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_hexagon_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "hexagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_hexagon",
+			"name": "shape_hexagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_hexagon_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "hexagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_oval",
+			"name": "shape_oval",
+			"imageUri": "common/shapes/shape_set24/shape_light_oval_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "oval",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_oval",
+			"name": "shape_oval",
+			"imageUri": "common/shapes/shape_set24/shape_light_oval_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "oval",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_oval",
+			"name": "shape_oval",
+			"imageUri": "common/shapes/shape_set24/shape_light_oval_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "oval",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_oval",
+			"name": "shape_oval",
+			"imageUri": "common/shapes/shape_set24/shape_light_oval_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "oval",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_pentagon",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_pentagon_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "pentagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_pentagon",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_pentagon_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "pentagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_pentagon",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_pentagon_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "pentagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_pentagon",
+			"name": "shape_pentagon",
+			"imageUri": "common/shapes/shape_set24/shape_light_pentagongon_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "pentagon",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_rectangle",
+			"name": "shape_rectangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_rectangle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "rectangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_rectangle",
+			"name": "shape_rectangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_rectangle_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "rectangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_rectangle",
+			"name": "shape_rectangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_rectangle_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "rectangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_rectangle",
+			"name": "shape_rectangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_rectangle_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "rectangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_semicircle",
+			"name": "shape_semicircle",
+			"imageUri": "common/shapes/shape_set24/shape_light_semicircle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "semicircle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_semicircle",
+			"name": "shape_semicircle",
+			"imageUri": "common/shapes/shape_set24/shape_light_semicircle_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "semicircle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_semicircle",
+			"name": "shape_semicircle",
+			"imageUri": "common/shapes/shape_set24/shape_light_semicircle_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "semicircle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_semicircle",
+			"name": "shape_semicircle",
+			"imageUri": "common/shapes/shape_set24/shape_light_semicircle_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "semicircle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_square",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set24/shape_light_square_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "square",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_square",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set24/shape_light_square_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "square",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_square",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set24/shape_light_square_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "square",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_square",
+			"name": "shape_square",
+			"imageUri": "common/shapes/shape_set24/shape_light_square_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "square",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_star",
+			"name": "shape_star",
+			"imageUri": "common/shapes/shape_set24/shape_light_star_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "star",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_star",
+			"name": "shape_star",
+			"imageUri": "common/shapes/shape_set24/shape_light_star_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "star",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_star",
+			"name": "shape_star",
+			"imageUri": "common/shapes/shape_set24/shape_light_star_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "star",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_star",
+			"name": "shape_star",
+			"imageUri": "common/shapes/shape_set24/shape_light_star_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "star",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_disable_triangle",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_triangle_disable.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "triangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_1_triangle",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_triangle_enable_1.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "triangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_2_triangle",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_triangle_enable_2.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "triangle",
+			"color": ""
+		},
+		{
+			"objectId": "shape_set24_enable_3_triangle",
+			"name": "shape_triangle",
+			"imageUri": "common/shapes/shape_set24/shape_light_triangle_enable_3.png",
+			"w": 77.942,
+			"h": 74.19,
+			"shape": "triangle",
+			"color": ""
+		}
+	]
+}

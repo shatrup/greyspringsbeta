@@ -1,0 +1,79 @@
+{
+    "name": "space_activity_solar_planets_metadata",
+    "type": "",
+    "suffix": "space_activity_solar_planets_metadata_",
+    "objectList": [
+        {
+            "objectId": "solar_planet_earth",
+            "name": "earth",
+            "imageUri": "SpaceActivity/planets/solar_planet_earth_unselected.png",
+            "x": 345,
+            "y": 136,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_planet_jupiter",
+            "name": "jupiter",
+            "imageUri": "SpaceActivity/planets/solar_planet_jupiter_unselected.png",
+            "x": 415,
+            "y": 157,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_planet_mars",
+            "name": "mars",
+            "imageUri": "SpaceActivity/planets/solar_planet_mars_unselected.png",
+            "x": 180,
+            "y": 142,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_planet_mercury",
+            "name": "mercury",
+            "imageUri": "SpaceActivity/planets/solar_planet_mercury_unselected.png",
+            "x": 349,
+            "y": 166,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_planet_neptune",
+            "name": "neptune",
+            "imageUri": "SpaceActivity/planets/solar_planet_neptune_unselected.png",
+            "x": 411,
+            "y": 214,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_planet_saturn",
+            "name": "saturn",
+            "imageUri": "SpaceActivity/planets/solar_planet_saturn_unselected.png",
+            "x": 153,
+            "y": 208,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_planet_uranus",
+            "name": "uranus",
+            "imageUri": "SpaceActivity/planets/solar_planet_uranus_unselected.png",
+            "x": 126,
+            "y": 120,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_planet_venus",
+            "name": "venus",
+            "imageUri": "SpaceActivity/planets/solar_planet_venus_unselected.png",
+            "x": 196,
+            "y": 174,
+            "type": "planet"
+        },
+        {
+            "objectId": "solar_star_sun",
+            "name": "sun",
+            "imageUri": "SpaceActivity/planets/solar_star_sun.png",
+            "x": 281,
+            "y": 167,
+            "type": "star"
+        }
+   ]
+}

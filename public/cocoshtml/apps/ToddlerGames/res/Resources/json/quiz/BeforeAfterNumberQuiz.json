@@ -1,0 +1,17 @@
+{
+    "id": "BeforeAfterNumberQuiz",
+    "type": "BeforeAfterNumberQuiz",
+    "complexity": "medium",
+    "qsBgColor": "BCE7FB",
+    "bgImg" : "potsprite://scene/?id=RealWorldScene_140",
+    "bgMusic": "caption_arrange_numbers_before_after_given_number",
+    "question": "caption_arrange_numbers_before_after_given_number",
+	"isFullBleed": true,
+    "sets": [
+    {
+      "id": "set0",
+      "type": "numbers",
+      "objectSrc": "number_set3"
+    }
+  ] 
+}

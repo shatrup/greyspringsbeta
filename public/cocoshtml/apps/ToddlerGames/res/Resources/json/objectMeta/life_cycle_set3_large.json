@@ -1,0 +1,35 @@
+{
+    "name": "life_cycle_set3_large",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set3_large_",
+    "objectList": [
+			
+                {
+                    "objectId": "life_cycle_set3_large_larva",
+                    "name": "word_larva",
+                    "imageUri": "common/life_cycle/life_cycle_set3/life_cycle_set3_large/life_cycle_set3_large_larva.png",
+                    "w": 82.943,
+                    "h": 72.106,
+                    "shape": "",
+                    "color": ""
+                },
+				{
+                    "objectId": "life_cycle_set3_large_butterfly",
+                    "name": "word_butterfly",
+                    "imageUri": "common/life_cycle/life_cycle_set3/life_cycle_set3_large/life_cycle_set3_large_butterfly.png",
+                    "w": 74.19,
+                    "h": 82.943,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "life_cycle_set3_large_caterpillar",
+                    "name": "word_caterpillar",
+                    "imageUri": "common/life_cycle/life_cycle_set3/life_cycle_set3_large/life_cycle_set3_large_caterpillar.png",
+                    "w": 82.526,
+                    "h": 42.93,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

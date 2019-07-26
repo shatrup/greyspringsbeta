@@ -1,0 +1,29 @@
+{
+    "heading": "Develop cognitive skills",
+    "skills": [
+        {
+            "label": "Imagination and Creativity",
+            "image": "images/chrome/creativity_icon.png"
+        },
+        {
+            "label": "Visual and Spatial Processing",
+            "image": "images/chrome/spatial_icon.png"
+        },
+        {
+            "label": "Memory",
+            "image": "images/chrome/memory_icon.png"
+        },
+        {
+            "label": "Sorting and Classification",
+            "image": "images/chrome/sorting_icon.png"
+        },
+        {
+            "label": "Sequencing",
+            "image": "images/chrome/sequencing_icon.png"
+        },
+        {
+            "label": "Hand Eye Coordination",
+            "image": "images/chrome/hand_eye_coordination_icon.png"
+        }
+    ]
+}

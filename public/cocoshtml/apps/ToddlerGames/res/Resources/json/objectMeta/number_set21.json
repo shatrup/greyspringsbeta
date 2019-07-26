@@ -1,0 +1,169 @@
+{
+    "name": "number_set21",
+    "type": "number",
+	"suffix": "number_set21_",
+	"objectList": [
+		     {
+                    "objectId": "number_set21_1",
+                    "name": "number_1",
+                    "imageUri": "common/numbers/number_set21/1.png",
+                    "w": 22.924,
+                    "h": 35.428,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_2",
+                    "name": "number_2",
+                    "imageUri": "common/numbers/number_set21/2.png",
+                    "w": 21.674,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_3",
+                    "name": "number_3",
+                    "imageUri": "common/numbers/number_set21/3.png",
+                    "w": 21.674,
+                    "h": 36.262,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_4",
+                    "name": "number_4",
+                    "imageUri": "common/numbers/number_set21/4.png",
+                    "w": 25.425,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_5",
+                    "name": "number_5",
+                    "imageUri": "common/numbers/number_set21/5.png",
+                    "w": 22.09,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_6",
+                    "name": "number_6",
+                    "imageUri": "common/numbers/number_set21/6.png",
+                    "w": 22.09,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_7",
+                    "name": "number_7",
+                    "imageUri": "common/numbers/number_set21/7.png",
+                    "w": 22.09,
+                    "h": 35.428,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_8",
+                    "name": "number_8",
+                    "imageUri": "common/numbers/number_set21/8.png",
+                    "w": 22.09,
+                    "h": 36.262,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_9",
+                    "name": "number_9",
+                    "imageUri": "common/numbers/number_set21/9.png",
+                    "w": 22.09,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_10",
+                    "name": "number_10",
+                    "imageUri": "common/numbers/number_set21/10.png",
+                    "w": 50.016,
+                    "h": 36.262,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_11",
+                    "name": "number_11",
+                    "imageUri": "common/numbers/number_set21/11.png",
+                    "w": 50.016,
+                    "h": 35.428,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_12",
+                    "name": "number_12",
+                    "imageUri": "common/numbers/number_set21/12.png",
+                    "w": 49.182,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_13",
+                    "name": "number_12",
+                    "imageUri": "common/numbers/number_set21/12.png",
+                    "w": 49.182,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_14",
+                    "name": "number_14",
+                    "imageUri": "common/numbers/number_set21/14.png",
+                    "w": 51.266,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_15",
+                    "name": "number_15",
+                    "imageUri": "common/numbers/number_set21/15.png",
+                    "w": 49.182,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_16",
+                    "name": "number_16",
+                    "imageUri": "common/numbers/number_set21/16.png",
+                    "w": 49.599,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_17",
+                    "name": "number_17",
+                    "imageUri": "common/numbers/number_set21/17.png",
+                    "w": 50.016,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "number_set21_18",
+                    "name": "number_18",
+                    "imageUri": "common/numbers/number_set21/18.png",
+                    "w": 49.599,
+                    "h": 36.262,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

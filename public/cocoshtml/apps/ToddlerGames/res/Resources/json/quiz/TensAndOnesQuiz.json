@@ -1,0 +1,16 @@
+{
+    "id": "TensAndOnesQuiz",
+    "type": "TensAndOnesQuiz",
+    "complexity": "medium",
+    "qsBgColor": "800080",
+    "bgImg" : "potsprite://scene/?id=RealWorldScene_142",
+    "bgMusic": "caption_drag_beads_make_given_number",
+    "question": "caption_drag_beads_make_given_number",
+    "sets": [
+    {
+      "id": "set_1",
+      "type": "sea_animals",
+      "objectSrc": "realworld_set_sea_animal_set9_medium"
+    }
+  ] 
+}

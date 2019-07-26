@@ -1,0 +1,66 @@
+{
+    "quizList": [
+    {
+        "id": "LearnToWriteWords",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+    {
+        "id": "SequentialMatchTheShadow",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+    {
+        "id": "HelloPhoneticsQuiz",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+    {
+        "id": "ColorBallsQuiz",
+        "sets": ["basic_English_objects"],
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },		
+ 	{
+        "id": "VerticalMatchQuiz",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },	
+	{
+        "id": "ThemeBingoQuiz",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+	{
+        "id": "OddOneOutV2Quiz",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+	{
+        "id": "BasicCrossWordQuiz",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+	{
+        "id": "MonkeyQuiz",
+        "unlockConstraint": "none",
+        "networkConstraint": false
+    },
+    {
+        "id": "RhymingObjectsQuiz",
+		"unlockConstraint": "paid",
+        "networkConstraint": false
+    },
+    {
+        "id": "MatchItemsGridV2Quiz",
+        "unlockConstraint": "paid",
+        "networkConstraint": false
+    },
+    {
+        "id": "WordRecognitionQuiz",
+        "unlockConstraint": "paid",
+        "networkConstraint": false
+    }
+    ]
+}
+

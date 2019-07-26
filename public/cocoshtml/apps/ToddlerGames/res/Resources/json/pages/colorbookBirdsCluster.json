@@ -1,0 +1,68 @@
+{
+	"id": "colorsCluster",
+    "title": "Color book",
+	"type": "ClusterControl",
+
+    "viewBlocks":[
+		{
+		"type": "ListViewBlock",
+		"data": [
+				{
+					"type" : "homePageModuletilev2",
+					"data" : {
+						"image": "/data/common/images/birdsTile400x800.jpg",
+						"title": "ms-resource:Birds_Tile",
+						"clicktarget" : "appprotocol://page?id=colorsBirdsPage"
+					}
+				},
+				 {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/67.png",
+                        "title": "Toucan",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=67&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/68.png",
+                        "title": "Crane",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=68&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/69.png",
+                        "title": "Duck",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=69&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/70.png",
+                        "title": "Owl",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=70&layout=vertical"
+                    }
+                },
+                {
+                    "type": "smallTileTemplateV2",
+                    "data": {
+                        "image": "/data/colors/thumbnails/71.png",
+                        "title": "Parrot",
+                        "clicktarget": "appprotocol://page?id=colorbookPage&imgid=71&layout=vertical"
+                    }
+                },
+				{
+					"type" : "moreButtonTileTemplateV5",
+					"data" : {
+						"title": "Colors",
+						"clicktarget" : "appprotocol://page?id=colorsBirdsPage"
+					}
+				}
+			]
+		}
+	]
+}

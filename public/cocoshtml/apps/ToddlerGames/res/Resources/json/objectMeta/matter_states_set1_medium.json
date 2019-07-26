@@ -1,0 +1,61 @@
+{
+    "name": "matter_states_set1_medium",
+    "type": "liquid",
+    "suffix": "matter_states_set1_medium_",
+    "objectList": [
+				{
+                    "objectId": "matter_states_set1_medium_coffee",
+                    "name": "coffee",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_medium/matter_states_set1_medium_coffee.png",
+                    "w": 47.098,
+                    "h": 37.512,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_medium_juice",
+                    "name": "juice",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_medium/matter_states_set1_medium_juice.png",
+                    "w": 27.509,
+                    "h": 47.098,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_medium_juice1",
+                    "name": "juice1",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_medium/matter_states_set1_medium_juice1.png",
+                    "w": 44.598,
+                    "h": 47.515,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_medium_milk",
+                    "name": "milk",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_medium/matter_states_set1_medium_milk.png",
+                    "w": 17.922,
+                    "h": 47.098,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_medium_soup",
+                    "name": "soup",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_medium/matter_states_set1_medium_soup.png",
+                    "w": 47.098,
+                    "h": 35.845,
+                    "shape": "",
+                    "color": ""
+                },
+                {
+                    "objectId": "matter_states_set1_medium_water",
+                    "name": "water",
+                    "imageUri": "common/matter_states/matter_states_set1/matter_states_set1_medium/matter_states_set1_medium_water.png",
+                    "w": 16.672,
+                    "h": 47.098,
+                    "shape": "",
+                    "color": ""
+                }
+    ]
+}

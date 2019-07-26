@@ -1,0 +1,97 @@
+{
+    "name": "number_set13_medium",
+    "type": "number",
+    "suffix": "number_set13_medium_",
+    "objectList": [
+		{
+			"objectId": "number_set13_medium_0",
+			"name": "_0",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_0.png",
+			"w": 37.095,
+			"h": 47.098,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_1",
+			"name": "_1",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_1.png",
+			"w": 27.509,
+			"h": 47.098,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_2",
+			"name": "_2",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_2.png",
+			"w": 37.512,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_3",
+			"name": "_3",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_3.png",
+			"w": 31.677,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_4",
+			"name": "_4",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_4.png",
+			"w": 32.51,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_5",
+			"name": "_5",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_5.png",
+			"w": 35.428,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_6",
+			"name": "_6",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_6.png",
+			"w": 31.26,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_7",
+			"name": "_7",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_7.png",
+			"w": 31.26,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_8",
+			"name": "_8",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_8.png",
+			"w": 28.759,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		},
+		{
+			"objectId": "number_set13_medium_9",
+			"name": "_9",
+			"imageUri": "common/numbers/number_set13/number_set13_medium/number_set13_medium_9.png",
+			"w": 35.845,
+			"h": 47.515,
+			"shape": "",
+			"color": ""
+		}
+    ]
+}

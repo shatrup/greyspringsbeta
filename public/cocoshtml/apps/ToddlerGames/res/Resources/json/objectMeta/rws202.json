@@ -1,0 +1,683 @@
+{
+	"name": "rws202",
+	"type": "rws202",
+	"suffix": "rws202_",
+	"objectList":
+	[
+		{
+			"objectId": "rws202_q_background",
+			"name": "scene202_background",
+			"imageUri": "common/scenes/scene202/q_background.png",
+			"w": 569.349,
+			"h": 320.102,
+			"x": 284,
+			"y": 160,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "0"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_board",
+			"name": "scene202_board",
+			"imageUri": "common/scenes/scene202/q_board.png",
+			"w": 209.234,
+			"h": 320.102,
+			"x": 408,
+			"y": 160,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "1"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_crown_1",
+			"name": "crown",
+			"imageUri": "common/scenes/scene202/q_crown_1.png",
+			"w": 142.962,
+			"h": 62.937,
+			"x": 198,
+			"y": 275,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_crown_2",
+			"name": "crown",
+			"imageUri": "common/scenes/scene202/q_crown_2.png",
+			"w": 127.958,
+			"h": 64.604,
+			"x": 198,
+			"y": 275,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_crown_3",
+			"name": "crown",
+			"imageUri": "common/scenes/scene202/q_crown_3.png",
+			"w": 128.374,
+			"h": 44.598,
+			"x": 198,
+			"y": 275,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_crown_4",
+			"name": "crown",
+			"imageUri": "common/scenes/scene202/q_crown_4.png",
+			"w": 131.292,
+			"h": 59.602,
+			"x": 198,
+			"y": 275,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_crown_5",
+			"name": "crown",
+			"imageUri": "common/scenes/scene202/q_crown_5.png",
+			"w": 127.124,
+			"h": 78.358,
+			"x": 198,
+			"y": 275,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_crown_6",
+			"name": "crown",
+			"imageUri": "common/scenes/scene202/q_crown_6.png",
+			"w": 122.122,
+			"h": 42.93,
+			"x": 198,
+			"y": 275,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_earring_1",
+			"name": "earring",
+			"imageUri": "common/scenes/scene202/q_earring_1.png",
+			"w": 122.956,
+			"h": 30.426,
+			"x": 195.666671752929688,
+			"y": 172.25399780273438,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_earring_2",
+			"name": "earring",
+			"imageUri": "common/scenes/scene202/q_earring_2.png",
+			"w": 135.877,
+			"h": 36.678,
+			"x": 195,
+			"y": 172,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_earring_3",
+			"name": "earring",
+			"imageUri": "common/scenes/scene202/q_earring_3.png",
+			"w": 129.208,
+			"h": 37.512,
+			"x": 195,
+			"y": 172,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_earring_4",
+			"name": "earring",
+			"imageUri": "common/scenes/scene202/q_earring_4.png",
+			"w": 127.958,
+			"h": 17.506,
+			"x": 195,
+			"y": 181,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_earring_5",
+			"name": "earring",
+			"imageUri": "common/scenes/scene202/q_earring_5.png",
+			"w": 120.038,
+			"h": 31.677,
+			"x": 195,
+			"y": 172,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_earring_6",
+			"name": "earring",
+			"imageUri": "common/scenes/scene202/q_earring_6.png",
+			"w": 113.37,
+			"h": 45.431,
+			"x": 195,
+			"y": 168,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyebrows_1",
+			"name": "eyebrows",
+			"imageUri": "common/scenes/scene202/q_eyebrows_1.png",
+			"w": 82.943,
+			"h": 7.502,
+			"x": 193,
+			"y": 221,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyebrows_2",
+			"name": "eyebrows",
+			"imageUri": "common/scenes/scene202/q_eyebrows_2.png",
+			"w": 92.946,
+			"h": 9.17,
+			"x": 194,
+			"y": 219,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyebrows_3",
+			"name": "eyebrows",
+			"imageUri": "common/scenes/scene202/q_eyebrows_3.png",
+			"w": 87.111,
+			"h": 9.586,
+			"x": 192,
+			"y": 221,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyebrows_4",
+			"name": "eyebrows",
+			"imageUri": "common/scenes/scene202/q_eyebrows_4.png",
+			"w": 87.111,
+			"h": 9.586,
+			"x": 192,
+			"y": 221,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyebrows_5",
+			"name": "eyebrows",
+			"imageUri": "common/scenes/scene202/q_eyebrows_5.png",
+			"w": 81.276,
+			"h": 6.252,
+			"x": 192,
+			"y": 221,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyebrows_6",
+			"name": "eyebrows",
+			"imageUri": "common/scenes/scene202/q_eyebrows_6.png",
+			"w": 83.777,
+			"h": 5.418,
+			"x": 192,
+			"y": 221,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyes_1",
+			"name": "eyes",
+			"imageUri": "common/scenes/scene202/q_eyes_1.png",
+			"w": 104.2,
+			"h": 25.842,
+			"x": 195.571418762207031,
+			"y": 201.47604370117188,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyes_2",
+			"name": "eyes",
+			"imageUri": "common/scenes/scene202/q_eyes_2.png",
+			"w": 103.366,
+			"h": 26.258,
+			"x": 193,
+			"y": 202,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyes_3",
+			"name": "eyes",
+			"imageUri": "common/scenes/scene202/q_eyes_3.png",
+			"w": 104.2,
+			"h": 26.675,
+			"x": 193,
+			"y": 202,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyes_4",
+			"name": "eyes",
+			"imageUri": "common/scenes/scene202/q_eyes_4.png",
+			"w": 104.2,
+			"h": 26.258,
+			"x": 193,
+			"y": 202,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyes_5",
+			"name": "eyes",
+			"imageUri": "common/scenes/scene202/q_eyes_5.png",
+			"w": 104.2,
+			"h": 26.258,
+			"x": 193,
+			"y": 202,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_eyes_6",
+			"name": "eyes",
+			"imageUri": "common/scenes/scene202/q_eyes_6.png",
+			"w": 104.2,
+			"h": 48.766,
+			"x": 193,
+			"y": 201,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_hair_1",
+			"name": "hair",
+			"imageUri": "common/scenes/scene202/q_hair_1.png",
+			"w": 180.474,
+			"h": 472.651,
+			"x": 205,
+			"y": 64,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_hair_2",
+			"name": "hair",
+			"imageUri": "common/scenes/scene202/q_hair_2.png",
+			"w": 187.143,
+			"h": 332.19,
+			"x": 201,
+			"y": 127,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_hair_3",
+			"name": "hair",
+			"imageUri": "common/scenes/scene202/q_hair_3.png",
+			"w": 191.311,
+			"h": 368.451,
+			"x": 207,
+			"y": 113.43478393554688,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_hair_4",
+			"name": "hair",
+			"imageUri": "common/scenes/scene202/q_hair_4.png",
+			"w": 207.983,
+			"h": 347.194,
+			"x": 200.53407287597656,
+			"y": 124.20779418945313,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_hair_5",
+			"name": "hair",
+			"imageUri": "common/scenes/scene202/q_hair_5.png",
+			"w": 190.478,
+			"h": 352.196,
+			"x": 197,
+			"y": 122,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_hair_6",
+			"name": "hair",
+			"imageUri": "common/scenes/scene202/q_hair_6.png",
+			"w": 200.898,
+			"h": 360.949,
+			"x": 202.41667175292969,
+			"y": 122.7,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_1",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_1.png",
+			"w": 32.094,
+			"h": 9.586,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_2",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_2.png",
+			"w": 32.927,
+			"h": 10.837,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_3",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_3.png",
+			"w": 31.677,
+			"h": 11.67,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_4",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_4.png",
+			"w": 31.677,
+			"h": 11.67,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_5",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_5.png",
+			"w": 31.26,
+			"h": 10.837,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_6",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_6.png",
+			"w": 31.26,
+			"h": 10.837,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_7",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_7.png",
+			"w": 31.26,
+			"h": 10.837,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_lips_8",
+			"name": "lips",
+			"imageUri": "common/scenes/scene202/q_lips_8.png",
+			"w": 31.26,
+			"h": 10.837,
+			"x": 194,
+			"y": 159,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_necklace_1",
+			"name": "necklace",
+			"imageUri": "common/scenes/scene202/q_necklace_1.png",
+			"w": 60.019,
+			"h": 30.843,
+			"x": 195.102550506591797,
+			"y": 96.84603881835938,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_necklace_2",
+			"name": "necklace",
+			"imageUri": "common/scenes/scene202/q_necklace_2.png",
+			"w": 48.766,
+			"h": 47.932,
+			"x": 195,
+			"y": 96,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_necklace_3",
+			"name": "necklace",
+			"imageUri": "common/scenes/scene202/q_necklace_3.png",
+			"w": 49.182,
+			"h": 38.762,
+			"x": 195,
+			"y": 96,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_necklace_4",
+			"name": "necklace",
+			"imageUri": "common/scenes/scene202/q_necklace_4.png",
+			"w": 58.769,
+			"h": 45.014,
+			"x": 195,
+			"y": 96,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "5"
+				}
+			]
+		},
+		{
+			"objectId": "rws202_q_queen",
+			"name": "scene202_queen",
+			"imageUri": "common/scenes/scene202/q_queen.png",
+			"w": 220.07,
+			"h": 278.422,
+			"x": 186.68641662597656,
+			"y": 139,
+			"attributes": [
+				{
+					"name": "zorder",
+					"value": "1"
+				}
+			]
+		}
+	]
+}

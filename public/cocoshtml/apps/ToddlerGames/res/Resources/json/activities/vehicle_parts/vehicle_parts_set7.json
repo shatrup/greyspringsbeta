@@ -1,0 +1,143 @@
+{
+   "name":"vehicle_parts_set7",
+   "type":"vehicles",
+   "suffix":"vehicle_parts_set7_",
+   "background":"common/backgrounds/background_fullbleed/background_car_1.png",
+   "finishSoundEffect": "effect_car_by_2",
+   "partsList":[
+		{
+			"objectId": "vehicle_parts_set7_back_light_1",
+			"name": "back_light",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_back_light_1.png",
+			"w": 11.254,
+			"h": 30.426,
+			"x": 479.07208251953125,
+			"y": 106.59375,
+			"zorder": 20,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_back_light_1.png",
+				"common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_back_light_2.png"
+			],
+			"frameInterval": 0.3,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set7_car_body",
+			"name": "car_body",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_car_body.png",
+			"w": 338.025,
+			"h": 69.189,
+			"x": 319.09591674804688,
+			"y": 94.8458251953125,
+			"zorder": 10,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set7_car_shadow",
+			"name": "car_shadow",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_car_shadow.png",
+			"w": 379.705,
+			"h": 15.838,
+			"x": 319,
+			"y": 31,
+			"zorder": 1,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set7_head_light_1",
+			"name": "head_light",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_head_light_1.png",
+			"w": 106.701,
+			"h": 87.111,
+			"x": 123.8145751953125,
+			"y": 83.142135620117188,
+			"zorder": 20,
+			"animationType": ["frameAnimation"],
+			"frames":[
+				"common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_head_light_1.png",
+				"common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_head_light_2.png",
+				"common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_head_light_3.png",
+				"common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_head_light_2.png"
+			],
+			"frameInterval": 0.3,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set7_ping",
+			"name": "ping",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_ping.png",
+			"w": 50.85,
+			"h": 42.097,
+			"x": 301.55313110351562,
+			"y": 146.13691711425781,
+			"zorder": 5,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set7_seat_1",
+			"name": "seat_1",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_seat_1.png",
+			"w": 29.176,
+			"h": 30.426,
+			"x": 326.20416259765625,
+			"y": 140.97340393066406,
+			"zorder": 4,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set7_seat_2",
+			"name": "seat_2",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_seat_2.png",
+			"w": 28.342,
+			"h": 30.426,
+			"x": 388.54937744140625,
+			"y": 140.64447021484375,
+			"zorder": 4,
+			"isShadow": false
+		},
+		{
+			"objectId": "vehicle_parts_set7_tire_1",
+			"name": "tire_front",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_tire.png",
+			"type": "tyre",
+			"w": 66.271,
+			"h": 66.271,
+			"x": 249.74136352539063,
+			"y": 62,
+			"zorder": 20,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -40.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set7_tire_2",
+			"name": "tire_rear",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_tire.png",
+			"type": "tyre",
+			"w": 66.271,
+			"h": 66.271,
+			"x": 422.08868408203125,
+			"y": 62,
+			"zorder": 20,
+			"animationType": ["rotate", "bouncing"],
+			"rotationAngle": -40.0,
+			"bounceX": 0.0,
+			"bounceY": 5.0,
+			"isShadow": true
+		},
+		{
+			"objectId": "vehicle_parts_set7_windshield",
+			"name": "windshield",
+			"imageUri": "common/vehicle_parts/vehicle_parts_set7/vehicle_parts_set7_windshield.png",
+			"w": 65.438,
+			"h": 60.853,
+			"x": 272.52523803710938,
+			"y": 156.71688842773438,
+			"zorder": 30,
+			"isShadow": true
+		}
+	]
+}

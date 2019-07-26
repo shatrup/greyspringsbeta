@@ -1,0 +1,69 @@
+{
+	"title": "Humpty dumpty",
+	"bgaudio": "kindergarten8/rhymes/audio/hd/hd.mp3",
+	"bgimage": "kindergarten8/rhymes/images/hd/background.png",
+	"lyrics": "Humpty Dumpty sat on the wall, \n Humpty Dumpty had a great fall. \n All the king's horses \n And all the king's men \n Couldn't put Humpty \n Together again.",
+	"objects": [
+		{
+			"x": -15,
+			"y": 357,
+			"dir": "kindergarten8/rhymes/images/hd/",
+			"image": "bush1.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 727,
+			"y": 303,
+			"dir": "kindergarten8/rhymes/images/hd/",
+			"image": "bush2.png",
+			"sound": "kindergarten8/rhymes/audio/common/bs.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 140,
+			"y": 148,
+			"dir": "kindergarten8/rhymes/images/hd/",
+			"image": "cloude1.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 785,
+			"y": 59,
+			"dir": "kindergarten8/rhymes/images/hd/",
+			"image": "cloude2.png",
+			"sound": "kindergarten8/rhymes/audio/common/rain.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 0,
+			"y": 500,
+			"dir": "kindergarten8/rhymes/images/hd/",
+			"image": "wall.png",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 512,
+			"y": 166,
+			"dir": "kindergarten8/rhymes/images/hd/",
+			"image": "humpty.png",
+			"sound": "kindergarten8/rhymes/audio/hd/egdrop.mp3",
+			"position": "absolute",
+			"animation": "wiggle"
+		},
+		{
+			"x": 597,
+			"y": 5,
+			"dir": "kindergarten8/rhymes/images/common/",
+			"image": "sun.png",
+			"position": "absolute",
+			"animation": "rotateFullForever"
+		}
+	]	
+}

@@ -1,0 +1,63 @@
+{
+    "id": "ThemeBingoQuiz",
+    "type": "ThemeBingoQuiz",
+    "complexity": "medium",
+    "qsBgColor": "301F0D",
+    "sets": [
+    {
+      "id": "vehicle",
+      "type": "vehicle",
+      "bgMusic": "caption_touch_words_same_group",
+      "question": "caption_touch_words_same_group",      
+      "objectSrc": "realworld_set_vehicle_set3_large",
+	  "qsBgColor": "8C8E94",
+      "bgImg": "common/backgrounds/background_fullbleed/background_road_2.png",
+      "customKey1": "vehicle",
+	  "isFullBleed": true
+    },
+    {
+      "id": "vegetable",
+      "type": "vegetable",
+      "bgMusic": "caption_touch_words_same_group",
+      "question": "caption_touch_words_same_group",      
+      "objectSrc": "realworld_set_vegetable_set2_large",
+	  "qsBgColor": "FFC075",
+      "bgImg": "common/backgrounds/background_fullbleed/background_fields_2.png",
+      "customKey1": "vegetable",
+	  "isFullBleed": true
+    },
+    {
+      "id": "fruit",
+      "type": "fruit",
+      "bgMusic": "caption_touch_words_same_group",
+      "question": "caption_touch_words_same_group",      
+      "objectSrc": "realworld_set_fruit_set1",
+	  "qsBgColor": "74AE62",
+      "bgImg": "common/backgrounds/background_fullbleed/background_fruits_2.png",
+      "customKey1": "fruit",
+	  "isFullBleed": true
+    },
+    {
+      "id": "summer",
+      "type": "summer",
+      "bgMusic": "caption_touch_words_same_group",
+      "question": "caption_touch_words_same_group",      
+      "objectSrc": "realworld_set_summer_object_set1_large",
+	  "qsBgColor": "FFC74E",
+      "bgImg": "common/backgrounds/background_fullbleed/background_summer_2.png",
+      "customKey1": "summer",
+	  "isFullBleed": true
+    },
+    {
+      "id": "winter",
+      "type": "winter",
+      "bgMusic": "caption_touch_words_same_group",
+      "question": "caption_touch_words_same_group",      
+      "objectSrc": "realworld_set_winter_object_set1_large",
+	  "qsBgColor": "B5E3FF",
+      "bgImg": "common/backgrounds/background_fullbleed/background_winter_2.png",
+      "customKey1": "winter",
+	  "isFullBleed": true
+    }	
+  ] 
+}

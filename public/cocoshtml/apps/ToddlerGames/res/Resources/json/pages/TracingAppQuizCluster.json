@@ -1,0 +1,100 @@
+{
+    "id": "GamesHolderCluster",
+    "title": "Games Book",
+    "type": "ClusterControl",
+    "viewBlocks": [
+        {
+            "type": "HomeTilesListViewBlockV4",
+            "data": [
+                {
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV3",
+                    "title": "tiletitle_ToddlerGames_LearnToWriteV3",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/line_curves_tile.png",
+	                    "titleImg": "",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV5}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV2",
+                    "title": "tiletitle_ShapesAndColors_LearnToWriteV2",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/shapes_tile.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV6,set=3}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV2",
+                    "title": "tiletitle_ShapesAndColors_LearnToWriteV2",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/capital_alphabets_tile.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV6,set=0}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV2",
+                    "title": "tiletitle_PreschoolGames_LearnToWrite",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/small_alphabets_tile.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV6,set=1}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV2",
+                    "title": "tiletitle_ShapesAndColors_LearnToWriteV2",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/numbers_tile.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV6,set=2}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV4",
+                    "title": "tiletitle_PreschoolGames_LearnToWriteV4",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/curcive_alphabets_tile.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV4}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV2",
+                    "title": "tiletitle_ShapesAndColors_LearnToWriteV2",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/abecedario_tile.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV2,set=0}",
+                        "backgroundColor": "9E1E62"
+                    }
+                },
+				{
+                    "type": "smallTileTemplateV2",
+                    "name": "LearnToWriteV2",
+                    "title": "tiletitle_ShapesAndColors_LearnToWriteV2",
+                    "data": {
+                        "image": "common/tiles/tile_learn_to_trace/varnmala_tile.png",
+	                    "titleImg":"",
+                        "clicktarget": "appprotocol://page?id=PlayGroundPage&q1={id=LearnToWriteV2,set=1}",
+                        "backgroundColor": "9E1E62"
+                    }
+                }
+            ]
+        }
+    ]
+}

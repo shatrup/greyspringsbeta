@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <file datatype="xml" original="Temp.prilog.xml" product-name="Greysprings.Apps" product-version="1.0.0.1" source-language="en-US" target-language="en-US">
+    <body>
+      <group id="Games">  
+        <trans-unit id="time_running" space="preserve" translate="yes">
+          <source>Jigsaw Games Game Time Running</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/time_running</target>
+          <note from="Jigsaw Games">Jigsaw Games Time Running</note>
+        </trans-unit>
+        <trans-unit id="time_bomb_blast" space="preserve" translate="yes">
+          <source>Jigsaw Games time bomb blast</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/time_bomb_blast</target>
+          <note from="Jigsaw Games">Jigsaw Games time bomb blast</note>
+        </trans-unit>
+        <trans-unit id="star_pop_out_1" space="preserve" translate="yes">
+          <source>Jigsaw Games star pop</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/star_pop_out_1</target>
+          <note from="Jigsaw Games">Jigsaw Games star pop</note>
+        </trans-unit>
+        <trans-unit id="star_pop_out_2" space="preserve" translate="yes">
+          <source>Jigsaw Games star pop</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/star_pop_out_2</target>
+          <note from="Jigsaw Games">Jigsaw Games star pop</note>
+        </trans-unit>
+        <trans-unit id="star_pop_out_3" space="preserve" translate="yes">
+          <source>Jigsaw Games star pop</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/star_pop_out_3</target>
+          <note from="Jigsaw Games">Jigsaw Games star pop</note>
+        </trans-unit>
+        <trans-unit id="firefly_movement" space="preserve" translate="yes">
+          <source>Jigsaw Games Firefly Movement</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/firefly_movement</target>
+          <note from="Jigsaw Games">Jigsaw Games Firefly Movement</note>
+        </trans-unit>
+        <trans-unit id="homepage_music" space="preserve" translate="yes">
+          <source>Jigsaw Games Home Page Music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/homepage_music</target>
+          <note from="Jigsaw Games">Jigsaw Games Home Page Music</note>
+        </trans-unit>
+        <trans-unit id="puzzle_piece_drop" space="preserve" translate="yes">
+          <source>Jigsaw Games Jigsaw Piece Drop</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/puzzle_piece_drop</target>
+          <note from="Jigsaw Games">Jigsaw Games Jigsaw Piece Drop</note>
+        </trans-unit>
+        <trans-unit id="puzzle_piece_back" space="preserve" translate="yes">
+          <source>Jigsaw Games Jigsaw Piece Back</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/puzzle_piece_back</target>
+          <note from="Jigsaw Games">Jigsaw Games Jigsaw Piece Back</note>
+        </trans-unit>
+        <trans-unit id="puzzle_piece_match" space="preserve" translate="yes">
+          <source>Jigsaw Games Jigsaw Piece Match</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/puzzle_piece_match</target>
+          <note from="Jigsaw Games">Jigsaw Games Jigsaw Piece Drop</note>
+        </trans-unit>
+        <trans-unit id="puzzle_piece_pull" space="preserve" translate="yes">
+          <source>Jigsaw Games Jigsaw Piece Pull</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/puzzle_piece_pull</target>
+          <note from="Jigsaw Games">Jigsaw Games Jigsaw Piece Drop</note>
+        </trans-unit>
+        <trans-unit id="map_page_music" space="preserve" translate="yes">
+          <source>Jigsaw Games Map Page Music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/map_page_music</target>
+          <note from="Jigsaw Games">Jigsaw Games Map Page Music</note>
+        </trans-unit>
+        <trans-unit id="milestone_achived" space="preserve" translate="yes">
+          <source>Jigsaw Games Milestone Achived</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/milestone_achived</target>
+          <note from="Jigsaw Games">Jigsaw Games Milestone Achived</note>
+        </trans-unit>
+        <trans-unit id="mine_blast" space="preserve" translate="yes">
+          <source>Jigsaw Games Mine Blast</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/mine_blast</target>
+          <note from="Jigsaw Games">Jigsaw Games Mine Blast</note>
+        </trans-unit>
+        <trans-unit id="game_page_music" space="preserve" translate="yes">
+          <source>Jigsaw Games Game Page Music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/game_page_music</target>
+          <note from="Jigsaw Games">Jigsaw Games Game Page Music</note>
+        </trans-unit>
+        <trans-unit id="star_particle" space="preserve" translate="yes">
+          <source>Jigsaw Games Game Star Particle</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/star_particle</target>
+          <note from="Jigsaw Games">Jigsaw Games Game Star Particle</note>
+        </trans-unit>
+        <trans-unit id="swoosh" space="preserve" translate="yes">
+          <source>Jigsaw Games Game Swoosh</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/swoosh</target>
+          <note from="Jigsaw Games">Jigsaw Games Game Swoosh</note>
+        </trans-unit>
+        <trans-unit id="hint_image_visible" space="preserve" translate="yes">
+          <source>Jigsaw Games hint image visible</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/hint_image_visible</target>
+          <note from="Jigsaw Games">Jigsaw Games  hint image visible</note>
+        </trans-unit>
+        <trans-unit id="level_complete" space="preserve" translate="yes">
+          <source>Jigsaw Games level complete</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/level_complete</target>
+          <note from="Jigsaw Games">Jigsaw Games level complete</note>
+        </trans-unit>
+        <trans-unit id="level_lost" space="preserve" translate="yes">
+          <source>Jigsaw Games level lost</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/level_lost</target>
+          <note from="Jigsaw Games">Jigsaw Games level lost</note>
+        </trans-unit>
+        <trans-unit id="mine_blast" space="preserve" translate="yes">
+          <source>Jigsaw Games mine blast</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/mine_blast</target>
+          <note from="Jigsaw Games">Jigsaw Games mine blast</note>
+        </trans-unit>
+        <trans-unit id="coin_sound" space="preserve" translate="yes">
+          <source>Jigsaw Games coin sound</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/coin_sound</target>
+          <note from="Jigsaw Games">Jigsaw Games coin sound</note>
+        </trans-unit>
+        <trans-unit id="coin_incremented_sound" space="preserve" translate="yes">
+          <source>Jigsaw Games coin sound on increment</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/coin_incremented_sound</target>
+          <note from="Jigsaw Games">Jigsaw Games coin sound</note>
+        </trans-unit>
+        <trans-unit id="lucky_star_sound" space="preserve" translate="yes">
+          <source>Jigsaw Games lucky star sound</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/lucky_star_sound</target>
+          <note from="Jigsaw Games">Jigsaw Games lucky star sound</note>
+        </trans-unit>
+        <trans-unit id="magnet_sound" space="preserve" translate="yes">
+          <source>Jigsaw Games magnet sound</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/magnet_sound</target>
+          <note from="Jigsaw Games">Jigsaw Games magnet sound</note>
+        </trans-unit>
+        <trans-unit id="poseidon_trident_sound" space="preserve" translate="yes">
+          <source>Jigsaw Games poseidon trident sound</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/poseidon_trident_sound</target>
+          <note from="Jigsaw Games">Jigsaw Games poseidon trident sound</note>
+        </trans-unit>
+		<trans-unit id="splash_bg" space="preserve" translate="yes">
+          <source>splash screen background music</source>
+          <target state="Final" state-qualifier="mt-suggestion">app/background_splash</target>
+          <note from="Numbers">This is for splash screen page</note>
+        </trans-unit>		
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,97 @@
+{
+    "name": "number_set8_x_large",
+    "type": "number",
+    "suffix": "number_set8_x_large_",
+    "objectList": [
+        {
+            "objectId": "number_set8_x_large_0",
+            "name": "number_0",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_0.png",
+            "w": 106.284,
+            "h": 132.959,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_1",
+            "name": "number_1",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_1.png",
+            "w": 70.439,
+            "h": 132.542,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_2",
+            "name": "number_2",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_2.png",
+            "w": 96.281,
+            "h": 132.959,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_3",
+            "name": "number_3",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_3.png",
+            "w": 105.45,
+            "h": 133.793,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_4",
+            "name": "number_4",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_4.png",
+            "w": 100.866,
+            "h": 133.376,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_5",
+            "name": "number_5",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_5.png",
+            "w": 107.118,
+            "h": 133.376,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_6",
+            "name": "number_6",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_6.png",
+            "w": 100.449,
+            "h": 132.959,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_7",
+            "name": "number_7",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_7.png",
+            "w": 106.284,
+            "h": 132.959,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_8",
+            "name": "number_8",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_8.png",
+            "w": 107.951,
+            "h": 133.376,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "number_set8_x_large_9",
+            "name": "number_9",
+            "imageUri": "common/numbers/number_set8/number_set8_x_large/number_set8_x_large_9.png",
+            "w": 100.866,
+            "h": 133.376,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

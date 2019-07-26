@@ -1,0 +1,16 @@
+{
+    "id": "LearnToWriteV5",
+    "type": "LearnToWriteV5",
+    "complexity": "medium",
+    "bgMusic" : "caption_trace_dots_{0}",
+	"qsBgColor": "865B36",
+	"question" : "caption_trace_dots_format",
+	"bgImg" : "common/backgrounds/background_fullbleed/background_grey_fullbleed.png",
+	"isFullBleed": true,
+    "sets": [
+		{
+		  "id": "shape",
+		  "objectSrc": "realworld_set_shape_set25_xx_large"
+		}	
+    ]
+}

@@ -1,0 +1,401 @@
+{
+	"id": "ColorHolderCluster",
+    "title": "Vegetable Chart",
+	"type": "ClusterControl",
+    "viewBlocks":[
+		{
+		"type": "ChartViewBlock",
+		"options" : {
+			"layout" : ""
+		},
+		"data": [
+				{
+					"type" : "wideHeaderTemplate",
+					"data" : {
+						"title": "ms-resource:Caption_HouseholdChart"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/alarm_clock.png",
+						"text": "Alarm Clock",
+						"clicktarget" : "ms-audio://data/households/audio/alarm_clock.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/laptop.png",
+						"text": "Laptop",
+						"clicktarget" : "ms-audio://data/households/audio/laptop.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/schoolbag.png",
+						"text": "Schoolbag",
+						"clicktarget" : "ms-audio://data/households/audio/schoolbag.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/almirah.png",
+						"text": "almirah",
+						"clicktarget" : "ms-audio://data/households/audio/almirah.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/bed.png",
+						"text": "Bed",
+						"clicktarget" : "ms-audio://data/households/audio/bed.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/scale.png",
+						"text": "Scale",
+						"clicktarget" : "ms-audio://data/households/audio/scale.mp3"
+					}
+				},
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/shoes.png",
+						"text": "Shoes",
+						"clicktarget" : "ms-audio://data/households/audio/shoes.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/sofa.png",
+						"text": "Sofa",
+						"clicktarget" : "ms-audio://data/households/audio/sofa.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/stool.png",
+						"text": "Stool",
+						"clicktarget" : "ms-audio://data/households/audio/stool.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/table.png",
+						"text": "Table",
+						"clicktarget" : "ms-audio://data/households/audio/table.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/television.png",
+						"text": "Television",
+						"clicktarget" : "ms-audio://data/households/audio/television.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/television_remote.png",
+						"text": "Television Remote",
+						"clicktarget" : "ms-audio://data/households/audio/television_remote.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/tooth_brush.png",
+						"text": "Tooth Brush",
+						"clicktarget" : "ms-audio://data/households/audio/tooth_brush.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/window.png",
+						"text": "Window",
+						"clicktarget" : "ms-audio://data/households/audio/window.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/wall_lighting.png",
+						"text": "Wall Lighting",
+						"clicktarget" : "ms-audio://data/households/audio/wall_lighting.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/blazer.png",
+						"text": "Blazer",
+						"clicktarget" : "ms-audio://data/households/audio/blazer.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/camera.png",
+						"text": "Camera",
+						"clicktarget" : "ms-audio://data/households/audio/camera.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/comb.png",
+						"text": "Comb",
+						"clicktarget" : "ms-audio://data/households/audio/comb.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/dustbin.png",
+						"text": "Dustbin",
+						"clicktarget" : "ms-audio://data/households/audio/dustbin.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/fish_bowl.png",
+						"text": "Fish Bowl",
+						"clicktarget" : "ms-audio://data/households/audio/fish_bowl.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/hair_dryer.png",
+						"text": "Hair Dryer",
+						"clicktarget" : "ms-audio://data/households/audio/hair_dryer.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/innerwear_vest.png",
+						"text": "Innerwear Vest",
+						"clicktarget" : "ms-audio://data/households/audio/innerwear_vest.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/mirror.png",
+						"text": "Mirror",
+						"clicktarget" : "ms-audio://data/households/audio/mirror.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/pant.png",
+						"text": "Pant",
+						"clicktarget" : "ms-audio://data/households/audio/pant.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/shorts.png",
+						"text": "Shorts",
+						"clicktarget" : "ms-audio://data/households/audio/shorts.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/socks.png",
+						"text": "Socks",
+						"clicktarget" : "ms-audio://data/households/audio/socks.mp3"
+					}
+				},				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/suit.png",
+						"text": "Suit",
+						"clicktarget" : "ms-audio://data/households/audio/suit.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/sweater.png",
+						"text": "Sweater",
+						"clicktarget" : "ms-audio://data/households/audio/sweater.mp3"
+					}
+				},
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/table_lamp.png",
+						"text": "Table Lamp",
+						"clicktarget" : "ms-audio://data/households/audio/table_lamp.mp3"
+					}
+				},
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/thermometer.png",
+						"text": "Thermometer",
+						"clicktarget" : "ms-audio://data/households/audio/thermometer.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/tie.png",
+						"text": "tie",
+						"clicktarget" : "ms-audio://data/households/audio/tie.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/tshirt.png",
+						"text": "Tshirt",
+						"clicktarget" : "ms-audio://data/households/audio/tshirt.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/bucket.png",
+						"text": "Bucket",
+						"clicktarget" : "ms-audio://data/households/audio/bucket.mp3"
+					}
+				},				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/fry_pan.png",
+						"text": "Frying Pan",
+						"clicktarget" : "ms-audio://data/households/audio/fry_pan.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/gas_stove.png",
+						"text": "Gas Stove",
+						"clicktarget" : "ms-audio://data/households/audio/gas_stove.mp3"
+					}
+				},				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/kettle.png",
+						"text": "Kettle",
+						"clicktarget" : "ms-audio://data/households/audio/kettle.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/knife.png",
+						"text": "Knife",
+						"clicktarget" : "ms-audio://data/households/audio/knife.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/mixer_grinder.png",
+						"text": "Mixer Grinder",
+						"clicktarget" : "ms-audio://data/households/audio/mixer_grinder.mp3"
+					}
+				},
+				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/peeler.png",
+						"text": "Peeler",
+						"clicktarget" : "ms-audio://data/households/audio/peeler.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/pressure_cooker.png",
+						"text": "Pressure Cooker",
+						"clicktarget" : "ms-audio://data/households/audio/pressure_cooker.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/vacuum_cleaner.png",
+						"text": "Vacuum Cleaner",
+						"clicktarget" : "ms-audio://data/households/audio/vacuum_cleaner.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/toilet_brush.png",
+						"text": "Toilet Brush",
+						"clicktarget" : "ms-audio://data/households/audio/toilet_brush.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/toilet_paper.png",
+						"text": "Toilet Paper",
+						"clicktarget" : "ms-audio://data/households/audio/toilet_paper.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/toilet_seat.png",
+						"text": "Toilet Seat",
+						"clicktarget" : "ms-audio://data/households/audio/toilet_seat.mp3"
+					}
+				},			
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/wash_basin.png",
+						"text": "Wash Basin",
+						"clicktarget" : "ms-audio://data/households/audio/wash_basin.mp3"
+					}
+				},
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/washing_machine.png",
+						"text": "Washing Machine",
+						"clicktarget" : "ms-audio://data/households/audio/washing_machine.mp3"
+					}
+				},				
+				{
+					"type" : "genericChartTemplate",
+					"data" : {
+						"image": "kindergarten8/households/images/wiper.png",
+						"text": "Wiper",
+						"clicktarget" : "ms-audio://data/households/audio/wiper.mp3"
+					}
+				}			
+			]
+		}
+	]
+}

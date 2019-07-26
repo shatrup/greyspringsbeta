@@ -1,0 +1,149 @@
+{
+    "id": "WhatIsWhatQuiz",
+    "type": "WhatIsWhatQuiz",
+    "bgColor1": "",
+    "bgColor2": "",    
+    "bgMusic": "caption_touch_object_{0}",
+    "question": "caption_touch_object_format",
+    "complexity": "low",
+    "qsBgColor": "003366",
+    "sets": [
+    {   
+      "id": "WhatIsWhatQuiz_set1",
+      "type": "colorBased",
+      "bgColor1": "ACD1E9",
+      "bgColor2": "F5FAFA",    
+      "objects":[
+      {
+        "objectId": "color_black"
+      },
+      {
+        "objectId": "color_blue"
+      },
+      {
+        "objectId": "color_brown"
+      },
+      {
+        "objectId": "color_green"
+      },
+      {
+        "objectId": "color_grey"
+      },
+      {
+        "objectId": "color_orange"
+      },
+      {
+        "objectId": "color_pink"
+      },
+      {
+        "objectId": "color_purple"
+      },
+      {
+        "objectId": "color_red"
+      },
+      {
+        "objectId": "color_yellow"
+      }
+      ]
+    },
+    { 
+      "id": "WhatIsWhatQuiz_set2",
+      "type": "colorBased",
+      "objects":[
+      {
+        "objectId": "fruit_apple"
+      },
+      {
+        "objectId": "fruit_banana"
+      },
+      {
+        "objectId": "fruit_grapes"
+      },
+      {
+        "objectId": "fruit_blueberry"
+      },
+      {
+        "objectId": "fruit_green_apple"
+      },
+      {
+        "objectId": "fruit_orange"
+      },
+      {
+        "objectId": "fruit_coconut"
+      }
+      ]
+    },
+    {
+      "id": "WhatIsWhatQuiz_set3",
+      "type": "colorBased",
+      "objects":[
+      {
+        "objectId": "vegetable_cucumber"
+      },
+      {
+        "objectId": "vegetable_eggplant"
+      },
+      {
+        "objectId": "vegetable_pumpkin"
+      },
+      {
+        "objectId": "vegetable_maize"
+      },
+      {
+        "objectId": "vegetable_mushroom"
+      },
+      {
+        "objectId": "vegetable_purple_cabbage"
+      },
+      {
+        "objectId": "vegetable_tomato"
+      }
+      ]
+    },
+    {  
+      "id": "WhatIsWhatQuiz_set6",
+      "type": "colorBased",
+      "objects":[
+      {
+        "objectId": "vegetable_green_beans"
+      },
+      {
+        "objectId": "vegetable_carrot"
+      },
+      {
+        "objectId": "vegetable_lemon_cucumber"
+      },
+      {
+        "objectId": "vegetable_garlic"
+      },
+      {
+        "objectId": "vegetable_red_chilli"
+      },
+      {
+        "objectId": "vegetable_onion"
+      }
+      ]
+    },
+    {  
+      "id": "WhatIsWhatQuiz_set7",
+      "type": "colorBased",
+      "objects":[ 
+      {
+        "objectId": "vegetable_mint"
+      },
+      {
+        "objectId": "vegetable_red_pepper"
+      },
+      {
+        "objectId": "vegetable_red_chicory"
+      },
+      {
+        "objectId": "fruit_mango"
+      },
+      {
+        "objectId": "fruit_coconut"
+      }
+      ]
+    }
+  ]
+}

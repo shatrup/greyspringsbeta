@@ -1,0 +1,51 @@
+{
+	"title": "Wheels on the bus",
+	"bgaudio": "kindergarten8/rhymes/audio/wotb/wotb.mp3",
+	"bgimage": "kindergarten8/rhymes/images/wotb/background.png",
+	"lyrics": "The wheels on the bus go round and round \n Round and round, round and round \n The wheels on the bus go round and round \n All day long\n The wipers on the bus go Swish, swish, swish, \n Swish, swish, swish, swish, swish, swish\n The wipers on the bus go Swish, swish, swish\n All day long. \n The horn on the bus goes beep, beep, beep \n beep, beep, beep, beep, beep, beep\n The horn on the bus goes beep, beep, beep\n All day long.\n The wheels on the bus go round and round \n Round and round, round and round \n The wheels on the bus go round and round \n All day long\n All day long\n All day long",
+	"objects": [
+		{
+			"x": 450,
+			"y": 254,
+			"dir":"kindergarten8/rhymes/images/wotb/",
+			"image": "bus.png",
+			"sound": "kindergarten8/rhymes/audio/wotb/busstart.mp3",
+			"position": "absolute"
+		},
+		{
+			"x": 483,
+			"y": 164,
+			"dir":"kindergarten8/rhymes/images/wotb/",
+			"image": "kids.png",
+			"sound": "kindergarten8/rhymes/audio/common/laugh.mp3",
+			"position": "absolute",
+			"animation" : "wiggle"
+		},
+		{
+			"x": 525,
+			"y": 570,
+			"dir":"kindergarten8/rhymes/images/wotb/",
+			"image": "tyre.png",
+			"sound": "kindergarten8/rhymes/audio/wotb/wheelspin.mp3",
+			"position": "absolute",
+			"cssClass" : "rotateFullForever"
+		},
+		{
+			"x": 881,
+			"y": 559,
+			"dir":"kindergarten8/rhymes/images/wotb/",
+			"image": "tyre.png",
+			"sound": "kindergarten8/rhymes/audio/wotb/wheelspin.mp3",
+			"position": "absolute",
+			"cssClass" : "rotateFullForever"
+		},
+		{
+			"x": 460,
+			"y": 398,
+			"dir":"kindergarten8/rhymes/images/wotb/",
+			"image": "wiper.png",
+			"position": "absolute",
+			"cssClass" : "wiper"
+		}					
+	]
+}

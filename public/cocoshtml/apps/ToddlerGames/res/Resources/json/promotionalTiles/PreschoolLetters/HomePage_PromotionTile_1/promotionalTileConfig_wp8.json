@@ -1,0 +1,13 @@
+{
+	"tileType" : "PanoAppHomePagePromoTile",
+	"appId" : "PreschoolLetters",
+	"tileId" : "PromotionalTile_1", 
+	"version" :  "1.0",
+	"title" : "Kindergarten Kids Learning",
+	"ageGroup" : "2-5",
+	"description" : "Fun beginning for young learners",
+	"logoUri" : "common/promotional_promo/round_icons/preschool_basics_icon.png",
+	"backgroundUri" : "common/promotional_promo/background/preschool_basics_background.png",
+	"buttonImgUri" : "common/promotional_promo/common/windows_download_button.png",
+	"targetUri" : "zune:navigate?appid=76f816e4-533d-4ff3-a855-0ec96421c55c"	
+}

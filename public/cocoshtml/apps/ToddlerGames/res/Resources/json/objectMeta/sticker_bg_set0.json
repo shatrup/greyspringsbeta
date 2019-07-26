@@ -1,0 +1,88 @@
+{
+    "name": "sticker_bg_set0",
+    "type": "",
+    "suffix": "sticker_bg_set0_",
+    "objectList": [
+        {
+            "objectId": "sticker_bg_set0_blue",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/blue.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_darkpink",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/darkpink.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_green",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/green.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_khakhi",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/khakhi.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_lightblue",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/lightblue.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_orange",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/orange.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_pink",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/pink.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_red",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/red.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "sticker_bg_set0_yellow",
+            "name": "",
+            "imageUri": "common/chrome/stickerboard/yellow.png",
+            "w": 71.27,
+            "h": 71.27,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

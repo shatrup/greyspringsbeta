@@ -1,0 +1,75 @@
+{
+    "directory": "playground/blocks_arrangement_small",
+    "arrow": "arrow.png",
+    "boy": "boy.png",
+    "images": [
+        {
+            "name": "anteater.png",
+            "titleBGColor": "60728E"
+        },
+        {
+            "name": "elephant.png",
+            "titleBGColor": "C39E4E"
+        },
+        {
+            "name": "mouse.png",
+            "titleBGColor": "AE9B85"
+        },
+        {
+            "name": "panda.png",
+            "titleBGColor": "483C36"
+        },
+        {
+            "name": "rhyno.png",
+            "titleBGColor": "9D6F29"
+        },
+        {
+            "name": "snake.png",
+            "titleBGColor": "72692E"
+        },
+        {
+            "name": "yak.png",
+            "titleBGColor": "865B36"
+        },
+        {
+            "name": "turtle.png",
+            "titleBGColor": "87603D"
+        },
+        {
+            "name": "bull.png",
+            "titleBGColor": "554338"
+        },
+        {
+            "name": "dog1.png",
+            "titleBGColor": "C8581A"
+        },
+        {
+            "name": "horse.png",
+            "titleBGColor": "764E3E"
+        },
+        {
+            "name": "pig.png",
+            "titleBGColor": "8A8A8A"
+        },
+        {
+            "name": "cow.png",
+            "titleBGColor": "648339"
+        },
+        {
+            "name": "octopus.png",
+            "titleBGColor": "A4509F"
+        },
+        {
+            "name": "seal.png",
+            "titleBGColor": "647C8F"
+        },
+        {
+            "name": "sheep.png",
+            "titleBGColor": "648339"
+        },
+        {
+            "name": "dog.png",
+            "titleBGColor": "938C99"
+        }
+    ]
+}

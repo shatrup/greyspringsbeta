@@ -1,0 +1,52 @@
+{
+	"id": "LifeCycleQuiz",
+	"type": "LifeCycleQuiz",
+	"bgMusic": "caption_arrange_the_pictures_in_life_cycle",
+	"question": "caption_arrange_the_pictures_in_life_cycle",
+	"bgImg": "common/life_cycle/common/background.png",
+	"complexity": "low",
+	"qsBgColor": "60C0CC",
+	"isFullBleed":true,
+   "sets": [
+    {
+	  "id": "set_1",
+      "name": "butterfly",
+      "objectSrc": "realworld_set_life_cycle_set6" 
+    },
+    {
+	  "id": "set_2",
+      "name": "chicken",
+      "objectSrc": "realworld_set_life_cycle_set7"
+    },
+    {
+	  "id": "set_3",
+      "name": "frog",
+      "objectSrc": "realworld_set_life_cycle_set8" 
+    },
+    {
+	  "id": "set_4",
+      "name": "girl",
+      "objectSrc": "realworld_set_life_cycle_set9"
+    },
+    {
+	  "id": "set_5",
+      "name": "plant",
+      "objectSrc": "realworld_set_life_cycle_set10"  
+    },
+    {
+	  "id": "set_6",
+      "name": "fish",
+      "objectSrc": "realworld_set_life_cycle_set11"  
+    },
+    {
+	  "id": "set_7",
+      "name": "ladybug",
+      "objectSrc": "realworld_set_life_cycle_set12"  
+    },
+    {
+	  "id": "set_8",
+      "name": "turtle",
+      "objectSrc": "realworld_set_life_cycle_set13"  
+    }	
+    ] 
+}

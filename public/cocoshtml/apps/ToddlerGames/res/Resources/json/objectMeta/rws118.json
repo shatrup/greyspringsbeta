@@ -1,0 +1,25 @@
+{
+    "name": "rws118",
+    "type": "",
+    "suffix": "rws118_",
+    "objectList": [
+        {
+            "objectId": "rws118_seaanimals_set2_fish_1",
+            "name": "",
+            "imageUri": "common/scenes/scene118/rws118_seaanimals_set2_fish_1.png",
+            "w": 51.56,
+            "h": 42.07,
+            "shape": "",
+            "color": ""
+        },
+        {
+            "objectId": "rws118_seaanimals_set2_fish_2",
+            "name": "",
+            "imageUri": "common/scenes/scene118/rws118_seaanimals_set2_fish_2.png",
+            "w": 58.07,
+            "h": 39.11,
+            "shape": "",
+            "color": ""
+        }
+    ]
+}

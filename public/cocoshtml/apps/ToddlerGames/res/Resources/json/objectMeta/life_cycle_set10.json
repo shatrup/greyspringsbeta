@@ -1,0 +1,43 @@
+{
+    "name": "life_cycle_set10",
+    "type": "life_cycle",
+    "suffix": "life_cycle_set10_",
+    "objectList": [
+		{
+			"objectId": "life_cycle_set10_plant_1",
+			"name": "word_seed",
+			"imageUri": "common/life_cycle/life_cycle_set7/plant_1.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_seed"
+		},
+		{
+			"objectId": "life_cycle_set10_plant_2",
+			"name": "word_germination",
+			"imageUri": "common/life_cycle/life_cycle_set7/plant_2.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_germination"
+		},
+		{
+			"objectId": "life_cycle_set10_plant_4",
+			"name": "word_plant",
+			"imageUri": "common/life_cycle/life_cycle_set7/plant_4.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_plant"
+		},
+		{
+			"objectId": "life_cycle_set10_plant_3",
+			"name": "word_sprout",
+			"imageUri": "common/life_cycle/life_cycle_set7/plant_3.png",
+			"w": 80.026,
+			"h": 80.026,
+			"shape": "",
+			"audioId": "word_sprout"
+		}
+    ]
+}

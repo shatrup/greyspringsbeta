@@ -1,0 +1,219 @@
+@media print {
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  .markdown-wiki a,
+  .markdown-wiki a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-wiki a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-wiki abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-wiki a[href^="#"]:after,
+  .markdown-wiki a[href^="javascript:"]:after {
+    content: "";
+  }
+
+  .markdown-wiki pre,
+  .markdown-wiki blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  .markdown-wiki thead {
+    display: table-header-group;
+  }
+
+ .markdown-wiki  tr,
+  .markdown-wiki img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-wiki img {
+    max-width: 100% !important;
+  }
+
+  .markdown-wiki p,
+  .markdown-wiki h2,
+  .markdown-wiki h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+ .markdown-wiki h2,
+ .markdown-wiki h3 {
+    page-break-after: avoid;
+  }
+}
+
+.markdown-wiki pre,
+.markdown-wiki code {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+.markdown-wiki pre {
+  padding: .5rem;
+  line-height: 1.25;
+  overflow-x: scroll;
+}
+
+.markdown-wiki a,
+.markdown-wiki a:visited {
+  color: #3498db;
+}
+
+.markdown-wiki a:hover,
+.markdown-wiki a:focus,
+.markdown-wiki a:active {
+  color: #2980b9;
+}
+
+.markdown-wiki .modest-no-decoration {
+  text-decoration: none;
+}
+
+.markdown-wiki html {
+  font-size: 12px;
+}
+
+@media screen and (min-width: 32rem) and (max-width: 48rem) {
+  .markdown-wiki html {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  .markdown-wiki html {
+    font-size: 16px;
+  }
+}
+
+.markdown-wiki body {
+  line-height: 1.85;
+}
+
+.markdown-wiki p,
+.markdown-wiki .modest-p {
+  font-size: 1rem;
+  margin-bottom: 1.3rem;
+}
+
+.markdown-wiki h1,
+.markdown-wiki .modest-h1,
+h2,
+.markdown-wiki .modest-h2,
+.markdown-wiki h3,
+.markdown-wiki .modest-h3,
+.markdown-wiki h4,
+.markdown-wiki .modest-h4 {
+  margin: 1.414rem 0 .5rem;
+  font-weight: inherit;
+  line-height: 1.42;
+}
+
+.markdown-wiki h1,
+.markdown-wiki .modest-h1 {
+  margin-top: 0;
+  font-size: 3.998rem;
+}
+
+.markdown-wiki h2,
+.markdown-wiki .modest-h2 {
+  font-size: 2.827rem;
+}
+
+.markdown-wiki h3,
+.markdown-wiki .modest-h3 {
+  font-size: 1.999rem;
+}
+
+.markdown-wiki h4,
+.markdown-wiki .modest-h4 {
+  font-size: 1.414rem;
+}
+
+.markdown-wiki h5,
+.markdown-wiki .modest-h5 {
+  font-size: 1.121rem;
+}
+
+.markdown-wiki h6,
+.markdown-wiki .modest-h6 {
+  font-size: .88rem;
+}
+
+.markdown-wiki small,
+.markdown-wiki .modest-small {
+  font-size: .707em;
+}
+
+/* https://github.com/mrmrs/fluidity */
+
+.markdown-wiki img,
+.markdown-wiki canvas,
+.markdown-wiki iframe,
+.markdown-wiki video,
+.markdown-wiki svg,
+.markdown-wiki select,
+.markdown-wiki textarea {
+  max-width: 100%;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+
+@import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
+
+.markdown-wiki html {
+  font-size: 18px;
+  max-width: 100%;
+}
+
+.markdown-wiki body {
+  color: #444;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+  margin: 0 auto;
+  max-width: 48rem;
+  line-height: 1.45;
+  padding: .25rem;
+}
+
+.markdown-wiki h1,
+.markdown-wiki h2,
+.markdown-wiki h3,
+.markdown-wiki h4,
+.markdown-wiki h5,
+.markdown-wiki h6 {
+  font-family: Arimo, Helvetica, sans-serif;
+}
+
+.markdown-wiki h1,
+.markdown-wiki h2,
+.markdown-wiki h3 {
+  border-bottom: 2px solid #fafafa;
+  margin-bottom: 1.15rem;
+  padding-bottom: .5rem;
+  /*text-align: center;*/
+}
+
+.markdown-wiki blockquote {
+  border-left: 8px solid #fafafa;
+  padding: 1rem;
+}
+
+.markdown-wiki pre,
+.markdown-wiki code {
+  background-color: #fafafa;
+}

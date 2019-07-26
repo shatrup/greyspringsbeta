@@ -1,0 +1,16 @@
+{
+    "id": "JigsawWordTestQuiz",
+    "type": "JigsawWordTestQuiz",
+    "complexity": "medium",
+    "qsBgColor": "60C0CC",
+	"bgImg": "common/backgrounds/background_fullbleed/background_jigsaw.png",
+	"bgMusic": "caption_put_pieces_back",
+	"question": "caption_put_pieces_back", 
+    "sets": [
+		{
+		  "id": "set0",
+		  "objectSrc": "realworld_set_animal_set5_x_large",
+		  "customKey1": "alphabet_set11_medium"
+		}	
+    ] 
+}

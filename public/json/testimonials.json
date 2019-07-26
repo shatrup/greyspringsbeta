@@ -1,0 +1,423 @@
+{
+    "heroTile": {
+        "image": "images/promo_images/greysprings/hero_tile_small.png",
+        "header": "What Our Customers Say",
+        "tagline": "We are trusted by thousands of people!"
+    },
+    "heading": "Testimonials",
+    "noOTestimonialsOnHomePage": 3,
+    "testimonials": [
+        {
+            "text": "Awesome: The best app for kids to learn so many things.... Especially the rhymes...",
+            "by": "Aashu from India about Kindergarten Kids Learning (IOS) on Nov 15, 2014"
+        },
+        {
+            "text": "Two Thumbs Up: A very useful app with so much to learn. Perfect for kids and my girls loved it!",
+            "by": "Kryssy Barnachea from India about Kindergarten Kids Learning (Android) on Feb 17, 2016"
+        },
+        {
+            "text": "Best app ever!: I will definitely recommend this childrens learning app to my friends who has kids. I love it!",
+            "by": "Sydney Rhyme Abuhat about Kindergarten Kids Learning (Android) on Jan 13, 2016"
+        },
+        {
+            "text": "Wow.. :  This is wonderful app.. My little girl loves it.. Nice pictures & sound... Thanks a lot app team.. I rate this an excellent app..",
+            "by": "Manu Anand S about Kindergarten Kids Learning (Android) on May 03, 2015"
+        },
+        {
+            "text": "Excellent app very useful for kids",
+            "by": "Madhuri Kumar about Kindergarten Kids Learning (Android) on May 01, 2015"
+        },
+        {
+            "text": "Excellent! : Very helpfull apps to give knowledge childrens for free",
+            "by": "Anthony Zeus Castillo about Kindergarten Kids Learning (Android) on Apr 18, 2014"
+        },
+        {
+            "text": "kindergarten: its good , this app entertaining well to my son",
+            "by": "Unknown user from United States about Kindergarten Kids Learning (Windows Store) on Oct 14, 2015"
+        },
+        {
+            "text": "innovative & informative: khel khel men bahut achchi jankari hai. bachchon ka bahumukhi vikas karati hai. chaitanya aur smart banati. naya seekhane ke saath naya karane ko bhi prerana milati hai.",
+            "by": "Sheela from India about Kindergarten Kids Learning (Windows Store) on Mar 16, 2015"
+        },
+        {
+            "text": "Excellent Game: My Granddaughter loved it! Very entertaining",
+            "by": "J Steve from United States about Kindergarten Kids Learning (Windows Store) on Aug 30, 2015"
+        },
+        {
+            "text": "Great site: Addie is 3 and loves to do these, I have to help with the mouse, until she gets the hang of it.",
+            "by": "Linda about Kindergarten Kids Learning (Windows Store) on Apr 21, 2015"
+        },
+        {
+            "text": "Wonderful graphics and interesting for kids to learn through colorful patterns and shapes.. creative designs.",
+            "by": "Amardeep Kaur 28 Nov 2017 at 12:39"
+        },
+        {
+            "text": "A wonderful platform for kids for their fine motor skills. This learning app has simple to complex writing tasks with lots of fun and interesting elements.",
+            "by": "Amrita Mayuri 28 Nov 2017 at 09:26"
+        },
+        {
+            "text": "Hassel free tool to make your kids utilise the utmost of the smartphones. Kids gonna love playing with the shapes  figures numbers and alphabets in one of the most innovative manner.",
+            "by": "Devendra Mehta 18 Nov 2017 at 09:22"
+        },
+        {
+            "text": "One of the most creative way of showing the toddler the wonders they could achieve with teaching medium such as this app!",
+            "by": "Suraj Fartyal 17 Nov 2017 at 14:37"
+        },
+        {
+            "text": "Very good initiative by developer. Helpful for kids to understand easily",
+            "by": "YOUR'S MUSIC 16 Nov 2017 at 17:57"
+        },
+        {
+            "text": "For great learning: Great app for kiddio who loves playing while learning..its fun",
+            "by": "Manilyn Sablon about Kids Preschool Learning Games (Android) on Feb 03, 2016"
+        },
+        {
+            "text": "I am impressed! One of the best educational apps I have downloaded in quite a while... And all free. Thank you",
+            "by": "Nichole Lencl about Kids Preschool Learning Games (Android) on Jan 24, 2016"
+        },
+        {
+            "text": "Awesome: My 11 year old even got addicted to this game",
+            "by": "Kyky Durgala about Kids Preschool Learning Games (Android) on Jan 30, 2016"
+        },
+        {
+            "text": "Very good, my children loved to play, I think this game is very good",
+            "by": "Unknown User from China about Kids Preschool Learning Games (WiWindows Storendows) on Feb 21, 2016"
+        },
+        {
+            "text": "My 3 year old absolutely loves this game! It's very educational and a blast to watch when they get excited for winning",
+            "by": "Tabitha about Kids Preschool Learning Games (Windows Store) on Feb 19, 2016"
+        },
+        {
+            "text": "Very eye catching for the kids and made so interesting to keep them busy.. Even I enjoy.. Great job 👍",
+            "by": "Monalisa about Kids Preschool Learning Games (Windows Store) on Feb 17, 2016"
+        },
+        {
+            "text": "My daughter will never stay focused on anything til I got this app and now she's starting to learn.",
+            "by": "Ashleigh about Kids Preschool Learning Games (Windows Store) on Feb 15, 2016"
+        },
+        {
+            "text": "WOW: I just downloaded this for my granddaughter. I think this will be very helpful for her. she is a very curious little girl so I believe this will keep her engaged. thank you",
+            "by": "Pam about Kids Preschool Learning Games (Windows Store) on Dec 16, 2015"
+        },
+        {
+            "text": "Amazing toddler app: I downloaded it for my nephew.. He loves it.. It's excellent to engage your kids and to jumpstart their learning process.. A must for everyone.",
+            "by": "Akshay gupta from India about Kids Preschool Learning Games (IOS) on May 22, 2015"
+        },
+        {
+            "text": "Great App for my little one: Great app",
+            "by": "RelaxedPlum15 from Australia about Kids Preschool Learning Games (IOS) on Dec 29, 2014"
+        },
+        {
+            "text": "I like it: it's good for mamas too *gili",
+            "by": "Elsita Deveria from United States about Kids Games Learning Math Basic (Windows Store) on Feb 23, 2016"
+        },
+        {
+            "text": "Love it: My daughter love this game so much. It help her understand math easily! Highly recommended.",
+            "by": "Harun Pabit about Kids Games Learning Math Basic (Android) on Feb 21, 2016"
+        },
+        {
+            "text": "Super: Very informative for kids.",
+            "by": "Faruk from Turkey about Kids Games Learning Math Basic (Windows Store) on Feb 23, 2016"
+        },
+        {
+            "text": "Great: I think it an excellent games for kids to learn maths!",
+            "by": "Colleen from New Zealand about Kids Games Learning Math Basic (Windows Store) on Feb 22, 2016"
+        },
+        {
+            "text": "解开了怕: Good for children, development of intelligence",
+            "by": "文彬 from China about Kids Games Learning Math Basic (Windows Store) on Feb 12, 2016"
+        },
+        {
+            "text": "mate es increible: hehehe did I spend hours playing lol :)",
+            "by": "Unknown User from Mexico about Kids Games Learning Math Basic (Windows Store) on Feb 11, 2016"
+        },
+        {
+            "text": "Excellent",
+            "by": "M Soria from Spain about Kids Games Learning Math Basic (Android) on Feb 21, 2016"
+        },
+        {
+            "text": "Too good",
+            "by": "M. Zikria about Kids Games Learning Math Basic (Android) on Dec 26, 2015"
+        },
+        {
+            "text": "Nice cute app for toddlers: Simple games and cute graphics for small kids",
+            "by": "Peeyush K from United Kingdom about Kids Toddler Learning Games (IOS) on Jan 18, 2016"
+        },
+        {
+            "text": "Awesome app: Really a great app for kids. They are learning the basic concepts while playing this app.",
+            "by": "Sushma from India about Kids Toddler Learning Games (IOS) on Jan 18, 2016"
+        },
+        {
+            "text": "Perfect Toddler App: This is the PERFECT app for toddlers. I have downloaded, deleted, and repeated with several different apps trying to find great learning tools such as this! 18 months to 3 years and the app is an amaing learning tool! Thank you providers! ",
+            "by": "Angela Russell about Kids Toddler Learning Games (Android) on Jan 29, 2016"
+        },
+        {
+            "text": "Kids love it: My kids love it so much I had to down load it on my tablet and phone so they don't fight its so easy great for learning.",
+            "by": "Jennifer Huntley about Kids Toddler Learning Games (Android) on Jan 26, 2016"
+        },
+        {
+            "text": "My daughter loves otimooo",
+            "by": "Sabrina from Brazil about Kids Toddler Learning Games (Windows Store) on Feb 20, 2016"
+        },
+        {
+            "text": "Great, a lot of games of skill for a toddler:)",
+            "by": "Jolanta from Poland about Kids Toddler Learning Games (Windows Store) on Feb 07, 2016"
+        },
+        {
+            "text": "Parents Corner and Kids Toddler Learning Games: Truly an excellent learning tool for toddlers growing up within this tech era, and generation of pushing boundaries of learning development.",
+            "by": "Unknown User from United States about Kids Toddler Learning Games (Windows Store) on Feb 07, 2016"
+        },
+        {
+            "text": "Good games for toddlers: Very good app for toddlers loved it ",
+            "by": "Vijay Katoch from India about Kids Toddler Learning Games (Android) on Jan 17, 2016"
+        },
+        {
+            "text": "That's great: It's very good despite the fact that it weighs enough is very educational",
+            "by": "Francelis from Dominician republic about Kids Games Learning Science (Windows Store) on Dec 08, 2015"
+        },
+        {
+            "text": "fajna: super fun game",
+            "by": "Weronika from Poland about Kids Games Learning Science (Windows Store) on Dec 12, 2015"
+        },
+        {
+            "text": "Play and Learn: Awesome Game!! My cousin just loves it. The best thing is that he is learning. Thanks",
+            "by": "Unknown user from United States about Kids Games Learning Science (Windows Store) on Dec 03, 2015"
+        },
+        {
+            "text": "Amazing app for kids: Lot of Interactive and educational quizzes makes it interesting for kids to learn basic science concepts.",
+            "by": "Sushma from India about Kids Games Learning Science (Windows Store) on Dec 03, 2015"
+        },
+        {
+            "text": "Amazing application: This app is really good for young scientists to learn the basics. My little brother likes it very much.",
+            "by": "Atin from India about Kids Games Learning Science (Windows Store) on Dec 03, 2015"
+        },
+        {
+            "text": "Good game: nice game for kids to learn science",
+            "by": "Ajay from India about Kids Games Learning Science (Windows Store) on Dec 03, 2015"
+        },
+        {
+            "text": "Basics Science for little hands: Very good and simple game for kids to learn basic science stuff side by side with fun and entertainment.",
+            "by": "Saroj from India about Kids Games Learning Science (Windows Store) on Dec 03, 2015"
+        },
+        {
+            "text": "Cool app 😊: I think its a very good app for children",
+            "by": "Aashu from India about Kids Learning Shapes & Colors (IOS) on Nov 15, 2015"
+        },
+        {
+            "text": "Great: My 3 year old son loves it! Too bad it's in English",
+            "by": "Prof. from Brazil about Kids Learning Shapes & Colors (Windows Store) on Apr 25, 2015"
+        },
+        {
+            "text": "Love all games of greyspring: Great games for kids.... ",
+            "by": "Ashique Mamunul Haque about Kids Learning Shapes & Colors (Android) on Sept 15, 2015"
+        },
+        {
+            "text": "Nice app for kids",
+            "by": "Ajay Kumar from India about Kids Learning Shapes & Colors (Android) on July 22, 2015"
+        },
+        {
+            "text": "Excellent",
+            "by": "Jp Cucoy about Kids Learning Shapes & Colors (Android) on May 30, 2015"
+        },
+        {
+            "text": "Very good",
+            "by": "Mishkatnoor Abdulsamad about Kids Learning Shapes & Colors (Android) on July 15, 2015"
+        },
+        {
+            "text": "Great apps for ages 3-1: This apps is very useful for fast learning kids...",
+            "by": "Jackie Tubos about Kids Learning Shapes & Colors (Android) on Sept 18, 2015"
+        },
+        {
+            "text": "Greysprings is the best for kids games",
+            "by": "Amber Longsdon about Kids Learning Shapes & Colors (Android) on Oct 28, 2015"
+        },
+        {
+            "text": "Good job Greyprings",
+            "by": "Harry Fuentes about Kids Learning Shapes & Colors (Android) on Sept 16, 2015"
+        },
+        {
+            "text": "Just what I was looking for: This game is kid friendly, not a million ads getting in the way of game play, not so precise that a child's finger can't manipulate it. It has a variety of games with different graphics and fun themes. In the span of a few minutes I watch my kids improve at letter recognition or basic puzzles. I got the preschool and the toddler versions and love them both.",
+            "by": "Rachel from United States about Kids Preschool Learn Letters (Windows Store) on Jan 29, 2016"
+        },
+        {
+            "text": "Educational: The games inside of this app are almost flawless. Its an amazing way my 2 year old toddler can have fun learning new things. He has improved so much! Great job Greysprings! :)",
+            "by": "Angela Russell about Kids Preschool Learn Letters (Android) on Jan 29, 2016"
+        },
+        {
+            "text": "Great app: My daughter loves it and it is really helping her",
+            "by": "Sylvia Ibarra about Kids Preschool Learn Letters (Android) on Jan 15, 2016"
+        },
+        {
+            "text": "I like it: Baby learn to first step with this app.",
+            "by": "KVP Prakash about Kids Preschool Learn Letters (Android) on Jan 03, 2016"
+        },
+        {
+            "text": "Great game: My 4 year old loves it so far and sees to be learning a lot",
+            "by": "Niki from United States about Kids Preschool Learn Letters (Windows Store) on Feb 23, 2016"
+        },
+        {
+            "text": "Great: My three year old loves it, it helps him learn the ABC's and what they look like.",
+            "by": "Jennifer from United States about Kids Preschool Learn Letters (Windows Store) on Feb 22, 2016"
+        },
+        {
+            "text": "My son is so proud: Absolutely am loving this game. My son is having a blast learning and recognizing different letters",
+            "by": "Lupe from United States about Kids Preschool Learn Letters (Windows Store) on Feb 18, 2016"
+        },
+        {
+            "text": "The game is very interesting, and children learn faster",
+            "by": "Jimmy Omar from Ecuador about Kids Preschool Learn Letters (Windows Store) on Feb 04, 2016"
+        },
+        {
+            "text": "Great app for kids: Awesome collection of games to enhance kids learning in letters.",
+            "by": "Sushma from India about Kids Preschool Learn Letters (IOS) on Feb 17, 2016"
+        },
+        {
+            "text": "Absolutely brilliant game for preschool children, my son is 2 years and 11 month's and he loves your games, very satisfied with this game and all your other games/ app's",
+            "by": "Bianca Louise Crookston about Kids Preschool Numbers & Math (Android) on Jan 04, 2016"
+        },
+        {
+            "text": "Learning is exciting: I like after the completion of each task, the complement that's giving followed by choosing their rewarded. The child gets excited to complete more tasks, an its fun to watching.",
+            "by": "Unknown User from United States about Kids Preschool Numbers & Math (Windows Store) on Feb 22, 2016"
+        },
+        {
+            "text": "Awesome app for kids.. especially hopping frog and add me up quiz.. very nice collection of creative and learning games..",
+            "by": "Sushma from India about Kids Preschool Numbers & Math (IOS) on Nov 19, 2015"
+        },
+        {
+            "text": "Great math starter: My child is getting a good head start in math with this game. Thank you.",
+            "by": "Unknown User from United States about Kids Preschool Numbers & Math (Windows Store) on Feb 04, 2016"
+        },
+        {
+            "text": "Beautiful and just perfect for my cousin to 4 years",
+            "by": "Nicole from Italy about Kids Preschool Numbers & Math (Windows Store) on Jan 25, 2016"
+        },
+        {
+            "text": "Not bad, the only interesting app that I find Windows phone!",
+            "by": "Nanouhka from France about Kids Preschool Numbers & Math (Android) on Jan 21, 2016"
+        },
+        {
+            "text": "Like good",
+            "by": "Melina Salas from Spain about Kids Preschool Numbers & Math (Android) on Dec 26, 2016"
+        },
+        {
+            "text": "Very nice would have been so much better if was Turkish entertainers",
+            "by": "Unknown User from Turkey about Kids Preschool Numbers & Math (Windows Store) on Feb 01, 2016"
+        },
+        {
+            "text": "Great: Nice game but please add some more games like addition and subtraction",
+            "by": "Unknown User from United States about Kids Preschool Numbers & Math (Windows Store) on Feb 16, 2016"
+        },
+        {
+            "text": "Another great early learning app: The bright colors and large touch areas make these Greysprings apps particularly useful for children with physical limitations (on a touchscreen computer). Thank you for making such high quality apps!",
+            "by": "Vicky from United States about Kids Learning Word Games (Windows Store) on Jan 26, 2016"
+        },
+        {
+            "text": "Good: It is very good",
+            "by": "Kristin from Germany about Kids Learning Word Games (Windows Store) on Feb 23, 2016"
+        },
+        {
+            "text": "Great games: We use this as computer time in our homeschool group. we love it",
+            "by": "Jeffery from United States about Kids Learning Word Games (Windows Store) on Feb 22, 2016"
+        },
+        {
+            "text": "Great!!!!!!",
+            "by": "Miaizara Miaamania about Kids Learning Word Games (Android) on Dec 06, 2015"
+        },
+        {
+            "text": "Superb: Very good game of toddlers.....not for bigger child",
+            "by": "Nabaraj from United States about Kids Learning Word Games (Android) on Feb 18, 2016"
+        },
+        {
+            "text": "Solid!",
+            "by": "3rd Shifters about Kids Learning Word Games (Android) on Nov 12, 2015"
+        },
+        {
+            "text": "Great!!! : Awesome app for making the kids learn words in a fun way",
+            "by": "Subhro Sarkar from India about Kids Learning Word Games (Android) on June 25, 2015"
+        },
+        {
+            "text": "Nice application: Quizzes are interesting and are so appreciated by my students from grade 1 to grade 4 of the primary school. Congratulations!",
+            "by": "Unknown User from Thailand about Kids Learning Word Games (Windows Store) on Jan 20, 2016"
+        },
+        {
+            "text": "Amazing: Nice game. A good exercise of brain",
+            "by": "Hitender Singh from India about Pirate Jigsaw Puzzles (IOS) on Dec 10, 2015"
+        },
+        {
+            "text": "Fun and challenging! : Jigsaw puzzles but in a new avatar. Quite engaging! Background images are also good.",
+            "by": "Peeyush K from United Kingdom about Pirate Jigsaw Puzzles (IOS) on Dec 02, 2015"
+        },
+        {
+            "text": "love puzzle and I like it cause its not to difficult.I enjoy the time you put in the games and the different shapes,over all fantastic",
+            "by": "Dominic from United States about Pirate Jigsaw Puzzles (Windows Store) on Feb 11, 2016"
+        },
+        {
+            "text": "Awesome game…",
+            "by": "Thasnim from India about Pirate Jigsaw Puzzles (Windows Store) on Feb 09, 2016"
+        },
+        {
+            "text": "It is an excellent game helps develop memory",
+            "by": "Maria from Ecuador about Pirate Jigsaw Puzzles (Windows Store) on Feb 22, 2016"
+        },
+        {
+            "text": "Very cool game, yummy to play, if their lives were endless gave 5 stars.",
+            "by": "Daniele from Brazil about Pirate Jigsaw Puzzles (Windows Store) on Feb 16, 2016"
+        },
+        {
+            "text": "ADDICTIVE JIGSAW TREASURE: I LOVE THE PUZZLES ADVENURES. SO ADDICTIVE!!",
+            "by": "Ledra from United States about Pirate Jigsaw Puzzles (Windows Store) on Feb 15, 2016"
+        },
+        {
+            "text": "Interesting: Kind of simple but yet engaging",
+            "by": "Pratheek Adidela from India about Pirate Jigsaw Puzzles (Android) on Sept 29, 2015"
+        },
+        {
+            "text": "Good for kids.. :) : One of my friend Mr. Chandu recommend this app for my niece. This is awesome for growing child. 5 star indeed.",
+            "by": "Arun Sajwan from India about Pirate Jigsaw Puzzles (Android) on Sept 24, 2015"
+        },
+        {
+            "text": "Excellent: One of the most amazing game for kids (and adults) . My daughter loves it (and me too)",
+            "by": "Sandeep Bhasin from India about Pirate Jigsaw Puzzles (Android) on Sept 08, 2015"
+        },
+        {
+            "text": "like:) (patiko :)) : Good game to educate the mind:) Super",
+            "by": "Emilija from Lithuania about Learn English Words - Vocabulary builder (Windows Store) on Feb 03, 2016"
+        },
+        {
+            "text": "ssssssssuuuuuuuuuupperrrrrrrrrrrrrrrrrrrrrrrrrrrrr amazing games for children",
+            "by": "Unknown User from India about Learn English Words - Vocabulary builder (Windows Store) on Jan 26, 2016"
+        },
+        {
+            "text": "Good skils. Make it hard",
+            "by": "Karthikeya from Australia about Learn English Words - Vocabulary builder (Windows Store) on Jan 27, 2016"
+        },
+        {
+            "text": "Awesome: Awesome...good app for kids",
+            "by": "Amit from India about Learn English Words - Vocabulary builder (Windows Store) on Jan 05, 2016"
+        },
+        {
+            "text": "Great app: Great app for learning words formation",
+            "by": "Ajay from India about Learn English Words - Vocabulary builder (Windows Store) on Dec 21, 2015"
+        },
+        {
+            "text": "Very Interesting: Very interesting and addictive. 4 stars.",
+            "by": "Nicholas from United States about Learn English Words - Vocabulary builder (Windows Store) on Dec 18, 2015"
+        },
+        {
+            "text": "Very interesting and Challenging: The gameplay is so awesome and the level challenges you as you progress in the game. One of the best game to sharpen your mind.",
+            "by": "Unknown User from India about Learn English Words - Vocabulary builder (Windows Store) on Dec 18, 2015"
+        },
+        {
+            "text": "Amazing app to learn English words: Great interface and great levels. I am enjoying this app.",
+            "by": "Sushma from India about Learn English Words - Vocabulary builder (Windows Store) on Dec 17, 2015"
+        },
+        {
+            "text": "Fun for my 6 year old!",
+            "by": "Chandan from United States about Learn English Words - Vocabulary builder (Windows Store) on Dec 18, 2015"
+        },
+        {
+            "text": "A fun word search puzzle game: An addictive word search game with clear and neat images. Must play for all age groups, especially for children. Indeed a great way to look at the traditional word search puzzles.",
+            "by": "Unknown User from India about Learn English Words - Vocabulary builder (Windows Store) on Dec 17, 2015"
+        }
+    ]
+}
