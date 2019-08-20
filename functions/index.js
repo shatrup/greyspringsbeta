@@ -10,7 +10,7 @@ const cors = require('cors')({
     origin: true
 });
 
-sendgrid.setApiKey("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");
+sendgrid.setApiKey("Your sendgrde Api key");
 
 const getEmailHtmlBody = (name, email, subject, message) => {
     var html = `<div>Name: ${name}</div>
@@ -87,7 +87,7 @@ exports.signup = functions.https.onRequest(async (request, res) => {
 
         const e1 = { email };
 
-        sendgrid.setApiKey("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");
+        sendgrid.setApiKey("your sendgride api key");
 
         const emailBody = {
             to: "shatru@greysprings.com",
